@@ -1,13 +1,13 @@
 # Gate Watch
 Collaborative Cinematic Storytelling
 
-![Gate Watch - Cover (Transparent, Curved Corners, 750x1050)](/Users/christophera/Documents/GitHub/www.DyversHands.com/images/Gate Watch - Cover (Transparent, Curved Corners, 750x1050).png)
+![Gate Watch - Cover (Transparent, Curved Corners, 750x1050)](images/Gate Watch - Cover (Transparent, Curved Corners, 750x1050).png)
 
 You and your companions are members of the **Gate Watch**—charged to keep an eye on the border between worlds. Who built the gate? What is on the other side? What are you guarding against? These are the questions you will answer.
 
 **Gate Watch** is a diceless, gmless story game for 2-5 players, using 18 poker-sized (2.5” x 3.5”) cards, with rules on front, and inspirational images on back. You will need two sheets of paper, some index cards and some markers.
 
-![Gate Watch - Hand of Cards (Fronts, Alpha 750x563)](/Users/christophera/Dropbox/Projects - Current/Skotos- Chris/Collaborative Cinematic Storytelling/Gate Watch/Gate Watch - Marketing Images/Gate Watch - Hand of Cards (Fronts, Alpha 750x563).png)
+![Gate Watch - Hand of Cards (Fronts, Alpha 750x563)](images/Gate Watch - Hand of Cards (Fronts, Alpha 750x563).png)
 
 So far in playtests the Gate has been selected by the players to be a wide variety of places & genres:
 
