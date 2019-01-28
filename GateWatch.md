@@ -1,7 +1,7 @@
 # Gate Watch
 Collaborative Cinematic Storytelling
 
-![Gate Watch - Cover (Transparent, Curved Corners, 750x1050)](images/Gate Watch - Cover (Transparent, Curved Corners, 750x1050).png){: height="50%" width="50%"}
+![Gate Watch - Cover (Transparent, Curved Corners, 750x1050)](images/Gate Watch - Cover (Transparent, Curved Corners, 750x1050).png){: height="50%" width="50%" }
 
 You and your companions are members of the **Gate Watch**—charged to keep an eye on the border between worlds. Who built the gate? What is on the other side? What are you guarding against? These are the questions you will answer.
 
