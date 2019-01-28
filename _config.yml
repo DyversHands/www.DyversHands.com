@@ -1,12 +1,13 @@
-title: "Simplest GitHub Page"
-project: "Simplest GitHub Page"
-description: "Test of simplest GitHub page, leveraging Jekyll without Jekyll"
-author: Christopher Allen
-email: ChristopherA@LifeWithAlacrity.com
-twitter_username: ChristopherA
-github_username:  ChristopherA
+title: "Dyvers Hands Productions"
+project: "Dyvers Hands Productions"
+description: "Website for Dyver Hands Productions"
+author: Dyver Hands
+email: info@dyvershands.com
+twitter_username: DyversHands
+github_username:  DyversHands
 show_downloads: false
 encoding: UTF-8
+markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
