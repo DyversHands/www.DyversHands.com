@@ -13,6 +13,5 @@ kramdown:
   hard_wrap: false
 future: true
 jailed: false
-#theme: jekyll-theme-primer
-remote_theme: "mmistakes/minimal-mistakes@4.15.1"
+theme: jekyll-theme-primer
 gfm_quirks: paragraph_end
