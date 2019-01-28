@@ -1,7 +1,7 @@
 # Gate Watch
 Collaborative Cinematic Storytelling
 
-![Gate Watch - Cover (Transparent, Curved Corners, 750x1050)](images/Gate Watch - Cover (Transparent, Curved Corners, 750x1050).png)
+![Gate Watch - Cover (Transparent, Curved Corners, 750x1050)](images/Gate Watch - Cover (Transparent, Curved Corners, 750x1050).png){: .center-image, height="50%", width="50%"}
 
 You and your companions are members of the **Gate Watch**—charged to keep an eye on the border between worlds. Who built the gate? What is on the other side? What are you guarding against? These are the questions you will answer.
 
@@ -11,10 +11,10 @@ You and your companions are members of the **Gate Watch**—charged to keep an e
 
 So far in playtests the Gate has been selected by the players to be a wide variety of places & genres:
 
-- between the real-world and the Greek heaven & hell; 
-- 1950's noir mystery featuring the gate of a Hollywood producer's mansion; 
+- between the real-world and the Greek heaven & hell;
+- 1950's noir mystery featuring the gate of a Hollywood producer's mansion;
 - a scifi adventure where a collapsing underground mutant civilization have a hidden exit to a post-apocalyptic landscape;
-- and a dark fantasy about a well in a German farming village at the end of WWII that may be an escape from invading Russians to the lands of the fae. 
+- and a dark fantasy about a well in a German farming village at the end of WWII that may be an escape from invading Russians to the lands of the fae.
 
 Many of the playtesters had not played a gmless cooperative story game before, yet found the instructions & play quite easy. The collaboratively created games were very creative, the play dynamic, and most importantly all had a satistying ending in just a couple of hours of play.
 
@@ -23,10 +23,10 @@ Many of the playtesters had not played a gmless cooperative story game before, y
 Published by [Dyvers Hand Productions](https://www.DyverseHands.com). Written & produced by [Christopher Allen](mailto:ChristopherA@DyversHands.com). ©2019 by Christopher Allen.
 
 * Our Patreon drive will be at [Patreon](https://Patreon.com) starting in March, ending in April. The bulk of the orders will be fulfilled by end of April by [DriveThruCards](https://www.DriveThruCards.com).
-* Print-on-Demand Cards will be available after we ship to our Patreon customers via [DriveThruCards](https://www.DriveThruCards.com) without a box, or at [TheGameCrafter](https://www.thegamecrafter.com/) with a tuck box. 
+* Print-on-Demand Cards will be available after we ship to our Patreon customers via [DriveThruCards](https://www.DriveThruCards.com) without a box, or at [TheGameCrafter](https://www.thegamecrafter.com/) with a tuck box.
 * PDF for Print-to-Play designed for printing on 3 sheets of [Avery 5392](https://www.avery.com/products/namebadges/5392) "Meeting Badge" Cards, will be available to all Patreon Patrons immediately upon pledging, and at a higher price at [DriveThruCards](https://www.DriveThruCards.com) after we ship to Patreon customers.
 * A retailer edition will be available, contact the author if you are interested.
-* You can support the author by purchasing t-shirts and other memorbilia at 
+* You can support the author by purchasing t-shirts and other memorbilia at
 
 ## About the Author
 
@@ -38,7 +38,7 @@ In the board games industry I resurrected the original 1987 edition of [Arkham H
 
 I am co-author with Shannon Appelcline of ["Meeples Together: How and Why Cooperative Board Games Work",](https://www.MeeplesTogether.com) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven.  We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book will be [available](https://meeples-together.backerkit.com/hosted_preorders) to the public in March of 2019. We are working on a sequel on the topic of collaborative play for publication in 2020.
 
-In the computer games industry, I'm the founder of [Skotos Tech](https://www.skotos.net), an online game company where I was lead for the social Castle Marrach and Lovecraft Country online games, and produce Grendel's Revenge. 
+In the computer games industry, I'm the founder of [Skotos Tech](https://www.skotos.net), an online game company where I was lead for the social Castle Marrach and Lovecraft Country online games, and produce Grendel's Revenge.
 
 With my long-time co-author Shannon Appelcline, I am also the creator & co-author of an upcoming graphic novel Touched, as well as producer of two previous comics associated with our online games: [Lovecraft Country: Return to Arkham](http://www.lovecraftcountry.com/comic/) & [Castle Marrach: Awakenings](http://www.skotos.net/games/marrach/comic/awakenings/awakenings.shtml).
 
@@ -147,4 +147,3 @@ All the images used in the game have been either permissively licenced (Creative
 **Card Body Font:** Méridien
 
 The cards were composited for POD (Print-on-Demand) publishing using Keynote for Macintosh, and the Print-to-Play version was layed-out using Pages for Macintosh. Let me know if you'd like a copy of my raw templates — they both are surpisingly easy to use to create POD games.
-
