@@ -3,28 +3,66 @@ Collaborative Cinematic Storytelling
 
 ![Gate Watch - Cover (Transparent, Curved Corners, 750x1050)](images/Gate Watch - Cover (Transparent, Curved Corners, 750x1050).png){: height="50%" width="50%" }
 
-You and your companions are members of the **Gate Watch**—charged to keep an eye on the border between worlds. Who built the gate? What is on the other side? What are you guarding against? These are the questions you will answer.
+You and your companions are members of the **Gate Watch**—charged to keep an eye on the border between realms. Who built the gate? What is on the other side? What are you guarding against? These are the questions you will answer.
 
-**Gate Watch** is a diceless, gmless story game for 2-5 players, using 18 poker-sized (2.5” x 3.5”) cards, with rules on front, and inspirational images on back. You will need two sheets of paper, some index cards and some markers.
+**Gate Watch** is a diceless, GMless story game for 2-5 players, using 18 poker-sized (2.5” x 3.5”) cards, with rules on front, and inspirational images on back. You will also need two sheets of paper, some index cards and some markers. Typical play time is about 2-3 hours.
 
 ![Gate Watch - Hand of Cards (Fronts, Alpha 750x563)](images/Gate Watch - Hand of Cards (Fronts, Alpha 750x563).png)
 
-So far in playtests the Gate has been selected by the players to be a wide variety of places & genres:
+## Overview of Play
+
+The backs of the cards contain images of various kinds of Gates for inspiration. Players read the six numbered grey cards beginning with ❶ though ❻ for the rules. You will collaboratively choose a Gate, create a map and describe Locations, establish some Truths & Mysteries, and ask questions that define your fellow Watchers. The six green cards are hooks to set goals for scenes in Acts 1 and 2, and the six red cards are used for scene Resolution to increase tension or resolve a complication. The game ends when a clue or answer to one of the Gate's Mysteries is reveiled during Act 3.
+
+So far in playtests the Gate has been selected by the players to be a wide variety of settings & genres:
 
 - between the real-world and the Greek heaven & hell;
 - 1950's noir mystery featuring the gate of a Hollywood producer's mansion;
 - a scifi adventure where a collapsing underground mutant civilization have a hidden exit to a post-apocalyptic landscape;
 - and a dark fantasy about a well in a German farming village at the end of WWII that may be an escape from invading Russians to the lands of the fae.
 
-Many of the playtesters had not played a gmless cooperative story game before, yet found the instructions & play quite easy. The collaboratively created games were very creative, the play dynamic, and most importantly all had a satistying ending in just a couple of hours of play.
+Many of the playtesters had not played a GMless cooperative story game before, yet found the instructions & play quite easy. Some of our playtesters were not even roleplayers, but instead were improv theatre actors. All of these collaboratively created games were very creative, the play dynamic, and most importantly all had a satisfying ending in just a couple of hours of play.
+
+## Reviewer Quotes
+
+*“You wouldn't think a whole three-act story game could fit in 18 playing cards, but Gate Watch cleverly mixes a combination of well-honed story prompts, act-specific scene frames, and a story hook brimming with potential, focusing on just what's needed to improvise compelling fiction.”*
+**— Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
+
+*“Gatewatch is an intriguing, distilled world-crafting, story-telling, and role-playing experience in the guise of a simple game. I wouldn't be surprised if some of the principles it is based on are used in basic literary, plot-writing or directing courses. Involve everybody around the table and collaboratively set the background through a pool of questions. Create exciting scenes involving both the background and the participating characters with nothing but narration. Dice? Nah, too random. Cards? Yes, but only a handful. Rules? Less than a single page. Duration? As long as you wish. Fun? Loads! The game can explore any setting and genre you want it to, with everybody simultaneously starring and directing. Veteran gamer? Hardcore role-player? Total newbie? It doesn't matter. All you need is a vivid imagination.”*
+— [Antonios S](https://www.facebook.com/antoniossreviews), [RPG.net Reviewer & Columnist](https://www.rpg.net/reviews/search-review.phtml?reviewerName=Antonios+S)
+
+## Inspirational Quotes
+
+“The world is all gates, all opportunities, strings of tension waiting to be struck.”
+ **—Ralph Waldo Emerson** 
+
+“Yog-Sothoth knows the gate. Yog-Sothoth is the gate. Yog-Sothoth is the key and guardian of the gate. Past, present, future, all are one in Yog-Sothoth.”
+ **—H. P. Lovecraft**
+
+“My paintings always feature trails that dissolve into mysterious areas, patches of light that lead the eye around corners, pathways, open gates, etc.”
+ **—Thomas Kinkade**
+
+“The enemy is within the gates; it is with our own luxury, our own folly, our own criminality that we have to contend.”
+ **— Marcus Tullius Cicero**
+
+“Still round the corner there may wait, A new road or a secret gate.”
+ **—J. R. R. Tolkien** 
+
+“It is easy to go down into Hell; night and day, the gates of dark Death stand wide; but to climb back again, to retrace one's steps to the upper air - there's the rub, the task.”
+ **—Virgil** 
+
+“Near the gates and within two cities there will be scourges the like of which was never seen: famine within plague, people put out by steel, crying to the great immortal God for relief.”
+ **— Nostradomus**
+
+“We did not choose to be the guardians of the gate, but there is no one else.”
+ **—Lyndon B. Johnson**
 
 ## Production Notes
 
 Published by [Dyvers Hand Productions](https://www.DyverseHands.com). Written & produced by [Christopher Allen](mailto:ChristopherA@DyversHands.com). ©2019 by Christopher Allen.
 
-* Our Patreon drive will be at [Patreon](https://Patreon.com) starting in March, ending in April. The bulk of the orders will be fulfilled by end of April by [DriveThruCards](https://www.DriveThruCards.com).
-* Print-on-Demand Cards will be available after we ship to our Patreon customers via [DriveThruCards](https://www.DriveThruCards.com) without a box, or at [TheGameCrafter](https://www.thegamecrafter.com/) with a tuck box.
-* PDF for Print-to-Play designed for printing on 3 sheets of [Avery 5392](https://www.avery.com/products/namebadges/5392) "Meeting Badge" Cards, will be available to all Patreon Patrons immediately upon pledging, and at a higher price at [DriveThruCards](https://www.DriveThruCards.com) after we ship to Patreon customers.
+* Our crowd funding drive on [Kickstarter](https://www.kickstarter.com/projects/christophera/gate-watcha-collaborative-storytelling-game-quickstarter?) started in May 25th and was fully funded within a day, and will be ending on June 14th. The bulk of the orders will be fulfilled by end of late June/early July using [DriveThruRPG](https://www.DriveThruRPG.com).
+* Print-on-Demand Cards will be available after we ship to our Kickstarter customers via [DriveThruCards](https://www.DriveThruCards.com) without a box, or at [TheGameCrafter](https://www.thegamecrafter.com/) with a tuck box.
+* PDF for Print-to-Play designed for printing on 3 sheets of [Avery 5392](https://www.avery.com/products/namebadges/5392) "Meeting Badge" Cards, will be available to all Kickstarter Patrons immediately upon pledging, and at a higher price at [DriveThruRPG](https://www.DriveThruRPG.com) after we ship to Kickstarter customers.
 * A retailer edition will be available, contact the author if you are interested.
 * You can support the author by purchasing t-shirts and other memorbilia at
 
@@ -38,7 +76,7 @@ In the board games industry I resurrected the original 1987 edition of [Arkham H
 
 I am co-author with Shannon Appelcline of ["Meeples Together: How and Why Cooperative Board Games Work",](https://www.MeeplesTogether.com) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven.  We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book will be [available](https://meeples-together.backerkit.com/hosted_preorders) to the public in March of 2019. We are working on a sequel on the topic of collaborative play for publication in 2020.
 
-In the computer games industry, I'm the founder of [Skotos Tech](https://www.skotos.net), an online game company where I was lead for the social Castle Marrach and Lovecraft Country online games, and produce Grendel's Revenge.
+In the computer games industry, I'm the founder of [Skotos Tech](https://www.skotos.net), an online game company where I was lead for the social Castle Marrach and Lovecraft Country online games, and produced Grendel's Revenge.
 
 With my long-time co-author Shannon Appelcline, I am also the creator & co-author of an upcoming graphic novel Touched, as well as producer of two previous comics associated with our online games: [Lovecraft Country: Return to Arkham](http://www.lovecraftcountry.com/comic/) & [Castle Marrach: Awakenings](http://www.skotos.net/games/marrach/comic/awakenings/awakenings.shtml).
 
@@ -52,9 +90,9 @@ I am avid supporter of other games designers on [Kickstarter](https://www.kickst
 
 This story game was first inspired when I was researching various lists of thematic storytelling archetypes: 7 Basic Plots (Booker), 20 Master Plots (Tobias), 36 Dramatic Situations (Polti), 37 Photoplay Plots (Hill), Basic Patterns of Plots (Foster-Harris), Poetics (Aristotle), Shape of Stories (Vonnegut), and the TV Tropes Wiki (dyvers hands).
 
-Though not explictly named by these lists, many of the plot archetypes have binary sides. Good Guy/Bad Guy, Quest/Return, etc. Having recently played the gmless game [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year) (2013) which made extensive use of a collaboratively created map, I realized that a map with two sides might be a quite powerful plot device. That lead thematically to focusing on a place between the maps — **the gate** — as being an interesting point of play to explore.
+Though not explictly named by these lists, many of the plot archetypes have binary sides. Good Guy/Bad Guy, Quest/Return, etc. Having recently played the gmless games [Archipelago II](https://norwegianstyle.wordpress.com/2009/07/04/archipelago-ii/) (2009) & [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year) (2013) which both made extensive use of a collaboratively created map, I realized that a map with two sides might be a quite powerful plot device. That lead thematically to focusing on a place between the maps — **the gate** — as being an interesting point of play to explore.
 
-This game's next biggest inspiration was when I was looking at pricing at Print-on-Demand cards for another game, and discovered that there were significant price breaks at 18 cards. So I set for myself a goal to create a game only using 18 cards. Given these constraints, one of the first things I realized was having all the backs of the cards be the same was a waste. After several playtests using different inspirational images for the gates on the card backs, this contrained approach has to be quite powerful. If successful, I hope to offer some more 18 card story games.
+This game's next biggest inspiration was when I was looking at pricing at Print-on-Demand cards for another game, and discovered that there were significant price breaks at 18 cards. So I set for myself a goal to create a game only using 18 cards, and keep the price below that of going out to a movie. Given these constraints, one of the first things I realized was having all the backs of the cards be the same was a waste. After several playtests using different inspirational images for the gates on the card backs, this contrained approach has to be quite powerful. If successful, I hope to offer some more 18 card story games.
 
 I have been using for some other of my story games a resolution mechanism inspired by [Archipelago II](https://norwegianstyle.wordpress.com/2009/07/04/archipelago-ii/) (2009) *(which in turn was derived by [Itras By](https://itrasby.com/) (2008))*, which extends the traditional improv "Yes, and…" with some additional choices.  Having just six such choices, balanced between good and bad, fit well into the constraints of having just 18 cards.
 
