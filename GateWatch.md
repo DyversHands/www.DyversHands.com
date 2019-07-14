@@ -131,7 +131,7 @@ More about the ludology behind this game in [Kickstarter Update #4: The Four Kin
 
 ## Credits, Production Notes & Colophon
 
-**Published by** [Dyvers Hand Productions](https://www.DyverseHands.com). 
+**Published by**: [Dyvers Hand Productions](https://www.DyverseHands.com). 
 
 **Written & Produced by:** Christopher Allen. ©2019 by Christopher Allen.
 
