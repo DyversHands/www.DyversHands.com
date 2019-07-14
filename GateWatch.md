@@ -131,9 +131,17 @@ I play a lot of story games, so I'm sure there many other sources of inspiration
 
 More about the ludology behind this game in [Kickstarter Update #4: The Four Kinds of Cards](https://www.kickstarter.com/projects/christophera/gate-watcha-collaborative-storytelling-game-quickstarter/posts/2530730).
 
-## Image Credits
+## Credits & Colophon
 
-All the images used in the game have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to me by the image creator.
+**Written & Produced:** by Christopher Allen. ©2019 by Christopher Allen.
+
+**Card Headlines Font:** Frutiger
+
+**Card Body Font:** Méridien
+
+**Tools:** The cards were composited for POD (Print-on-Demand) publishing using Keynote for Macintosh, and the Print-to-Play version was layed-out using Pages for Macintosh. Let me know if you'd like a copy of my raw templates — they both are surpisingly easy to use to create POD games.
+
+**Images:** All the images used in the game have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to me by the image creator.
 
  ![Gate Watch Backs (Thumbnail 125-175).018](images/Gate Watch Backs (Thumbnail 125-175).018.jpeg)
 
@@ -208,11 +216,3 @@ All the images used in the game have been either permissively licenced (Creative
  ![Gate Watch Backs (Thumbnail 125-175).017](images/Gate Watch Backs (Thumbnail 125-175).017.jpeg)
 
   - Photo from [Moby Games](https://www.mobygames.com/images/shots/l/371916-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.jpg), fair use as a promotional image.
-
-## Colophon
-
-**Card Headlines Font:** Frutiger
-
-**Card Body Font:** Méridien
-
-The cards were composited for POD (Print-on-Demand) publishing using Keynote for Macintosh, and the Print-to-Play version was layed-out using Pages for Macintosh. Let me know if you'd like a copy of my raw templates — they both are surpisingly easy to use to create POD games.
