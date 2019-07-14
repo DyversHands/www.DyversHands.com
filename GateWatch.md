@@ -22,6 +22,14 @@ Players first choose the **Gate** for this game, optionally selecting or drawing
 
 We've found the mechanics of ***Gate Watch*** work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. A fun evening entertainment.
 
+## First Edition
+
+- Our crowd funding drive on [Kickstarter](https://www.kickstarter.com/projects/christophera/gate-watcha-collaborative-storytelling-game-quickstarter?) started in May 25th and was fully funded within a day, and ended on June 14th. The bulk of the orders will be fulfilled by end of July using [DriveThruRPG](https://www.DriveThruRPG.com).
+- Print-on-Demand Cards will be available after we ship to our Kickstarter customers via [DriveThruCards](https://www.drivethrurpg.com/product/262972/Gate-Watch-Collaborative-Cinematic-Storytelling-Just-the-Cards) without a box, or at [TheGameCrafter](https://www.thegamecrafter.com/) with a tuck box.
+- PDF for Print-to-Play designed for printing on 3 sheets of [Avery 5392](https://www.avery.com/products/namebadges/5392) "Meeting Badge" Cards, was made available to all Kickstarter Patrons immediately upon pledging, and is available at a slightly higher price at [DriveThruRPG](https://www.drivethrurpg.com/product/262953/Gate-Watch-Collaborative-Cinematic-Storytelling-Digital-Print--Play) after we ship to Kickstarter customers.
+- A retailer edition will be available, contact the author if you are interested.
+- You can support the author by purchasing t-shirts and other memorbilia.
+
 ## Reviewer Quotes
 
 *“You wouldn't think a whole three-act story game could fit in 18 playing cards, but Gate Watch cleverly mixes a combination of well-honed story prompts, act-specific scene frames, and a story hook brimming with potential, focusing on just what's needed to improvise compelling fiction.”*
@@ -55,16 +63,6 @@ We've found the mechanics of ***Gate Watch*** work well for experienced gamers a
 
 “We did not choose to be the guardians of the gate, but there is no one else.”
  **—Lyndon B. Johnson**
-
-## Production Notes
-
-Published by [Dyvers Hand Productions](https://www.DyverseHands.com). Written & produced by [Christopher Allen](mailto:ChristopherA@DyversHands.com). ©2019 by Christopher Allen.
-
-* Our crowd funding drive on [Kickstarter](https://www.kickstarter.com/projects/christophera/gate-watcha-collaborative-storytelling-game-quickstarter?) started in May 25th and was fully funded within a day, and ended on June 14th. The bulk of the orders will be fulfilled by end of July using [DriveThruRPG](https://www.DriveThruRPG.com).
-* Print-on-Demand Cards will be available after we ship to our Kickstarter customers via [DriveThruCards](https://www.drivethrurpg.com/product/262972/Gate-Watch-Collaborative-Cinematic-Storytelling-Just-the-Cards) without a box, or at [TheGameCrafter](https://www.thegamecrafter.com/) with a tuck box.
-* PDF for Print-to-Play designed for printing on 3 sheets of [Avery 5392](https://www.avery.com/products/namebadges/5392) "Meeting Badge" Cards, was made available to all Kickstarter Patrons immediately upon pledging, and us available at a slightly higher price at [DriveThruRPG](https://www.drivethrurpg.com/product/262953/Gate-Watch-Collaborative-Cinematic-Storytelling-Digital-Print--Play) after we ship to Kickstarter customers.
-* A retailer edition will be available, contact the author if you are interested.
-* You can support the author by purchasing t-shirts and other memorbilia at
 
 ## About the Quickstarter
 
@@ -131,9 +129,11 @@ I play a lot of story games, so I'm sure there many other sources of inspiration
 
 More about the ludology behind this game in [Kickstarter Update #4: The Four Kinds of Cards](https://www.kickstarter.com/projects/christophera/gate-watcha-collaborative-storytelling-game-quickstarter/posts/2530730).
 
-## Credits & Colophon
+## Credits, Production Notes & Colophon
 
-**Written & Produced:** by Christopher Allen. ©2019 by Christopher Allen.
+**Published by** [Dyvers Hand Productions](https://www.DyverseHands.com). 
+
+**Written & Produced by:** Christopher Allen. ©2019 by Christopher Allen.
 
 **Card Headlines Font:** Frutiger
 
