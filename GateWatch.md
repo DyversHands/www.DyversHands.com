@@ -3,24 +3,24 @@ Collaborative Cinematic Storytelling
 
 ![Gate Watch - Cover (Transparent, Curved Corners, 750x1050)](images/Gate Watch - Cover (Transparent, Curved Corners, 750x1050).png){: height="50%" width="50%" }
 
-You and your companions are members of the **Gate Watch**—charged to keep an eye on the border between realms. Who built the gate? What is on the other side? What are you guarding against? These are the questions you will answer.
+You and your companions are members of the ***Gate Watch***—charged to keep an eye on the border between realms. Who built the gate? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the mystery of the Gate. Every game session is different, every world, every Gate unique.
 
-**Gate Watch** is a diceless, GMless story game for 2-5 players, using 18 poker-sized (2.5” x 3.5”) cards, with rules on front, and inspirational images on back. You will also need two sheets of paper, some index cards and some markers. Typical play time is about 2-3 hours.
+***Gate Watch*** is a creative tabletop storytelling game for 2-5 players, where player interactions take the mystery of the Gate to dramatic resolution. It is diceless and GMless and uses 18 poker-sized cards, with rules on front and inspirational images on the back. You will also need two sheets of paper, some index cards, and some markers. The typical playtime is about 2-3 hours.
 
 ![Gate Watch - Hand of Cards (Fronts, Alpha 750x563)](images/Gate Watch - Hand of Cards (Fronts, Alpha 750x563).png)
 
-## Overview of Play
+## **Overview of Play**
 
-The backs of the cards contain images of various kinds of Gates for inspiration. Players read the six numbered grey cards beginning with ❶ though ❻ for the rules. You will collaboratively choose a Gate, create a map and describe Locations, establish some Truths & Mysteries, and ask questions that define your fellow Watchers. The six green cards are hooks to set goals for scenes in Acts 1 and 2, and the six red cards are used for scene Resolution to increase tension or resolve a complication. The game ends when a clue or answer to one of the Gate's Mysteries is reveiled during Act 3.
+Players first choose the **Gate** for this game, optionally selecting or drawing one from the 18 images on the back of the cards. Reading through the cards, they together create a **Map** and describe **Locations**, establish **Truths** & **Mysteries**, and ask key **Questions** of fellow **Watchers**. **Hook** cards help players set key goals for **Acts 1** and **2**, then take turns setting **Scenes** that drive the story forward. **Resolution** cards increase tension or resolve complications until a clue reveals one of the **Gate's** **Mysteries** in **Act 3**.
 
-So far in playtests the Gate has been selected by the players to be a wide variety of settings & genres:
+***Gate Watch*** inspires players to be creative, supporting a nearly infinite variety of potential stories. Thus far in play-testing, ***the Gate*** collaboratively selected by players resides in a wide variety of settings & genres:
 
-- between the real-world and the Greek heaven & hell;
-- 1950's noir mystery featuring the gate of a Hollywood producer's mansion;
-- a scifi adventure where a collapsing underground mutant civilization have a hidden exit to a post-apocalyptic landscape;
-- and a dark fantasy about a well in a German farming village at the end of WWII that may be an escape from invading Russians to the lands of the fae.
+- in a classics fantasy, with the gate lying between the real-world and the Greek heaven & hell, and Watchers possibly hired by Charon;
+- in a 1950's noir mystery, featuring the gate between a Hollywood producer's mansion and the hardscrabble blue-collar world of post-war Los Angeles;
+- in a sci-fi adventure, where a collapsing underground mutant civilization has a hidden exit to a post-apocalyptic landscape;
+- and in a dark fantasy, where a water well located in a German farming village at the end of WWII leads into the perilous lands of the fae, but may be the only escape from invading Russians.
 
-Many of the playtesters had not played a GMless cooperative story game before, yet found the instructions & play quite easy. Some of our playtesters were not even roleplayers, but instead were improv theatre actors. All of these collaboratively created games were very creative, the play dynamic, and most importantly all had a satisfying ending in just a couple of hours of play.
+We've found the mechanics of ***Gate Watch*** work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. A fun evening entertainment.
 
 ## Reviewer Quotes
 
@@ -60,11 +60,40 @@ Many of the playtesters had not played a GMless cooperative story game before, y
 
 Published by [Dyvers Hand Productions](https://www.DyverseHands.com). Written & produced by [Christopher Allen](mailto:ChristopherA@DyversHands.com). ©2019 by Christopher Allen.
 
-* Our crowd funding drive on [Kickstarter](https://www.kickstarter.com/projects/christophera/gate-watcha-collaborative-storytelling-game-quickstarter?) started in May 25th and was fully funded within a day, and will be ending on June 14th. The bulk of the orders will be fulfilled by end of late June/early July using [DriveThruRPG](https://www.DriveThruRPG.com).
-* Print-on-Demand Cards will be available after we ship to our Kickstarter customers via [DriveThruCards](https://www.DriveThruCards.com) without a box, or at [TheGameCrafter](https://www.thegamecrafter.com/) with a tuck box.
-* PDF for Print-to-Play designed for printing on 3 sheets of [Avery 5392](https://www.avery.com/products/namebadges/5392) "Meeting Badge" Cards, will be available to all Kickstarter Patrons immediately upon pledging, and at a higher price at [DriveThruRPG](https://www.DriveThruRPG.com) after we ship to Kickstarter customers.
+* Our crowd funding drive on [Kickstarter](https://www.kickstarter.com/projects/christophera/gate-watcha-collaborative-storytelling-game-quickstarter?) started in May 25th and was fully funded within a day, and ended on June 14th. The bulk of the orders will be fulfilled by end of July using [DriveThruRPG](https://www.DriveThruRPG.com).
+* Print-on-Demand Cards will be available after we ship to our Kickstarter customers via [DriveThruCards](https://www.drivethrurpg.com/product/262972/Gate-Watch-Collaborative-Cinematic-Storytelling-Just-the-Cards) without a box, or at [TheGameCrafter](https://www.thegamecrafter.com/) with a tuck box.
+* PDF for Print-to-Play designed for printing on 3 sheets of [Avery 5392](https://www.avery.com/products/namebadges/5392) "Meeting Badge" Cards, was made available to all Kickstarter Patrons immediately upon pledging, and us available at a slightly higher price at [DriveThruRPG](https://www.drivethrurpg.com/product/262953/Gate-Watch-Collaborative-Cinematic-Storytelling-Digital-Print--Play) after we ship to Kickstarter customers.
 * A retailer edition will be available, contact the author if you are interested.
 * You can support the author by purchasing t-shirts and other memorbilia at
+
+## About the Quickstarter
+
+Though I have been involved with a number of successful Kickstarter projects, this was the first that I  ran under my own own name. I love the creative power of constraints, so I am attempted to do this as a [Quickstarter,](https://creators.kickstarter.com/quickstarter/) a Kickstarter initiative that embraces the following ethos:
+
+- Quickstarter is about thinking small and simple.
+- Quickstarter is keeping it fun & "Do It Yourself".
+- Quickstarter doesn't take over your life and is not a job.
+
+To this end, I  followed these rules:
+
+- Plan it in three months or less.
+- Campaign for less than 20 days.
+- Funding goal under $1,000.
+- Rewards under $50.
+- A short & sweet video or none at all.
+- No PR or media outreach (unless contacted).
+- No paid ads on social media. 
+- No stretch goals.
+- Ship quickly.
+- Include "Quickstarter" in the campaign name.
+
+I will report out my observations and lessons learned from this Quickstarter later in an update on this page.
+
+## Keeping the Price Low, the Shipping Simple
+
+Also in the spirit of simplicity, this game consists of just the 18 poker-sized cards. There is no box: instead our printer, DriveThruRPG, wraps the 18 cards in a transparent band. This allows us to offer the printed cards for our US customers for less than $10. Less than the cost of a movie! We do plan to offer a version from [TheGameCrafter](https://www.thegamecrafter.com/) with a tuck box at a slightly higher price.
+
+The advantage of this Print-on-Demand approach is that it allows production of this game to be lean, quick, and simple, so that we can easily offer more story games like this in the future. It also has the added benefit that I don't have to inflate the prices to cover any potential production or postage hikes, so I can offer the best possible price!
 
 ## About the Author
 
@@ -74,15 +103,15 @@ In the paper RPG games industry I have been the the owner/publisher of the popul
 
 In the board games industry I resurrected the original 1987 edition of [Arkham Horror](https://www.rpg.net/reviews/archive/9/9215.phtml) and licensed it in 2005 to Fantasy Flight for its best-selling [2nd edition](https://www.rpg.net/reviews/archive/12/12132.phtml) of this board game series.
 
-I am co-author with Shannon Appelcline of ["Meeples Together: How and Why Cooperative Board Games Work",](https://www.MeeplesTogether.com) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven.  We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book will be [available](https://meeples-together.backerkit.com/hosted_preorders) to the public in March of 2019. We are working on a sequel on the topic of collaborative play for publication in 2020.
+In the computer games industry, I'm the founder of [Skotos Tech](https://www.skotos.net), an online game company where I was lead for the social [*Castle Marrach*](http://www.skotos.net/games/marrach/comic/awakenings/awakenings.shtml) and [*Lovecraft Country*](http://www.lovecraftcountry.com/comic/) online games and producer for [mobile](https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fskotostech) adaptions of several strategy games by Reiner Knizia and Michael Schacht.
 
-In the computer games industry, I'm the founder of [Skotos Tech](https://www.skotos.net), an online game company where I was lead for the social Castle Marrach and Lovecraft Country online games, and produced Grendel's Revenge.
+Recently, I have been doing more personal projects, directly creating releases for the tabletop industry: I am co-author with Shannon Appelcline of ["Meeples Together: How and Why Cooperative Board Games Work",](https://www.MeeplesTogether.com) a book on the practice, design and theory of cooperative games, best exemplified by games like Pandemic, Hanabi, Arkham Horror, and Gloomhaven.  We had a successful [Kickstarter](https://www.kickstarter.com/projects/jefftidball/meeples-together-how-and-why-cooperative-board-gam) in late 2018 and the book will be [available](https://meeples-together.backerkit.com/hosted_preorders) to the public in March of 2019. We are working on a sequel on the topic of collaborative play for publication in 2020.
 
 With my long-time co-author Shannon Appelcline, I am also the creator & co-author of an upcoming graphic novel Touched, as well as producer of two previous comics associated with our online games: [Lovecraft Country: Return to Arkham](http://www.lovecraftcountry.com/comic/) & [Castle Marrach: Awakenings](http://www.skotos.net/games/marrach/comic/awakenings/awakenings.shtml).
 
 I have been writing about collaboration for several decades. My [Life with Alacrity](https://www.LifeWithAlacrity.com) blog talks about the principles of cooperation, collaboration, and governance while my [Rebooting the Web of Trust](https://www.WebOfTrust.info) workshops imagine the future of collaboration on the internet.
 
-In the last few years I increasingly have been moving away from traditional forms of role-playing such as Call of Cthulhu or Runequest, to forms that are more story-centric and allow for more player control of the game. This game my first attempt to share some of the lessons learned from my recent experiences in role-playing.
+I have been a fan and supporter of games (especially roleplaying games) for decades, with old favorites including Call of Cthulhu and RuneQuest II. My new favorites are the collaborative games that have emerged in the last couple of decades, both in the form of GMless story games as well as in board games.
 
 I am avid supporter of other games designers on [Kickstarter](https://www.kickstarter.com/profile/christophera/) and [Patreon](https://www.patreon.com/ChristopherA/).
 
@@ -90,7 +119,7 @@ I am avid supporter of other games designers on [Kickstarter](https://www.kickst
 
 This story game was first inspired when I was researching various lists of thematic storytelling archetypes: 7 Basic Plots (Booker), 20 Master Plots (Tobias), 36 Dramatic Situations (Polti), 37 Photoplay Plots (Hill), Basic Patterns of Plots (Foster-Harris), Poetics (Aristotle), Shape of Stories (Vonnegut), and the TV Tropes Wiki (dyvers hands).
 
-Though not explictly named by these lists, many of the plot archetypes have binary sides. Good Guy/Bad Guy, Quest/Return, etc. Having recently played the gmless games [Archipelago II](https://norwegianstyle.wordpress.com/2009/07/04/archipelago-ii/) (2009) & [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year) (2013) which both made extensive use of a collaboratively created map, I realized that a map with two sides might be a quite powerful plot device. That lead thematically to focusing on a place between the maps — **the gate** — as being an interesting point of play to explore.
+Though not explictly named by these lists, many of the plot archetypes have binary sides. Good Guy/Bad Guy, Quest/Return, etc. Having recently played the gmless games [Archipelago II](https://norwegianstyle.wordpress.com/2009/07/04/archipelago-ii/) (2009) & [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year) (2013) which both made extensive use of a collaboratively created map, I realized that a map with two sides might be a quite powerful plot device. That lead thematically to focusing on a place between the maps — the **Gate** — as being an interesting point of play to explore.
 
 This game's next biggest inspiration was when I was looking at pricing at Print-on-Demand cards for another game, and discovered that there were significant price breaks at 18 cards. So I set for myself a goal to create a game only using 18 cards, and keep the price below that of going out to a movie. Given these constraints, one of the first things I realized was having all the backs of the cards be the same was a waste. After several playtests using different inspirational images for the gates on the card backs, this contrained approach has to be quite powerful. If successful, I hope to offer some more 18 card story games.
 
@@ -99,6 +128,8 @@ I have been using for some other of my story games a resolution mechanism inspir
 Finally, using the constraint of player questions to define other player's characters rather than player's creating their own characters was inspired by [A Penny for My Thoughts](https://www.evilhat.com/home/a-penny-for-my-thoughts/) (2009), and of course general improv "Yes, and…" practices.
 
 I play a lot of story games, so I'm sure there many other sources of inspiration that influenced this game, but these are the most important ones.
+
+More about the ludology behind this game in [Kickstarter Update #4: The Four Kinds of Cards](https://www.kickstarter.com/projects/christophera/gate-watcha-collaborative-storytelling-game-quickstarter/posts/2530730).
 
 ## Image Credits
 
