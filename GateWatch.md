@@ -11,7 +11,7 @@ You and your companions are members of the ***Gate Watch***—charged to keep an
 
 ## **Overview of Play**
 
-Players first choose the **Gate** for this game, optionally selecting or drawing one from the 18 images on the back of the cards. Reading through the cards, they together create a **Map** and describe **Locations**, establish **Truths** & **Mysteries**, and ask key **Questions** of fellow **Watchers**. **Hook** cards help players set key goals for **Acts 1** and **2**, then take turns setting **Scenes** that drive the story forward. **Resolution** cards increase tension or resolve complications until a clue reveals one of the **Gate's** **Mysteries** in **Act 3**.
+Players first choose the **Gate** for this game, optionally selecting or drawing one from the 18 images on the back of the cards. Reading through the cards, they together create a **Map** and describe **Locations**, establish **Truths** & **Mysteries**, and ask key **Questions** of fellow **Watchers**. **Plot Hook** cards help players set key goals for **Acts 1** and **2**, then take turns setting **Scenes** that drive the story forward. **Resolution** cards increase tension or resolve complications until a clue reveals one of the **Gate's** **Mysteries** in **Act 3**.
 
 ***Gate Watch*** inspires players to be creative, supporting a nearly infinite variety of potential stories. Thus far in play-testing, ***the Gate*** collaboratively selected by players resides in a wide variety of settings & genres:
 
@@ -22,13 +22,25 @@ Players first choose the **Gate** for this game, optionally selecting or drawing
 
 We've found the mechanics of ***Gate Watch*** work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. A fun evening entertainment.
 
-## First Edition
+## First Edition AVAILABLE NOW!
 
-- Our crowd funding drive on [Kickstarter](https://www.kickstarter.com/projects/christophera/gate-watcha-collaborative-storytelling-game-quickstarter?) started in May 25th and was fully funded within a day, and ended on June 14th. The bulk of the orders will be fulfilled by end of July using [DriveThruRPG](https://www.DriveThruRPG.com).
-- Print-on-Demand Cards will be available after we ship to our Kickstarter customers via [DriveThruCards](https://www.drivethrurpg.com/product/262972/Gate-Watch-Collaborative-Cinematic-Storytelling-Just-the-Cards) without a box, or at [TheGameCrafter](https://www.thegamecrafter.com/) with a tuck box.
-- PDF for Print-to-Play designed for printing on 3 sheets of [Avery 5392](https://www.avery.com/products/namebadges/5392) "Meeting Badge" Cards, was made available to all Kickstarter Patrons immediately upon pledging, and is available at a slightly higher price at [DriveThruRPG](https://www.drivethrurpg.com/product/262953/Gate-Watch-Collaborative-Cinematic-Storytelling-Digital-Print--Play) after we ship to Kickstarter customers.
-- A retailer edition will be available, contact the author if you are interested.
-- You can support the author by purchasing t-shirts and other memorbilia.
+KICKSTARTER ORDERS COMPLETE: SALES ARE OPEN TO ALL!
+
+All Kickstarter orders were shipped, including the limited "Storyteller's Edition", so I am now able to accept new orders for **Gate Watch** from from the public.
+
+There are currently three editions available:
+
+- **Gate Watch: "Just the Cards!" Edition**, with 18 poker-sized Print-On-Demands cards and no box is available for $9.95 from [DriveThuRPG](https://www.drivethrurpg.com/product/262972/Gate-Watch-Collaborative-Cinematic-Storytelling-Just-the-Cards). 
+- **Gate Watch: "Print & Play" Edition** is designed for printing on 3 sheets of [Avery 5392](https://www.avery.com/products/namebadges/5392) "Meeting Badge" Cards is now available for $4.00 from [DriveThruRPG](https://www.drivethrurpg.com/product/262953/Gate-Watch).
+- **Gate Watch: Retailer Edition,** same as "Just the Cards" Edition but shrink-wrapped with a 19th card on the back with a brief description of the game and ISBN bar code. Contact ChristopherA@DyversHands.com if you would like to place an order.
+
+We are considering slightly more expensive ($15) Print-On-Demand edition with a tuck box from [TheGameCrafter](https://www.thegamecrafter.com/) — let us know if there is interest.
+
+Everyone in the Kickstarter who order the "Just the Cards!" edition can now review the game on [DriveThuRPG](https://www.drivethrurpg.com/product/262972/Gate-Watch-Collaborative-Cinematic-Storytelling-Just-the-Cards). — we'd appreciate your kind words!
+
+Please also consider subscribing to our low-volume [email list](https://tinyletter.com/dyvershands). We are now play-testing our next Kickstarter "Just the Cards!" design — a stand-alone companion to **Gate Watch** called **Twilight Road:** *"You are Travelers along the* ***Twilight Road.*** *Who travels along it? Where does the* ***Twilight Road*** *begin? Where does it end? What crosses it? What makes the Twilight Road different from other roads? If you leave the road, can you return?"
+
+<!--You can support the author by purchasing t-shirts and other memorbilia.-->
 
 ## Reviewer Quotes
 
@@ -66,7 +78,9 @@ We've found the mechanics of ***Gate Watch*** work well for experienced gamers a
 
 ## About the Quickstarter
 
-Though I have been involved with a number of successful Kickstarter projects, this was the first that I  ran under my own own name. I love the creative power of constraints, so I am attempted to do this as a [Quickstarter,](https://creators.kickstarter.com/quickstarter/) a Kickstarter initiative that embraces the following ethos:
+Our crowd funding drive on [Kickstarter](https://www.kickstarter.com/projects/christophera/gate-watcha-collaborative-storytelling-game-quickstarter?) started on May 25th and was fully funded within a day, and ended on June 14th. All the regular orders were shipped on time in August, and the limited "Storyteller's Edition" was shipped in early October.
+
+Though I have been involved with a number of successful Kickstarter projects, this was the first that I  ran under my own own name. I love the creative power of constraints, so I released this game as a [Quickstarter,](https://creators.kickstarter.com/quickstarter/) a Kickstarter initiative that embraces the following ethos:
 
 - Quickstarter is about thinking small and simple.
 - Quickstarter is keeping it fun & "Do It Yourself".
