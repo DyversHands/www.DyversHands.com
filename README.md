@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ![Dyvers Hands Logo (Bright Color)](./images/Dyvers Hands Logo (Bright Color).svg){: .align-center height="50%" width="50%" }
 
 **Games:**
