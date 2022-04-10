@@ -13,6 +13,7 @@ kramdown:
   hard_wrap: false
 future: true
 jailed: false
-theme: jekyll-theme-primer
+#theme: jekyll-theme-primer
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: zivong/jekyll-theme-hydure
 gfm_quirks: paragraph_end
