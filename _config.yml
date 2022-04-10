@@ -1,6 +1,6 @@
 title: "Dyvers Hands Productions"
 project: "Dyvers Hands Productions"
-description: "Website for Dyver Hands Productions"
+description: "Website for Dyver Hands Productions, LLC"
 author: Dyver Hands
 email: info@dyvershands.com
 twitter_username: DyversHands
@@ -15,5 +15,5 @@ future: true
 jailed: false
 #theme: jekyll-theme-primer
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
-remote_theme: zivong/jekyll-theme-hydure
+remote_theme: dieghernan/chulapa
 gfm_quirks: paragraph_end
