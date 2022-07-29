@@ -1,19 +1,15 @@
 title: "Dyvers Hands Productions"
 project: "Dyvers Hands Productions"
-description: "Website for Dyver Hands Productions, LLC"
-author: Dyver Hands
-email: info@dyvershands.com
+description: "Website for Dyver Hands Productions"
+author: Dyver Hands Productions LLC
+email: team@dyvershands.com
 twitter_username: DyversHands
 github_username:  DyversHands
-show_downloads: false
-encoding: UTF-8
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-future: true
-jailed: false
 #theme: jekyll-theme-primer
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
-remote_theme: dieghernan/chulapa
-gfm_quirks: paragraph_end
+#remote_theme: dieghernan/chulapa
+remote_theme: hydecorp/hydejack@v9.1.6
+
+plugins:
+  - jekyll-include-cache
+  
