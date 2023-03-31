@@ -60,9 +60,9 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  name   : "Dyvers Hands Production"
+  name   : "Dyvers Hands Productions"
   avatar : "/assets/images/logos/dyvers_hands_avatar_subtle_color_on_white.svg"
-  bio    : "The best stories are the ones we tell together"
+  bio    : "&#8220;The best stories are the ones we tell together&#8221;"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
