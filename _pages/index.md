@@ -1,3 +1,17 @@
+---
+cover: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /images/qr-background.jpg
+  og_image: /images/dyvershands-card.jpg
+title: Welcome to Dyvers Hands Productions
+hide_description: true
+classes:
+  - wide
+permalink: /index.html
+---
+
 ![Dyvers Hands Logo (Bright Color)](./images/Dyvers Hands Logo (Bright Color).svg){: .align-center height="20%" width="20%" }
 
 
