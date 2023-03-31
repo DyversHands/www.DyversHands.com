@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Dyvers Hands Production"
-  avatar : "/assets/images/logos/dyvers_hands_avatar_subtle_color_on_transparent.svg"
+  avatar : "/assets/images/logos/dyvers_hands_avatar_subtle_color_on_white.svg"
   bio    : "The best stories are the ones we tell together"
   links:
     - label: "Twitter"
