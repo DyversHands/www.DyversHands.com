@@ -1,15 +1,16 @@
 ---
+cover: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /images/qr-background.jpg
-  og_image: /images/vision-card.jpg
-title: Our Vision
-cover: false
-classes:
-  - wide
+  og_image: /images/games-card.jpg
+title: Our Games
+toc: true
+toc_label: Games
 hide_description: true
-permalink: /vision.html
+permalink: /games.html
 ---
 
-# Our Vision
+# Games
+
