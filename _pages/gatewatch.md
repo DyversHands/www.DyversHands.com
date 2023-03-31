@@ -9,7 +9,9 @@ title: Gate Watch
 hide_description: true
 classes:
   - wide
-permalink: /gatewatch.html
+permalink: /products/gatewatch.html
+redirect_from:
+  - /gatewatch
 ---
 
 # Gate Watch
