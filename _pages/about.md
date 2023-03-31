@@ -9,13 +9,10 @@ cover: false
 hide_description: true
 classes:
 - wide
-permalink: /about.html
-redirect_from:
-  - /about
-  - /About
+permalink: /about/
 ---
 
-![Dyvers Hands Logo (Bright Color)](./images/Dyvers Hands Logo (Bright Color).svg){: .align-center height="20%" width="20%" }
+![Dyvers Hands Logo (portrait white on black)](./assets/images/logos/dyvers_hands_portrait_white_on_black.svg){: .align-center height="20%" width="20%" }
 
 # About Dyvers Hands
 

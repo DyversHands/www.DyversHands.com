@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Dyvers Hands Production"
   avatar : "/assets/images/logos/dyvers_hands_portrait_white_on_black.svg"
-  bio    : "\“The best stories are the ones we tell together\”"
+  bio    : "The best stories are the ones we tell together"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

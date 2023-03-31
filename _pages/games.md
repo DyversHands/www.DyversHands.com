@@ -9,7 +9,7 @@ title: Our Games
 toc: true
 toc_label: Games
 hide_description: true
-permalink: /games.html
+permalink: /games/
 ---
 
 # Games
