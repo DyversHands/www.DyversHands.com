@@ -70,13 +70,7 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DyversHands"
-    - label: "Discussions"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DyversHands/Community/discussions"
-    - label: "Twitter"
+       - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/DyversHands"
 og_image: /images/dyvershands-card.jpg

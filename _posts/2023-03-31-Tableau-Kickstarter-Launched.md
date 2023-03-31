@@ -20,22 +20,17 @@ We are thrilled to announce that the Kickstarter for our innovative storytelling
 
 This ***Tableau*** Kickstarter features our two inaugural playsets: **Twilight Road** and **Gate Watch**. With your support, we can bring these narrative-driven Playsets to life, allowing players to experience the joy of collaborative storytelling and create unforgettable tales together.
 
-Explore the storytelling themes of ***Tableau:*** **Twilight Road**🛣 **&** **Gate Watch**🚪 playsets in this 2-minute promo video! Immerse yourself in the rich narratives and inspiring images of both playsets, showcasing the endless possibilities for collaborative storytelling and cinematic adventures.
-
-<a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
+<a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue"></a> Explore the storytelling themes of ***Tableau:*** **Twilight Road**🛣 **&** **Gate Watch**🚪 playsets in this 2-minute promo video! Immerse yourself in the rich narratives and inspiring images of both playsets, showcasing the endless possibilities for collaborative storytelling and cinematic adventures.
 
 Here's what you can expect from the ***Tableau*** game system:
 
 * A versatile and easy-to-learn game system designed for collaborative storytelling across diverse genres
-* * Unique character "composable traits" that encourage creativity, customization, and in-depth character development
-The ability to mix and match cards from different playsets for a truly expansive and customizable gameplay experience
+* Unique character "composable traits" that encourage creativity, customization, and in-depth character development
+* The ability to mix and match cards from different playsets for a truly expansive and customizable gameplay experience
 
 By pledging your support, you'll not only help us bring ***Tableau*** to life but also become a vital part of our creative community. As a backer, you'll have access to exclusive updates, playtest materials, and the opportunity to provide valuable feedback on the game.
 
-Discover the rich narratives possible with the Tableau: Twilight Road🛣 playset in this detailed 14m video overview! 
-
-<a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
-
+<a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue"></a> Discover the rich narratives possible with the Tableau: Twilight Road🛣 playset in this detailed 14m video overview! 
 
 **Special Offer for Backers:** As a token of our appreciation, every backer at any pledge level will receive a free copy of the full "Print and Play" playtest version for both **Twilight Road** and **Gate Watch playsets**. This will give you an exclusive sneak peek into the Tableau universe and enable you to participate in the development process.
 
