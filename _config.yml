@@ -59,20 +59,14 @@ plugins:
   - jekyll-include-cache
   - jekyll-redirect-from
 
-#author:
-#  name   : "Blockchain Commons"
-#  avatar : "/images/bc-logo-white-avatar.png"
-#  bio    : "Creating Open & Interoperable, Secure & Compassionate Digital Infrastructure"
-#  links:
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/blockchaincommons"
-#    - label: "Discussions"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/BlockchainCommons/Community/discussions"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/BlockchainComns"
+author:
+  name   : "Dyvers Hands Production"
+  avatar : "/_assets/images/logos/dyvers_hands_portrait_white_on_black.svg"
+  bio    : "\“The best stories are the ones we tell together\”"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DyversHands"
 
 footer:
   links:
