@@ -4,15 +4,16 @@ excerpt_separator: "<!--more-->"
 categories:
   - News
 tags:
-  - Advocacy
-  - Legislation
-  - Self-Sovereign Identity
-  - Wyoming
-  - Digital Assets
+  - Announcement
+  - Kickstarter
+  - Tableau
+  - Playsets
+  - Twilight Road
+  - Gate Watch
 classes:
   - wide
-header:
-  og_image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
+#header:
+#  og_image: 
 ---
 
 We are thrilled to announce that the Kickstarter for our innovative storytelling game, ***Tableau***, has officially launched! At Dyvers Hands Productions, we have been working to create a unique and engaging game system that emphasizes collaborative storytelling, character development, and versatility across various genres.
