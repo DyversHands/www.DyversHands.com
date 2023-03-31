@@ -12,8 +12,6 @@ classes:
 permalink: /index.html
 ---
 
-![Dyvers Hands Logo (portrait white on black)](./assets/images/logos/dyvers_hands_portrait_white_on_black.svg){: .align-center height="20%" width="20%" }
-
 At Dyvers Hands Productions, we are passionate about creating and developing collaborative storytelling experiences across a wide range of media. Our focus includes tabletop games, online communities, comics, graphic novels, and short-story anthologies, and we hope to one day expand into TV and movies. We believe that the best stories are the ones told together, and our mission is to foster creativity, promote collaboration, and bring people together through immersive and engaging gameplay.
 
 One of our core initiatives is the development of shared worlds, where creators can come together to contribute and expand on unique and diverse story settings. By inviting writers, artists, and game designers to participate in the creation of these shared universes, we aim to cultivate a rich and vibrant community of creators who share a common vision and passion for storytelling.
