@@ -1,5 +1,5 @@
 ---
-title: "Wyoming Passes Private Key Protection & Digital Asset Registration Laws"
+title: "The Tableau Kickstarter Has Launched!"
 excerpt_separator: "<!--more-->"
 categories:
   - News
@@ -14,8 +14,6 @@ classes:
 header:
   og_image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
 ---
-
-# The Tableau Kickstarter Has Launched!
 
 We are thrilled to announce that the Kickstarter for our innovative storytelling game, ***Tableau***, has officially launched! At Dyvers Hands Productions, we have been working to create a unique and engaging game system that emphasizes collaborative storytelling, character development, and versatility across various genres.
 
