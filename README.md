@@ -9,7 +9,7 @@ Our latest project, Tableau, is a storytelling game system that emphasizes share
 
 **Games:**
 
-- Tableau Kickstarter - Discover the joy of collaborative storytelling with Tableau, a versatile game system that encourages creativity and character development across diverse genres. Pledge your support on Kickstarter today and be among the first to experience immersive, narrative-driven gameplay with our inaugural playsets, Twilight Road and Gate Watch. Don't miss this opportunity to embark on transformative journeys and create unforgettable stories together. [Pledge now!](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter)
+- [Tableau Kickstarter](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi) - Discover the joy of collaborative storytelling with Tableau, a versatile game system that encourages creativity and character development across diverse genres. Pledge your support on Kickstarter today and be among the first to experience immersive, narrative-driven gameplay with our inaugural playsets, Twilight Road and Gate Watch. Don't miss this opportunity to embark on transformative journeys and create unforgettable stories together. [Pledge now!](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi))
 
 - [Gate Watch: 1st Edition (2019)](GateWatch) - The original 18-card version of Gate Watch, successfully Kickstarted in 2019.
 
