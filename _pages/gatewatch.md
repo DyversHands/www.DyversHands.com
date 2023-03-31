@@ -13,6 +13,7 @@ permalink: /products/gatewatch.html
 redirect_from:
   - /gatewatch
   - /GateWatch
+  - /Gatewatch
 ---
 
 # Gate Watch
