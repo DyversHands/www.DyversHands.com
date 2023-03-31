@@ -12,6 +12,7 @@ classes:
 permalink: /about.html
 redirect_from:
   - /about
+  - /About
 ---
 
 ![Dyvers Hands Logo (Bright Color)](./images/Dyvers Hands Logo (Bright Color).svg){: .align-center height="20%" width="20%" }

@@ -12,6 +12,7 @@ classes:
 permalink: /products/gatewatch.html
 redirect_from:
   - /gatewatch
+  - /GateWatch
 ---
 
 # Gate Watch
