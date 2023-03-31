@@ -2,10 +2,8 @@ main:
   - title: "Home"
     url: /
   - title: "Games"
-    url: /games.html
+    url: /_pages/games.html
   - title: "Posts"
     url: /posts/
   - title: "About"
-    url: /about.html
-    
-    
+    url: /_pages/about.html
