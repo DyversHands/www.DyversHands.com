@@ -9,11 +9,12 @@ title: Gate Watch
 hide_description: true
 classes:
   - wide
-permalink: /products/gatewatch.html
+permalink: /games/gatewatch2019/
 redirect_from:
   - /gatewatch
   - /GateWatch
   - /Gatewatch
+
 ---
 
 # Gate Watch
