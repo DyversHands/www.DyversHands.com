@@ -13,9 +13,9 @@ classes:
 permalink: /index.html
 ---
 
-<a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue"></a> At Dyvers Hands Productions, we craft collaborative storytelling experiences across various media, focusing on tabletop games, shared worlds, and beyond. Our passion lies in uniting creators to build unforgettable stories that inspire.
+<a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue"></a> At Dyvers Hands Productions, we craft collaborative storytelling experiences across various media, focusing on games, shared worlds, and beyond. Our passion lies in uniting creators to build unforgettable stories that inspire.
 
-Discover our latest project, [***Tableau***](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi), a storytelling game emphasizing character development, just launched on [Kickstarter](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi).
+Discover our latest project, [***Tableau***](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi), a tabletop storytelling game emphasizing character development, just launched on [Kickstarter](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi).
 
 ## News
 
