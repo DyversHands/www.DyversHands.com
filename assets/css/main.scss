@@ -21,7 +21,8 @@ search: false
 
   .author__avatar {
     display: table-cell;
-    vertical-align: top;
+    vertical-align: middle;
+    horizontal-align: middle;
     width: 36px;
     height: 36px;
   
@@ -41,7 +42,7 @@ search: false
         padding: 5px;
         border: 1px solid $border-color;
       }
-      
+
       */
     }
   }
