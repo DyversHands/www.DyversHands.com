@@ -29,14 +29,11 @@ search: false
     width: 36px;
     height: 36px;
   
-    /* commented out to try get rid of weird avatar border
-
     @include breakpoint($large) {
       display: block;
       width: auto;
       height: auto;
     }
-    */
   
     img {
       max-width: 240px;
