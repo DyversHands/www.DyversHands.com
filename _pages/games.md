@@ -18,7 +18,7 @@ permalink: /games/
 
 [***Tableau*** Kickstarter](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi) - Discover the joy of collaborative storytelling with ***Tableau***, a versatile game system that encourages creativity and character development across diverse genres. Pledge your support on Kickstarter today and be among the first to experience immersive, narrative-driven gameplay with our first playsets.
 
-- **Playsets:** <a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue"></a> Explore the storytelling themes of ***Tableau:*** **Twilight Road**🛣 **&** **Gate Watch**🚪 playsets in this 2-minute promo video! Immerse yourself in the rich narratives and inspiring images of both playsets, showcasing the endless possibilities for collaborative storytelling and cinematic adventures.[Pledge now!](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi)) 
+- **Playsets:** <a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue"></a> Explore the storytelling themes of ***Tableau:*** **Twilight Road**🛣 **&** **Gate Watch**🚪 playsets in this 2-minute promo video! Immerse yourself in the rich narratives and inspiring images of both playsets, showcasing the endless possibilities for collaborative storytelling and cinematic adventures. [Pledge now!](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi)) 
 
 ## OLDER GAMES
 
