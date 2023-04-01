@@ -24,7 +24,7 @@ permalink: /games/
 
 ### Gate Watch: 1st Edition (2019)
 
-The original 18-card version of [Gate Watch](./games/gatewatch2019/), successfully Kickstarted in 2019.
+The original 18-card version of [Gate Watch](/games/gatewatch2019/), successfully Kickstarted in 2019.
 
 ### Monster Smash: The Next Page (2001)
 
