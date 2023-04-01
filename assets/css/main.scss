@@ -35,10 +35,14 @@ search: false
       max-width: 200px;
       border-radius: 100%;
   
+      /* get rid of weird border
+
       @include breakpoint($large) {
         padding: 5px;
         border: 1px solid $border-color;
       }
+      
+      */
     }
   }
   
