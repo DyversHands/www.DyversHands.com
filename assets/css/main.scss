@@ -10,8 +10,11 @@ search: false
 
 .author__bio {
     margin: 0;
-    font-size: 0.9em;
+    
+    /* added to defaults here */
+    font-size: 1.1em;
     font-style: italic;
+    text-align: center;
   
     @include breakpoint($large) {
       margin-top: 10px;
@@ -26,17 +29,20 @@ search: false
     width: 36px;
     height: 36px;
   
+    /* commented out to try get rid of weird avatar border
+
     @include breakpoint($large) {
       display: block;
       width: auto;
       height: auto;
     }
+    */
   
     img {
-      max-width: 200px;
+      max-width: 240px;
       border-radius: 100%;
   
-      /* get rid of weird border
+      /* commented out to try get rid of weird avatar border, but doesn't help. I don't know what this does
 
       @include breakpoint($large) {
         padding: 5px;
