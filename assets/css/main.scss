@@ -16,9 +16,29 @@ search: false
 }
 */
 
+.page__title {
+  margin-top: 0;
+  line-height: 1;
+  text-align: center;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+  }
+
+  & + .page__meta {
+    margin-top: -0.5em;
+  }
+}
+
+
 .page__subtitle {
-  font-weight: bold;
+  display: block;
+  color: $text-color;
+  font-size: $type-size-8;
   font-style: italic;
+  font-weight: bold;
+  text-align: center;
 }
 
 .author__bio {

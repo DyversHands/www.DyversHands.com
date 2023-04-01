@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Dyvers Hands Productions"
-subtitle: "&#8220;The best stories are the ones we tell together!&#8221;"
 email: team@dyvershands.com
 description: "Website for Dyver Hands Productions"
 project: "Dyvers Hands Productions"
