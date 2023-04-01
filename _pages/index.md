@@ -6,6 +6,7 @@ header:
   overlay_image: /images/qr-background.jpg
   og_image: /images/dyvershands-card.jpg
 title: Welcome to Dyvers Hands Productions
+subtitle: "&#8220;The best stories are the ones we tell together!&#8221;"
 hide_description: true
 classes:
   - wide
