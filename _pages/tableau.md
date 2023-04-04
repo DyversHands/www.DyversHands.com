@@ -11,8 +11,8 @@ toc_label: Tableau
 hide_description: true
 permalink: /games/Tableau/
 redirect_from:
-  - /Tableau
-  - /tableau
+  - /Tableau/
+  - /tableau/
 ---
 
 ## Tableau
