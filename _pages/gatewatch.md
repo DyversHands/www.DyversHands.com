@@ -21,13 +21,13 @@ redirect_from:
 
 Collaborative Cinematic Storytelling
 
-![Gate Watch - Cover (Transparent, Curved Corners, 750x1050)](assets/images/gatewatch2019/gate_watch_2019_cover_transparent_curvedcorners_750x1050){: height="50%" width="50%" }
+![Gate Watch - Cover (Transparent, Curved Corners, 750x1050)](/assets/images/gatewatch2019/gate_watch_2019_cover_transparent_curvedcorners_750x1050.png){: height="50%" width="50%" }
 
 You and your companions are members of the ***Gate Watch***—charged to keep an eye on the border between realms. Who built the gate? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the mystery of the Gate. Every game session is different, every world, every Gate unique.
 
 ***Gate Watch*** is a creative tabletop storytelling game for 2-5 players, where player interactions take the mystery of the Gate to dramatic resolution. It is diceless and GMless and uses 18 poker-sized cards, with rules on front and inspirational images on the back. You will also need two sheets of paper, some index cards, and some markers. The typical playtime is about 2-3 hours.
 
-![Gate Watch - Hand of Cards (Fronts, Alpha 750x563)](assets/images/gatewatch2019/gate_watch_handofcards_fronts_alpha_750x563.png)
+![Gate Watch - Hand of Cards (Fronts, Alpha 750x563)](/assets/images/gatewatch2019/gate_watch_handofcards_fronts_alpha_750x563.png)
 
 ## **Overview of Play**
 
@@ -181,37 +181,37 @@ More about the ludology behind this game in [Kickstarter Update #4: The Four Kin
 
   - Photo by Jacob W. Frank at [JWFrank.com]( https://JWFrank.com), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delicate_Arch_at_Night_with_Headlamp_%288708155337%29.jpg), licensed CC0.
 
- ![Gate Watch Backs (Thumbnail 125-175).002](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).001.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).002](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).001.jpeg)
 * Composited by Christopher Allen, from:
   * Photo by Prester Johnstock on [DeviantArt](https://presterjohnstock.deviantart.com/art/Pre-cut-Stone-Gateway-297527473), used with [permission](https://www.deviantart.com/presterjohnstock/journal/Devious-Journal-Entry-323881823).
   * Photo by Paul L Dineen on [Flickr](https://www.flickr.com/photos/pauldineen/19960011573), licensed CC-BY.
   * Photo by Chris Hoare on [Flickr](https://www.flickr.com/photos/u07ch/27766641595/), licensed CC-BY.
 
- ![Gate Watch Backs (Thumbnail 125-175).002](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).002.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).002](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).002.jpeg)
 
   - Photo by [MaxPixel](https://www.maxpixel.net/Input-House-Entrance-Closed-Door-Mystical-Goal-2020636), licensed CC0.
 
- ![Gate Watch Backs (Thumbnail 125-175).003](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).003.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).003](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).003.jpeg)
 
   - Photo by Hugh Cotter on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Poulnabrone_milkyway.jpg), licensed CC-BY-SA.
 
- ![Gate Watch Backs (Thumbnail 125-175).004](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).004.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).004](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).004.jpeg)
 
   - Photo by SabreGuy29 on [Flickr](https://www.flickr.com/photos/sabreguy29/2627172885/), licensed CC-BY.
 
- ![Gate Watch Backs (Thumbnail 125-175).005](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).005.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).005](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).005.jpeg)
 
   - Photo by Jorge Láscar on [Flickr]( https://www.flickr.com/photos/jlascar/12302239423/), licensed CC-BY.
 
- ![Gate Watch Backs (Thumbnail 125-175).006](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).006.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).006](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).006.jpeg)
 
   - Photo by Angel Schatz on [Flickr](https://www.flickr.com/photos/glamourschatz/2555159452/), licensed CC-BY.
 
- ![Gate Watch Backs (Thumbnail 125-175).007](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).007.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).007](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).007.jpeg)
 
   - Photo by [Pixabay]( https://pixabay.com/en/tree-cave-forest-nature-bark-log-976353/), licensed CC0.
 
- ![Gate Watch Backs (Thumbnail 125-175).008](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).008.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).008](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).008.jpeg)
 
   - Photo by Metropolitan Museum of Art, donated to [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Human-headed_winged_lion_(lamassu)_MET_DP252320.jpeg), licensed CC0.
 
@@ -219,34 +219,34 @@ More about the ludology behind this game in [Kickstarter Update #4: The Four Kin
 
   - Photo by Thomas Quine on [Flickr](https://www.flickr.com/photos/quinet/27128699670/), licensed CC-BY.
 
- ![Gate Watch Backs (Thumbnail 125-175).010](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).010.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).010](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).010.jpeg)
 
   - Photo by Jorge Tutor from jorgetutor.com from [kirikou.com](http://www.kirikou.com/alemania/baviera/Neuburg/Neuburg26.htm). Used with explicit permission.
 
- ![Gate Watch Backs (Thumbnail 125-175).011](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).011.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).011](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).011.jpeg)
 
   - Photo by Nikola Knezevic on [Unsplash](https://unsplash.com/photos/Q3JcLtECTtE), licensed Unsplash.
 
- ![Gate Watch Backs (Thumbnail 125-175).012](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).012.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).012](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).012.jpeg)
 
   - Photo by Kouji Tsuru on [Unsplash](https://unsplash.com/photos/tuskYdeKoYU), licensed Unsplash.
 
- ![Gate Watch Backs (Thumbnail 125-175).013](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).013.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).013](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).013.jpeg)
 
   - By Chris Chadd on [Pexels]( https://www.pexels.com/photo/light-trails-on-road-at-night-336413/), under Pexels license.
 
- ![Gate Watch Backs (Thumbnail 125-175).014](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).014.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).014](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).014.jpeg)
 
   - Photo from U.S. Army on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:US_Army_tanks_face_off_against_Soviet_tanks,_Berlin_1961.jpg), licensed CC0/Public Domain.
 
- ![Gate Watch Backs (Thumbnail 125-175).015](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).015.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).015](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).015.jpeg)
 
   - Original photo by Rafidio on [DeviantArt](https://www.deviantart.com/rafido/art/door-313337121), use granted with explicit permission.  Final derivate by [Pixabay](https://pixabay.com/en/door-landscape-fantasy-forest-1890746/), licensed CC0.
 
- ![Gate Watch Backs (Thumbnail 125-175).016](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).016.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).016](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).016.jpeg)
 
   - Photo by Miroslav Vajdic on [Flickr](https://www.flickr.com/photos/64079936@N08/28435019105), licensed CC-BY-SA.
 
- ![Gate Watch Backs (Thumbnail 125-175).017](assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).017.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).017](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).017.jpeg)
 
   - Photo from [Moby Games](https://www.mobygames.com/images/shots/l/371916-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.jpg), fair use as a promotional image.
