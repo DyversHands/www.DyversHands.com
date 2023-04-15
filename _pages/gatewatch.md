@@ -21,13 +21,13 @@ redirect_from:
 
 Collaborative Cinematic Storytelling
 
-![Gate Watch - Cover (Transparent, Curved Corners, 750x1050)](assets/images/gatewatch2019/Gate Watch - Cover (Transparent, Curved Corners, 750x1050).png){: height="50%" width="50%" }
+![Gate Watch - Cover (Transparent, Curved Corners, 750x1050)](assets/images/gatewatch2019/gate_watch_2019_cover_transparent_curvedcorners_750x1050){: height="50%" width="50%" }
 
 You and your companions are members of the ***Gate Watch***—charged to keep an eye on the border between realms. Who built the gate? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the mystery of the Gate. Every game session is different, every world, every Gate unique.
 
 ***Gate Watch*** is a creative tabletop storytelling game for 2-5 players, where player interactions take the mystery of the Gate to dramatic resolution. It is diceless and GMless and uses 18 poker-sized cards, with rules on front and inspirational images on the back. You will also need two sheets of paper, some index cards, and some markers. The typical playtime is about 2-3 hours.
 
-![Gate Watch - Hand of Cards (Fronts, Alpha 750x563)](assets/images/gatewatch2019/Gate Watch - Hand of Cards (Fronts, Alpha 750x563).png)
+![Gate Watch - Hand of Cards (Fronts, Alpha 750x563)](assets/images/gatewatch2019/gate_watch_handofcards_fronts_alpha_750x563.png)
 
 ## **Overview of Play**
 
