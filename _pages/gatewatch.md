@@ -177,7 +177,7 @@ More about the ludology behind this game in [Kickstarter Update #4: The Four Kin
 
 **Images:** All the images used in the game have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to me by the image creator.
 
- ![Gate Watch Backs (Thumbnail 125-175).018](images/Gate Watch Backs (Thumbnail 125-175).018.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).018](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).018.jpeg)
 
   - Photo by Jacob W. Frank at [JWFrank.com]( https://JWFrank.com), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delicate_Arch_at_Night_with_Headlamp_%288708155337%29.jpg), licensed CC0.
 
@@ -215,7 +215,7 @@ More about the ludology behind this game in [Kickstarter Update #4: The Four Kin
 
   - Photo by Metropolitan Museum of Art, donated to [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Human-headed_winged_lion_(lamassu)_MET_DP252320.jpeg), licensed CC0.
 
- ![Gate Watch Backs (Thumbnail 125-175).009](images/Gate Watch Backs (Thumbnail 125-175).009.jpeg)
+ ![Gate Watch Backs (Thumbnail 125-175).009](/assets/images/gatewatch2019/credit-thumbs/Gate Watch Backs (Thumbnail 125-175).009.jpeg)
 
   - Photo by Thomas Quine on [Flickr](https://www.flickr.com/photos/quinet/27128699670/), licensed CC-BY.
 
