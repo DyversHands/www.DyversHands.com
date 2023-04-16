@@ -5,7 +5,7 @@ header:
   overlay_filter: "0.25"
   overlay_image: /images/qr-background.jpg
   og_image: /images/gatewatch-card.jpg
-title: Gate Watch
+title: Tableau&#58; Gate Watch
 hide_description: true
 classes:
   - wide
@@ -17,7 +17,7 @@ redirect_from:
 
 ---
 
-_(if you are looking for the 2019 version of Gate Watch, an archive details about the game is [here](/GateWatch2019).)_
+> _(if you are looking for the 2019 version of Gate Watch, with 18 cards, there are details about that game in our [archive](/GateWatch2019).)_
 
 # ***Tableau:*** *Gate Watch* 🚪 Playset
 
