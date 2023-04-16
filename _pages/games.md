@@ -7,9 +7,12 @@ header:
   og_image: /images/games-card.jpg
 title: Our Games
 toc: true
-toc_label: Games
+toc_label: Our Games
 hide_description: true
 permalink: /games/
+redirect_from:
+  - /Games
+
 ---
 
 # CURRENT GAMES
@@ -25,19 +28,21 @@ Tableau helps you create a satisfying cinematic storytelling experience over the
 * The choices of different cards offer you “composable” rules, giving you a flexible framework to create and control your characters and explore a range of story genres and play styles.
 * Tableau also offers a number of Playsets🎞 that package together specific rules & cards to create specific kinds of stories. Twilight Road🛣️ and Gate Watch🚪  are the first two of a number of Playsets🎞 to come.
 
-> *“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.”* — **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
+> *“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.”* ~ **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
 
-[More details on Tableau…](/Tableau)
+[More details about Tableau…](/Tableau)
 
-### Tableau Playsets
+#### **Gate Watch** 🚪 *Playset*
 
-#### Tableau: Gate Watch 
+The **Gate Watch** 🚪 *Playset* is geared toward telling stories about living on borders and edges. You and your companions are members of the **Gate Watch – charged to monitor the border between realms. Who built The Gate? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the Enigma that is The Gate. Every session reveals new gates and unique worlds to explore.
 
-Gatewatch is geared toward telling stories about living on borders and edges. You and your companions are members of the Gate Watch – charged to monitor the border between realms. Who built The Gate? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the Enigma that is The Gate. Every session reveals new gates and unique worlds to explore.
+[More details about **Gate Watch** 🚪](/GateWatch)
 
-#### Tableau: Twilight Road
+#### **Twilight Road** 🛣️ *Playset*
 
-The Twilight Road playset focuses on helping you and your friends tell life-changing road stories. Embark on a transformative journey as fellow travelers. Explore the twists and turns of the journey, making choices and facing trials that will shape your destiny. Whether you reach your destination or return home, the experience will change you. These are the stories of the Twilight Road, and with every game session, each road and journey will be unique.
+The **Twilight Road** 🛣️ *Playset* focuses on helping you and your friends tell life-changing road stories. Embark on a transformative journey as fellow travelers. Explore the twists and turns of the journey, making choices and facing trials that will shape your destiny. Whether you reach your destination or return home, the experience will change you. These are the stories of the Twilight Road, and with every game session, each road and journey will be unique.
+
+[More details about **Twilight Road** 🛣️:](/Twilight Road)
 
 ## OLDER GAMES
 
