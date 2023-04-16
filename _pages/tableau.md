@@ -5,7 +5,8 @@ header:
   overlay_filter: "0.25"
   overlay_image: /images/qr-background.jpg
   og_image: /images/games-card.jpg
-title: Tableau&#58; Collaborative Cinematic Storytelling
+title: Tableau
+subtitle: Collaborative Cinematic Storytelling
 toc: true
 toc_label: Tableau
 hide_description: true
