@@ -5,19 +5,21 @@ header:
   overlay_filter: "0.25"
   overlay_image: /images/qr-background.jpg
   og_image: /images/gatewatch-card.jpg
-title: Gate Watch
+title: Gate Watch 2019
 hide_description: true
 classes:
   - wide
 permalink: /games/gatewatch2019/
 redirect_from:
-  - /gatewatch
-  - /GateWatch
-  - /Gatewatch
+  - /gatewatch2019
+  - /GateWatch2019
+  - /Gatewatch2019
 
 ---
 
-# Gate Watch
+_(If you are looking for details about current version of Tableau: Gate Watch, it is [here](/GateWatch).)_
+
+# Gate Watch (2019)
 
 Collaborative Cinematic Storytelling
 
