@@ -12,13 +12,32 @@ hide_description: true
 permalink: /games/
 ---
 
-## CURRENT GAMES
+# CURRENT GAMES
 
-### Tableau
+## Tableau
 
-[***Tableau*** Kickstarter](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi) - Discover the joy of collaborative storytelling with ***Tableau***, a versatile game system that encourages creativity and character development across diverse genres. Pledge your support on Kickstarter today and be among the first to experience immersive, narrative-driven gameplay with our first playsets.
+***Collaborative Cinematic Storytelling***
 
-- **Playsets:** <a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue"></a> Explore the storytelling themes of ***Tableau:*** **Twilight Road**🛣 **&** **Gate Watch**🚪 playsets in this 2-minute promo video! Immerse yourself in the rich narratives and inspiring images of both playsets, showcasing the endless possibilities for collaborative storytelling and cinematic adventures. [Pledge now!](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi)) 
+***Tableau*** is a GMless storytelling game system for 2-5 players, played using poker-sized cards featuring rules & inspirational images. Each playset includes everything you need to play except for your own index cards, markers and sheets of paper, and optionally one six-sided dice. The typical playtime is 2-3 hours. Twilight Road🛣️  & Gate Watch🚪 cards may be mixed & matched with each other and with future Tableau Games playsets.
+
+Tableau helps you create a satisfying cinematic storytelling experience over the course of just a few hours.
+* Together you will build an intriguing & impactful story without the need for advance preparation or a designated gamemaster or * narrator.
+* The choices of different cards offer you “composable” rules, giving you a flexible framework to create and control your characters and explore a range of story genres and play styles.
+* Tableau also offers a number of Playsets🎞 that package together specific rules & cards to create specific kinds of stories. Twilight Road🛣️ and Gate Watch🚪  are the first two of a number of Playsets🎞 to come.
+
+> *“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.”* — **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
+
+[More details on Tableau…](/Tableau)
+
+### Tableau Playsets
+
+#### Tableau: Gate Watch 
+
+Gatewatch is geared toward telling stories about living on borders and edges. You and your companions are members of the Gate Watch – charged to monitor the border between realms. Who built The Gate? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the Enigma that is The Gate. Every session reveals new gates and unique worlds to explore.
+
+#### Tableau: Twilight Road
+
+The Twilight Road playset focuses on helping you and your friends tell life-changing road stories. Embark on a transformative journey as fellow travelers. Explore the twists and turns of the journey, making choices and facing trials that will shape your destiny. Whether you reach your destination or return home, the experience will change you. These are the stories of the Twilight Road, and with every game session, each road and journey will be unique.
 
 ## OLDER GAMES
 

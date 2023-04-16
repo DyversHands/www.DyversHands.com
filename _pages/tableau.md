@@ -19,14 +19,13 @@ redirect_from:
 
 ## Tableau
 
-***Collaborative Cinematic Storytelling***
+Tableau is a storytelling game system that emphasizes collaborative storytelling and character development. The game's mechanics are designed to be flexible, allowing players to create stories in just a few hours from a wide variety of genres and styles without the need for advanced preparation or a designated game master.
 
-***Tableau*** is a GMless storytelling game system for 2-5 players, played using poker-sized cards featuring rules & inspirational images. Each playset includes everything you need to play except for your own index cards, markers and sheets of paper, and optionally one six-sided dice. The typical playtime is 2-3 hours. Twilight Road🛣️  & Gate Watch🚪 cards may be mixed & matched with each other and with future Tableau Games playsets.
+Tableau consists of a set of rules cards and a variety of story cards that establish themes, moods, settings, and character traits. Players use these cards to collaboratively create a story, with each scene focusing on a single question and building toward a satisfying cinematic narrative.
 
-Tableau helps you create a satisfying cinematic storytelling experience over the course of just a few hours.
-* Together you will build an intriguing & impactful story without the need for advance preparation or a designated gamemaster or * narrator.
-* The choices of different cards offer you “composable” rules, giving you a flexible framework to create and control your characters and explore a range of story genres and play styles.
-* Tableau also offers a number of Playsets🎞 that package together specific rules & cards to create specific kinds of stories. Twilight Road🛣️ and Gate Watch🚪  are the first two of a number of Playsets🎞 to come.
+The system is designed to be approachable for players of all skill levels and encourages creativity and player agency. Tableau is ideal for players who enjoy immersive role-playing and narrative-focused gameplay.
+
+Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau is a great choice for anyone looking to tell their own stories in a collaborative and engaging way.
 
 ### Reviewer Quotes
 
