@@ -27,6 +27,10 @@ The system is designed to be approachable for players of all skill levels and en
 
 Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau is a great choice for anyone looking to tell their own stories in a collaborative and engaging way.
 
+### Mailing List
+
+Subscribe to our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH).
+
 ### Reviewer Quotes
 
 > *“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.”* — **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
