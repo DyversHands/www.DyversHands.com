@@ -16,7 +16,7 @@ redirect_from:
   - /tableau/
 gallery:
   - url: /TwilightRoad
-    image_path: /assets/images/twilightroad/watch/twilight_road_cover_thumb_188_256.png
+    image_path: /assets/images/twilightroad/twilight_road_cover_thumb_188_256.png
     alt: "Tableau: Twilight Road Playset Cover Card"
     title: "Tableau: Twilight Road Playset"
   - url: /GateWatch
