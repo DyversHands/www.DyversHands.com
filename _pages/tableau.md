@@ -16,11 +16,11 @@ gallery:
   - url: /TwilightRoad
     image_path: /assets/images/twilightroad/twilight_road_cover_thumb_188_256.png
     alt: "Tableau: Twilight Road Playset Cover Card"
-    title: "Tableau: Twilight Road&#128739;"
+    title: "Tableau: Twilight Road"
   - url: /GateWatch
    image_path: /assets/images/gatewatch/gate_watch_cover_thumb_188_256.png
     alt: "Tableau: Twilight Road Playset Cover Card"
-    title: "Tableau: Gate Watch Playset&#128682;"
+    title: "Tableau: Gate Watch Playset"
   - url: /Improv
     image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
