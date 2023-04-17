@@ -15,17 +15,17 @@ feature_row:
   - url: /TwilightRoad
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_thumb_183_256.png
     alt: "Twilight Road Playset Cover Card"
-    title: "Twilight Road Playset"
-    excerpt: "You are fellow travelers on the Twilight Road. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed."
+    title: "Twilight Road &#128739;"
+    excerpt: "You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed."
   - url: /GateWatch
     image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_thumb_183_256.png
     alt: "Gate Watch Playset Cover Card"
-    title: "Gate Watch Playset"
-    excerpt: "You and your companions are members of the Gate Watch – charged to monitor the border between realms. Who built The Gate? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the Enigma that is The Gate."
+    title: "Gate Watch &#128682;"
+    excerpt: "You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms. Who built **The Gate**? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the **Enigma** that is **The Gate**."
   - url: /Improv
     image_path: /assets/images/games/tableau/improv/improv_cover_thumb_183_256.png
     alt: "Tableau Improv Playset Cover Card"
-    title: "Improv Playset"
+    title: "Improv &#127914;"
     excerpt: "Collaborate to create unforgettable narratives across genres and emotions. Embrace the spirit of improvisation as you build stories together, forming unexpected bonds along the way. Immerse yourself in a journey through spontaneous, unscripted storytelling as you weave unique tales together, one scene at a time."
 ---
 
