@@ -26,7 +26,7 @@ gallery:
 
 ## Tableau
 
-{% include gallery caption="Tableau Playsets:" %}
+{% include gallery %}
 
 Tableau is a storytelling game system that emphasizes collaborative storytelling and character development. The game's mechanics are designed to be flexible, allowing players to create stories in just a few hours from a wide variety of genres and styles without the need for advanced preparation or a designated game master.
 
