@@ -43,7 +43,7 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 ## Tableau Playsets
 
-{% include gallery %}
+{% include feature_row %}
 
 ## Reviewer Quotes
 
