@@ -22,6 +22,7 @@ gallery:
     image_path: /assets/images/improv/improv_cover_thumb_183_256.png
     alt: "Tableau Improv Playset Cover Card"
 ---
+
 At Dyvers Hands Productions, we craft collaborative storytelling experiences across various media, focusing on games, shared worlds, and beyond. Our passion lies in uniting creators to build unforgettable stories that inspire.
 
 # Tableau Games
