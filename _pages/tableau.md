@@ -3,7 +3,7 @@ cover: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/twilightroad/twilight_road_banner-1600-212.jpg
+  overlay_image: /assets/images/twilightroad/twilight_road_banner_1600_212.jpg
   og_image: /images/games-card.jpg
 title: Tableau
 subtitle: Collaborative Cinematic Storytelling
@@ -14,6 +14,19 @@ permalink: /games/Tableau/
 redirect_from:
   - /Tableau/
   - /tableau/
+gallery:
+  - url: /TwilightRoad
+    image_path: /assets/images/twilightroad/watch/twilight_road_cover_thumb_188_256.png
+    alt: "Tableau: Twilight Road Playset Cover Card"
+    title: "Tableau: Twilight Road Playset"
+  - url: /GateWatch
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /Improv
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 ---
 
 (This page is still under construction - our [April Kickstarter](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi) has the most recent details)
