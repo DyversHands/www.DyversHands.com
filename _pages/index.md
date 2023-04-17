@@ -12,7 +12,7 @@ classes:
   - wide
 permalink: /index.html
 feature_row:
-   - url: /TwilightRoad
+  - url: /TwilightRoad
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_thumb_183_256.png
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road Playset"
