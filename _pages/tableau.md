@@ -3,8 +3,8 @@ cover: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/twilightroad/twilight_road_banner_1600_212.jpg
-  og_image: /images/games-card.jpg
+  overlay_image: /assets/images/games/tableau/twilightroad/twilight_road_banner_1600_212.jpg
+  og_image: assets/images/games/tableau/twilightroad/twilight_road_card.jpg
 title: Tableau
 subtitle: Collaborative Cinematic Storytelling
 hide_description: true
@@ -16,13 +16,13 @@ redirect_from:
   - /tableau/
 gallery:
   - url: /TwilightRoad
-    image_path: /assets/images/twilightroad/twilight_road_cover_thumb_183_256.png
+    image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_thumb_183_256.png
     alt: "Twilight Road Playset Cover Card"
   - url: /GateWatch
-    image_path: /assets/images/gatewatch/gate_watch_cover_thumb_183_256.png
+    image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_thumb_183_256.png
     alt: "Twilight Road Playset Cover Card"
   - url: /Improv
-    image_path: /assets/images/improv/improv_cover_thumb_183_256.png
+    image_path: /assets/images/games/tableau/improv/improv_cover_thumb_183_256.png
     alt: "Tableau Improv Playset Cover Card"
 ---
 <a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue; margin-left: 5px"></a> ***Tableau*** is a storytelling game system that emphasizes collaborative storytelling and character development. The game's mechanics are designed to be flexible, allowing players to create stories in just a few hours from a wide variety of genres and styles without the need for advanced preparation or a designated game master.
