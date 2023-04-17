@@ -23,6 +23,8 @@ gallery:
     image_path: /assets/images/improv/improv_cover_thumb_183_256.png
     alt: "Tableau Improv Playset Cover Card"
 ---
+## Tableau Games
+
 <a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue"></a> ***Tableau*** is a storytelling game system that emphasizes collaborative storytelling and character development. The game's mechanics are designed to be flexible, allowing players to create stories in just a few hours from a wide variety of genres and styles without the need for advanced preparation or a designated game master.
 
 ***Tableau*** consists of a set of rules cards and a variety of story cards that establish themes, moods, settings, and character traits. Players use these cards to collaboratively create a story, with each scene focusing on a single question and building toward a satisfying cinematic narrative.
@@ -30,6 +32,8 @@ gallery:
 The system is designed to be approachable for players of all skill levels and encourages creativity and player agency. Tableau is ideal for players who enjoy immersive role-playing and narrative-focused gameplay.
 
 Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau is a great choice for anyone looking to tell their own stories in a collaborative and engaging way.
+
+## Tableau Playsets
 
 {% include gallery %}
 
