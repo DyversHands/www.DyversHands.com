@@ -15,16 +15,16 @@ redirect_from:
 gallery:
   - url: /TwilightRoad
     image_path: /assets/images/twilightroad/twilight_road_cover_thumb_188_256.png
-    alt: "Tableau: Twilight Road Playset Cover Card"
-    title: "Tableau: Twilight Road"
+    alt: "Tableau&#58; Twilight Road Playset Cover Card"
+    title: "Tableau&#58; Twilight Road&#128739; Playset"
   - url: /GateWatch
    image_path: /assets/images/gatewatch/gate_watch_cover_thumb_188_256.png
-    alt: "Tableau: Twilight Road Playset Cover Card"
-    title: "Tableau: Gate Watch Playset"
+    alt: "Tableau&#58; Twilight Road Playset Cover Card"
+    title: "Tableau&#58; Gate Watch&#128682; Playset"
   - url: /Improv
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+   image_path: /assets/images/improv/gate_watch_cover_thumb_188_256.png
+    alt: "Tableau&#58; Improv Playset Cover Card"
+    title: "Tableau&#58; Improv&#127914; Playset"
 ---
 
 (This page is still under construction - our [April Kickstarter](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi) has the most recent details)
