@@ -16,13 +16,13 @@ redirect_from:
   - /tableau/
 gallery:
   - url: /TwilightRoad
-    image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_thumb_750_1050.png
+    image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
     alt: "Twilight Road Playset Cover Card"
   - url: /GateWatch
-    image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_thumb_750_1050.png
+    image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
     alt: "Twilight Road Playset Cover Card"
   - url: /Improv
-    image_path: /assets/images/games/tableau/improv/improv_cover_thumb_750_1050.png
+    image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
 ---
 <a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue; margin-left: 5px"></a> ***Tableau*** is a storytelling game system that emphasizes collaborative storytelling and character development. The game's mechanics are designed to be flexible, allowing players to create stories in just a few hours from a wide variety of genres and styles without the need for advanced preparation or a designated game master.
