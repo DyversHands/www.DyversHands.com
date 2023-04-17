@@ -27,8 +27,6 @@ gallery:
     title: "Tableau&#58; Improv&#127914; Playset"
 ---
 
-(This page is still under construction - our [April Kickstarter](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi) has the most recent details)
-
 ## Tableau
 
 {% include gallery caption="Tableau Playsets:" %}
@@ -50,6 +48,10 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 ### Mailing List
 
 Subscribe to our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH).
+
+
+
+(This rest of this page is still under construction - our [April Kickstarter](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi) has the most recent details)
 
 ### About the Gate Watch🚪 Playset🎞
 
