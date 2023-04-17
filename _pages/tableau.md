@@ -16,13 +16,13 @@ redirect_from:
   - /tableau/
 gallery:
   - url: /TwilightRoad
-    image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_thumb_183_256.png
+    image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_thumb_750_1050.png
     alt: "Twilight Road Playset Cover Card"
   - url: /GateWatch
-    image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_thumb_183_256.png
+    image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_thumb_750_1050.png
     alt: "Twilight Road Playset Cover Card"
   - url: /Improv
-    image_path: /assets/images/games/tableau/improv/improv_cover_thumb_183_256.png
+    image_path: /assets/images/games/tableau/improv/improv_cover_thumb_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
 ---
 <a href="https://www.youtube.com/watch?v=eWMsySbdm_0"><img src="https://img.youtube.com/vi/eWMsySbdm_0/mqdefault.jpg" style="float: right; border: 2px solid blue; margin-left: 5px"></a> ***Tableau*** is a storytelling game system that emphasizes collaborative storytelling and character development. The game's mechanics are designed to be flexible, allowing players to create stories in just a few hours from a wide variety of genres and styles without the need for advanced preparation or a designated game master.
@@ -42,16 +42,6 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 > *“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.”* — **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
 
 > *“Gate Watch is an intriguing, distilled world-crafting, story-telling, and role-playing experience in the guise of a simple game. I wouldn't be surprised if some of the principles it is based on are used in basic literary, plot-writing or directing courses. Involve everybody around the table and collaboratively set the background through a pool of questions. Create exciting scenes involving both the background and the participating characters with nothing but narration. Dice? Nah, too random. Cards? Yes, but only a handful. Rules? Less than a single page. Duration? As long as you wish. Fun? Loads! The game can explore any setting and genre you want it to, with everybody simultaneously starring and directing. Veteran gamer? Hardcore role-player? Total newbie? It doesn't matter. All you need is a vivid imagination.”* **— Antonios S, RPGnet Reviewer & Columnist (about the 1st edition of Gate Watch).**
-
-## Tableau Kickstarter Success!
-
-Our Tableau Games Kickstarter campaign, which ended on April 18th, was a resounding success! Thanks to the incredible support of our backers, we can bring the first three ***Tableau Games*** playsets of Twilight Road, Gate Watch, and Improv to life.
-
-Our current focus is to fulfill the orders of our Kickstarter backers, ensuring that they receive their playsets as soon as possible. We are working diligently to ensure a smooth and timely delivery of all rewards.
-
-For those who missed our Kickstarter campaign, don't worry! We plan to make all three playsets available to the public via DriveThruCards and Indie Press Revolution by mid-summer. You'll soon have the opportunity to dive into the captivating worlds of Tableau Games and experience the unique and customizable storytelling it offers.
-
-We're grateful for the amazing support we've received from our backers and the community. As we embark on this new adventure, we're eager to see the incredible stories you'll create with Tableau Games. Let's come together and remember, "The best stories are the ones we tell together!"
 
 ### Mailing List
 

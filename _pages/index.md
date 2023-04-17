@@ -13,17 +13,17 @@ classes:
 permalink: /index.html
 feature_row:
   - url: /TwilightRoad
-    image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_thumb_375_525.png
+    image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_thumb_750_1050.png
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road &#128739;"
     excerpt: "You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed."
   - url: /GateWatch
-    image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_thumb_375_525.png
+    image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_thumb_750_1050.png
     alt: "Gate Watch Playset Cover Card"
     title: "Gate Watch &#128682;"
     excerpt: "You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms. Who built **The Gate**? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the **Enigma** that is **The Gate**."
   - url: /Improv
-    image_path: /assets/images/games/tableau/improv/improv_cover_thumb_375_525.png
+    image_path: /assets/images/games/tableau/improv/improv_cover_thumb_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
     title: "Improv &#127914;"
     excerpt: "Collaborate to create unforgettable narratives across genres and emotions. Embrace the spirit of improvisation as you build stories together, forming unexpected bonds along the way. Immerse yourself in a journey through spontaneous, unscripted storytelling as you weave unique tales together, one scene at a time."
@@ -48,8 +48,6 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 ## Reviewer Quotes
 
 > *“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.”* — **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
-
-> *“Gate Watch is an intriguing, distilled world-crafting, story-telling, and role-playing experience in the guise of a simple game. I wouldn't be surprised if some of the principles it is based on are used in basic literary, plot-writing or directing courses. Involve everybody around the table and collaboratively set the background through a pool of questions. Create exciting scenes involving both the background and the participating characters with nothing but narration. Dice? Nah, too random. Cards? Yes, but only a handful. Rules? Less than a single page. Duration? As long as you wish. Fun? Loads! The game can explore any setting and genre you want it to, with everybody simultaneously starring and directing. Veteran gamer? Hardcore role-player? Total newbie? It doesn't matter. All you need is a vivid imagination.”* **— Antonios S, RPGnet Reviewer & Columnist (about the 1st edition of Gate Watch).**
 
 ## News
 
