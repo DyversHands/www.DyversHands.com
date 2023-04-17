@@ -7,8 +7,6 @@ header:
   og_image: /images/games-card.jpg
 title: Tableau
 subtitle: Collaborative Cinematic Storytelling
-toc: true
-toc_label: Tableau
 hide_description: true
 permalink: /games/Tableau/
 redirect_from:
@@ -33,6 +31,8 @@ gallery:
 
 ## Tableau
 
+{% include gallery caption="Tableau Playsets:" %}
+
 Tableau is a storytelling game system that emphasizes collaborative storytelling and character development. The game's mechanics are designed to be flexible, allowing players to create stories in just a few hours from a wide variety of genres and styles without the need for advanced preparation or a designated game master.
 
 Tableau consists of a set of rules cards and a variety of story cards that establish themes, moods, settings, and character traits. Players use these cards to collaboratively create a story, with each scene focusing on a single question and building toward a satisfying cinematic narrative.
@@ -41,17 +41,15 @@ The system is designed to be approachable for players of all skill levels and en
 
 Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau is a great choice for anyone looking to tell their own stories in a collaborative and engaging way.
 
-{% include gallery caption="Tableau Playsets:" %}
-
-### Mailing List
-
-Subscribe to our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH).
-
 ### Reviewer Quotes
 
 > *“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.”* — **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
 
 > *“Gate Watch is an intriguing, distilled world-crafting, story-telling, and role-playing experience in the guise of a simple game. I wouldn't be surprised if some of the principles it is based on are used in basic literary, plot-writing or directing courses. Involve everybody around the table and collaboratively set the background through a pool of questions. Create exciting scenes involving both the background and the participating characters with nothing but narration. Dice? Nah, too random. Cards? Yes, but only a handful. Rules? Less than a single page. Duration? As long as you wish. Fun? Loads! The game can explore any setting and genre you want it to, with everybody simultaneously starring and directing. Veteran gamer? Hardcore role-player? Total newbie? It doesn't matter. All you need is a vivid imagination.”* **— Antonios S, RPGnet Reviewer & Columnist (about the 1st edition of Gate Watch).**
+
+### Mailing List
+
+Subscribe to our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH).
 
 ### About the Gate Watch🚪 Playset🎞
 
