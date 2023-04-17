@@ -15,16 +15,13 @@ redirect_from:
 gallery:
   - url: /TwilightRoad
     image_path: /assets/images/twilightroad/twilight_road_cover_thumb_188_256.png
-    alt: "Tableau&#58; Twilight Road Playset Cover Card"
-    title: "Tableau&#58; Twilight Road Playset"
+    alt: "Twilight Road Playset Cover Card"
   - url: /GateWatch
-   image_path: /assets/images/gatewatch/gate_watch_cover_thumb_188_256.png
-    alt: "Tableau&#58; Twilight Road Playset Cover Card"
-    title: "Tableau&#58; Gate Watch Playset"
+    image_path: /assets/images/gatewatch/gate_watch_cover_thumb_188_256.png
+    alt: "Twilight Road Playset Cover Card"
   - url: /Improv
-   image_path: /assets/images/improv/improv_cover_thumb_188_256.png
-    alt: "Tableau&#58; Improv Playset Cover Card"
-    title: "Tableau&#58; Improv Playset"
+    image_path: /assets/images/improv/improv_cover_thumb_188_256.png
+    alt: "Tableau Improv Playset Cover Card"
 ---
 
 ## Tableau
