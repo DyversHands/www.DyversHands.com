@@ -41,6 +41,8 @@ The system is designed to be approachable for players of all skill levels and en
 
 Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau is a great choice for anyone looking to tell their own stories in a collaborative and engaging way.
 
+[About Tableau Games](/Tableau){: .btn .btn--inverse}
+
 ## Tableau Playsets
 
 {% include feature_row %}
