@@ -16,22 +16,26 @@ redirect_from:
   - /Gatewatch
   - /games/gatewatch
 ---
-
-**Gate Watch 2019:** if you are looking for the older version of Gate Watch, from Kickstarter 2019 with 18 cards, there are details about that game in our [archive](/GateWatch2019).)_
+**Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets, including **Gate Watch** 🚪, concluded April 17th and was fully funded. For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
 {: .notice--success}
+
+**Gate Watch 2019:** if you are looking for the older version of Gate Watch, from Kickstarter 2019 with 18 cards, there are details about that game in our [archive](/GateWatch2019).)
+{: .notice--warning}
 
 # ***Tableau:*** *Gate Watch* 🚪 Playset
 
-**Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets ended April 17th and was fully funded. For more details and our roadmap, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
-{: .notice--success}
+![Tableau: Gate Watch 🚪 Playset - Cover Card](/assets/images/games/tableau/gatewatch/gate_watch_cover_375_525.png){: style="float:right; padding:16px"}
 
-![Tableau: Twilight Road 🛣 Playset - Cover Card](/assets/images/games/tableau/gatewatch/gate_watch_cover_375_525.png){: style="float:right; padding:16px"}
+_You and your companions are members of the **Gate Watch** 🚪 – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the *Enigma* that is *The Gate*. Every game session is different, every world, every gate unique._
 
-_You and your companions are members of the **Gate Watch** – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the *Enigma* that is *The Gate*. Every game session is different, every world, every gate unique._
+_Venture into the mysterious as you stand at the edge between worlds, unraveling mysteries and facing the unknown. Delve into themes of exploration, trust, and loyalty as you guard the threshold. Experience a gripping adventure filled with enigmas, challenges, and characters from many cultures and enigmatic beings as you navigate the precarious balance that is the **Gate Watch** 🚪._
 
-## Kinds of Gate Watch 🛣 Stories:
+Tableau offers cinematic storytelling in 2-3 hours, with no prep or GM required. Composable rules on poker-sized cards provide multiple playsets for versatile gameplay with 2-5 players, ages 14 and up. Explore the opportunities for collaborative storytelling and thrilling cinematic adventures possible with **Gate Watch** 🚪  and the ***Tableau Games*** system.
 
-![Tableau Twilight Road 🛣 Playset - Inspiration Card](/assets/images/games/tableau/gatewatch/gate_watch_inspirations_1500_1050.png)
+
+## Kinds of Gate Watch 🚪 Stories:
+
+![Tableau: Gate Watch 🚪 Playset - Inspiration Card](/assets/images/games/tableau/gatewatch/gate_watch_inspirations_1500_1050.png)
 
 ## Reviewer Quotes
 
