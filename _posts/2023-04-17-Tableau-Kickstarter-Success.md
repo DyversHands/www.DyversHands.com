@@ -19,6 +19,8 @@ classes:
 
 ![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg){: .align-left}
 
+<p/>
+
 We are thrilled to announce that our ***Tableau Games*** Kickstarter campaign, which ended on April 17th, was a resounding success! We are deeply grateful for the overwhelming support of our backers, who have made it possible for us to bring ***Tableau Games*** to life and expand its reach within the storytelling community.
 
 This ***Tableau*** Kickstarter featured our inaugural three playsets: **Twilight Road**, **Gate Watch** and **Improv**. With your support, we brought these narrative-driven playsets to life, to allow other players to experience the joy of collaborative storytelling and weaving unforgettable tales together.

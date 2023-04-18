@@ -24,7 +24,7 @@ At [Dyvers Hands Productions](/About), we craft collaborative storytelling exper
 
 [Read More](/Tableau){: .btn .btn--inverse}
 
-## Latest News
+## Latest News about Dyvers Hands
 
 <ul>
 {% for post in site.posts limit: 7 %}

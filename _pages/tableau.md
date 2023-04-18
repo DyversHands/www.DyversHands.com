@@ -62,7 +62,7 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 {% include feature_row %}
 
-## Tableau Games Recent News
+## Latest News about Tableau Games
 
 <ul>
   {% for post in site.categories.Tableau limit: 7 %}
