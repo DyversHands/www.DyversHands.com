@@ -27,7 +27,7 @@ feature_row:
     image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
     alt: "Gate Watch Playset Cover Card"
     title: "Gate Watch &#128682;"
-    excerpt: "You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms. Who built **The Gate**? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the **Enigma** that is **The Gate**. Every game session is different, every world, every gate unique."
+    excerpt: "You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the *Enigma* that is *The Gate*. Every game session is different, every world, every gate unique."
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - url: /Improv
