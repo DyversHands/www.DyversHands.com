@@ -35,4 +35,5 @@ Discover the rich narratives possible with the Tableau: Twilight Road🛣 playse
 
 ## Kinds of Twilight Road 🛣 Stories:
 
-"Tableau Twilight Road 🛣 Playset - Inspiration Card"
+![Tableau Twilight Road 🛣 Playset - Inspiration Card](/assets/images/games/tableau/twilightroad/twilight_road_inspirations_1500_1050.png)
+
