@@ -29,12 +29,12 @@ feature_row:
     excerpt: "Collaborate to create unforgettable narratives across genres and emotions. Embrace the spirit of improvisation as you build stories together, forming unexpected bonds along the way. Immerse yourself in a journey through spontaneous, unscripted storytelling as you weave unique tales together, one scene at a time."
 ---
 
+**Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets ended April 17th and was fully funded. For more details and our roadmap, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
+{: .notice--success}
+
 At [Dyvers Hands Productions](/About), we craft collaborative storytelling experiences across various media, focusing on games, shared worlds, and beyond. Our passion lies in uniting creators to build unforgettable stories that inspire.
 
 # Tableau Games
-
-**Kickstarter Campaign:** Our Kickstarter campaign for the first two ***Tableau*** playsets was a success. See [News](/news/Tableau-Kickstarter-Success/).
-{: .notice--success}
 
 {% include video id="eWMsySbdm_0" provider="youtube" %}
 
@@ -46,7 +46,7 @@ The system is designed to be approachable for players of all skill levels and en
 
 Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau is a great choice for anyone looking to tell their own stories in a collaborative and engaging way.
 
-[About Tableau Games](/Tableau) {: .btn .btn--inverse} {al}
+[About Tableau Games](/Tableau) {: .btn .btn--inverse .align-center}
 
 ## Tableau Playsets
 
