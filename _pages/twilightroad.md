@@ -19,13 +19,20 @@ redirect_from:
 
 # ***Tableau:*** *Twilight Road* 🛣️ Playset
 
-image; "Tableau: Twilight Road 🛣 Playset - Cover Card"
+![Tableau: Twilight Road 🛣 Playset - Cover Card](/assets/images/games/tableau/twilightroad/twilight_road_cover_375_525.png){: .align-center}
 
-You are fellow travelers on the Twilight Road. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed.
+_You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed. These are the stories of the ***Twilight Road***. Every game session is different, every road, every journey is unique._
 
-These are the stories of the Twilight Road. Every game session is different, every road, every journey is unique.
+Embark on a journey of self-discovery and personal growth. Unravel the themes of identity, purpose, and belonging as you navigate THE ROAD filled with choices, challenges, and intriguing characters.  Experience a transformative journey filled with choices, challenges, and intriguing characters as you navigate the winding path of Twilight Road🛣.
+
+Tableau offers cinematic storytelling in 2-3 hours, with no prep or GM required. Composable rules on poker-sized cards provide multiple playsets for versatile gameplay with 2-5 players, ages 14 and up. Playsets. Explore the opportunities for collaborative storytelling and thrilling cinematic adventures possible with Tableau: Twilight Road🛣 & Gate Watch🚪 playsets and the Tableau game system.
+
+## Video Overview
+
+Discover the rich narratives possible with the Tableau: Twilight Road🛣 playset in this detailed 14m video overview! 
+
+{% include video id="2RXgaNzKSXE" provider="youtube" %}
 
 ## Kinds of Twilight Road 🛣 Stories:
 
 "Tableau Twilight Road 🛣 Playset - Inspiration Card"
-
