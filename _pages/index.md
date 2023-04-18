@@ -48,7 +48,6 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 [About Tableau Games](/Tableau)
 {: .btn .btn--inverse}
-{: .align-center}
 
 ## Tableau Playsets
 
