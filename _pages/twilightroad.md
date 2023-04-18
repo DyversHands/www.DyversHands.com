@@ -21,9 +21,7 @@ redirect_from:
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png" alt="Tableau: Twilight Road 🛣 Playset - Cover Card" width=375>
 
-![Tableau: Twilight Road 🛣 Playset - Cover Card]({{ site.url }}{{ site.baseurl }}/assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png | width=375)
-
-![Tableau: Twilight Road 🛣 Playset - Cover Card](/assets/images/games/tableau/twilightroad/twilight_road_cover_375_425.png){: .align-center}
+![Tableau: Twilight Road 🛣 Playset - Cover Card](/assets/images/games/tableau/twilightroad/twilight_road_cover_375_525.png){: .align-center}
 
 _You are fellow travelers on the **Twilight Road**. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed. These are the stories of the **Twilight Road**. Every game session is different, every road, every journey is unique._
 
