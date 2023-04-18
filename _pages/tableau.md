@@ -20,7 +20,7 @@ feature_row:
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road &#128739;"
-    excerpt: "You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed."
+    excerpt: "You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed. These are the stories of the ***Twilight Road***. Every game session is different, every road, every journey is unique."
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - url: /GateWatch
@@ -60,6 +60,18 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 ## Tableau Playsets
 
 {% include feature_row %}
+
+## Tableau Games Recent News
+
+<ul>
+  {% for post in site.categories.Tableau limit: 7 %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+See the _[complete posts archive](/posts/)._ 
+{: .text-right}
 
 ## Reviewer Quotes
 

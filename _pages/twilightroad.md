@@ -3,17 +3,17 @@ cover: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/games/tableau/twilightroad/twilight_road_banner_1600_212.jpg
-  og_image: /assets/images/twilight/twilight_road_card.jpg
+  overlay_image: /assets/images/games/tableau/twilightroad/twilight_road_banner_1280_360.jpg
+  og_image: /assets/images/games/tableau/twilightroad/twilight_road_card.jpg
 tle: Tableau&#58; Gate Watch
 hide_description: true
 classes:
   - wide
-permalink: /games/twilightroad/
+permalink: /games/TwilightRoad/
 redirect_from:
   - /twilightroad
-  - /TwilightRoad
   - /Twilightroad
+  - /games/twilightroad
 ---
 
 # ***Tableau:*** *Twilight Road* 🛣️ Playset

@@ -3,18 +3,17 @@ cover: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/gatewatch/gate_watch_banner_1600_212.jpg
+  overlay_image: /assets/images/games/tableau/gatewatch/gate_watch_banner_1600_212.jpg
   og_image: /assets/images/gatewatch/tableau-gatewatch-card.jpg
 title: Tableau&#58; Gate Watch
 hide_description: true
 classes:
   - wide
-permalink: /games/gatewatch/
+permalink: /games/GateWatch/
 redirect_from:
   - /gatewatch
-  - /GateWatch
   - /Gatewatch
-
+  - /games/gatewatch
 ---
 
 > _(if you are looking for the 2019 version of Gate Watch, with 18 cards, there are details about that game in our [archive](/GateWatch2019).)_
