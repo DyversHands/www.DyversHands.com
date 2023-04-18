@@ -32,16 +32,3 @@ These are the questions you will answer as you explore the Enigma that is The Ga
 Kinds of Gate Watch 🛣 Stories:
 
 image: "Tableau: Twilight 🚪 Playset - Inspiration Card"
-
-# ***Tableau:*** *Gate Watch* Playset
-
-image; "Tableau: Twilight Road 🛣 Playset - Cover Card"
-
-You are fellow travelers on the Twilight Road. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed.
-
-These are the stories of the Twilight Road. Every game session is different, every road, every journey is unique.
-
-## Kinds of Twilight Road 🛣 Stories:
-
-"Tableau Twilight Road 🛣 Playset - Inspiration Card"
-
