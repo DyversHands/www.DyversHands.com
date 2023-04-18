@@ -62,26 +62,9 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 {% include feature_row %}
 
-## Latest News about Tableau Games
-
-<ul>
-  {% for post in site.categories.Tableau limit: 7 %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
-See the _[complete posts archive](/posts/)._ 
-{: .text-right}
-
 ## Reviewer Quotes
 
 > *“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.”* — **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
-
-### Mailing List
-
-To stay updated on the latest news, including the official public release date of our first three playsets and information about future Tableau Games projects, be sure to sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH). You'll be the first to know about exciting developments, promotions, and future Kickstarter campaigns.
 
 ### Overview of Play
 
@@ -196,3 +179,20 @@ Images © original creators & are Permissively Licensed. More info & image credi
 Tableau Games™, Dyvers Hands™, Twilight Road™, and Gate Watch™ are trademarks of Dyvers Hands Productions LLC.
 
 Creative Contributors: Shannon Appelcline, Aaron Reed
+
+## Latest News about Tableau Games
+
+<ul>
+  {% for post in site.categories.Tableau limit: 7 %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+See the _[complete posts archive](/posts/)._ 
+{: .text-right}
+
+### Mailing List
+
+To stay updated on the latest news, including the official public release date of our first three playsets and information about future Tableau Games projects, be sure to sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH). You'll be the first to know about exciting developments, promotions, and future Kickstarter campaigns.
