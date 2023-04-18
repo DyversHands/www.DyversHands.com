@@ -36,8 +36,6 @@ At [Dyvers Hands Productions](/About), we craft collaborative storytelling exper
 
 # Tableau Games
 
-{% include video id="eWMsySbdm_0" provider="youtube" %}
-
 ***Tableau*** is a storytelling game system that emphasizes collaborative storytelling and character development. The game's mechanics are designed to be flexible, allowing players to create stories in just a few hours from a wide variety of genres and styles without the need for advanced preparation or a designated game master.
 
 ***Tableau*** consists of a set of rules cards and a variety of story cards that establish themes, moods, settings, and character traits. Players use these cards to collaboratively create a story, with each scene focusing on a single question and building toward a satisfying cinematic narrative.
@@ -46,7 +44,10 @@ The system is designed to be approachable for players of all skill levels and en
 
 Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau is a great choice for anyone looking to tell their own stories in a collaborative and engaging way.
 
-[About Tableau Games](/Tableau) {: .btn .btn--inverse .align-center}
+{% include video id="eWMsySbdm_0" provider="youtube" %}
+
+[About Tableau Games](/Tableau)
+{: .btn .btn--inverse .align-center}
 
 ## Tableau Playsets
 
