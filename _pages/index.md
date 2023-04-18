@@ -33,7 +33,8 @@ At [Dyvers Hands Productions](/About), we craft collaborative storytelling exper
 
 # Tableau Games
 
-**Kickstarter Campaign:** Our Kickstarter campaign for the first two ***Tableau*** playsets was a success. See [News](/news/Tableau-Kickstarter-Success/).{: .notice--success}
+**Kickstarter Campaign:** Our Kickstarter campaign for the first two ***Tableau*** playsets was a success. See [News](/news/Tableau-Kickstarter-Success/).
+{: .notice--success}
 
 {% include video id="eWMsySbdm_0" provider="youtube" %}
 
@@ -45,7 +46,7 @@ The system is designed to be approachable for players of all skill levels and en
 
 Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau is a great choice for anyone looking to tell their own stories in a collaborative and engaging way.
 
-[About Tableau Games](/Tableau){: .btn .btn--inverse}
+[About Tableau Games](/Tableau) {: .btn .btn--inverse} {al}
 
 ## Tableau Playsets
 
