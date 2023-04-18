@@ -11,8 +11,8 @@ classes:
   - wide
 permalink: /games/Improv/
 redirect_from:
-  - /improv
   - /Improv
+  - /improv
   - /games/improv
 ---
 

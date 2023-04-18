@@ -11,8 +11,8 @@ classes:
   - wide
 permalink: /games/GateWatch/
 redirect_from:
-  - /gatewatch
   - /GateWatch
+  - /gatewatch
   - /Gatewatch
   - /games/gatewatch
 ---

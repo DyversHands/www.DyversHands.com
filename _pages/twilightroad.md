@@ -11,6 +11,7 @@ classes:
   - wide
 permalink: /games/TwilightRoad/
 redirect_from:
+  - /TwilightRoad
   - /twilightroad
   - /Twilightroad
   - /games/twilightroad
