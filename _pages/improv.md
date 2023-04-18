@@ -20,7 +20,7 @@ redirect_from:
 
 image: "Tableau: Improv 🎪 Playset - Cover Card"
 
-Collaborate to create unforgettable narratives across genres and emotions. Embrace the spirit of improvisation as you build stories together, forming unexpected bonds along the way. Immerse yourself in a journey through spontaneous, unscripted storytelling as you weave unique tales together, one scene at a time.
+Collaborate to create unforgettable narratives across genres and emotions. Ignite your “Yes, and…” spirit of improvisation as you build stories together, forming unexpected bonds along the way. Perfect for roleplaying, improv, and creative writing. Elevate your narrative skills with rules designed for spontaneous & unscripted storytelling as you weave unique tales together, one scene at a time.
 
 Kinds of Improv 🎪 Stories:
 
