@@ -12,6 +12,7 @@ classes:
 permalink: /games/GateWatch/
 redirect_from:
   - /gatewatch
+  - /GateWatch
   - /Gatewatch
   - /games/gatewatch
 ---
