@@ -39,7 +39,7 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-![Just Funded on Kickstarter](/assets/images/kickstarter/just_funded_kickstarter_top_1080_213.png){: .align-left}
+![Just Funded on Kickstarter!](tableau_kickstarter_q2_ 2023_post_launch.jpg){: .align-left}
 
 # Tableau Games
 
