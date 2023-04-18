@@ -17,16 +17,22 @@ feature_row:
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road &#128739;"
     excerpt: "You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed."
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - url: /GateWatch
     image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
     alt: "Gate Watch Playset Cover Card"
     title: "Gate Watch &#128682;"
     excerpt: "You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms. Who built **The Gate**? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the **Enigma** that is **The Gate**."
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - url: /Improv
     image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
     title: "Improv &#127914;"
     excerpt: "Collaborate to create unforgettable narratives across genres and emotions. Embrace the spirit of improvisation as you build stories together, forming unexpected bonds along the way. Immerse yourself in a journey through spontaneous, unscripted storytelling as you weave unique tales together, one scene at a time."
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 **Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets ended April 17th and was fully funded. For more details and our roadmap, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
@@ -46,7 +52,7 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 {% include video id="eWMsySbdm_0" provider="youtube" %}
 
-[About Tableau Games](/Tableau)
+[Read More](/Tableau)
 {: .btn .btn--inverse}
 
 ## Tableau Playsets
