@@ -20,8 +20,6 @@ At [Dyvers Hands Productions](/About), we craft collaborative storytelling exper
 
 # Tableau Games
 
-![Just Funded on Kickstarter](/assets/images/kickstarter/just_funded_kickstarter_top_1080_213.png){: .align-left}
-
 ![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg){: .align-left}
 
 [Read More](/Tableau){: .btn .btn--inverse}
