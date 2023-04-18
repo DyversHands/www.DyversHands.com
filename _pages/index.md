@@ -52,7 +52,7 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 {% include video id="eWMsySbdm_0" provider="youtube" %}
 
-[Read More](/Tableau){: .btn--inverse}
+[Read More](/Tableau){: .btn .btn--inverse}
 
 ## Tableau Playsets
 
