@@ -5,7 +5,7 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/games/tableau/twilightroad/twilight_road_banner_1280_360.jpg
   og_image: /assets/images/games/tableau/twilightroad/twilight_road_card.jpg
-tle: Tableau&#58; Gate Watch
+title: Tableau&#58; Twilight Road &#128739;
 hide_description: true
 classes:
   - wide
@@ -16,8 +16,6 @@ redirect_from:
   - /Twilightroad
   - /games/twilightroad
 ---
-
-# ***Tableau:*** *Twilight Road* 🛣️ Playset
 
 ![Tableau: Twilight Road 🛣 Playset - Cover Card](/assets/images/games/tableau/twilightroad/twilight_road_cover_375_525.png){: style="float:right; padding:16px"}
 
