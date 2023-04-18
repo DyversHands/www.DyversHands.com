@@ -66,65 +66,7 @@ Kinds of Gate Watch 🛣 Stories:
 
 Inspiration Card: Gate Watch🚪 Playset
 
-### Overview of Play
 
-There is only one rule required for the game, Tableau Core ꩜, which is described on three poker-sized cards:
-
-Rule Card: Tableau Core ꩜ 1
-Rule Card: Tableau Core ꩜ 2
-Core Rule Card: Tableau Core ꩜ 3
-
-After review of these Core ꩜ rules, the players will either choose a pre-defined Playset 🎞 of cards that works well together or combine specific Rules 📜 cards to define the mechanics of collaborative storytelling, Story 📖 cards to describe the elements of the narrative, and optional Character Traits 👤 to create unique and complex characters.
-
-Here is an example of a specific Rule 📜 that might be placed on the table: Drama Tokens 🎭 , where the storytellers do not use dice for tension, but instead use a form of good & bad karma to balance the different Moves available to Lead characters. But the storytellers might instead have chosen the Declare 🎭  or the  Push 🎭 card, which uses dice to determine outcomes and is useful for different kinds of stories.
-
-Rule 📜 card: Drama Tokens 🎭 (from the Twilight Road Playset)
-
-During the game, most selected Rules 📜 will stay on the table, but some will be taken up and held by the storytellers. Typically each storyteller will have four cards in their hand, such as:
-
-An Example of a Storyteller's Hand of Cards (from the Twilight Road 🛣️ Playset)
-
-A Player Role 🗣, such as The Director 🗣, who is used in GMless-style games, or The Narrator 🗣, who is a storyteller with a unique perspective or a player who has been given narrative authority for a full act or a session. These are the most common Player Roles 🗣, but there are others such as The Spotlight 🗣 or this optional one: The Mapper 🗣, who is used in both Twilight Road and Gate Watch.
-
-Player Role 🗣 card: The Mapper
-
-A Story 📖 card that gives a storyteller authority over an element in this story. (This one is from Twilight Road 🚪 but could be chosen by the storytellers for any story):
-
-Story Setting 🏘️ Card: The Road (from Twilight Road Playset)
-
-One or more of Character Trait 👤 cards to help define the unique character that a storyteller portrays. This one is Charming, an Approach 🛠 from Twilight Road 🚪 but it can used as Character Trait 👤 in other stories:
-
-Character Trait  👤 card: Charming (from the Twilight Road Playset)
-
-Here is an example of a second Character Traits 👤. This one is a Face 🧑🏼‍🦲, which it is an archetype associated with a particular type of story. This one is The Runaway 🧑🏼‍🦲 from Twilight Road 🚪, but like all the other cards, could be used in other Tableau games.
-
-Character Face 🧑🏼‍🦲: The Runaway (from the Twilight Road Playset)
-
-Storytellers can have a huge numbers of options available for play in the game, but they will only use a few during any scene in the story. 
-
-Here is a video (14m) that offers an overview of the Twilight Road 🛣 Playset 🎞.
-
-### Types of Stories
-
-Tableau inspires players to be creative, supporting a nearly infinite variety of potential stories.
-
-Thus far in play-testing the Twilight Road 🛣 Playset 🎞, the cards collaboratively selected by storytellers resulted in a wide variety of settings & genres:
-
-* a historical fantasy, where a river journey across the Viking lands of ancient Russian followed the trail of Uncle Ingvar, lost while he was searching for the Silk Road and a lost city and treasure;
-* a 90s paranormal fantasy, in which a spring-break car trip led free-spirited students across America, each trying to find a lost icon on Route 66, looking for answers to a secret in their family history.
-
-Thus far in play-testing the Gate Watch 🚪 Playset 🎞, games have included:
-
-* a classics fantasy, with the gate lying between the real-world and the Greek heaven & hell, and Watchers possibly hired by Charon;
-* a 1950's noir mystery, featuring the gate between a Hollywood producer's mansion and the hardscrabble blue-collar world of post-war Los Angeles;
-* a sci-fi adventure, where a collapsing underground mutant civilization had a hidden exit to a post-apocalyptic landscape;
-* a wacky parallel universe, home of mechano-electro elves, who had discovered a gate to our reality at a California game convention, full of people who didn't understand them.
-
-A game using storytelling cards from both Playsets 🎞 was:
-
-* a dark historical fantasy, where a water well located in a German farming village at the end of WWII was the only escape from invading Russians, but led the villagers into a perilous journey through the lands of the fae, with no way home.
-
-We've found the mechanics of Tableau work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. Tableau is a fun evening's entertainment.
 
 ### Quickstarter
 
