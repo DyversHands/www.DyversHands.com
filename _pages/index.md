@@ -13,12 +13,12 @@ classes:
 permalink: /index.html
 ---
 
-**Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets ended April 17th and was fully funded. For more details and our roadmap, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
-{: .notice--success}
-
 At [Dyvers Hands Productions](/About), we craft collaborative storytelling experiences across various media, focusing on games, shared worlds, and beyond. Our passion lies in uniting creators to build unforgettable stories that inspire.
 
 # Tableau Games
+
+**Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets ended April 17th and was fully funded. For more details and our roadmap, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
+{: .notice--success}
 
 ![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg){: .align-left}
 
