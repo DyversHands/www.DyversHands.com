@@ -17,19 +17,21 @@ redirect_from:
   - /games/gatewatch
 ---
 
-<font size=-3>
-> _(if you are looking for the 2019 version of Gate Watch, with 18 cards, there are details about that game in our [archive](/GateWatch2019).)_
-</font>
+**Gate Watch 2019:** if you are looking for the older version of Gate Watch, from Kickstarter 2019 with 18 cards, there are details about that game in our [archive](/GateWatch2019).)_
+{: .notice--success}
 
 # ***Tableau:*** *Gate Watch* 🚪 Playset
 
-image: "Tableau: Gate Watch 🚪 Playset - Cover Card"
+**Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets ended April 17th and was fully funded. For more details and our roadmap, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
+{: .notice--success}
 
-You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the *Enigma* that is *The Gate*. Every game session is different, every world, every gate unique.
+![Tableau: Twilight Road 🛣 Playset - Cover Card](/assets/images/games/tableau/gatewatch/gate_watch_cover_375_525.png){: style="float:right; padding:16px"}
+
+_You and your companions are members of the **Gate Watch** – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the *Enigma* that is *The Gate*. Every game session is different, every world, every gate unique._
 
 ## Kinds of Gate Watch 🛣 Stories:
 
-image: "Tableau: Gate Watch 🚪 - Inspiration Card"
+![Tableau Twilight Road 🛣 Playset - Inspiration Card](/assets/images/games/tableau/gatewatch/gate_watch_inspirations_1500_1050.png)
 
 ## Reviewer Quotes
 
