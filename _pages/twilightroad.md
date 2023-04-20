@@ -51,6 +51,6 @@ Discover the rich narratives possible with the Tableau: Twilight Road🛣 playse
 
 ![Tableau Twilight Road 🛣 Playset - Inspiration Card](/assets/images/games/tableau/twilightroad/twilight_road_inspirations_1500_1050.png)
 
-## Available from Drive Thru Cards
+## Available from ![](/asssets/images/logos/drivethrucards_logo_500_80.png)"
 
 {% include feature_row id="twilight_road_playset" type="left" %}
