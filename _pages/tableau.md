@@ -24,8 +24,8 @@ tableau_playsets:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     url2: /Subscribe
-    btn_label: "Coming Soon"
-    btn_class: "btn--inverse"
+    btn_label2: "Coming Soon"
+    btn_class2: "btn--info"
   - image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
     alt: "Gate Watch Playset Cover Card"
     title: "Gate Watch &#128682;"
@@ -34,8 +34,8 @@ tableau_playsets:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     url2: /Subscribe
-    btn_label: "Coming Soon"
-    btn_class: "btn--inverse"
+    btn_label2: "Coming Soon"
+    btn_class2: "btn--info"
   - image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
     title: "Improv &#127914;"
@@ -44,8 +44,8 @@ tableau_playsets:
     btn_label: "Read More"
     btn_class: "btn--inverse"
     url2: /Subscribe
-    btn_label: "Coming Soon"
-    btn_class: "btn--inverse"
+    btn_label2: "Coming Soon"
+    btn_class2: "btn--info"
 ---
 
 # Tableau Games
@@ -69,7 +69,7 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 ## Tableau Playsets
 
-{% include feature_row id="tableau_playsets" type="left" %}
+{% include feature_row id="tableau_playsets" %}
 
 ## Reviewer Quotes
 
