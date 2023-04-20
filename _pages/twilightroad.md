@@ -17,7 +17,7 @@ redirect_from:
   - /games/twilightroad
 twilight_road_playset:
   - image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
-    excerpt: "Fullfilled by Drive Thru Cards ![](/asssets/images/games/logos/drivethrucards_logo_500_80.png)"
+    excerpt: "Fullfilled by Drive Thru Cards ![](/asssets/images/logos/drivethrucards_logo_500_80.png)"
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road &#128739;"
     url: /Subscribe
