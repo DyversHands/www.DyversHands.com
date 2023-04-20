@@ -15,6 +15,19 @@ redirect_from:
   - /twilightroad
   - /Twilightroad
   - /games/twilightroad
+twilight_road_playset:
+  - image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
+    alt: "Twilight Road Playset Cover Card"
+    title: "Twilight Road &#128739;"
+    url: /Subscribe
+    btn_label: "Print-N-Play!"
+    btn_class: "btn--info"
+    url2: /Subscribe
+    btn_label2: "Just the Cards!"
+    btn_class2: "btn--info"
+    url3: /Subscribe
+    btn_label3: "w/Tuckbox!"
+    btn_class3: "btn--info"
 ---
 **Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets, including **Twilight Road** 🛣, concluded April 17th and was fully funded. For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
 {: .notice--success}
@@ -26,6 +39,8 @@ _You are fellow travelers on the **Twilight Road** 🛣. Together your journey w
 _Embark on a journey of self-discovery and personal growth. Unravel the themes of identity, purpose, and belonging as you navigate _The Road_ filled with choices, challenges, and intriguing characters. Experience a transformative journey filled with choices, challenges, and intriguing characters as you navigate the winding path of **Twilight Road** 🛣._
 
 Tableau offers cinematic storytelling in 2-3 hours, with no prep or GM required. Composable rules on poker-sized cards provide multiple playsets for versatile gameplay with 2-5 players, ages 14 and up. Explore the opportunities for collaborative storytelling and thrilling cinematic adventures possible with **Twilight Road** 🛣 and the ***Tableau Games*** system.
+
+{% include feature_row id="tableau_playsets" type="left" %}
 
 ## Video Overview
 
