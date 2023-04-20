@@ -40,8 +40,6 @@ _Embark on a journey of self-discovery and personal growth. Unravel the themes o
 
 Tableau offers cinematic storytelling in 2-3 hours, with no prep or GM required. Composable rules on poker-sized cards provide multiple playsets for versatile gameplay with 2-5 players, ages 14 and up. Explore the opportunities for collaborative storytelling and thrilling cinematic adventures possible with **Twilight Road** 🛣 and the ***Tableau Games*** system.
 
-{% include feature_row id="tableau_playsets" type="left" %}
-
 ## Video Overview
 
 Discover the rich narratives possible with the Tableau: Twilight Road🛣 playset in this detailed 14m video overview! 
@@ -52,3 +50,6 @@ Discover the rich narratives possible with the Tableau: Twilight Road🛣 playse
 
 ![Tableau Twilight Road 🛣 Playset - Inspiration Card](/assets/images/games/tableau/twilightroad/twilight_road_inspirations_1500_1050.png)
 
+## Available from Drive Thru Cards
+
+{% include feature_row id="twilight_road_playset" type="left" %}
