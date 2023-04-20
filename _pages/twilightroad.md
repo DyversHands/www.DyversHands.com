@@ -29,6 +29,13 @@ twilight_road_playset:
     url3: /Subscribe
     btn_label3: "Print-N-Play!"
     btn_class3: "btn--info"
+gallery:
+  - url: /GateWatch
+    image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
+    alt: "Twilight Road Playset Cover Card"
+  - url: /Improv
+    image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
+    alt: "Tableau Improv Playset Cover Card"
 ---
 **Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets, including **Twilight Road** 🛣, concluded April 17th and was fully funded. For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
 {: .notice--success}
@@ -54,3 +61,7 @@ Discover the rich narratives possible with the Tableau: Twilight Road🛣 playse
 ## Available from… 
 
 {% include feature_row id="twilight_road_playset" type="left" %}
+
+## Other Tableau Playsets
+
+{% include gallery %}
