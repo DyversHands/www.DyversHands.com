@@ -17,7 +17,7 @@ redirect_from:
   - /games/twilightroad
 twilight_road_playset:
   - image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
-    excerpt: "***Tableau:*** **Twilight Road** is fulfulled by ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_188_30.png) in three different versions: the playset & core rules in a 72-card poker-sized tuckbox; _Just the Cards_ version banded in plastic without a tuckbox; or a _Print-N-Play_ PDF suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
+    excerpt: "***Tableau:*** **Twilight Road** is fulfulled by ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_188_30.png) in three different versions: _Cards w/Tuckbox!_ version contains 72 poker-sized Playset & core cards; _Just the Cards!_ version banded in a plastic wrap without a tuckbox; or a _Print-N-Play!_ PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road &#128739;"
     url: /Subscribe
@@ -29,7 +29,6 @@ twilight_road_playset:
     url3: /Subscribe
     btn_label3: "Print-N-Play!"
     btn_class3: "btn--info"
-
 ---
 **Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets, including **Twilight Road** 🛣, concluded April 17th and was fully funded. For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
 {: .notice--success}
