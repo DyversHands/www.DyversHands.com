@@ -15,33 +15,42 @@ redirect_from:
   - /Tableau/
   - /tableau/
   - /games/tableau
-feature_row:
-  - url: /TwilightRoad
-    image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
+tableau_playsets:
+  - image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road &#128739;"
     excerpt: "You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed. These are the stories of the ***Twilight Road***. Every game session is different, every road, every journey is unique."
+    url: /TwilightRoad
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - url: /GateWatch
-    image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
+    url2: /Subscribe
+    btn_label: "Coming Soon"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
     alt: "Gate Watch Playset Cover Card"
     title: "Gate Watch &#128682;"
     excerpt: "You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the *Enigma* that is *The Gate*. Every game session is different, every world, every gate unique."
+    url: /GateWatch
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - url: /Improv
-    image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
+    url2: /Subscribe
+    btn_label: "Coming Soon"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
     title: "Improv &#127914;"
     excerpt: "Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, and creative writing."
+    url: /Improv
     btn_label: "Read More"
+    btn_class: "btn--inverse"
+    url2: /Subscribe
+    btn_label: "Coming Soon"
     btn_class: "btn--inverse"
 ---
 
 # Tableau Games
 
-**Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets ended April 17th and was fully funded. For more details and our roadmap, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
+**Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets concluded April 17th and was fully funded. For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
 {: .notice--success}
 
 ![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg){: .align-left}
@@ -60,7 +69,7 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 ## Tableau Playsets
 
-{% include feature_row %}
+{% include feature_row id="tableau_playsets" type="left" %}
 
 ## Reviewer Quotes
 
