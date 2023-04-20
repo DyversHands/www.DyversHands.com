@@ -17,7 +17,7 @@ redirect_from:
   - /games/twilightroad
 twilight_road_playset:
   - image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
-    excerpt: "***Tableau:*** **Twilight Road** is fulfulled by DriveThruCards, ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_500_80.png) in three versions: the playset & core rules, in a 54-card poker-sized tuck box; _Just the Cards_ version without a tuckbox (banded in plastic); or a _Print-N-Play_ PDF suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines, for use with poker-sized card sleeves."
+    excerpt: "***Tableau:*** **Twilight Road** is fulfulled by ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_188_30.png) in three different versions: the playset & core rules in a 72-card poker-sized tuckbox; _Just the Cards_ version banded in plastic without a tuckbox; or a _Print-N-Play_ PDF suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road &#128739;"
     url: /Subscribe
@@ -52,8 +52,6 @@ Discover the rich narratives possible with the Tableau: Twilight Road🛣 playse
 
 ![Tableau Twilight Road 🛣 Playset - Inspiration Card](/assets/images/games/tableau/twilightroad/twilight_road_inspirations_1500_1050.png)
 
-## Fulfilled by… ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_500_80.png)
-
-![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_500_80.png)
+## Available from… 
 
 {% include feature_row id="twilight_road_playset" type="left" %}
