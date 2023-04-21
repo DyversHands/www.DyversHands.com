@@ -15,7 +15,7 @@ redirect_from:
 - /Imagecredits
 - /imageCredits
 gallery:
-  - url: https://commons.wikimedia.org/wiki/File:Delicate_Arch_at_Night_with_Headlamp_%288708155337%29.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Delicate_Arch_at_Night_with_Headlamp_%288708155337%29.jpg/1599px-Delicate_Arch_at_Night_with_Headlamp_%288708155337%29.jpg?20131116213924
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00000.jpg
     alt: "Tableau Inspiration 00000"
     title: "Photo by Jacob W. Frank at [JWFrank.com](https://JWFrank.com), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delicate_Arch_at_Night_with_Headlamp_%288708155337%29.jpg), licensed CC0."
@@ -27,13 +27,73 @@ gallery:
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00002.jpg
     alt: "Tableau Inspiration 00002"
     title: "Photo by [MaxPixel](https://www.maxpixel.net/Input-House-Entrance-Closed-Door-Mystical-Goal-2020636), licensed CC0."
+  - url: 
+    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Poulnabrone_milkyway.jpg/1599px-Poulnabrone_milkyway.jpg?20150913094335
+    alt: "Tableau Inspiration 00003"
+    title: "Photo by Hugh Cotter on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Poulnabrone_milkyway.jpg), licensed CC-BY-SA."
+  - url: https://live.staticflickr.com/3048/2627172885_19aa4692d6_k.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00004.jpg
+    alt: "Tableau Inspiration 00004"
+    title: "Photo by SabreGuy29 on [Flickr](https://www.flickr.com/photos/sabreguy29/2627172885/), licensed CC-BY."
+  - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00005.jpg
+    alt: "Tableau Inspiration 00005"
+    title: "Photo by Jorge Láscar on [Flickr]( https://www.flickr.com/photos/jlascar/12302239423/), licensed CC-BY."
+   - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00006.jpg
+    alt: "Tableau Inspiration 00006"
+    title: "Photo by Angel Schatz on [Flickr](https://www.flickr.com/photos/glamourschatz/2555159452/), licensed CC-BY."
+   - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00007.jpg
+    alt: "Tableau Inspiration 00007"
+    title: "Photo by [Pixabay]( https://pixabay.com/en/tree-cave-forest-nature-bark-log-976353/), licensed CC0."
+   - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00008.jpg
+    alt: "Tableau Inspiration 00008"
+    title: "Photo by Metropolitan Museum of Art, donated to [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Human-headed_winged_lion_(lamassu)_MET_DP252320.jpeg), licensed CC0."
+   - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00009.jpg
+    alt: "Tableau Inspiration 00009"
+    title: "Photo by Thomas Quine on [Flickr](https://www.flickr.com/photos/quinet/27128699670/), licensed CC-BY."
+   - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00010.jpg
+    alt: "Tableau Inspiration 00010"
+    title: "Photo by Jorge Tutor from jorgetutor.com from [kirikou.com](http://www.kirikou.com/alemania/baviera/Neuburg/Neuburg26.htm). Used with explicit permission."
+   - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00011.jpg
+    alt: "Tableau Inspiration 00011"
+    title: "Photo by Nikola Knezevic on [Unsplash](https://unsplash.com/photos/Q3JcLtECTtE), licensed Unsplash."
+   - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00012.jpg
+    alt: "Tableau Inspiration 00012"
+    title: "Photo by Kouji Tsuru on [Unsplash](https://unsplash.com/photos/tuskYdeKoYU), licensed Unsplash."
+   - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00013.jpg
+    alt: "Tableau Inspiration 00013"
+    title: "By Chris Chadd on [Pexels]( https://www.pexels.com/photo/light-trails-on-road-at-night-336413/), under Pexels license."
+   - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00014.jpg
+    alt: "Tableau Inspiration 00014"
+    title: "Photo from U.S. Army on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:US_Army_tanks_face_off_against_Soviet_tanks,_Berlin_1961.jpg), licensed CC0/Public Domain."
+   - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00015.jpg
+    alt: "Tableau Inspiration 00015"
+    title: "Photo by Rafidio on [DeviantArt](https://www.deviantart.com/rafido/art/door-313337121), use granted with explicit permission.  Final derivate by [Pixabay](https://pixabay.com/en/door-landscape-fantasy-forest-1890746/), licensed CC0."
+   - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00016.jpg
+    alt: "Tableau Inspiration 00016"
+    title: "Photo by Miroslav Vajdic on [Flickr](https://www.flickr.com/photos/64079936@N08/28435019105), licensed CC-BY-SA."
+   - url: 
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00017.jpg
+    alt: "Tableau Inspiration 00017"
+    title: "Photo from [Moby Games](https://www.mobygames.com/images/shots/l/371916-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.jpg), fair use."
 ---
 
 ## Used in "Gate Watch (2019)"
 
-{% include gallery caption="Images used in Gate Watch (2019)" %}
-
 All the images used in this game have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to Christopher Allen by the image creator.
+
+{% include gallery caption="(hover over images to see credits)" %}
 
 ![Tableau Inspiration 00000](/assets/images/credit_thumbs/tableau_inspiration_125_175_00000.jpg)
 
@@ -79,7 +139,7 @@ Photo by Nikola Knezevic on [Unsplash](https://unsplash.com/photos/Q3JcLtECTtE),
 Photo by Kouji Tsuru on [Unsplash](https://unsplash.com/photos/tuskYdeKoYU), licensed Unsplash.
 
 ![Tableau Inspiration 00013](/assets/images/credit_thumbs/tableau_inspiration_125_175_00013.jpg)
-- By Chris Chadd on [Pexels]( https://www.pexels.com/photo/light-trails-on-road-at-night-336413/), under Pexels license.
+By Chris Chadd on [Pexels]( https://www.pexels.com/photo/light-trails-on-road-at-night-336413/), under Pexels license.
 
 ![Tableau Inspiration 00014](/assets/images/credit_thumbs/tableau_inspiration_125_175_00014.jpg)
 Photo from U.S. Army on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:US_Army_tanks_face_off_against_Soviet_tanks,_Berlin_1961.jpg), licensed CC0/Public Domain.
