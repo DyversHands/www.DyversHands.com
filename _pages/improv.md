@@ -16,7 +16,7 @@ redirect_from:
   - /games/improv
 improv_playset:
   - image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
-    excerpt: "***Tableau:*** **Improv** &#127914; is fulfulled by ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: _Cards w/Tuckbox!_ version contains 38 poker-sized Playset & core cards; _Just the Cards!_ version banded in a plastic wrap without a tuckbox; or a _Print-N-Play!_ PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
+    excerpt: "***Tableau:*** **Improv** &#127914; playset is fulfulled by ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: _Cards w/Tuckbox!_ version contains 38 poker-sized Playset & core cards; _Just the Cards!_ version banded in a plastic wrap without a tuckbox; or a _Print-N-Play!_ PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Improv Playset Cover Card"
     title: "Improv &#127914;"
     url: /Subscribe
@@ -36,12 +36,12 @@ gallery:
     image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
     alt: "Gate WatchPlayset Cover Card"
 ---
-_**Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets, including **Improv** 🎪, concluded April 17th and was fully funded. For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
+_**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including **Improv** 🎪, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
 {: .notice--info}
 
 # ***Tableau:*** *Improv* 🎪 Playset
 
-_**Free Print-N-Play for month of April!** A free **Print-N-Play!** PDF version of the **Tableau:** **Improv** 🎪 Playset, suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves._
+_**Free Print-N-Play for month of April!** The PDF version of the **Tableau:** **Improv** 🎪 Playset, is now available free for the month of April from [DriveThruCards](https://www.drivethrucards.com/product_info.php?products_id=432580)._
 {: .notice--success}
 
 ![Tableau: Improv 🎪 Playset - Cover Card](/assets/images/games/tableau/improv/improv_cover_375_525.png){: style="float:right; padding:16px"}

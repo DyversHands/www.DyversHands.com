@@ -5,7 +5,7 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/games/tableau/gatewatch/gate_watch_banner_1600_212.jpg
   og_image: /assets/images/gatewatch/tableau-gatewatch-card.jpg
-title: Tableau&#58; Gate Watch
+title: Tableau&#58; Gate Watch &#128682;
 hide_description: true
 classes:
   - wide
@@ -17,7 +17,7 @@ redirect_from:
   - /games/gatewatch
 gate_watch_playset:
   - image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
-    excerpt: "***Tableau:*** **Gate Watch** is fulfulled by ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: _Cards w/Tuckbox!_ version contains 52 poker-sized Playset & core cards; _Just the Cards!_ version banded in a plastic wrap without a tuckbox; or a _Print-N-Play!_ PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
+    excerpt: "***Tableau:*** **Gate Watch** &#128682; playset is fulfulled by ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: _Cards w/Tuckbox!_ version contains 52 poker-sized Playset & core cards; _Just the Cards!_ version banded in a plastic wrap without a tuckbox; or a _Print-N-Play!_ PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Gate Watch Playset Cover Card"
     title: "Twilight Road &#128739;"
     url: /Subscribe
@@ -38,8 +38,8 @@ gallery:
     alt: "Tableau Improv Playset Cover Card"
 
 ---
-**Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets, including **Gate Watch** 🚪, concluded April 17th and was fully funded. For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
-{: .notice--success}
+_**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including**Gate Watch** 🚪, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
+{: .notice--info}
 
 **Gate Watch 2019:** if you are looking for the older version of Gate Watch, from Kickstarter 2019 with 18 cards, there are details about that game in our [archive](/GateWatch2019).)
 {: .notice--warning}
