@@ -39,8 +39,6 @@ gallery:
 _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including **Improv** 🎪, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
 {: .notice--info}
 
-# ***Tableau:*** *Improv* 🎪 Playset
-
 _**Free Print-N-Play for month of April!** The PDF version of the **Tableau:** **Improv** 🎪 Playset, is now available free for the month of April from [DriveThruCards](https://www.drivethrucards.com/product_info.php?products_id=432580)._
 {: .notice--success}
 

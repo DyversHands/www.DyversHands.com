@@ -2,7 +2,6 @@
 cover: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.25"
   overlay_image: /assets/images/games/tableau/tableau_banner_1280_360.jpg
   og_image: /assets/images/games/tableau/tableau_card.jpg
 title: Welcome to Dyvers Hands Productions
@@ -22,7 +21,7 @@ _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau*
 
 [![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg)](/Tableau){: .align-left}
 
-[Read More](/Tableau){: .btn .btn--inverse}
+[Read More…](/Tableau){: .btn .btn--inverse}
 
 ## Latest News about Dyvers Hands
 
