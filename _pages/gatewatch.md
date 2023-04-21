@@ -17,7 +17,7 @@ redirect_from:
   - /games/gatewatch
 gate_watch_playset:
   - image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
-    excerpt: "***Tableau:*** **Gate Watch** &#128682; playset is fulfulled by ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: **Cards w/Tuckbox!** version contains 52 poker-sized Playset & core cards; **Just the Cards!** version banded in a plastic wrap without a tuckbox; or a **Print-N-Play!** PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
+    excerpt: "***Tableau:*** **Gate Watch** &#128682; playset is available print-on-demain from ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: **Cards w/Tuckbox!** version contains 52 poker-sized Playset & core cards; **Just the Cards!** version banded in a plastic wrap without a tuckbox; or a **Print-N-Play!** PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Gate Watch Playset Cover Card"
     title: "Twilight Road &#128739;"
     url: /Subscribe
