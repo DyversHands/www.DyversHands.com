@@ -20,13 +20,13 @@ improv_playset:
     alt: "Improv Playset Cover Card"
     title: "Improv &#127914;"
     url: /Subscribe
-    btn_label: "Cards w/Tuckbox! (coming soon)"
+    btn_label: "Cards w/Tuckbox (coming soon!)"
     btn_class: "btn--info"
     url2: /Subscribe
-    btn_label2: "Just the Cards! (coming soon)"
+    btn_label2: "Just the Cards (coming soon!)"
     btn_class2: "btn--info"
     url3: https://www.drivethrucards.com/product_info.php?products_id=432580
-    btn_label3: "Print-N-Play! (available now)"
+    btn_label3: "Print-N-Play (available now)"
     btn_class3: "btn--success"
 gallery:
   - url: /TwilightRoad

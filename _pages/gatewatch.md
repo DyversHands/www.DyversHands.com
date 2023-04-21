@@ -17,17 +17,17 @@ redirect_from:
   - /games/gatewatch
 gate_watch_playset:
   - image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
-    excerpt: "***Tableau:*** **Gate Watch** &#128682; playset is available print-on-demain from ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: **Cards w/Tuckbox!** version contains 52 poker-sized Playset & core cards; **Just the Cards!** version banded in a plastic wrap without a tuckbox; or a **Print-N-Play!** PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
+    excerpt: "***Tableau:*** **Gate Watch** &#128682; playset is available print-on-demand from ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: **Cards w/Tuckbox!** version contains 52 poker-sized Playset & core cards; **Just the Cards!** version banded in a plastic wrap without a tuckbox; or a **Print-N-Play!** PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Gate Watch Playset Cover Card"
     title: "Twilight Road &#128739;"
     url: /Subscribe
-    btn_label: "Cards w/Tuckbox! (coming soon)"
+    btn_label: "Cards w/Tuckbox (coming soon!)"
     btn_class: "btn--info"
     url2: /Subscribe
-    btn_label2: "Just the Cards! (coming soon)"
+    btn_label2: "Just the Cards (coming soon!)"
     btn_class2: "btn--info"
     url3: /Subscribe
-    btn_label3: "Print-N-Play! (coming soon)"
+    btn_label3: "Print-N-Play (coming soon!)"
     btn_class3: "btn--info"
 gallery:
   - url: /TwilightRoad
