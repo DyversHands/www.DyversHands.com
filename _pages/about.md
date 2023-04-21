@@ -2,14 +2,16 @@
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/tableau/tableau_banner_1600_212.jpg
-  og_image: /images/bcc-card.jpg
+  overlay_image: /assets/images/pages/about_banner_1280_360.jpg
+  og_image: /images/pages/about-card.jpg
 title: About Dyvers Hands
 cover: false
 hide_description: true
 classes:
 - wide
-permalink: /about/
+permalink: /About/
+redirect_from:
+  - /about/
 ---
 
 # About Dyvers Hands
