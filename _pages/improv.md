@@ -3,8 +3,8 @@ cover: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/games/tableau/gatewatch/improv_banner_1600_212.jpg
-  og_image: /assets/images/gatewatch/tableau-improv-card.jpg
+  overlay_image: /assets/images/games/tableau/improv/improv_banner_1280_360.jpg
+  og_image: /assets/images/improv/tableau-improv-card.jpg
 title: Tableau&#58; Improv &#127914;
 hide_description: true
 classes:
@@ -46,7 +46,7 @@ _**Free Print-N-Play for month of April!** The PDF version of the **Tableau:** *
 
 Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, and creative writing.
 
-Tableau offers cinematic storytelling in 2-3 hours, with no prep or GM required. Composable rules on poker-sized cards provide multiple playsets for versatile gameplay with 2-5 players, ages 14 and up. Explore the opportunities for collaborative storytelling and thrilling cinematic adventures possible with **Improv** 🎪  and the ***Tableau Games*** system.
+***Tableau*** offers cinematic storytelling in 2-3 hours, with no prep or GM required. Composable rules on poker-sized cards provide multiple playsets for versatile gameplay with 2-5 players, ages 14 and up. Explore the opportunities for collaborative storytelling and thrilling cinematic adventures possible with **Improv** 🎪  and the ***Tableau Games*** system.
 
 ## Available from… 
 
