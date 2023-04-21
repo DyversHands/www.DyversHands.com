@@ -129,28 +129,28 @@ gallery_gate_watch_2023:
     alt: "Tableau Inspiration 00017 Moby Games Wardrobe"
     title: "Photo Moby Game Wardrobe* from [Moby Games](https://www.mobygames.com/images/shots/l/371916-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.jpg), fair use."
   - url: "https://cdn.pixabay.com/photo/2018/10/05/17/02/tunnel-3726360_1280.jpg"
-    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_0020.jpg
-    alt: "Tableau Inspiration 0020 - Tunnel Ice Passage"
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_0019.jpg
+    alt: "Tableau Inspiration 0019 - Tunnel Ice Passage"
     title: "Photo *Tunnel Ice Passage* by Webtalents on [Pixabay](https://pixabay.com/illustrations/tunnel-ice-passage-discovery-3726360/)"
   - url: https://pixabay.com/photos/prison-fence-razor-ribbon-wire-219264/
-    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_0021.jpg
-    alt: "Tableau Inspiration 0021 - Prison Wall"
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00020.jpg
+    alt: "Tableau Inspiration 0020 - Prison Wall"
     title: "Image *Prison Wall* by Jody Dell Davis on [Pixabay](https://pixabay.com/photos/prison-fence-razor-ribbon-wire-219264/). Simplified Pixabay License, free for commercial use, no attribution required."
   - url: 
-    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_0022.jpg
-    alt: "Tableau Inspiration 0022 - Bunker Stairs Upward"
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_0021.jpg
+    alt: "Tableau Inspiration 0021 - Bunker Stairs Upward"
     title: "Image *Bunker Stairs Upward* by Martin Bock from Pixabay. Simplified Pixabay License, free for commercial use, no attribution required. https://pixabay.com/photos/bunker-stairs-upward-building-2359436/"
   - url: https://upload.wikimedia.org/wikipedia/commons/9/9b/Human-headed_winged_lion_%28lamassu%29_MET_DP252320.jpeg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00008.jpg
     alt: "Tableau Inspiration 00008"
     title: "Photo *Human-headed Winged Lion* by Metropolitan Museum of Art, donated to [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Human-headed_winged_lion_(lamassu)_MET_DP252320.jpeg), licensed CC0."
   - url: https://pixabay.com/photos/portal-fantasia-mystic-magic-4436861/
-    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00023.jpg
-    alt: "Tableau Inspiration 00023 - Portal Fantasia"
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00022.jpg
+    alt: "Tableau Inspiration 00022 - Portal Fantasia"
     title: "Image **Portal Fantasia** by adolfo_mazzotti from [Pixabay](https://pixabay.com/photos/portal-fantasia-mystic-magic-4436861/). Simplified Pixabay License, free for commercial use, no attribution required."
   - url: https://pixabay.com/photos/gate-leaves-fence-country-entrance-396701/
-    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00024.jpg
-    alt: "Tableau Inspiration 00024 - Gate Leaves Country Fence"
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00023.jpg
+    alt: "Tableau Inspiration 00023 - Gate Leaves Country Fence"
     title: "Image **Gate Leaves Country Fence** by argus398 from [Pixabay](https://pixabay.com/photos/gate-leaves-fence-country-entrance-396701/). Simplified Pixabay License, free for commercial use, no attribution required."
 ---
 
