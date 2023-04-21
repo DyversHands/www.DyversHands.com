@@ -9,9 +9,9 @@ title: Our Games
 toc: true
 toc_label: Our Games
 hide_description: true
-permalink: /games/
+permalink: /Games/
 redirect_from:
-  - /Games
+  - /games
 gallery:
   - url: /TwilightRoad
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
