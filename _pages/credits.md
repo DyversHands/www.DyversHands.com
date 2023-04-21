@@ -14,7 +14,7 @@ redirect_from:
 - /imagecredits
 - /Imagecredits
 - /imageCredits
-gallery:
+gallery_gate_watch_2019:
   - url: https://upload.wikimedia.org/wikipedia/commons/4/4b/Delicate_Arch_at_Night_with_Headlamp_%288708155337%29.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00000.jpg
     alt: "Tableau Inspiration 00000 - Delicate Arch at Night with Headlamp"
@@ -87,13 +87,22 @@ gallery:
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00017.jpg
     alt: "Tableau Inspiration 00017 Moby Games Wardrobe"
     title: "Photo from [Moby Games](https://www.mobygames.com/images/shots/l/371916-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.jpg), fair use."
+gallery_gate_watch_2023:
+  - url: https://upload.wikimedia.org/wikipedia/commons/4/4b/Delicate_Arch_at_Night_with_Headlamp_%288708155337%29.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00000.jpg
+    alt: "Tableau Inspiration 00000 - Delicate Arch at Night with Headlamp"
+    title: "Photo Delicate Arch at Night with Headlamp by Jacob W. Frank at [JWFrank.com](https://JWFrank.com), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delicate_Arch_at_Night_with_Headlamp_%288708155337%29.jpg), licensed CC0."
 ---
+
+## ***Tableau: Gate Watch (2023)*** Image Credits
+
+{% include gallery id="gallery_gate_watch_2023" %}
 
 ## ***Gate Watch (2019)*** Image Credits
 
 All the images used in this game have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to Christopher Allen by the image creator. Hover over images to see full credits.
 
-{% include gallery %}
+{% include gallery id="gallery_gate_watch_2019" %}
 
 ## ***Tableau: Gate Watch (2023)*** Image Credits
 
