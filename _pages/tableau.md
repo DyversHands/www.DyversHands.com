@@ -27,7 +27,7 @@ tableau_playsets:
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: /Subscribe
-    btn_label2: "Coming Soon!"
+    btn_label2: "Coming Summer!"
     btn_class2: "btn--info"
   - image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
     alt: "Gate Watch Playset Cover Card"
@@ -37,7 +37,7 @@ tableau_playsets:
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: /Subscribe
-    btn_label2: "Coming Soon!"
+    btn_label2: "Coming Summer!"
     btn_class2: "btn--info"
   - image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
