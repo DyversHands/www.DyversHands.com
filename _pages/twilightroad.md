@@ -17,7 +17,7 @@ redirect_from:
   - /games/twilightroad
 twilight_road_playset:
   - image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
-    excerpt: "***Tableau:*** **Twilight Road** is fulfulled by ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_188_30.png) in three different versions: _Cards w/Tuckbox!_ version contains 72 poker-sized Playset & core cards; _Just the Cards!_ version banded in a plastic wrap without a tuckbox; or a _Print-N-Play!_ PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
+    excerpt: "***Tableau:*** **Twilight Road** is fulfulled by ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: _Cards w/Tuckbox!_ version contains 72 poker-sized Playset & core cards; _Just the Cards!_ version banded in a plastic wrap without a tuckbox; or a _Print-N-Play!_ PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road &#128739;"
     url: /Subscribe
@@ -32,7 +32,7 @@ twilight_road_playset:
 gallery:
   - url: /GateWatch
     image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
-    alt: "Twilight Road Playset Cover Card"
+    alt: "Gate WatchPlayset Cover Card"
   - url: /Improv
     image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"

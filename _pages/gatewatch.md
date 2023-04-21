@@ -15,6 +15,28 @@ redirect_from:
   - /gatewatch
   - /Gatewatch
   - /games/gatewatch
+gate_watch_playset:
+  - image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
+    excerpt: "***Tableau:*** **Gate Watch** is fulfulled by ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: _Cards w/Tuckbox!_ version contains 52 poker-sized Playset & core cards; _Just the Cards!_ version banded in a plastic wrap without a tuckbox; or a _Print-N-Play!_ PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
+    alt: "Gate Watch Playset Cover Card"
+    title: "Twilight Road &#128739;"
+    url: /Subscribe
+    btn_label: "Cards w/Tuckbox!"
+    btn_class: "btn--info"
+    url2: /Subscribe
+    btn_label2: "Just the Cards!"
+    btn_class2: "btn--info"
+    url3: /Subscribe
+    btn_label3: "Print-N-Play!"
+    btn_class3: "btn--info"
+gallery:
+  - url: /TwilightRoad
+    image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
+    alt: "Twilight Road Playset Cover Card"
+  - url: /Improv
+    image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
+    alt: "Tableau Improv Playset Cover Card"
+
 ---
 **Kickstarter Campaign:** The Kickstarter campaign for our first two ***Tableau*** playsets, including **Gate Watch** 🚪, concluded April 17th and was fully funded. For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/).
 {: .notice--success}
@@ -40,3 +62,12 @@ Tableau offers cinematic storytelling in 2-3 hours, with no prep or GM required.
 ## Reviewer Quotes
 
 > *“Gate Watch is an intriguing, distilled world-crafting, story-telling, and role-playing experience in the guise of a simple game. I wouldn't be surprised if some of the principles it is based on are used in basic literary, plot-writing or directing courses. Involve everybody around the table and collaboratively set the background through a pool of questions. Create exciting scenes involving both the background and the participating characters with nothing but narration. Dice? Nah, too random. Cards? Yes, but only a handful. Rules? Less than a single page. Duration? As long as you wish. Fun? Loads! The game can explore any setting and genre you want it to, with everybody simultaneously starring and directing. Veteran gamer? Hardcore role-player? Total newbie? It doesn't matter. All you need is a vivid imagination.”* **— Antonios S, RPGnet Reviewer & Columnist _(about the 1st edition of Gate Watch)_.**
+
+## Available from… 
+
+{% include feature_row id="gate_watch_playset" type="left" %}
+
+## Other Tableau Playsets
+
+{% include gallery %}
+
