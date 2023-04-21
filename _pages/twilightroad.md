@@ -21,13 +21,13 @@ twilight_road_playset:
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road &#128739;"
     url: /Subscribe
-    btn_label: "Cards w/Tuckbox!"
+    btn_label: "Cards w/Tuckbox! (coming soon)"
     btn_class: "btn--info"
     url2: /Subscribe
-    btn_label2: "Just the Cards!"
+    btn_label2: "Just the Cards! (coming soon)"
     btn_class2: "btn--info"
     url3: /Subscribe
-    btn_label3: "Print-N-Play!"
+    btn_label3: "Print-N-Play! (coming soon)"
     btn_class3: "btn--info"
 gallery:
   - url: /GateWatch
