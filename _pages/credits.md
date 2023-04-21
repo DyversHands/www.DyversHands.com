@@ -19,15 +19,21 @@ gallery:
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00000.jpg
     alt: "Tableau Inspiration 00000"
     title: "Photo by Jacob W. Frank at [JWFrank.com](https://JWFrank.com), from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delicate_Arch_at_Night_with_Headlamp_%288708155337%29.jpg), licensed CC0."
-  - url: https://commons.wikimedia.org/wiki/File:Delicate_Arch_at_Night_with_Headlamp_%288708155337%29.jpg
+  - url: ""
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00001.jpg
     alt: "Tableau Inspiration 00001"
     title: "Composited by Christopher Allen, from: - Photo by Prester Johnstock on [DeviantArt](https://presterjohnstock.deviantart.com/art/Pre-cut-Stone-Gateway-297527473), used with [permission](https://www.deviantart.com/presterjohnstock/journal/Devious-Journal-Entry-323881823). - Photo by Paul L Dineen on [Flickr](https://www.flickr.com/photos/pauldineen/19960011573), licensed CC-BY. - Photo by Chris Hoare on [Flickr](https://www.flickr.com/photos/u07ch/27766641595/), licensed CC-BY."
+  - url: https://www.maxpixel.net/Input-House-Entrance-Closed-Door-Mystical-Goal-2020636
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00002.jpg
+    alt: "Tableau Inspiration 00002"
+    title: "Photo by [MaxPixel](https://www.maxpixel.net/Input-House-Entrance-Closed-Door-Mystical-Goal-2020636), licensed CC0."
 ---
 
 ## Used in "Gate Watch (2019)"
 
-All the images used in this game have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to me by the image creator.
+{% include gallery caption="Images used in Gate Watch (2019)" %}
+
+All the images used in this game have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to Christopher Allen by the image creator.
 
 ![Tableau Inspiration 00000](/assets/images/credit_thumbs/tableau_inspiration_125_175_00000.jpg)
 
