@@ -26,16 +26,16 @@ gallery:
 
 # CURRENT GAMES
 
-## ***Tableau:*** **Collaborative Cinematic Storytelling**
+## ***Tableau Games:*** **Collaborative Cinematic Storytelling**
 
 _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
 {: .notice--info}
 
-***Tableau*** offers cinematic storytelling in 2-3 hours, with no prep or GM required. Composable rules on poker-sized cards provide multiple playsets for versatile gameplay with 2-5 players, ages 14 and up. Multiple playsets are available and may be mixed & matched with each other and with future Tableau Games playsets.
+***Tableau*** offers cinematic storytelling in 2-3 hours, with no prep or GM required. Rules and story prompts on poker-sized cards provide for versatile gameplay for 2-5 players, ages 14 and up. Multiple playsets are available cards may be mixed & matched with each other and with future ***Tableau Games*** playsets.
 
 [Read More…](/Tableau){: .btn .btn--inverse}{: align-center}
 
-### ***Tableau:*** *Playsets*
+### ***Tableau:*** *Playsets Available*
 
 {% include gallery %}
 
