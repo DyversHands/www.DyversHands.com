@@ -21,7 +21,7 @@ redirect_from:
   - /tableau/advancedplaytester/
   - /tableau/Advancedplaytester/
   - /tableau/advancedPlaytester/
- ---
+---
 
 # ***Tableau Games:*** Advanced Playtester
 
