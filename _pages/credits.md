@@ -131,15 +131,15 @@ gallery_gate_watch_2023:
   - url: "https://cdn.pixabay.com/photo/2018/10/05/17/02/tunnel-3726360_1280.jpg"
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00019.jpg
     alt: "Tableau Inspiration 0019 - Tunnel Ice Passage"
-    title: "Photo *Tunnel Ice Passage* by Webtalents on [Pixabay](https://pixabay.com/illustrations/tunnel-ice-passage-discovery-3726360/)"
+    title: "Photo *Tunnel Ice Passage* by Webtalents on [Pixabay](https://pixabay.com/illustrations/tunnel-ice-passage-discovery-3726360/) Free to use or modify, no attribution or permission required under Pixabay license. "
   - url: https://pixabay.com/photos/prison-fence-razor-ribbon-wire-219264/
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00020.jpg
     alt: "Tableau Inspiration 0020 - Prison Wall"
-    title: "Image *Prison Wall* by Jody Dell Davis on [Pixabay](https://pixabay.com/photos/prison-fence-razor-ribbon-wire-219264/). Simplified Pixabay License, free for commercial use, no attribution required."
+    title: "Image *Prison Wall* by Jody Dell Davis on [Pixabay](https://pixabay.com/photos/prison-fence-razor-ribbon-wire-219264/). Free to use or modify, no attribution or permission required under Pixabay license."
   - url: 
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00021.jpg
     alt: "Tableau Inspiration 0021 - Bunker Stairs Upward"
-    title: "Image *Bunker Stairs Upward* by Martin Bock from Pixabay. Simplified Pixabay License, free for commercial use, no attribution required. https://pixabay.com/photos/bunker-stairs-upward-building-2359436/"
+    title: "Image *Bunker Stairs Upward* by Martin Bock from Pixabay. Simplified Pixabay License, free for commercial use, no attribution or permission required. https://pixabay.com/photos/bunker-stairs-upward-building-2359436/"
   - url: https://upload.wikimedia.org/wikipedia/commons/9/9b/Human-headed_winged_lion_%28lamassu%29_MET_DP252320.jpeg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00008.jpg
     alt: "Tableau Inspiration 00008"
@@ -147,16 +147,16 @@ gallery_gate_watch_2023:
   - url: https://pixabay.com/photos/portal-fantasia-mystic-magic-4436861/
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00022.jpg
     alt: "Tableau Inspiration 00022 - Portal Fantasia"
-    title: "Image **Portal Fantasia** by adolfo_mazzotti from [Pixabay](https://pixabay.com/photos/portal-fantasia-mystic-magic-4436861/). Simplified Pixabay License, free for commercial use, no attribution required."
+    title: "Image **Portal Fantasia** by adolfo_mazzotti from [Pixabay](https://pixabay.com/photos/portal-fantasia-mystic-magic-4436861/). Free to use or modify, no attribution or permission required under Pixabay license."
   - url: https://pixabay.com/photos/gate-leaves-fence-country-entrance-396701/
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00023.jpg
     alt: "Tableau Inspiration 00023 - Gate Leaves Country Fence"
-    title: "Image **Gate Leaves Country Fence** by argus398 from [Pixabay](https://pixabay.com/photos/gate-leaves-fence-country-entrance-396701/). Simplified Pixabay License, free for commercial use, no attribution required."
+    title: "Image **Gate Leaves Country Fence** by argus398 from [Pixabay](https://pixabay.com/photos/gate-leaves-fence-country-entrance-396701/). Free to use or modify, no attribution or permission required under Pixabay license."
 gallery_twilight_road_2023:
   - url: /assets/images/originals/arm-asphalt-blur-close-up-400536
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00024.jpg
     alt: "Tableau Inspiration 00024 - Arm Asphalt Blur Close Up"
-    title: "By *Arm Asphalt Blur Close Up* on [Pexels](https://www.pexels.com/photo/arm-asphalt-blur-close-up-400536/), under Pexels license. (retrieved 2019, no longer on Pexels in 2023), now *Nature Grass People Hands* by StockSnap on [Pixabay](https://pixabay.com/photos/nature-grass-people-hands-thumbs-2569232/) Simplified Pixabay License, free for commercial use, no attribution required."
+    title: "By *Arm Asphalt Blur Close Up* on [Pexels](https://www.pexels.com/photo/arm-asphalt-blur-close-up-400536/), under Pexels license. (retrieved 2019, no longer on Pexels in 2023), now *Nature Grass People Hands* by StockSnap on [Pixabay](https://pixabay.com/photos/nature-grass-people-hands-thumbs-2569232/) Free to use or modify, no attribution or permission required under Pixabay license."
   - url: /assets/images/originals/garrett-sears-T57t6ZUT2Kc-unsplash.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00025.jpg
     alt: "Tableau Inspiration 00025 - Compass at Sea Side"
@@ -164,8 +164,21 @@ gallery_twilight_road_2023:
   - url: /assets/images/originals/pexels-james-wheeler-1578750.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
     alt: "Tableau Inspiration 00026 - Divided Path"
-    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
+    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution or permission required under Pexel’s Legal Simplicity license."
+  - url: /assets/images/originals/colorado-1308555.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00027.jpg
+    alt: "Tableau Inspiration 00027 - Colorado Sunset Twilight Dusk"
+    "Photo *Colorado Sunset Twilight Dusk* by David Mark on [Pixabay](https://pixabay.com/photos/colorado-sunset-twilight-dusk-1308555/). Free to use or modify, no attribution or permission required under Pixabay license."
+ - url: /assets/images/originals/nikolas-noonan-n_3kdpSkrJo-unsplash.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00028.jpg
+    alt: "Tableau Inspiration 00028 - Tornado Alley"
+    title: "Photo *Tornado Alley* by Nikolas Noonan on [Unsplash](https://unsplash.com/photos/n_3kdpSkrJo). Free to use, no attribution or permission required under Unsplash license."
+ - url: /assets/images/originals/1977_Hitchhiker-Luxemburg-1977
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00029.jpg
+    alt: "Tableau Inspiration 00029 - Hitchhiker Luxemburg 1977"
+    title: "Photo *Hitchhiker Luxemburg 1977* by Roger McLassus on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1977_Hitchhiker-Luxemburg-1977.jpg). Licensed GNU Free Doc & CC-BY-SA."
 ---
+1977_Hitchhiker-Luxemburg-1977
 
 All the images used in our games or on this website have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to Dyvers Hands Productions, LLC or Christopher Allen by the image creator. Hover over images to see full credits.
 
@@ -182,5 +195,7 @@ All the images used in our games or on this website have been either permissivel
 {% include gallery id="gallery_gate_watch_2019" %}
 
 ## Website Image Credits
+
+* [Tableau: Twilight Road](/TwilightRoad) banner: [Photo](/assets/images/originals/colorado-1308555.jpg) *Colorado Sunset Twilight Dusk* by David Mark on [Pixabay](https://pixabay.com/photos/colorado-sunset-twilight-dusk-1308555/). Free to use or modify, no attribution or permission required under [Pixabay license](https://pixabay.com/service/terms/).
 
 * [Tableau: Improv](/Improv) banner: [Photo](/assets/images/originals/denise-jans-dPeMksg59lA-unsplash.jpg) *Schouwburg Ogterop Meppel - beautiful theatre in the netherlands* by Denise Jans on [Unsplash](https://unsplash.com/photos/dPeMksg59lA). Free to use, no attribution or permission required under Unsplash license.
