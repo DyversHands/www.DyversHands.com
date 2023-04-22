@@ -168,19 +168,19 @@ gallery_twilight_road_2023:
   - url: /assets/images/originals/colorado-1308555.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00027.jpg
     alt: "Tableau Inspiration 00027 - Colorado Sunset Twilight Dusk"
-    "Photo *Colorado Sunset Twilight Dusk* by David Mark on [Pixabay](https://pixabay.com/photos/colorado-sunset-twilight-dusk-1308555/). Free to use or modify, no attribution or permission required under Pixabay license."
- - url: /assets/images/originals/nikolas-noonan-n_3kdpSkrJo-unsplash.jpg
+    title: "Photo *Colorado Sunset Twilight Dusk* by David Mark on [Pixabay](https://pixabay.com/photos/colorado-sunset-twilight-dusk-1308555/). Free to use or modify, no attribution or permission required under Pixabay license."
+  - url: /assets/images/originals/nikolas-noonan-n_3kdpSkrJo-unsplash.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00028.jpg
     alt: "Tableau Inspiration 00028 - Tornado Alley"
     title: "Photo *Tornado Alley* by Nikolas Noonan on [Unsplash](https://unsplash.com/photos/n_3kdpSkrJo). Free to use, no attribution or permission required under Unsplash license."
- - url: /assets/images/originals/1977_Hitchhiker-Luxemburg-1977.jpg
+  - url: /assets/images/originals/1977_Hitchhiker-Luxemburg-1977.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00029.jpg
     alt: "Tableau Inspiration 00029 - Hitchhiker Luxemburg 1977"
     title: "Photo *Hitchhiker Luxemburg 1977* by Roger McLassus on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1977_Hitchhiker-Luxemburg-1977.jpg). Licensed GNU Free Doc & CC-BY-SA."
- - url: /assets/images/originals/service-pnp-fsa-8e07000-8e07300-8e07320v.jpg
+  - url: /assets/images/originals/service-pnp-fsa-8e07000-8e07300-8e07320v.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00030.jpg
     alt: "Tableau Inspiration 00030 - Migrant worker on California highway"
-    title: "Photo *Migrant worker on California highway* by Dorothy from [US Library of Congress](https://www.loc.gov/item/2017768863/). Public Domain from Farm Security Administration.
+    title: "Photo *Migrant worker on California highway* by Dorothy from [US Library of Congress](https://www.loc.gov/item/2017768863/). Public Domain from Farm Security Administration."
 ---
 
 All the images used in our games or on this website have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to Dyvers Hands Productions, LLC or Christopher Allen by the image creator. Hover over images to see full credits.
