@@ -5,8 +5,7 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/games/tableau/twilightroad/twilight_road_banner_1280_360.jpg
   og_image: assets/images/games/tableau/twilightroad/twilight_road_card.jpg
-title: Tableau
-subtitle: Collaborative Cinematic Storytelling
+title: ***Tableau Games&#58;*** Advanced Playtester
 hide_description: true
 classes:
   - wide
