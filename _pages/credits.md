@@ -62,11 +62,11 @@ gallery_gate_watch_2019:
   - url: https://images.unsplash.com/photo-1530406472580-81dc39c4babe
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00011.jpg
     alt: "Tableau Inspiration 00011 - Kalemegdan Fortress"
-    title: "Photo *Kalemegdan Fortress* by Nikola Knezevic on [Unsplash](https://unsplash.com/photos/Q3JcLtECTtE), licensed Unsplash."
+    title: "Photo *Kalemegdan Fortress* by Nikola Knezevic on [Unsplash](https://unsplash.com/photos/Q3JcLtECTtE), Unsplash license, no attribution or permission required."
   - url: https://images.unscom/photo-1531656731319-8d5d87bf5774plash.
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00012.jpg
     alt: "Tableau Inspiration 00012 - Morning on the Nata coast"
-    title: "Photo *Morning on the Nata Coast* by Kouji Tsuru on [Unsplash](https://unsplash.com/photos/tuskYdeKoYU), licensed Unsplash."
+    title: "Photo *Morning on the Nata Coast* by Kouji Tsuru on [Unsplash](https://unsplash.com/photos/tuskYdeKoYU), Unsplash license, no attribution or permission required."
   - url: "https://i.pngimg.me/thumb/f/720/6111913951887360.jpg"
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00013.jpg
     alt: "Tableau Inspiration 00013 - Light Trails on Road at Night"
@@ -107,7 +107,7 @@ gallery_gate_watch_2023:
   - url: https://images.unsplash.com/photo-1530406472580-81dc39c4babe
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00011.jpg
     alt: "Tableau Inspiration 00011 - Kalemegdan Fortress"
-    title: "Photo *Kalemegdan Fortress* by Nikola Knezevic on [Unsplash](https://unsplash.com/photos/Q3JcLtECTtE), licensed Unsplash."
+    title: "Photo *Kalemegdan Fortress* by Nikola Knezevic on [Unsplash](https://unsplash.com/photos/Q3JcLtECTtE), Unsplash license, no attribution or permission required."
   - url: http://www.kirikou.com/alemania/baviera/Neuburg/Neuburg26.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00010.jpg
     alt: "Tableau Inspiration 00010 - Doornob in Neuburg"
@@ -115,7 +115,7 @@ gallery_gate_watch_2023:
   - url: https://images.unscom/photo-1531656731319-8d5d87bf5774plash.
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00012.jpg
     alt: "Tableau * Inspiration 00012 - Morning on the Nata coast"
-    title: "Photo Morning on the Nata coast by Kouji Tsuru on [Unsplash](https://unsplash.com/photos/tuskYdeKoYU), licensed Unsplash."
+    title: "Photo Morning on the Nata coast by Kouji Tsuru on [Unsplash](https://unsplash.com/photos/tuskYdeKoYU), Unsplash license, no attribution or permission required."
   - url: https://live.staticflickr.com/8618/28435019105_9ed09a37aa_b.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00016.jpg
     alt: "Tableau Inspiration 00016 - Underground Tunnels Beneath Zagreb"
@@ -152,19 +152,36 @@ gallery_gate_watch_2023:
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00023.jpg
     alt: "Tableau Inspiration 00023 - Gate Leaves Country Fence"
     title: "Image **Gate Leaves Country Fence** by argus398 from [Pixabay](https://pixabay.com/photos/gate-leaves-fence-country-entrance-396701/). Simplified Pixabay License, free for commercial use, no attribution required."
+gallery_twilight_road_2023:
+  - url: /assets/images/originals/arm-asphalt-blur-close-up-400536
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00024.jpg
+    alt: "Tableau Inspiration 00024 - Arm Asphalt Blur Close Up"
+    title: "By *Arm Asphalt Blur Close Up* on [Pexels](https://www.pexels.com/photo/arm-asphalt-blur-close-up-400536/), under Pexels license. (retrieved 2019, no longer on Pexels in 2023), now *Nature Grass People Hands* by StockSnap on [Pixabay](https://pixabay.com/photos/nature-grass-people-hands-thumbs-2569232/) Simplified Pixabay License, free for commercial use, no attribution required."
+  - url: /assets/images/originals/garrett-sears-T57t6ZUT2Kc-unsplash.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00025.jpg
+    alt: "Tableau Inspiration 00025 - Compass at Sea Side"
+    title: "Photo *Compass at Sea Side* by Garrett Sears on [Unsplash](https://unsplash.com/photos/T57t6ZUT2Kc). Unsplash license, no attribution or permission required. "
+  - url: /assets/images/originals/pexels-james-wheeler-1578750.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
+    alt: "Tableau Inspiration 00026 - Divided Path"
+    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
 ---
 
 ## ***Tableau: Gate Watch (2023)*** Image Credits
+
+All the images used in this game have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to Dyvers Hands Productions, LLC by the image creator. Hover over images to see full credits.
 
 {% include gallery id="gallery_gate_watch_2023" %}
 
 ## ***Tableau: Twilight Road (2023)*** Image Credits
 
+All the images used in this game have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to Dyvers Hands Productions, LLC by the image creator. Hover over images to see full credits.
+
 {% include gallery id="gallery_twilight_road_2023" %}
 
 ## ***Gate Watch (2019)*** Image Credits
 
-All the images used in this game have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to Christopher Allen by the image creator. Hover over images to see full credits.
+All the images used in this game have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to Christopher Allen or Dyvers Hands Productions, LLC by the image creator. Hover over images to see full credits.
 
 {% include gallery id="gallery_gate_watch_2019" %}
 
