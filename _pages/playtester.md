@@ -10,7 +10,7 @@ subtitle: Collaborative Cinematic Storytelling
 hide_description: true
 classes:
   - wide
-permalink: /games/tableau/AdvancedPlaytester
+permalink: /games/tableau/AdvancedPlaytester/
 redirect_from:
   - /advancedplaytester/
   - /Advancedplaytester/
