@@ -58,37 +58,37 @@ Discover the rich narratives possible with the Tableau: Twilight Road🛣 layset
 
 There is only one rule card required for ***Tableau Games**, **Tableau Core ꩜**, which is described on three poker-sized cards:
 
-![Rule Card: Tableau Core ꩜ 1](/assets/images/tableau/core/core_rule_core_1_1500_1050.png)
+![Rule Card: Tableau Core ꩜ 1](/assets/images/games/tableau/core/core_rule_core_1_1500_1050.png)
 
-![Rule Card: Tableau Core ꩜ 2](/assets/images/tableau/core/core_rule_core_2_1500_1050.png)
+![Rule Card: Tableau Core ꩜ 2](/assets/images/games/tableau/core/core_rule_core_2_1500_1050.png)
 
-![Rule Card: Tableau Core ꩜ 3](/assets/images/tableau/core/core_rule_core_3_1500_1050.png)
+![Rule Card: Tableau Core ꩜ 3](/assets/images/games/tableau/core/core_rule_core_3_1500_1050.png)
 
 After review of these **Core ꩜** rules, the players will either choose a pre-defined **Playset 🎞** of cards that works well together or combine specific Rules 📜 cards to define the mechanics of collaborative storytelling, **Story 📖** cards to describe the elements of the narrative, and optional Character Traits 👤 to create unique and complex characters.
 
 Here is an example of a specific Rule 📜 that might be placed on the table: Drama Tokens 🎭 , where the storytellers do not use dice for tension, but instead use a form of good & bad karma to balance the different Moves available to Lead characters. But the storytellers might instead have chosen the Declare 🎭  or the  Push 🎭 card, which uses dice to determine outcomes and is useful for different kinds of stories.
 
-![Rule 📜 card: Drama Tokens 🎭 (from the Twilight Road Playset)](/assets/images/tableau/core/core_rule_narrative_drama_tokens_1500_1050.png)
+![Rule 📜 card: Drama Tokens 🎭 (from the Twilight Road Playset)](/assets/images/games/tableau/core/core_rule_narrative_drama_tokens_1500_1050.png)
 
 During the game, most selected Rules 📜 will stay on the table, but some will be taken up and held by the storytellers. Typically each storyteller will have four cards in their hand, such as:
 
-![An Example of a Storyteller's Hand of Cards (from the Twilight Road 🛣️ Playset)](/assets/images/tableau/twilightroad/twilight_road_storytellers_hand_of_cards_680_383)
+![An Example of a Storyteller's Hand of Cards (from the Twilight Road 🛣️ Playset)](/assets/images/games/tableau/twilightroad/twilight_road_storytellers_hand_of_cards_680_383)
 
 A Player Role 🗣, such as The Director 🗣, who is used in GMless-style games, or The Narrator 🗣, who is a storyteller with a unique perspective or a player who has been given narrative authority for a full act or a session. These are the most common Player Roles 🗣, but there are others such as The Spotlight 🗣 or this optional one: The Mapper 🗣, who is used in both Twilight Road and Gate Watch.
 
-![Player Role 🗣 card: The Mapper](/assets/images/tableau/core/core_rule_player_role_the_mapper_1500_1050.png)
+![Player Role 🗣 card: The Mapper](/assets/images/games/tableau/core/core_rule_player_role_the_mapper_1500_1050.png)
 
 A Story 📖 card that gives a storyteller authority over an element in this story. (This one is from Twilight Road 🚪 but could be chosen by the storytellers for any story):
 
-![Story Setting 🏘️ Card: The Road (from Twilight Road Playset)](/assets/images/tableau/twilightroad/)
+![Story Setting 🏘️ Card: The Road (from Twilight Road Playset)](/assets/images/games/tableau/twilightroad/)
 
 One or more of Character Trait 👤 cards to help define the unique character that a storyteller portrays. This one is Charming, an Approach 🛠 from Twilight Road 🚪 but it can used as Character Trait 👤 in other stories:
 
-![Character Trait  👤 card: Charming (from the Twilight Road Playset)](/assets/images/tableau/twilightroad/)
+![Character Trait  👤 card: Charming (from the Twilight Road Playset)](/assets/images/games/tableau/twilightroad/)
 
 Here is an example of a second Character Traits 👤. This one is a Face 🧑🏼‍🦲, which it is an archetype associated with a particular type of story. This one is The Runaway 🧑🏼‍🦲 from Twilight Road 🚪, but like all the other cards, could be used in other Tableau games.
 
-![Character Face 🧑🏼‍🦲: The Runaway (from the Twilight Road Playset)](/assets/images/tableau/twilightroad/)
+![Character Face 🧑🏼‍🦲: The Runaway (from the Twilight Road Playset)](/assets/images/games/tableau/twilightroad/)
 
 Storytellers can have a huge numbers of options available for play in the game, but they will only use a few during any scene in the story. 
 

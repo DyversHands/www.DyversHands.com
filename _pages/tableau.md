@@ -82,11 +82,11 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 There is only one rule card required for ***Tableau Games**, **Tableau Core ꩜**, which is described on three poker-sized cards:
 
-![Rule Card: Tableau Core ꩜ 1](/assets/images/tableau/core/core_rule_core_1_1500_1050.png)
+![Rule Card: Tableau Core ꩜ 1](/assets/images/games/tableau/core/core_rule_core_1_1500_1050.png)
 
-![Rule Card: Tableau Core ꩜ 2](/assets/images/tableau/core/core_rule_core_2_1500_1050.png)
+![Rule Card: Tableau Core ꩜ 2](/assets/images/games/tableau/core/core_rule_core_2_1500_1050.png)
 
-![Rule Card: Tableau Core ꩜ 3](/assets/images/tableau/core/core_rule_core_3_1500_1050.png)
+![Rule Card: Tableau Core ꩜ 3](/assets/images/games/tableau/core/core_rule_core_3_1500_1050.png)
 
 After review of these **Core ꩜** rules, the players will either choose a pre-defined **Playset 🎞** of cards that works well together or combine specific Rules 📜 cards to define the mechanics of collaborative storytelling, **Story 📖** cards to describe the elements of the narrative, and optional Character Traits 👤 to create unique and complex characters.
 
