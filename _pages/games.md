@@ -11,7 +11,7 @@ toc_label: Our Games
 hide_description: true
 permalink: /Games/
 redirect_from:
-  - /games
+  - /games/
 gallery:
   - url: /TwilightRoad
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
