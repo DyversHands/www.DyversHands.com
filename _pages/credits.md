@@ -1,13 +1,13 @@
 ---
 header:
-overlay_color: "#000"
-overlay_filter: "0.25"
-overlay_image: /images/qr-background.jpg
-og_image: /images/vision-card.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /images/qr-background.jpg
+  og_image: /images/vision-card.jpg
 title: Image Credits
 cover: false
-classes:
-- wide
+toc: true
+toc_label: Games
 hide_description: true
 permalink: /ImageCredits/
 redirect_from:
