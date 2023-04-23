@@ -62,11 +62,11 @@ gallery_gate_watch_2019:
   - url: https://images.unsplash.com/photo-1530406472580-81dc39c4babe
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00011.jpg
     alt: "Tableau Inspiration 00011 - Kalemegdan Fortress"
-    title: "Photo *Kalemegdan Fortress* by Nikola Knezevic on [Unsplash](https://unsplash.com/photos/Q3JcLtECTtE), Free to use, no attribution or permission required under Unsplash license."
+    title: "Photo *Kalemegdan Fortress* by Nikola Knezevic on [Unsplash](https://unsplash.com/photos/Q3JcLtECTtE), free to use, no attribution or permission required under Unsplash license."
   - url: https://images.unscom/photo-1531656731319-8d5d87bf5774plash.
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00012.jpg
     alt: "Tableau Inspiration 00012 - Morning on the Nata coast"
-    title: "Photo *Morning on the Nata Coast* by Kouji Tsuru on [Unsplash](https://unsplash.com/photos/tuskYdeKoYU), Free to use, no attribution or permission required under Unsplash license."
+    title: "Photo *Morning on the Nata Coast* by Kouji Tsuru on [Unsplash](https://unsplash.com/photos/tuskYdeKoYU), free to use, no attribution or permission required under Unsplash license."
   - url: "https://i.pngimg.me/thumb/f/720/6111913951887360.jpg"
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00013.jpg
     alt: "Tableau Inspiration 00013 - Light Trails on Road at Night"
@@ -107,7 +107,7 @@ gallery_gate_watch_2023:
   - url: https://images.unsplash.com/photo-1530406472580-81dc39c4babe
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00011.jpg
     alt: "Tableau Inspiration 00011 - Kalemegdan Fortress"
-    title: "Photo *Kalemegdan Fortress* by Nikola Knezevic on [Unsplash](https://unsplash.com/photos/Q3JcLtECTtE), Free to use, no attribution or permission required under Unsplash license."
+    title: "Photo *Kalemegdan Fortress* by Nikola Knezevic on [Unsplash](https://unsplash.com/photos/Q3JcLtECTtE), free to use, no attribution or permission required under Unsplash license."
   - url: http://www.kirikou.com/alemania/baviera/Neuburg/Neuburg26.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00010.jpg
     alt: "Tableau Inspiration 00010 - Doornob in Neuburg"
@@ -115,7 +115,7 @@ gallery_gate_watch_2023:
   - url: https://images.unscom/photo-1531656731319-8d5d87bf5774plash.
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00012.jpg
     alt: "Tableau * Inspiration 00012 - Morning on the Nata coast"
-    title: "Photo Morning on the Nata coast by Kouji Tsuru on [Unsplash](https://unsplash.com/photos/tuskYdeKoYU), Free to use, no attribution or permission required under Unsplash license."
+    title: "Photo Morning on the Nata coast by Kouji Tsuru on [Unsplash](https://unsplash.com/photos/tuskYdeKoYU), free to use, no attribution or permission required under Unsplash license."
   - url: https://live.staticflickr.com/8618/28435019105_9ed09a37aa_b.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00016.jpg
     alt: "Tableau Inspiration 00016 - Underground Tunnels Beneath Zagreb"
@@ -123,7 +123,7 @@ gallery_gate_watch_2023:
   - url: ""
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00018.jpg
     alt: "Tableau Inspiration 00016 - Prague City Manhole Cover"
-    title: "Photo Prague City Manhole Cover by Christopher from his personal collection licensed CC-BY-SA."
+    title: "Photo Prague City Manhole Cover by Christopher Allen from his personal collection licensed CC-BY-SA."
   - url: https://www.mobygames.com/images/shots/l/371916-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00017.jpg
     alt: "Tableau Inspiration 00017 Moby Games Wardrobe"
@@ -131,7 +131,7 @@ gallery_gate_watch_2023:
   - url: "https://cdn.pixabay.com/photo/2018/10/05/17/02/tunnel-3726360_1280.jpg"
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00019.jpg
     alt: "Tableau Inspiration 0019 - Tunnel Ice Passage"
-    title: "Photo *Tunnel Ice Passage* by Webtalents on [Pixabay](https://pixabay.com/illustrations/tunnel-ice-passage-discovery-3726360/) Free to use or modify, no attribution or permission required under Pixabay license. "
+    title: "Photo *Tunnel Ice Passage* by Webtalents on [Pixabay](https://pixabay.com/illustrations/tunnel-ice-passage-discovery-3726360/), free to use or modify, no attribution or permission required under Pixabay license. "
   - url: https://pixabay.com/photos/prison-fence-razor-ribbon-wire-219264/
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00020.jpg
     alt: "Tableau Inspiration 0020 - Prison Wall"
@@ -156,7 +156,7 @@ gallery_twilight_road_2023:
   - url: /assets/images/originals/arm-asphalt-blur-close-up-400536
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00024.jpg
     alt: "Tableau Inspiration 00024 - Arm Asphalt Blur Close Up"
-    title: "By *Arm Asphalt Blur Close Up* on [Pexels](https://www.pexels.com/photo/arm-asphalt-blur-close-up-400536/), under Pexels license. (retrieved 2019, no longer on Pexels in 2023), now *Nature Grass People Hands* by StockSnap on [Pixabay](https://pixabay.com/photos/nature-grass-people-hands-thumbs-2569232/) Free to use or modify, no attribution or permission required under Pixabay license."
+    title: "By *Arm Asphalt Blur Close Up* on [Pexels](https://www.pexels.com/photo/arm-asphalt-blur-close-up-400536/), under Pexels license. (retrieved 2019, no longer on Pexels in 2023), now *Nature Grass People Hands* by StockSnap on [Pixabay](https://pixabay.com/photos/nature-grass-people-hands-thumbs-2569232/), free to use or modify, no attribution or permission required under Pexel’s Legal Simplicity license."
   - url: /assets/images/originals/garrett-sears-T57t6ZUT2Kc-unsplash.jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00025.jpg
     alt: "Tableau Inspiration 00025 - Compass at Sea Side"
@@ -181,6 +181,46 @@ gallery_twilight_road_2023:
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00030.jpg
     alt: "Tableau Inspiration 00030 - Migrant worker on California highway"
     title: "Photo *Migrant worker on California highway* by Dorothy from [US Library of Congress](https://www.loc.gov/item/2017768863/). Public Domain from Farm Security Administration."
+  - url: /assets/images/originals/girl_forest_road_little.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00031.jpg
+    alt: "Tableau Inspiration 00031 - Girl Forest Road Little"
+    title: "Photo *Girl Forest Road Little* from [Free-Images](https://free-images.com/display/girl_forest_road_little.html), licensed CC0"
+  - url: /assets/images/originals/tokyo-4763976.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00032.jpg
+    alt: "Tableau Inspiration 00032 - Tokyo Night Shinjuku"
+    title: "Photo *Tokyo Night Shinjuku* by Philipp Saal from [Pixabay](https://pixabay.com/photos/tokyo-night-shinjuku-lighting-eve-4763976/). Free to use or modify, no attribution or permission required under Pixabay license."
+  - url: /assets/images/originals/15833170932_4abac3678a_o.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00033.jpg
+    alt: "Tableau Inspiration 00033 - Rosebud"
+    title: "Photo *Rosebud* by Tim Pierce on [Flickr](https://www.flickr.com/photos/qwrrty/15833170932/), licensed CC-BY."
+  - url: /assets/images/originals/pexels-brenoanp-1136571.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00034.jpg
+    alt: "Tableau Inspiration 00034 - Silhouette of man standing near body of water"
+    title: "Photo *Silhouette of man standing near body of water* by brenoanp on [Pexels](https://www.pexels.com/photo/silhouette-of-man-standing-near-body-of-water-1136571/), free to use or modify, no attribution or permission required under Pexel’s Legal Simplicity license."
+  - url: /assets/images/originals/39486989222_a0ee89bda8_o.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00035.jpg
+    alt: "Tableau Inspiration 00035 - Camel Rider"
+    title: "Photo *Camel Rider* by lensnmatter on [Flickr](https://www.flickr.com/photos/lensnmatter/39486989222/), licensed CC-BY."
+  - url: /assets/images/originals/5379244544_317fc3e9a5_o.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00036.jpg
+    alt: "Tableau Inspiration 00036 - Horse Rider"
+    title: "Photo *Camel Rider* by Tom Knutilla on [Flickr](https://www.flickr.com/photos/yourbartender/5379244544/), licensed CC-BY."
+  - url: /assets/images/originals/27253707970_c656524671_o.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00037.jpg
+    alt: "Tableau Inspiration 00037 - Sailboat at Twilight"
+    title: "Photo *Sailboat at Twilight* by José Javier Polo on [Flickr](https://www.flickr.com/photos/85469227@N08/), released to the public domain."
+  - url: /assets/images/originals/pexels-threeshots-714535.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00038.jpg
+    alt: "Tableau Inspiration 00038 - Railroad Beneath the Trees"
+    title: "Photo *Railroad Beneath the Trees* by Three-shots on [Flickr](https://www.pexels.com/photo/railroad-in-between-the-trees-714535/), free to use or modify, no attribution or permission required under Pexel’s Legal Simplicity license."
+  - url: /assets/images/originals/42000101795_9046c3fbe2_o.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00039.jpg
+    alt: "Tableau Inspiration 00039 - Gypsy Caravan"
+    title: "Photo *Gypsy Caravan* by Alan Farrow on [Flickr](https://www.flickr.com/photos/116071498@N08/42000101795/), released to the public domain."
+  - url: /assets/images/originals/english-canal-in-autumn.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00040.jpg
+    alt: "Tableau Inspiration 00040 - English Canal in Autumn"
+    title: "Photo *English Canal in Autumn* by by Christopher Allen from his personal collection licensed CC-BY-SA."
 ---
 
 All the images used in our games or on this website have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to Dyvers Hands Productions, LLC or Christopher Allen by the image creator. Hover over images to see full credits.
