@@ -16,7 +16,7 @@ redirect_from:
   - /Twilightroad
   - /games/twilightroad
 twilight_road_playset:
-  - image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
+  - image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
     excerpt: "***Tableau:*** **Twilight Road** &#128739; playset is available print-on-demand from ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: **Cards w/Tuckbox!** version contains 72 poker-sized Playset & core cards; **Just the Cards!** version banded in a plastic wrap without a tuckbox; or a **Print-N-Play!** PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road &#128739;"
@@ -31,10 +31,10 @@ twilight_road_playset:
     btn_class3: "btn--info"
 gallery:
   - url: /GateWatch
-    image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
+    image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
     alt: "Gate WatchPlayset Cover Card"
   - url: /Improv
-    image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
+    image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
 ---
 _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including **Twilight Road** 🛣, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
@@ -56,7 +56,7 @@ Discover the rich narratives possible with the Tableau: Twilight Road🛣 playse
 
 ## Kinds of **Twilight Road** 🛣 Stories:
 
-![Tableau Twilight Road 🛣 Playset - Inspiration Card](/assets/images/games/tableau/twilightroad/twilight_road_inspirations_1500_1050.png)
+![Tableau Twilight Road 🛣 Playset - Inspiration Card](/assets/images/games/tableau/twilightroad/twilight_road_playset_inspirations_1500_1050.png)
 
 ## Available from… 
 
@@ -65,3 +65,45 @@ Discover the rich narratives possible with the Tableau: Twilight Road🛣 playse
 ## Other ***Tableau*** Playsets
 
 {% include gallery %}
+
+### Inspirational Quotes for Twilight Road 🛣
+
+> _“It is always darkest before the dawn.”_ ***~ Thomas Fuller***
+
+> _“If you don’t know where you are going, any road will get you there.”_ ***~ Lewis Carroll***
+
+> _“Road movies have always been songs of the doomed, warnings that once you enter the open hinterlands between cities, you're on your own”_ ***~Michael Atkinson***
+
+> _“Take a walk on the wild side.”_ ***~ Lou Reed***
+
+> _"As nightfall does not come at once, neither does oppression. In both instances, there is a twilight when everything remains seemingly unchanged.”_ ***~ William O. Douglas***
+
+> _“As the world fell, each of us, in our own way, was broken. It was hard to know who was more crazy: me or everyone else.”_ ***~ “Mad Max” Rockatansky***
+
+> _“It is easy to go down into Hell; night and day, the gates of dark Death stand wide; but to climb back again, to retrace one’s steps to the upper air - there’s the rub, the task.”_ ***~ Virgil, Poet***
+
+> _“All he needed was a wheel in his hand and four on the road.”_ ***~ Jack Kerouac***
+
+> _“As nightfall does not come at once, neither does oppression. In both instances, there is a twilight when everything remains seemingly unchanged."_ ***~ William O. Douglas***
+
+> _“My paintings always feature trails that dissolve into mysterious areas, patches of light that lead the eye around corners, pathways, open gates, etc.”_ ***~Thomas Kinkade***
+
+> _“Still round the corner there may wait, A new road or a secret gate.”_ ***~ J. R. R. Tolkien***
+
+### Credits
+
+Written & Designed by: Christopher Allen <ChristopherA@DyversHands.com>
+
+©2022-23 by Dyvers Hands Productions, LLC. — All Rights Reserved
+
+(no license is granted for redistribution or derivation without permission, however, our goal is CC-BY-SA after a successful Kickstarter stretch goal)
+
+Images © original creators & are Permissively Licensed. More info & image credits at www.DyversHands.com/Tableau
+
+Tableau Games™, Dyvers Hands™, and Twilight Road™ are trademarks of Dyvers Hands Productions LLC.
+
+Creative Contributors: Shannon Appelcline, Aaron Reed
+
+### Mailing List
+
+To stay updated on the latest news, including the official public release date of our first three playsets and information about future Tableau Games projects, be sure to sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH). You'll be the first to know about exciting developments, promotions, and future Kickstarter campaigns.

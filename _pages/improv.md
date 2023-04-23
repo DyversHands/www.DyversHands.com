@@ -15,7 +15,7 @@ redirect_from:
   - /improv
   - /games/improv
 improv_playset:
-  - image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
+  - image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
     excerpt: "***Tableau:*** **Improv** &#127914; playset is available print-on-demand from ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: **Cards w/Tuckbox!** version contains 38 poker-sized Playset & core cards; **Just the Cards!** version banded in a plastic wrap without a tuckbox; or a **Print-N-Play!** PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Improv Playset Cover Card"
     title: "Improv &#127914;"
@@ -30,10 +30,10 @@ improv_playset:
     btn_class3: "btn--success"
 gallery:
   - url: /TwilightRoad
-    image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
+    image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
     alt: "Twilight Road Playset Cover Card"
   - url: /GateWatch
-    image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
+    image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
     alt: "Gate WatchPlayset Cover Card"
 ---
 _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including **Improv** 🎪, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._

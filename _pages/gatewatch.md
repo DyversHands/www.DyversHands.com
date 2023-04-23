@@ -16,7 +16,7 @@ redirect_from:
   - /Gatewatch
   - /games/gatewatch
 gate_watch_playset:
-  - image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
+  - image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
     excerpt: "***Tableau:*** **Gate Watch** &#128682; playset is available print-on-demand from ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: **Cards w/Tuckbox!** version contains 52 poker-sized Playset & core cards; **Just the Cards!** version banded in a plastic wrap without a tuckbox; or a **Print-N-Play!** PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Gate Watch Playset Cover Card"
     title: "Twilight Road &#128739;"
@@ -31,10 +31,10 @@ gate_watch_playset:
     btn_class3: "btn--info"
 gallery:
   - url: /TwilightRoad
-    image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
+    image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
     alt: "Twilight Road Playset Cover Card"
   - url: /Improv
-    image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
+    image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
 
 ---
@@ -54,7 +54,7 @@ _Venture into the mysterious as you stand at the edge between worlds, unraveling
 
 ## Kinds of Gate Watch 🚪 Stories:
 
-![Tableau: Gate Watch 🚪 Playset - Inspiration Card](/assets/images/games/tableau/gatewatch/gate_watch_inspirations_1500_1050.png)
+![Tableau: Gate Watch 🚪 Playset - Inspiration Card](/assets/images/games/tableau/gatewatch/gate_watch_playset_inspirations_1500_1050.png)
 
 ## Reviewer Quotes
 
@@ -67,3 +67,37 @@ _Venture into the mysterious as you stand at the edge between worlds, unraveling
 ## Other Tableau Playsets
 
 {% include gallery %}
+
+### Inspirational Quotes for Gate Watch 🚪
+
+> _“The world is all gates, all opportunities, strings of tension waiting to be struck.” ~ Ralph Waldo Emerson
+
+> _“The enemy is within the gates; it is with our own luxury, our own folly, our own criminality that we have to contend.”_ ***~ Marcus Tullius Cicero***
+
+> _“Our dreams are a second life. I have never been able to penetrate without a shudder those ivory or horned gates which separate us from the invisible world.”_ ***~Gerard De Nerval***
+
+> _“Near the gates and within two cities there will be scourges the like of which was never seen: famine within plague, people put out by steel, crying to the great immortal God for relief.”_ ***~ Nostradomus***
+
+> _“Peter Venkman: ‘She says she's the Gatekeeper. Does that make sense to you?’ Egon Spengler: ‘Some. I'm with the Keymaster now.’ Peter Venkman: ‘Oh, we have to get these two together.’"_ ***~ Ghostbusters by Dan Aykroyd & Harold Ramis***
+
+> _“Yog-Sothoth knows the gate. Yog-Sothoth is the gate. Yog-Sothoth is the key and guardian of the gate. Past, present, future, all are one in Yog-Sothoth.”_ ***~ H. P. Lovecraft***
+
+> _“We did not choose to be the guardians of the gate, but there is no one else.”_ ***~ Lyndon B. Johnson***
+
+### Credits
+
+Written & Designed by: Christopher Allen <ChristopherA@DyversHands.com>
+
+©2022-23 by Dyvers Hands Productions, LLC. — All Rights Reserved
+
+(no license is granted for redistribution or derivation without permission, however, our goal is CC-BY-SA after a successful Kickstarter stretch goal)
+
+Images © original creators & are Permissively Licensed. More info & image credits at www.DyversHands.com/Tableau
+
+Tableau Games™, Dyvers Hands™, and Gate Watch™ are trademarks of Dyvers Hands Productions LLC.
+
+Creative Contributors: Shannon Appelcline, Aaron Reed
+
+### Mailing List
+
+To stay updated on the latest news, including the official public release date of our first three playsets and information about future Tableau Games projects, be sure to sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH). You'll be the first to know about exciting developments, promotions, and future Kickstarter campaigns.

@@ -29,7 +29,7 @@ tableau_playsets:
     url2: /Subscribe
     btn_label2: "Coming Summer!"
     btn_class2: "btn--info"
-  - image_path: /assets/images/games/tableau/gatewatch/gate_watch_cover_750_1050.png
+  - image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
     alt: "Gate Watch Playset Cover Card"
     title: "Gate Watch &#128682;"
     excerpt: "You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the *Enigma* that is *The Gate*. Every game session is different, every world, every gate unique."
@@ -39,7 +39,7 @@ tableau_playsets:
     url2: /Subscribe
     btn_label2: "Coming Summer!"
     btn_class2: "btn--info"
-  - image_path: /assets/images/games/tableau/improv/improv_cover_750_1050.png
+  - image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
     title: "Improv &#127914;"
     excerpt: "Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, and creative writing."
@@ -82,35 +82,35 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 There is only one rule required for the game, Tableau Core ꩜, which is described on three poker-sized cards:
 
-Rule Card: Tableau Core ꩜ 1
-Rule Card: Tableau Core ꩜ 2
-Core Rule Card: Tableau Core ꩜ 3
+![Rule Card: Tableau Core ꩜ 1](/assets/images/tableau/core/)
+![Rule Card: Tableau Core ꩜ 2](/assets/images/tableau/core/)
+![Rule Card: Tableau Core ꩜ 3](/assets/images/tableau/core/)
 
 After review of these Core ꩜ rules, the players will either choose a pre-defined Playset 🎞 of cards that works well together or combine specific Rules 📜 cards to define the mechanics of collaborative storytelling, Story 📖 cards to describe the elements of the narrative, and optional Character Traits 👤 to create unique and complex characters.
 
 Here is an example of a specific Rule 📜 that might be placed on the table: Drama Tokens 🎭 , where the storytellers do not use dice for tension, but instead use a form of good & bad karma to balance the different Moves available to Lead characters. But the storytellers might instead have chosen the Declare 🎭  or the  Push 🎭 card, which uses dice to determine outcomes and is useful for different kinds of stories.
 
-Rule 📜 card: Drama Tokens 🎭 (from the Twilight Road Playset)
+![Rule 📜 card: Drama Tokens 🎭 (from the Twilight Road Playset)](/assets/images/tableau/core/)
 
 During the game, most selected Rules 📜 will stay on the table, but some will be taken up and held by the storytellers. Typically each storyteller will have four cards in their hand, such as:
 
-An Example of a Storyteller's Hand of Cards (from the Twilight Road 🛣️ Playset)
+![An Example of a Storyteller's Hand of Cards (from the Twilight Road 🛣️ Playset)](/assets/images/tableau/core/)
 
 A Player Role 🗣, such as The Director 🗣, who is used in GMless-style games, or The Narrator 🗣, who is a storyteller with a unique perspective or a player who has been given narrative authority for a full act or a session. These are the most common Player Roles 🗣, but there are others such as The Spotlight 🗣 or this optional one: The Mapper 🗣, who is used in both Twilight Road and Gate Watch.
 
-Player Role 🗣 card: The Mapper
+![Player Role 🗣 card: The Mapper](/assets/images/tableau/core/)
 
 A Story 📖 card that gives a storyteller authority over an element in this story. (This one is from Twilight Road 🚪 but could be chosen by the storytellers for any story):
 
-Story Setting 🏘️ Card: The Road (from Twilight Road Playset)
+![Story Setting 🏘️ Card: The Road (from Twilight Road Playset)](/assets/images/tableau/core/)
 
 One or more of Character Trait 👤 cards to help define the unique character that a storyteller portrays. This one is Charming, an Approach 🛠 from Twilight Road 🚪 but it can used as Character Trait 👤 in other stories:
 
-Character Trait  👤 card: Charming (from the Twilight Road Playset)
+![Character Trait  👤 card: Charming (from the Twilight Road Playset)](/assets/images/tableau/core/)
 
 Here is an example of a second Character Traits 👤. This one is a Face 🧑🏼‍🦲, which it is an archetype associated with a particular type of story. This one is The Runaway 🧑🏼‍🦲 from Twilight Road 🚪, but like all the other cards, could be used in other Tableau games.
 
-Character Face 🧑🏼‍🦲: The Runaway (from the Twilight Road Playset)
+![Character Face 🧑🏼‍🦲: The Runaway (from the Twilight Road Playset)](/assets/images/tableau/core/)
 
 Storytellers can have a huge numbers of options available for play in the game, but they will only use a few during any scene in the story. 
 
@@ -137,46 +137,6 @@ A game using storytelling cards from both Playsets 🎞 was:
 * a dark historical fantasy, where a water well located in a German farming village at the end of WWII was the only escape from invading Russians, but led the villagers into a perilous journey through the lands of the fae, with no way home.
 
 We've found the mechanics of Tableau work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. Tableau is a fun evening's entertainment.
-
-### Inspirational Quotes for Twilight Road 🛣
-
-“It is always darkest before the dawn.” ~ Thomas Fuller
-
-“If you don’t know where you are going, any road will get you there.” ~ Lewis Carroll
-
-“Road movies have always been songs of the doomed, warnings that once you enter the open hinterlands between cities, you're on your own” ~Michael Atkinson
-
-“Take a walk on the wild side." ~ Lou Reed
-
-"As nightfall does not come at once, neither does oppression. In both instances, there is a twilight when everything remains seemingly unchanged.” ~ William O. Douglas
-
-“As the world fell, each of us, in our own way, was broken. It was hard to know who was more crazy: me or everyone else.” ~ “Mad Max” Rockatansky
-
-“It is easy to go down into Hell; night and day, the gates of dark Death stand wide; but to climb back again, to retrace one’s steps to the upper air - there’s the rub, the task.” ~ Virgil, Poet
-
-“All he needed was a wheel in his hand and four on the road.” ~ Jack Kerouac
-
-“As nightfall does not come at once, neither does oppression. In both instances, there is a twilight when everything remains seemingly unchanged." ~ William O. Douglas
-
-“My paintings always feature trails that dissolve into mysterious areas, patches of light that lead the eye around corners, pathways, open gates, etc.” ~Thomas Kinkade
-
-“Still round the corner there may wait, A new road or a secret gate.” ~ J. R. R. Tolkien
-
-### Inspirational Quotes for Gate Watch 🚪
-
-“The world is all gates, all opportunities, strings of tension waiting to be struck.” ~ Ralph Waldo Emerson
-
-“The enemy is within the gates; it is with our own luxury, our own folly, our own criminality that we have to contend.” ~ Marcus Tullius Cicero
-
-“Our dreams are a second life. I have never been able to penetrate without a shudder those ivory or horned gates which separate us from the invisible world.” ~Gerard De Nerval
-
-“Near the gates and within two cities there will be scourges the like of which was never seen: famine within plague, people put out by steel, crying to the great immortal God for relief.” ~ Nostradomus
-
-“Peter Venkman: ‘She says she's the Gatekeeper. Does that make sense to you?’ Egon Spengler: ‘Some. I'm with the Keymaster now.’ Peter Venkman: ‘Oh, we have to get these two together.’" ~ Ghostbusters by Dan Aykroyd & Harold Ramis
-
-“Yog-Sothoth knows the gate. Yog-Sothoth is the gate. Yog-Sothoth is the key and guardian of the gate. Past, present, future, all are one in Yog-Sothoth.” ~ H. P. Lovecraft
-
-“We did not choose to be the guardians of the gate, but there is no one else.” ~ Lyndon B. Johnson
 
 ### Credits
 

@@ -14,13 +14,13 @@ redirect_from:
   - /tableau-hold/
 gallery:
   - url: /TwilightRoad
-    image_path: /assets/images/twilightroad/twilight_road_cover_thumb_183_256.png
+    image_path: /assets/images/twilightroad/twilight_road_playset_cover_thumb_183_256.png
     alt: "Twilight Road Playset Cover Card"
   - url: /GateWatch
-    image_path: /assets/images/gatewatch/gate_watch_cover_thumb_183_256.png
+    image_path: /assets/images/gatewatch/gate_watch_playset_cover_thumb_183_256.png
     alt: "Twilight Road Playset Cover Card"
   - url: /Improv
-    image_path: /assets/images/improv/improv_cover_thumb_183_256.png
+    image_path: /assets/images/improv/improv_playset_cover_thumb_183_256.png
     alt: "Tableau Improv Playset Cover Card"
 ---
 
@@ -112,59 +112,6 @@ If this Kickstarter receives pledges in excess of $5,000, I will make this entir
 
 What does this mean? It means that anyone can make their own Tableau cards, do their own Quickstarters, sell their own Playsets 🎞 deck designs, and innovate new storytelling game designs based on these rules, provided that they give credit and share their own work to the community in the same way. I hope that together we can create a movement toward a new style of collaborative storytelling play!
 
-### Inspirational Quotes for Twilight Road 🛣
-
-“It is always darkest before the dawn.” ~ Thomas Fuller
-
-“If you don’t know where you are going, any road will get you there.” ~ Lewis Carroll
-
-“Road movies have always been songs of the doomed, warnings that once you enter the open hinterlands between cities, you're on your own” ~Michael Atkinson
-
-“Take a walk on the wild side." ~ Lou Reed
-
-"As nightfall does not come at once, neither does oppression. In both instances, there is a twilight when everything remains seemingly unchanged.” ~ William O. Douglas
-
-“As the world fell, each of us, in our own way, was broken. It was hard to know who was more crazy: me or everyone else.” ~ “Mad Max” Rockatansky
-
-“It is easy to go down into Hell; night and day, the gates of dark Death stand wide; but to climb back again, to retrace one’s steps to the upper air - there’s the rub, the task.” ~ Virgil, Poet
-
-“All he needed was a wheel in his hand and four on the road.” ~ Jack Kerouac
-
-“As nightfall does not come at once, neither does oppression. In both instances, there is a twilight when everything remains seemingly unchanged." ~ William O. Douglas
-
-“My paintings always feature trails that dissolve into mysterious areas, patches of light that lead the eye around corners, pathways, open gates, etc.” ~Thomas Kinkade
-
-“Still round the corner there may wait, A new road or a secret gate.” ~ J. R. R. Tolkien
-
-### Inspirational Quotes for Gate Watch 🚪
-
-“The world is all gates, all opportunities, strings of tension waiting to be struck.” ~ Ralph Waldo Emerson
-
-“The enemy is within the gates; it is with our own luxury, our own folly, our own criminality that we have to contend.” ~ Marcus Tullius Cicero
-
-“Our dreams are a second life. I have never been able to penetrate without a shudder those ivory or horned gates which separate us from the invisible world.” ~Gerard De Nerval
-
-“Near the gates and within two cities there will be scourges the like of which was never seen: famine within plague, people put out by steel, crying to the great immortal God for relief.” ~ Nostradomus
-
-“Peter Venkman: ‘She says she's the Gatekeeper. Does that make sense to you?’ Egon Spengler: ‘Some. I'm with the Keymaster now.’ Peter Venkman: ‘Oh, we have to get these two together.’" ~ Ghostbusters by Dan Aykroyd & Harold Ramis
-
-“Yog-Sothoth knows the gate. Yog-Sothoth is the gate. Yog-Sothoth is the key and guardian of the gate. Past, present, future, all are one in Yog-Sothoth.” ~ H. P. Lovecraft
-
-“We did not choose to be the guardians of the gate, but there is no one else.” ~ Lyndon B. Johnson
-
-### Credits
-
-Written & Designed by: Christopher Allen <ChristopherA@DyversHands.com>
-
-©2022-23 by Dyvers Hands Productions, LLC. — All Rights Reserved
-
-(no license is granted for redistribution or derivation without permission, however, our goal is CC-BY-SA after a successful Kickstarter stretch goal)
-
-Images © original creators & are Permissively Licensed. More info & image credits at www.DyversHands.com/Tableau
-
-Tableau Games™, Dyvers Hands™, Twilight Road™, and Gate Watch™ are trademarks of Dyvers Hands Productions LLC.
-
-Creative Contributors: Shannon Appelcline, Aaron Reed
 
 ### Risks and challenges
 
