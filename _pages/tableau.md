@@ -19,7 +19,7 @@ redirect_from:
   - /tableauGames
   - /games/tableau/
 tableau_playsets:
-  - image_path: /assets/images/games/tableau/twilightroad/twilight_road_cover_750_1050.png
+  - image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road &#128739;"
     excerpt: "You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed. These are the stories of the ***Twilight Road***. Every game session is different, every road, every journey is unique."
