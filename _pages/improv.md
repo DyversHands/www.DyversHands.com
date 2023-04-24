@@ -31,10 +31,10 @@ improv_playset:
 gallery:
   - url: /TwilightRoad
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
-    alt: "Twilight Road Playset Cover Card"
+    alt: "Twilight Road &#128739; Playset Cover Card"
   - url: /GateWatch
     image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
-    alt: "Gate WatchPlayset Cover Card"
+    alt: "Gate Watch &#128682; Playset Cover Card"
 ---
 _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including **Improv** 🎪, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
 {: .notice--info}
@@ -44,7 +44,7 @@ _**Free Print-N-Play for month of April!** The PDF version of the **Tableau:** *
 
 ![Tableau: Improv 🎪 Playset - Cover Card](/assets/images/games/tableau/improv/improv_playset_cover_375_525.png){: style="float:right; padding:16px"}
 
-Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, and creative writing.
+_Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, and creative writing._
 
 ***Tableau*** offers cinematic storytelling in 2-3 hours, with no prep or GM required. Composable rules on poker-sized cards provide multiple playsets for versatile gameplay with 2-5 players, ages 14 and up. Explore the opportunities for collaborative storytelling and thrilling cinematic adventures possible with **Improv** 🎪  and the ***Tableau Games*** system.
 

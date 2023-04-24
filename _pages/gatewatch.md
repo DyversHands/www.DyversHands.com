@@ -32,10 +32,10 @@ gate_watch_playset:
 gallery:
   - url: /TwilightRoad
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
-    alt: "Twilight Road Playset Cover Card"
+    alt: "Twilight Road &#128739; Playset Cover Card"
   - url: /Improv
     image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
-    alt: "Tableau Improv Playset Cover Card"
+    alt: "Tableau Improv &#127914; Playset Cover Card"
 
 ---
 _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including**Gate Watch** 🚪, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
