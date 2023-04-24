@@ -12,6 +12,7 @@ classes:
 permalink: /games/tableau/AdvancedPlaytester/
 redirect_from:
   - /advancedplaytester/
+  - /AdvancedPlaytester/
   - /Advancedplaytester/
   - /advancedPlaytester/
   - /playtest/
