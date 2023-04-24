@@ -42,7 +42,7 @@ _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau*
 _**Free Print-N-Play for month of April!** The PDF version of the **Tableau:** **Improv** 🎪 Playset, is now available free for the month of April from [DriveThruCards](https://www.drivethrucards.com/product_info.php?products_id=432580)._
 {: .notice--success}
 
-![Tableau: Improv 🎪 Playset - Cover Card](/assets/images/games/tableau/improv/improv_cover_375_525.png){: style="float:right; padding:16px"}
+![Tableau: Improv 🎪 Playset - Cover Card](/assets/images/games/tableau/improv/improv_playset_cover_375_525.png){: style="float:right; padding:16px"}
 
 Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, and creative writing.
 

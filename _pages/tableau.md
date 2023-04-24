@@ -60,6 +60,8 @@ _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau*
 
 <p>&nbsp;</p>
 
+![Tableau Logo](/assets/images/logos/Tableau_Games_landscape_white_spot_rgb_on_black.svg){: style="float:right; width=200; padding:16px"; }
+
 ***Tableau*** is a storytelling game system that emphasizes collaborative storytelling and character development. The game's mechanics are designed to be flexible, allowing players to create stories in just a few hours from a wide variety of genres and styles without the need for advanced preparation or a designated game master.
 
 ***Tableau*** consists of a set of rules cards and a variety of story cards that establish themes, moods, settings, and character traits. Players use these cards to collaboratively create a story, with each scene focusing on a single question and building toward a satisfying cinematic narrative.
@@ -94,23 +96,23 @@ After review of these **Core ꩜** rules, the players will either choose a pre-d
 
 Tableau inspires players to be creative, supporting a nearly infinite variety of potential stories.
 
-The **Twilight Road** 🛣️ playset is particularly focused journey of self-discovery & personal growth. Explore themes of identity, purpose, and belonging as you search for answers. What will you discover on your way? Will you find your destination, or return home? 
+The **Twilight Road** 🛣️ _Playset_ 🎞 is particularly focused journey of self-discovery & personal growth. Explore themes of identity, purpose, and belonging as you search for answers. What will you discover on your way? Will you find your destination, or return home? 
 
-The Gate Watch🚪 playset takes you to the edge of the world. You are charged to keep an eye on the border between realms. Who built The Gate? What is on the other side? Why are you watching? 
+The Gate Watch🚪 _Playset_ 🎞takes you to the edge of the world. You are charged to keep an eye on the border between realms. Who built The Gate? What is on the other side? Why are you watching? 
 
-While playtesting the **Twilight Road** 🛣 Playset 🎞, the cards collaboratively selected by storytellers resulted in a wide variety of settings & genres:
+While playtesting the **Twilight Road** 🛣 _Playset_ 🎞, the cards collaboratively selected by storytellers resulted in a wide variety of settings & genres:
 
 * a historical fantasy, where a river journey across the Viking lands of ancient Russian followed the trail of Uncle Ingvar, lost while he was searching for the Silk Road and a lost city and treasure;
 * a 90s paranormal fantasy, in which a spring-break car trip led free-spirited students across America, each trying to find a lost icon on Route 66, looking for answers to a secret in their family history.
 
-In play-testing the Gate Watch 🚪 Playset 🎞, games have included:
+In play-testing the **Gate Watch** 🚪 _Playset_ 🎞, games have included:
 
 * a classics fantasy, with the gate lying between the real-world and the Greek heaven & hell, and Watchers possibly hired by Charon;
 * a 1950's noir mystery, featuring the gate between a Hollywood producer's mansion and the hardscrabble blue-collar world of post-war Los Angeles;
 * a sci-fi adventure, where a collapsing underground mutant civilization had a hidden exit to a post-apocalyptic landscape;
 * a wacky parallel universe, home of mechano-electro elves, who had discovered a gate to our reality at a California game convention, full of people who didn't understand them.
 
-A game mixing storytelling cards from both **Twilight Road** 🛣 & Gate Watch 🚪 Playsets 🎞 was:
+A game mixing storytelling cards from both **Twilight Road** 🛣 & **Gate Watch** 🚪 Playsets 🎞 was:
 
 * a dark historical fantasy, where a water well located in a German farming village at the end of WWII was the only escape from invading Russians, but led the villagers into a perilous journey through the lands of the fae, with no way home.
 
