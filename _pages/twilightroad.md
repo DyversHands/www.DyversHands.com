@@ -40,7 +40,7 @@ gallery:
 _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including **Twilight Road** 🛣, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
 {: .notice--info}
 
-![Tableau: Twilight Road 🛣 Playset - Cover Card](/assets/images/games/tableau/twilightroad/twilight_road_cover_375_525.png){: style="float:right; padding:16px"}
+![Tableau: Twilight Road 🛣 Playset 🎞- Cover Card](/assets/images/games/tableau/twilightroad/twilight_road_cover_375_525.png){: style="float:right; padding:16px"}
 
 _You are fellow travelers on the **Twilight Road** 🛣. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed. These are the stories of the **Twilight Road** 🛣. Every game session is different, every road, every journey is unique._
 
@@ -72,7 +72,7 @@ Here is an example of a specific Rule 📜 that might be placed on the table: Dr
 
 During the game, most selected Rules 📜 will stay on the table, but some will be taken up and held by the storytellers. Typically each storyteller will have four cards in their hand, such as:
 
-![An Example of a Storyteller's Hand of Cards (from the Twilight Road 🛣️ Playset)](/assets/images/games/tableau/twilightroad/twilight_road_storytellers_hand_of_cards_680_383)
+![An Example of a Storyteller's Hand of Cards (from the Twilight Road 🛣️ Playset)](/assets/images/games/tableau/twilightroad/twilight_road_storytellers_hand_of_cards_680_383.png)
 
 A Player Role 🗣, such as The Director 🗣, who is used in GMless-style games, or The Narrator 🗣, who is a storyteller with a unique perspective or a player who has been given narrative authority for a full act or a session. These are the most common Player Roles 🗣, but there are others such as The Spotlight 🗣 or this optional one: The Mapper 🗣, who is used in both **Twilight Road** and Gate Watch.
 
@@ -94,18 +94,18 @@ Storytellers can have a huge numbers of options available for play in the game, 
 
 ## Kinds of **Twilight Road** 🛣 Stories:
 
-![Tableau Twilight Road 🛣 Playset - Inspiration Card](/assets/images/games/tableau/twilightroad/twilight_road_playset_inspirations_1500_1050.png)
+![Tableau Twilight Road 🛣 Playset 🎞 - Inspiration Card](/assets/images/games/tableau/twilightroad/twilight_road_playset_inspirations_1500_1050.png)
 
 ### Types of Stories
 
 Tableau inspires players to be creative, supporting a nearly infinite variety of potential stories.
 
-While playtesting the **Twilight Road** 🛣 Playset 🎞, the cards collaboratively selected by storytellers resulted in a wide variety of settings & genres:
+While playtesting the **Twilight Road** 🛣 _Playset_ 🎞, the cards collaboratively selected by storytellers resulted in a wide variety of settings & genres:
 
 * a historical fantasy, where a river journey across the Viking lands of ancient Russian followed the trail of Uncle Ingvar, lost while he was searching for the Silk Road and a lost city and treasure;
 * a 90s paranormal fantasy, in which a spring-break car trip led free-spirited students across America, each trying to find a lost icon on Route 66, looking for answers to a secret in their family history.
 
-A game mixing storytelling cards from both **Twilight Road** 🛣 & Gate Watch 🚪 Playsets 🎞 was:
+A game mixing storytelling cards from both **Twilight Road** 🛣 & **Gate Watch** 🚪 Playsets 🎞 was:
 
 * a dark historical fantasy, where a water well located in a German farming village at the end of WWII was the only escape from invading Russians, but led the villagers into a perilous journey through the lands of the fae, with no way home.
 
