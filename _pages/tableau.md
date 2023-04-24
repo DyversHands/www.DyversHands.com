@@ -94,23 +94,44 @@ After review of these **Core ꩜** rules, the players will either choose a pre-d
 
 Tableau inspires players to be creative, supporting a nearly infinite variety of potential stories.
 
-Thus far in play-testing the Twilight Road 🛣 Playset 🎞, the cards collaboratively selected by storytellers resulted in a wide variety of settings & genres:
+The **Twilight Road** 🛣️ playset is particularly focused journey of self-discovery & personal growth. Explore themes of identity, purpose, and belonging as you search for answers. What will you discover on your way? Will you find your destination, or return home? 
+
+The Gate Watch🚪 playset takes you to the edge of the world. You are charged to keep an eye on the border between realms. Who built The Gate? What is on the other side? Why are you watching? 
+
+While playtesting the **Twilight Road** 🛣 Playset 🎞, the cards collaboratively selected by storytellers resulted in a wide variety of settings & genres:
 
 * a historical fantasy, where a river journey across the Viking lands of ancient Russian followed the trail of Uncle Ingvar, lost while he was searching for the Silk Road and a lost city and treasure;
 * a 90s paranormal fantasy, in which a spring-break car trip led free-spirited students across America, each trying to find a lost icon on Route 66, looking for answers to a secret in their family history.
 
-Thus far in play-testing the Gate Watch 🚪 Playset 🎞, games have included:
+In play-testing the Gate Watch 🚪 Playset 🎞, games have included:
 
 * a classics fantasy, with the gate lying between the real-world and the Greek heaven & hell, and Watchers possibly hired by Charon;
 * a 1950's noir mystery, featuring the gate between a Hollywood producer's mansion and the hardscrabble blue-collar world of post-war Los Angeles;
 * a sci-fi adventure, where a collapsing underground mutant civilization had a hidden exit to a post-apocalyptic landscape;
 * a wacky parallel universe, home of mechano-electro elves, who had discovered a gate to our reality at a California game convention, full of people who didn't understand them.
 
-A game using storytelling cards from both Playsets 🎞 was:
+A game mixing storytelling cards from both **Twilight Road** 🛣 & Gate Watch 🚪 Playsets 🎞 was:
 
 * a dark historical fantasy, where a water well located in a German farming village at the end of WWII was the only escape from invading Russians, but led the villagers into a perilous journey through the lands of the fae, with no way home.
 
 We've found the mechanics of Tableau work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. Tableau is a fun evening's entertainment.
+
+## Latest News about Tableau Games
+
+<ul>
+  {% for post in site.categories.tableau limit: 7 %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+See the _[complete posts archive](/posts/)._ 
+{: .text-right}
+
+### Mailing List
+
+To stay updated on the latest news, including the official public release date of our first three playsets and information about future Tableau Games projects, be sure to sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH). You'll be the first to know about exciting developments, promotions, and future Kickstarter campaigns.
 
 ### Credits
 
@@ -126,19 +147,3 @@ Tableau Games™, Dyvers Hands™, Twilight Road™, and Gate Watch™ are trade
 
 Creative Contributors: Shannon Appelcline, Aaron Reed
 
-## Latest News about Tableau Games
-
-<ul>
-  {% for post in site.categories.Tableau limit: 7 %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
-See the _[complete posts archive](/posts/)._ 
-{: .text-right}
-
-### Mailing List
-
-To stay updated on the latest news, including the official public release date of our first three playsets and information about future Tableau Games projects, be sure to sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH). You'll be the first to know about exciting developments, promotions, and future Kickstarter campaigns.

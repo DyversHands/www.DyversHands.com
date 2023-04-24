@@ -44,7 +44,7 @@ _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau*
 **Gate Watch 2019:** if you are looking for the older version of Gate Watch, from Kickstarter 2019 with 18 cards, there are details about that game in our [archive](/GateWatch2019).)
 {: .notice--warning}
 
-![Tableau: Gate Watch 🚪 Playset - Cover Card](/assets/images/games/tableau/gatewatch/gate_watch_cover_375_525.png){: style="float:right; padding:16px"}
+![Tableau: Gate Watch 🚪 Playset 🎞 - Cover Card](/assets/images/games/tableau/gatewatch/gate_watch_cover_375_525.png){: style="float:right; padding:16px"}
 
 _You and your companions are members of the **Gate Watch** 🚪 – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the **Enigma** that is **The Gate**. Every game session is different, every world, every gate unique._
 
@@ -54,7 +54,24 @@ _Venture into the mysterious as you stand at the edge between worlds, unraveling
 
 ## Kinds of Gate Watch 🚪 Stories:
 
-![Tableau: Gate Watch 🚪 Playset - Inspiration Card](/assets/images/games/tableau/gatewatch/gate_watch_playset_inspirations_1500_1050.png)
+![Tableau: Gate Watch 🚪 Playset 🎞 - Inspiration Card](/assets/images/games/tableau/gatewatch/gate_watch_playset_inspirations_1500_1050.png)
+
+### Types of Stories
+
+Tableau inspires players to be creative, supporting a nearly infinite variety of potential stories. 
+
+While playtesting the **Gate Watch** 🚪 _Playset_ 🎞, games have included:
+
+* a classics fantasy, with the gate lying between the real-world and the Greek heaven & hell, and Watchers possibly hired by Charon;
+* a 1950's noir mystery, featuring the gate between a Hollywood producer's mansion and the hardscrabble blue-collar world of post-war Los Angeles;
+* a sci-fi adventure, where a collapsing underground mutant civilization had a hidden exit to a post-apocalyptic landscape;
+* a wacky parallel universe, home of mechano-electro elves, who had discovered a gate to our reality at a California game convention, full of people who didn't understand them.
+
+A game mixing storytelling cards from both **Twilight Road** 🛣 & **Gate Watch** 🚪 Playsets 🎞 was:
+
+* a dark historical fantasy, where a water well located in a German farming village at the end of WWII was the only escape from invading Russians, but led the villagers into a perilous journey through the lands of the fae, with no way home.
+
+We've found the mechanics of Tableau work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. Tableau is a fun evening's entertainment.
 
 ## Reviewer Quotes
 

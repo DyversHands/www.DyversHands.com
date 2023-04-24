@@ -74,7 +74,7 @@ During the game, most selected Rules 📜 will stay on the table, but some will 
 
 ![An Example of a Storyteller's Hand of Cards (from the Twilight Road 🛣️ Playset)](/assets/images/games/tableau/twilightroad/twilight_road_storytellers_hand_of_cards_680_383)
 
-A Player Role 🗣, such as The Director 🗣, who is used in GMless-style games, or The Narrator 🗣, who is a storyteller with a unique perspective or a player who has been given narrative authority for a full act or a session. These are the most common Player Roles 🗣, but there are others such as The Spotlight 🗣 or this optional one: The Mapper 🗣, who is used in both Twilight Road and Gate Watch.
+A Player Role 🗣, such as The Director 🗣, who is used in GMless-style games, or The Narrator 🗣, who is a storyteller with a unique perspective or a player who has been given narrative authority for a full act or a session. These are the most common Player Roles 🗣, but there are others such as The Spotlight 🗣 or this optional one: The Mapper 🗣, who is used in both **Twilight Road** and Gate Watch.
 
 ![Player Role 🗣 card: The Mapper](/assets/images/games/tableau/core/core_rule_player_role_the_mapper_1500_1050.png)
 
@@ -82,11 +82,11 @@ A Story 📖 card that gives a storyteller authority over an element in this sto
 
 ![Story Setting 🏘️ Card: The Road (from Twilight Road Playset)](/assets/images/games/tableau/twilightroad/)
 
-One or more of Character Trait 👤 cards to help define the unique character that a storyteller portrays. This one is Charming, an Approach 🛠 from Twilight Road 🚪 but it can used as Character Trait 👤 in other stories:
+One or more of Character Trait 👤 cards to help define the unique character that a storyteller portrays. This one is Charming, an Approach 🛠 from **Twilight Road** 🚪 but it can used as Character Trait 👤 in other stories:
 
 ![Character Trait  👤 card: Charming (from the Twilight Road Playset)](/assets/images/games/tableau/twilightroad/)
 
-Here is an example of a second Character Traits 👤. This one is a Face 🧑🏼‍🦲, which it is an archetype associated with a particular type of story. This one is The Runaway 🧑🏼‍🦲 from Twilight Road 🚪, but like all the other cards, could be used in other Tableau games.
+Here is an example of a second Character Traits 👤. This one is a Face 🧑🏼‍🦲, which it is an archetype associated with a particular type of story. This one is The Runaway 🧑🏼‍🦲 from **Twilight Road** 🚪, but like all the other cards, could be used in other Tableau games.
 
 ![Character Face 🧑🏼‍🦲: The Runaway (from the Twilight Road Playset)](/assets/images/games/tableau/twilightroad/)
 
@@ -96,6 +96,21 @@ Storytellers can have a huge numbers of options available for play in the game, 
 
 ![Tableau Twilight Road 🛣 Playset - Inspiration Card](/assets/images/games/tableau/twilightroad/twilight_road_playset_inspirations_1500_1050.png)
 
+### Types of Stories
+
+Tableau inspires players to be creative, supporting a nearly infinite variety of potential stories.
+
+While playtesting the **Twilight Road** 🛣 Playset 🎞, the cards collaboratively selected by storytellers resulted in a wide variety of settings & genres:
+
+* a historical fantasy, where a river journey across the Viking lands of ancient Russian followed the trail of Uncle Ingvar, lost while he was searching for the Silk Road and a lost city and treasure;
+* a 90s paranormal fantasy, in which a spring-break car trip led free-spirited students across America, each trying to find a lost icon on Route 66, looking for answers to a secret in their family history.
+
+A game mixing storytelling cards from both **Twilight Road** 🛣 & Gate Watch 🚪 Playsets 🎞 was:
+
+* a dark historical fantasy, where a water well located in a German farming village at the end of WWII was the only escape from invading Russians, but led the villagers into a perilous journey through the lands of the fae, with no way home.
+
+We've found the mechanics of Tableau work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. Tableau is a fun evening's entertainment.
+
 ## Available from… 
 
 {% include feature_row id="twilight_road_playset" type="left" %}
@@ -104,7 +119,7 @@ Storytellers can have a huge numbers of options available for play in the game, 
 
 {% include gallery %}
 
-### Inspirational Quotes for Twilight Road 🛣
+### Inspirational Quotes for **Twilight Road** 🛣
 
 > _“It is always darkest before the dawn.”_ ***~ Thomas Fuller***
 
@@ -128,6 +143,10 @@ Storytellers can have a huge numbers of options available for play in the game, 
 
 > _“Still round the corner there may wait, A new road or a secret gate.”_ ***~ J. R. R. Tolkien***
 
+### Mailing List
+
+To stay updated on the latest news, including the official public release date of our first three playsets and information about future Tableau Games projects, be sure to sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH). You'll be the first to know about exciting developments, promotions, and future Kickstarter campaigns.
+
 ### Credits
 
 Written & Designed by: Christopher Allen <ChristopherA@DyversHands.com>
@@ -142,6 +161,3 @@ Tableau Games™, Dyvers Hands™, and Twilight Road™ are trademarks of Dyvers
 
 Creative Contributors: Shannon Appelcline, Aaron Reed
 
-### Mailing List
-
-To stay updated on the latest news, including the official public release date of our first three playsets and information about future Tableau Games projects, be sure to sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH). You'll be the first to know about exciting developments, promotions, and future Kickstarter campaigns.
