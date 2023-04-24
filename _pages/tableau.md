@@ -75,14 +75,13 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 ## Tableau Playsets
 
 {% include feature_row id="tableau_playsets" %}
-
 ## Reviewer Quotes
 
 > *“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.”* — **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
 
 ### Overview of Play
 
-There is only one rule card required for ***Tableau Games**, **Tableau Core ꩜**, which is described on three poker-sized cards:
+There is only rule required for ***Tableau Games***: **Tableau Core ꩜** which is described on three poker-sized cards:
 
 ![Rule Card: Tableau Core ꩜ 1](/assets/images/games/tableau/core/core_rule_core_1_1500_1050.png)
 
