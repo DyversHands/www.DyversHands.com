@@ -120,7 +120,7 @@ We've found the mechanics of ***Tableau*** work well for experienced gamers as w
 ## Latest News about Tableau Games
 
 <ul>
-  {% for post in site.categories.tableau limit: 7 %}
+  {% for post in site.tags.Tableau limit: 7 %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}</a></li>
     {% endif %}
