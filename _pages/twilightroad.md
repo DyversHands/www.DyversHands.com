@@ -48,6 +48,10 @@ _Embark on a journey of self-discovery and personal growth. Unravel the themes o
 
 ***Tableau*** offers cinematic storytelling in 2-3 hours, with no prep or GM required. Composable rules on poker-sized cards provide multiple playsets for versatile gameplay with 2-5 players, ages 14 and up. Explore the opportunities for collaborative storytelling and thrilling cinematic adventures possible with **Twilight Road** 🛣 and the ***Tableau Games*** system.
 
+## Available from… 
+
+{% include feature_row id="twilight_road_playset" type="left" %}
+
 ## Video Overview
 
 Discover the rich narratives possible with the Tableau: Twilight Road🛣 layset 🎞 in this detailed 14m video overview! 
@@ -80,15 +84,15 @@ A Player Role 🗣, such as The Director 🗣, who is used in GMless-style games
 
 A Story 📖 card that gives a storyteller authority over an element in this story. (This one is from Twilight Road 🚪 but could be chosen by the storytellers for any story):
 
-![Story Setting 🏘️ Card: The Road (from Twilight Road Playset)](/assets/images/games/tableau/twilightroad/)
+![Story Setting 🏘️ Card: The Road (from Twilight Road Playset)](/assets/images/games/tableau/twilightroad/twilight_road_story_setting_the_road_1500_1050.png)
 
 One or more of Character Trait 👤 cards to help define the unique character that a storyteller portrays. This one is Charming, an Approach 🛠 from **Twilight Road** 🚪 but it can used as Character Trait 👤 in other stories:
 
-![Character Trait  👤 card: Charming (from the Twilight Road Playset)](/assets/images/games/tableau/twilightroad/)
+![Character Trait  👤 card: Charming (from the Twilight Road Playset)](/assets/images/games/tableau/twilightroad/twilight_road_character_trait_approach_charming_1500_1050.png)
 
 Here is an example of a second Character Traits 👤. This one is a Face 🧑🏼‍🦲, which it is an archetype associated with a particular type of story. This one is The Runaway 🧑🏼‍🦲 from **Twilight Road** 🚪, but like all the other cards, could be used in other Tableau games.
 
-![Character Face 🧑🏼‍🦲: The Runaway (from the Twilight Road Playset)](/assets/images/games/tableau/twilightroad/)
+![Character Face 🧑🏼‍🦲: The Runaway (from the Twilight Road Playset)](/assets/images/games/tableau/twilightroad/twilight_road_character_trait_face_the_runaway_1500_1050.png)
 
 Storytellers can have a huge numbers of options available for play in the game, but they will only use a few during any scene in the story. 
 
@@ -110,14 +114,6 @@ A game mixing storytelling cards from both **Twilight Road** 🛣 & **Gate Watch
 * a dark historical fantasy, where a water well located in a German farming village at the end of WWII was the only escape from invading Russians, but led the villagers into a perilous journey through the lands of the fae, with no way home.
 
 We've found the mechanics of Tableau work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. Tableau is a fun evening's entertainment.
-
-## Available from… 
-
-{% include feature_row id="twilight_road_playset" type="left" %}
-
-## Other ***Tableau*** Playsets
-
-{% include gallery %}
 
 ### Inspirational Quotes for **Twilight Road** 🛣
 
@@ -161,3 +157,6 @@ Tableau Games™, Dyvers Hands™, and Twilight Road™ are trademarks of Dyvers
 
 Creative Contributors: Shannon Appelcline, Aaron Reed
 
+## Other ***Tableau*** Playsets
+
+{% include gallery %}

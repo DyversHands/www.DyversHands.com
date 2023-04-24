@@ -63,7 +63,7 @@ Tableau inspires players to be creative, supporting a nearly infinite variety of
 While playtesting the **Gate Watch** 🚪 _Playset_ 🎞, games have included:
 
 * a classics fantasy, with the gate lying between the real-world and the Greek heaven & hell, and Watchers possibly hired by Charon;
-* a 1950's noir mystery, featuring the gate between a Hollywood producer's mansion and the hardscrabble blue-collar world of post-war Los Angeles;
+* a 1950's noir mystery, featuring the gate between a Hollywood producer's mansio n and the hardscrabble blue-collar world of post-war Los Angeles;
 * a sci-fi adventure, where a collapsing underground mutant civilization had a hidden exit to a post-apocalyptic landscape;
 * a wacky parallel universe, home of mechano-electro elves, who had discovered a gate to our reality at a California game convention, full of people who didn't understand them.
 
@@ -80,10 +80,6 @@ We've found the mechanics of Tableau work well for experienced gamers as well as
 ## Available from… 
 
 {% include feature_row id="gate_watch_playset" type="left" %}
-
-## Other Tableau Playsets
-
-{% include gallery %}
 
 ### Inspirational Quotes for Gate Watch 🚪
 
@@ -118,3 +114,7 @@ Creative Contributors: Shannon Appelcline, Aaron Reed
 ### Mailing List
 
 To stay updated on the latest news, including the official public release date of our first three playsets and information about future Tableau Games projects, be sure to sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH). You'll be the first to know about exciting developments, promotions, and future Kickstarter campaigns.
+
+## Other Tableau Playsets
+
+{% include gallery %}
