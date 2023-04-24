@@ -1,6 +1,6 @@
 ---
 title: "The Power of Constraints"
-subtitle: "(Tableau Design Diary)"
+subtitle: "(a Tableau Design Diary)"
 excerpt_separator: "<!--more-->"
 categories:
   - News
@@ -17,9 +17,11 @@ classes:
 
 > ***“The Power of Constraints:**  Embrace limitations and boundaries as a source of inspiration. Appreciating the obstacles helps you see more fully how to overcome or adapt to them. Accepting constraints, they can morph into useful forms that open up new possibilities, spurring creativity.”*    [^1]
 
-I'd like to discuss some design choices in my ***Tableau***  game system (just launched last weekend on [Kickstarter](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter)) that set it apart from other storytelling games you may be familiar with.
+I'd like to discuss some design choices in my ***Tableau Games*** system that set it apart from other storytelling games you may be familiar with.
 
 One striking difference is the presentation of the entire game's rules on poker-sized playing cards. This idea was inspired by a periodic challenge I set for myself as a designer, in which I picked a design constraint (usually length & size) to explore my creativity.
+
+"<!--more-->"
 
 ![Monster Smash Family](/assets/images/originals/DzzjySEVAAAJWS9.jpg){: height="50%" width="50%" style="float:right; padding:16px;" }
 
@@ -40,6 +42,8 @@ So, how have you used constraints in your creative life? Time limits? Size limit
 -- Christopher Allen
 
 > *“The best stories are the ones we tell together!”*
+
+---
 
 [*1] Quote from [GroupWorksDeck.org](https://groupworksdeck.org/patterns/Power_of_Constraints) CC-BY
 
