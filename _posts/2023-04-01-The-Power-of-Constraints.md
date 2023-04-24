@@ -21,7 +21,7 @@ I'd like to discuss some design choices in my ***Tableau Games*** system that se
 
 One striking difference is the presentation of the entire game's rules on poker-sized playing cards. This idea was inspired by a periodic challenge I set for myself as a designer, in which I picked a design constraint (usually length & size) to explore my creativity.
 
-"<!--more-->"
+<!--more-->
 
 ![Monster Smash Family](/assets/images/originals/DzzjySEVAAAJWS9.jpg){: height="50%" width="50%" style="float:right; padding:16px;" }
 
