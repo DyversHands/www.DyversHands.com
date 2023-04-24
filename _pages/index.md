@@ -21,7 +21,7 @@ _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau*
 
 [![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg)](/Tableau){: .align-left}
 
-[Read More about ***Tableau***…](/Tableau){: .btn .btn--inverse}
+[Read More about ***Tableau Games***…](/Tableau){: .btn .btn--inverse}
 
 ## Latest News about Dyvers Hands
 
