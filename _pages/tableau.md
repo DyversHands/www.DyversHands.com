@@ -89,7 +89,7 @@ There is only rule required for ***Tableau Games***: **Tableau Core ꩜** which 
 
 ![Rule Card: Tableau Core ꩜ 3](/assets/images/games/tableau/core/core_rule_core_3_1500_1050.png)
 
-After review of these **Core ꩜** rules, the players will either choose a pre-defined **Playset 🎞** of cards that works well together or combine specific Rules 📜 cards to define the mechanics of collaborative storytelling, **Story 📖** cards to describe the elements of the narrative, and optional Character Traits 👤 to create unique and complex characters.
+After review of these **Core ꩜** rules, the players will either choose a pre-defined **Playset 🎞** of cards that works well together or combine specific **Rules** 📜 cards to define the mechanics of collaborative storytelling, **Story 📖** cards to describe the elements of the narrative, and optional **Character Traits** 👤 to create unique and complex characters.
 
 ### Types of Stories
 
@@ -97,7 +97,7 @@ Tableau inspires players to be creative, supporting a nearly infinite variety of
 
 The **Twilight Road** 🛣️ _Playset_ 🎞 is particularly focused journey of self-discovery & personal growth. Explore themes of identity, purpose, and belonging as you search for answers. What will you discover on your way? Will you find your destination, or return home? 
 
-The Gate Watch🚪 _Playset_ 🎞takes you to the edge of the world. You are charged to keep an eye on the border between realms. Who built The Gate? What is on the other side? Why are you watching? 
+The **Gate Watch** 🚪 _Playset_ 🎞takes you to the edge of the world. You are charged to keep an eye on the border between realms. Who built The Gate? What is on the other side? Why are you watching? 
 
 While playtesting the **Twilight Road** 🛣 _Playset_ 🎞, the cards collaboratively selected by storytellers resulted in a wide variety of settings & genres:
 
@@ -115,7 +115,7 @@ A game mixing storytelling cards from both **Twilight Road** 🛣 & **Gate Watch
 
 * a dark historical fantasy, where a water well located in a German farming village at the end of WWII was the only escape from invading Russians, but led the villagers into a perilous journey through the lands of the fae, with no way home.
 
-We've found the mechanics of Tableau work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. Tableau is a fun evening's entertainment.
+We've found the mechanics of ***Tableau*** work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. ***Tableau*** is a fun evening's entertainment.
 
 ## Latest News about Tableau Games
 
