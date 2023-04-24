@@ -31,7 +31,7 @@ gallery:
 _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
 {: .notice--info}
 
-![Tableau Logo](/assets/images/logos/Tableau_Games_icon-only_white_spot_rgb_on_black.svg){: style="float:right; width=200; padding:16px"; }
+![Tableau Logo](/assets/images/logos/Tableau_Games_icon-only_white_spot_rgb_on_black_200_182.png){: style="float:right; padding:16px"; }
 
 ***Tableau*** offers cinematic storytelling in 2-3 hours, with no prep or GM required. Rules and story prompts on poker-sized cards provide for versatile gameplay for 2-5 players, ages 14 and up. Multiple playsets are available cards may be mixed & matched with each other and with future ***Tableau Games*** playsets.
 
