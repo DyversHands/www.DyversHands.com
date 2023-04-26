@@ -44,7 +44,7 @@ _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau*
 **Gate Watch 2019:** if you are looking for the older version of Gate Watch, from Kickstarter 2019 with 18 cards, there are details about that game in our [archive](/GateWatch2019).)
 {: .notice--warning}
 
-![Tableau: Gate Watch 🚪 Playset 🎞 - Cover Card](/assets/images/games/tableau/gatewatch/gate_watch_cover_375_525.png){: style="float:right; padding:16px"}
+![Tableau: Gate Watch 🚪 Playset 🎞 - Cover Card](/assets/images/games/tableau/gatewatch/gate_watch_playset_cover_375_525.png){: style="float:right; padding:16px"}
 
 _You and your companions are members of the **Gate Watch** 🚪 – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the **Enigma** that is **The Gate**. Every game session is different, every world, every gate unique._
 
