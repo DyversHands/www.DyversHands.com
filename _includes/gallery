@@ -12,7 +12,7 @@
   {% elsif gallery.size >= 5 %}
     {% assign gallery_layout = 'third' %}
   {% else %}
-    {% assign gallery_layout = 'four' %}
+    {% assign gallery_layout = 'fourth' %}
   {% endif %}
 {% endif %}
 
@@ -26,6 +26,11 @@
     width: 175px !important;
     height: auto !important;
   }
+  .fourth, .half{
+    width: 120px !important;
+    height: auto !important;
+  }
+  
 }
 </style>
 
