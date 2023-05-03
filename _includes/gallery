@@ -27,9 +27,10 @@
     height: auto !important;
   }
   .fourth, .half{
-    width: 100px !important;
+    width: 80px !important;
     height: auto !important;
     flex-direction: row !important;
+    column-gap: 10px !important;
   }
   
 }
