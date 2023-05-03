@@ -29,6 +29,7 @@
   .fourth, .half{
     width: 100px !important;
     height: auto !important;
+    flex-direction: row !important;
   }
   
 }
