@@ -19,10 +19,10 @@
 <style>
   @media screen and (max-width: 480px) {
   img{
-    width: 70px !important;
+    width: 65px !important;
     height: auto !important;
   }
-  .text-image{
+  .mfp-img{
     width: 100px !important;
     height: auto !important;
   }
@@ -32,7 +32,7 @@
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
     {% if img.url %}
-      <a class="text-image" href="{{ img.url | relative_url }}"
+      <a href="{{ img.url | relative_url }}"
         {% if img.title %}title="{{ img.title }}"{% endif %}>
           <img src="{{ img.image_path | relative_url }}"
                alt="{% if img.alt %}{{ img.alt }}{% endif %}">
