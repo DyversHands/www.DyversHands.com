@@ -1,6 +1,6 @@
 /* ==========================================================================
    BASE ELEMENTS
-   ========================================================================== */
+    ========================================================================== */
 
 html {
   /* sticky footer fix */
@@ -234,6 +234,19 @@ figure {
     > img {
       @include breakpoint($small) {
         width: 65px;
+        height: auto;
+     }
+    }
+ 
+    figcaption {
+      width: 100%;
+    }
+  }
+  &.four {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: 125px;
         height: auto;
      }
     }
