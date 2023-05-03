@@ -27,7 +27,7 @@
     height: auto !important;
   }
   .fourth, .half{
-    width: 80px !important;
+    width: 200px !important;
     height: auto !important;
     flex-direction: row !important;
     column-gap: 10px !important;
