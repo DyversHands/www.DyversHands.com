@@ -23,7 +23,7 @@
     height: auto !important;
   }
   .mfp-img{
-    width: 100px !important;
+    width: 175px !important;
     height: auto !important;
   }
 }
