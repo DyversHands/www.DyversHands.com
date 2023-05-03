@@ -18,7 +18,7 @@
 
 <style>
   @media screen and (max-width: 480px) {
-  img{
+  .image-mobile{
     width: 65px !important;
     height: auto !important;
   }
@@ -39,7 +39,7 @@
     {% if img.url %}
       <a href="{{ img.url | relative_url }}"
         {% if img.title %}title="{{ img.title }}"{% endif %}>
-          <img src="{{ img.image_path | relative_url }}"
+          <img class="image-mobile" src="{{ img.image_path | relative_url }}"
                alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       </a>
     {% else %}
