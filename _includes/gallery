@@ -27,7 +27,7 @@
     height: auto !important;
   }
   .fourth, .half{
-    width: 120px !important;
+    width: 100px !important;
     height: auto !important;
   }
   
