@@ -9,7 +9,7 @@
 {% else %}
   {% if gallery.size == 2 %}
     {% assign gallery_layout = 'half' %}
-  {% elsif gallery.size >= 5 %}
+  {% elsif gallery.size >= 9 %}
     {% assign gallery_layout = 'third' %}
   {% else %}
     {% assign gallery_layout = 'fourth' %}
@@ -34,11 +34,11 @@
     column-gap: 10px;
   }
    .half .image-mobile{
-    width: 200px !important;
+    width: 150px !important;
     height: auto !important;
   }
   .fourth  .image-mobile{
-    width: 130px !important;
+    width: 100px !important;
     height: auto !important;
   }
 }
