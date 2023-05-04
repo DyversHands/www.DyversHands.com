@@ -31,12 +31,12 @@
     height: auto !important;
     flex-direction: row !important;
   }
-  .half > .image-mobile{
-    width: 100px !important;
+   .image-mobile[name=".half"]{
+    width: 200px !important;
     height: auto !important;
   }
-  .fourth > .image-mobile{
-    width: 100px !important;
+  .fourth  .image-mobile{
+    width: 200px !important;
     height: auto !important;
   }
 }
