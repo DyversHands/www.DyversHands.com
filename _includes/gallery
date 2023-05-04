@@ -27,14 +27,13 @@
     height: auto !important;
   }
   .fourth, .half{
-    width: 450px !important;
+    width: 380px !important;
     height: auto !important;
     flex-direction: row !important;
     justify-content: space-around;
-    column-gap: 10px;
   }
    .half .image-mobile{
-    width: 150px !important;
+    width: 125px !important;
     height: auto !important;
   }
   .fourth  .image-mobile{
