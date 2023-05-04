@@ -27,12 +27,18 @@
     height: auto !important;
   }
   .fourth, .half{
-    width: 400px !important;
+    width: 200px !important;
     height: auto !important;
     flex-direction: row !important;
-    column-gap: 10px !important;
   }
-  
+  .half > .image-mobile{
+    width: 100px !important;
+    height: auto !important;
+  }
+  .fourth > .image-mobile{
+    width: 100px !important;
+    height: auto !important;
+  }
 }
 </style>
 
