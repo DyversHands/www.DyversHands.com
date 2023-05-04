@@ -27,16 +27,18 @@
     height: auto !important;
   }
   .fourth, .half{
-    width: 200px !important;
+    width: 450px !important;
     height: auto !important;
     flex-direction: row !important;
+    justify-content: space-around;
+    column-gap: 10px;
   }
    .half .image-mobile{
-    width: 100px !important;
+    width: 200px !important;
     height: auto !important;
   }
   .fourth  .image-mobile{
-    width: 100px !important;
+    width: 130px !important;
     height: auto !important;
   }
 }
