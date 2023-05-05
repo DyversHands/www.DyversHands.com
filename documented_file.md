@@ -1,12 +1,12 @@
 # Edits on the base.scss file
 
-The class "half" in the _base.scss file:
+### The class "half" in the _base.scss file:
 
 The width was changed to:
 
 width: 250px on line 221.
 
-The class "third" in the _base.scss file:
+### The class "third" in the _base.scss file:
 
 The width was changed to:
 
@@ -20,7 +20,7 @@ width: 200px;
 
 ## Edits on the gallery.html file
 
-The else statement on line 14, the gallery_layout was changed to "fourth" instead of "".
+The else statement on line 14, the gallery_layout was changed to "fourth" instead of " ".
 
 The figcaption was edited using the .mfp-img class, this' to account for the image-pop size in the mobile view.
 
