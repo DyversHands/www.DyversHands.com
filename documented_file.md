@@ -64,4 +64,4 @@ A class called "mobile-view" was added to the img tag on line 51.
 
 2. The gallery.html file was added under the _include folder.
 
-3. Other files was added under the _include folder, but it cannot be determined whether it affects the functionality of the website, but it's best to keep the file.
+3. Other files were added under the _include folder, but it cannot be determined whether it affects the functionality of the website, but it's best to keep the file.
