@@ -1,15 +1,21 @@
 # Edits on the base.scss file
 
 The class "half" in the _base.scss file:
+
 The width was changed to:
+
 width: 250px on line 221.
 
 The class "third" in the _base.scss file:
+
 The width was changed to:
+
 width: 65px on line 236.
 
 A class fourth was added to the _base.scss file on line 245:
+
 The width was set to:
+
 width: 200px;
 
 ## Edits on the gallery.html file
