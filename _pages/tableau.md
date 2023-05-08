@@ -2,7 +2,7 @@
 author: DyversHands
 title: Tableau Games
 summary: The Kickstarter campaign for our first two Tableau playsets concluded April 17th and is fully funded! For more details and our roadmap for delivery.
-image: assets/images/games/tableau/twilightroad/tableau_kickstarter_q2_ 2023_post_launch.jpg
+image: /assets/images/games/tableau/twilightroad/tableau_kickstarter_q2_ 2023_post_launch.jpg
 cover: false
 header:
   overlay_color: "#000"
