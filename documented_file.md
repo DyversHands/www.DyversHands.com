@@ -1,12 +1,12 @@
 # Edits on the base.scss file
 
-The class "half" in the _base.scss file:
+### The class "half" in the _base.scss file:
 
 The width was changed to:
 
 width: 250px on line 221.
 
-The class "third" in the _base.scss file:
+### The class "third" in the _base.scss file:
 
 The width was changed to:
 
@@ -20,7 +20,7 @@ width: 200px;
 
 ## Edits on the gallery.html file
 
-The else statement on line 14, the gallery_layout was changed to "fourth" instead of "".
+The else statement on line 14, the gallery_layout was changed to "fourth" instead of " ".
 
 The figcaption was edited using the .mfp-img class, this' to account for the image-pop size in the mobile view.
 
@@ -64,4 +64,4 @@ A class called "mobile-view" was added to the img tag on line 51.
 
 2. The gallery.html file was added under the _include folder.
 
-3. Other files was added under the _include folder, but it cannot be determined whether it affects the functionality of the website, but it's best to keep the file.
+3. Other files were added under the _include folder, but it cannot be determined whether it affects the functionality of the website, but it's best to keep the file.
