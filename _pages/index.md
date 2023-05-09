@@ -3,7 +3,7 @@ cover: false
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/games/tableau/tableau_banner_1280_360.jpg
-  og_image: /assets/images/games/tableau/tableau_card.jpg
+  # og_image: /assets/images/games/tableau/tableau_card.jpg
 title: Welcome to Dyvers Hands Productions
 subtitle: "&#8220;The best stories are the ones we tell together!&#8221;"
 hide_description: true

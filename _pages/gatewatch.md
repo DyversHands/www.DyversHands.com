@@ -4,7 +4,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/games/tableau/gatewatch/gate_watch_banner_1600_212.jpg
-  og_image: /assets/images/gatewatch/tableau-gatewatch-card.jpg
+  # og_image: /assets/images/gatewatch/tableau-gatewatch-card.jpg
 title: Tableau&#58; Gate Watch &#128682;
 hide_description: true
 classes:

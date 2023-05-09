@@ -3,7 +3,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/pages/about_banner_1280_360.jpg
-  og_image: /images/pages/about-card.jpg
+  # og_image: /images/pages/about-card.jpg
 title: About Dyvers Hands
 cover: false
 hide_description: true

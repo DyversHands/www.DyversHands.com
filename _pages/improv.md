@@ -4,7 +4,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/games/tableau/improv/improv_banner_1280_360.jpg
-  og_image: /assets/images/improv/tableau-improv-card.jpg
+  # og_image: /assets/images/improv/tableau-improv-card.jpg
 title: Tableau&#58; Improv &#127914;
 hide_description: true
 classes:

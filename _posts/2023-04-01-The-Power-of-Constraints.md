@@ -9,6 +9,14 @@ tags:
   - Tableau Design Diary
 classes:
   - wide
+# author:
+#   name: Christopher Allen
+#   avatar: /assets/images/logos/dyvers_hands_avatar_subtle_color_on_white.svg
+#   bio: "&#8220;The best stories are the ones we tell together!&#8221;"
+#   links:
+#     - label: Twitter
+#       icon: fab fa-fw fa-twitter-square
+#       url: https://twitter.com/DyversHands
 ---
 
 ![Another Bonsai](/assets/images/originals/5524991164_9d9c99bdd7_o.jpg)
