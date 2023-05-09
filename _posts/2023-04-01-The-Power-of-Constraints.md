@@ -49,7 +49,7 @@ So, how have you used constraints in your creative life? Time limits? Size limit
 
 > *“The best stories are the ones we tell together!”*
 
----
+<hr>
 
 [*1] Quote from [GroupWorksDeck.org](https://groupworksdeck.org/patterns/Power_of_Constraints) CC-BY
 
