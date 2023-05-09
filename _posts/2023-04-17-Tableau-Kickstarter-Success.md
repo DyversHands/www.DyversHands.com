@@ -13,8 +13,6 @@ tags:
   - Improv
 classes:
   - wide
-#header:
-#  og_image: 
 ---
 
 ![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg){: .align-left}
