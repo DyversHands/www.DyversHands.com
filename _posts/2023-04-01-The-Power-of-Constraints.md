@@ -45,7 +45,7 @@ So, how have you used constraints in your creative life? Time limits? Size limit
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of the striking features Tableau🎴 (just launched on <a href="https://twitter.com/hashtag/Kickstarter?src=hash&amp;ref_src=twsrc%5Etfw">#Kickstarter</a>) is that all the rules &amp; prompts are on poker-sized playing cards. This idea was inspired by my periodic design challenge to explore creativity within constraints🧵…<a href="https://twitter.com/hashtag/PowerOfConstraints?src=hash&amp;ref_src=twsrc%5Etfw">#PowerOfConstraints</a> <a href="https://t.co/CBAxfLJSm5">https://t.co/CBAxfLJSm5</a></p>&mdash; Dyvers Hands Productions (@DyversHands) <a href="https://twitter.com/DyversHands/status/1642282294349291523?ref_src=twsrc%5Etfw">April 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
--- Christopher Allen
+Christopher Allen
 
 > *“The best stories are the ones we tell together!”*
 
