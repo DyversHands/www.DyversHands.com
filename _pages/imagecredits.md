@@ -5,6 +5,7 @@ header:
   overlay_image: /images/qr-background.jpg
   # og_image: /images/vision-card.jpg
 title: Image Credits
+author: Christoper Allen
 cover: false
 toc: true
 toc_label: Games
