@@ -73,7 +73,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/DyversHands"
 
-og_image: /images/dyvershands-card.jpg
+# og_image: /images/dyvershands-card.jpg
 
 defaults:
   # _posts

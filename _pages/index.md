@@ -1,5 +1,6 @@
 ---
 cover: false
+author: Christopher Allen
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/games/tableau/tableau_banner_1280_360.jpg
