@@ -1,4 +1,5 @@
 ---
+author: Christopher Allen
 title: "Tableau Kickstarter Success!"
 excerpt_separator: "<!--more-->"
 categories:

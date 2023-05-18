@@ -1,4 +1,5 @@
 ---
+author: Christopher David
 title: "The Tableau Kickstarter Has Launched!"
 excerpt_separator: "<!--more-->"
 categories:
