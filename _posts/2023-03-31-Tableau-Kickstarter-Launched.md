@@ -1,5 +1,4 @@
 ---
-author: Christopher David
 title: "The Tableau Kickstarter Has Launched!"
 excerpt_separator: "<!--more-->"
 categories:
@@ -13,6 +12,7 @@ tags:
   - Gate Watch
 classes:
   - wide
+author: Christopher David
 #header:
 #  og_image: 
 ---

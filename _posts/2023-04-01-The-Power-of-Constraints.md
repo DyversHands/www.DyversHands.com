@@ -1,5 +1,4 @@
 ---
-author: Christopher
 title: The Power of Constraints
 subtitle: (a Tableau Design Diary)
 excerpt_separator: <!--more-->
