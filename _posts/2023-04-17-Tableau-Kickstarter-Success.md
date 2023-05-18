@@ -1,5 +1,5 @@
 ---
-author: Christopher Allen
+author: Elisha Adamu
 title: "Tableau Kickstarter Success!"
 excerpt_separator: "<!--more-->"
 categories:
