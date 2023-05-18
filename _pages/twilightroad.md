@@ -10,6 +10,7 @@ title: Tableau&#58; Twilight Road &#128739;
 hide_description: true
 classes:
   - wide
+author: Christopher Allen
 permalink: /games/TwilightRoad/
 redirect_from:
   - /TwilightRoad

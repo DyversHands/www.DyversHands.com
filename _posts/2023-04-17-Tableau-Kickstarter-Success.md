@@ -1,5 +1,5 @@
 ---
-author: Elisha Adamu
+author: Dyvers Hands Productions
 title: "Tableau Kickstarter Success!"
 excerpt_separator: "<!--more-->"
 categories:

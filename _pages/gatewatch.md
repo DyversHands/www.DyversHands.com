@@ -7,6 +7,7 @@ header:
   # og_image: /assets/images/gatewatch/tableau-gatewatch-card.jpg
 title: Tableau&#58; Gate Watch &#128682;
 hide_description: true
+author: Christopher Allen
 classes:
   - wide
 permalink: /games/GateWatch/
