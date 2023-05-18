@@ -6,6 +6,7 @@ header:
   overlay_image: /images/qr-background.jpg
   # og_image: /images/games-card.jpg
 title: Our Games
+author: Christopher Allen
 toc: true
 toc_label: Our Games
 hide_description: true
