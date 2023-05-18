@@ -5,6 +5,7 @@ header:
   overlay_image: /assets/images/pages/about_banner_1280_360.jpg
   # og_image: /images/pages/about-card.jpg
 title: About Dyvers Hands
+author: DyversHands
 cover: false
 hide_description: true
 classes:
