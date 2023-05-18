@@ -6,7 +6,7 @@ header:
   # og_image: /images/vision-card.jpg
 title: Image Credits
 author: DyversHands
-cover: false
+cover: true
 toc: true
 toc_label: Games
 hide_description: true

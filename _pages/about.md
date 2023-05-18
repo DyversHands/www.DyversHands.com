@@ -7,6 +7,8 @@ header:
 title: About Dyvers Hands
 author: DyversHands
 cover: false
+toc: true
+toc_label: About
 hide_description: true
 classes:
 - wide
