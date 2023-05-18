@@ -10,7 +10,7 @@ hide_description: true
 classes:
   - wide
 permalink: /index.html
-author: Dyvers Hands Productions
+author: Christopher Allen
 ---
 
 At [Dyvers Hands Productions](/About), we craft collaborative storytelling experiences across various media, focusing on games, shared worlds, and beyond. Our passion lies in uniting creators to build unforgettable stories that inspire.
