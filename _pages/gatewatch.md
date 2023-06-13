@@ -47,17 +47,17 @@ _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau*
 
 ![Tableau: Gate Watch 🚪 Playset 🎞 - Cover Card](/assets/images/games/tableau/gatewatch/gate_watch_playset_cover_375_525.png){: style="float:right; padding:16px"}
 
-_You and your companions are members of the **Gate Watch** 🚪 – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the **Enigma** that is **The Gate**. Every game session is different, every world, every gate unique._
+_You and your companions are members of the **Gate Watch** – charged to keep an eye on the border between realms. Who built **The Gate**? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the **Enigma** that is **The Gate**. Every game session is different, every world, every gate unique._
 
-_Venture into the mysterious as you stand at the edge between worlds, unraveling mysteries and facing the unknown. Delve into themes of exploration, trust, and loyalty as you guard the threshold. Experience a gripping adventure filled with enigmas, challenges, and characters from many cultures and enigmatic beings as you navigate the precarious balance that is the **Gate Watch** 🚪._
+_Venture into the mysterious as you stand at the edge between worlds, unraveling mysteries and facing the unknown. Delve into themes of exploration, trust, and loyalty as you guard the threshold. Experience a gripping adventure filled with enigmas, challenges, and characters from many cultures and enigmatic beings as you navigate the precarious balance that is the **Gate Watch**._
 
-***Tableau*** offers cinematic storytelling in 2-3 hours, with no prep or GM required. Composable rules on poker-sized cards provide multiple playsets for versatile gameplay with 2-5 players, ages 14 and up. Explore the opportunities for collaborative storytelling and thrilling cinematic adventures possible with **Gate Watch** 🚪  and the ***Tableau Games*** system.
+**Gate Watch** is a diceless, GMless storytelling game played using 54 poker-sized cards with rules & inspirational images. Box includes everything you need to play except for your own index cards, markers & two sheets of paper. Gate Watch cards may be mixed & matched with other Tableau Games playsets.
 
-## Kinds of Gate Watch 🚪 Stories:
+***Tableau Games*** offer cinematic storytelling in 2-3 hours, with no prep or GM required. Composable rules on poker-sized cards available from multiple playsets offer versatile gameplay for 2-5 players, ages 14 and up. Explore the opportunities for collaborative storytelling and thrilling cinematic adventures possible with **Gate Watch** 🚪 and the ***Tableau Games*** system.
+
+## Kinds of ***Gate Watch*** 🚪 Stories:
 
 ![Tableau: Gate Watch 🚪 Playset 🎞 - Inspiration Card](/assets/images/games/tableau/gatewatch/gate_watch_playset_inspirations_1500_1050.png)
-
-### Types of Stories
 
 Tableau inspires players to be creative, supporting a nearly infinite variety of potential stories. 
 
