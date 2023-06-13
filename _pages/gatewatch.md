@@ -76,7 +76,7 @@ We've found the mechanics of Tableau work well for experienced gamers as well as
 
 ## Overview of Play
 
-Following the instructions from the Playset setup, the Players first choose **The Gate** for this session, optionally selecting or drawing one from the 18 inspirational images. Reading through the Playset and Narrative Rules cards, they together create a Map and describe Locations, establish Truths & Enigmas, and ask Leading Questions of fellow Watchers. Story cards help players set key goals for the opening Beat, then the players take turns as The Director to set Scenes that drive the story forward. Drama Rule cards increase tension or resolve complications until a clue reveals the answer to one of the Gate's Enigma in Beat 3.
+Following the instructions from the Playset setup, the Players first choose **The Gate** for this session, optionally selecting or drawing one from the 18 inspirational images. Reading through the Playset and Narrative Rules cards, they together create a Map and describe Locations, establish Truths & Enigmas, and ask Leading Questions of fellow Watchers. Story cards help players set key goals for the opening Beat, then the players take turns as The Director to set Scenes that drive the story forward. Drama Rule cards increase tension or resolve complications until a clue reveals the answer to one of the Gate's Enigma in the last Beat.
 
 ## Reviewer Quotes
 
@@ -108,7 +108,7 @@ Written & Designed by: Christopher Allen <ChristopherA@DyversHands.com>
 
 ©2022-23 by Dyvers Hands Productions, LLC. — All Rights Reserved
 
-(no license is granted for redistribution or derivation without permission, however, our goal is CC-BY-SA after a successful Kickstarter stretch goal)
+(no license is granted for redistribution or derivation without permission)
 
 Images © original creators & are Permissively Licensed. More info & image credits at www.DyversHands.com/Tableau
 
