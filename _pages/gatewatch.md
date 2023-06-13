@@ -22,13 +22,13 @@ gate_watch_playset:
     alt: "Gate Watch Playset Cover Card"
     title: "Twilight Road &#128739;"
     url: /Subscribe
-    btn_label: "Cards w/Tuckbox (coming summer!)"
+    btn_label: "Cards w/Tuckbox (coming July!)"
     btn_class: "btn--info"
     url2: /Subscribe
-    btn_label2: "Just the Cards (coming summer!)"
+    btn_label2: "Just the Cards (coming July!)"
     btn_class2: "btn--info"
     url3: /Subscribe
-    btn_label3: "Print-N-Play (coming summer!)"
+    btn_label3: "Print-N-Play (coming July!)"
     btn_class3: "btn--info"
 gallery:
   - url: /TwilightRoad
@@ -73,6 +73,10 @@ A game mixing storytelling cards from both **Twilight Road** 🛣 & **Gate Watch
 * a dark historical fantasy, where a water well located in a German farming village at the end of WWII was the only escape from invading Russians, but led the villagers into a perilous journey through the lands of the fae, with no way home.
 
 We've found the mechanics of Tableau work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. Tableau is a fun evening's entertainment.
+
+## Overview of Play
+
+Following the instructions from the Playset setup, the Players first choose **The Gate** for this session, optionally selecting or drawing one from the 18 inspirational images. Reading through the Playset and Narrative Rules cards, they together create a Map and describe Locations, establish Truths & Enigmas, and ask Leading Questions of fellow Watchers. Story cards help players set key goals for the opening Beat, then the players take turns as The Director to set Scenes that drive the story forward. Drama Rule cards increase tension or resolve complications until a clue reveals the answer to one of the Gate's Enigma in Beat 3.
 
 ## Reviewer Quotes
 
