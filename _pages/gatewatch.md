@@ -110,6 +110,8 @@ Written & Designed by: Christopher Allen <ChristopherA@DyversHands.com>
 
 (no license is granted for redistribution or derivation without permission)
 
+Based on a 2019 First Edition of the game and adapted in this version for use with the ***Tableau Games*** system.
+
 Images © original creators & are Permissively Licensed. More info & image credits at www.DyversHands.com/Tableau
 
 Tableau Games™, Dyvers Hands™, and Gate Watch™ are trademarks of Dyvers Hands Productions LLC.
