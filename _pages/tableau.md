@@ -30,9 +30,9 @@ tableau_playsets:
     url: /TwilightRoad
     btn_label: "Read More…"
     btn_class: "btn--inverse"
-    url2: /Subscribe
-    btn_label2: "Coming Summer!"
-    btn_class2: "btn--info"
+    url2: https://www.drivethrucards.com/product/425525/Twilight-Road-A-Playset-for-Tableau-with-Tuckbox?src=dhwebsite
+    btn_label2: "Buy Now!"
+    btn_class2: "btn--success"
   - image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
     alt: "Gate Watch Playset Cover Card"
     title: "Gate Watch &#128682;"
@@ -40,9 +40,9 @@ tableau_playsets:
     url: /GateWatch
     btn_label: "Read More…"
     btn_class: "btn--inverse"
-    url2: /Subscribe
-    btn_label2: "Coming Summer!"
-    btn_class2: "btn--info"
+    url2: https://www.drivethrucards.com/product/416166/Gate-Watch-A-Playset-for-Tableau-with-Tuckbox?src=dhwebsite
+    btn_label2: "Buy Now!"
+    btn_class2: "btn--success"
   - image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
     title: "Improv &#127914;"
@@ -50,8 +50,8 @@ tableau_playsets:
     url: /Improv
     btn_label: "Read More…"
     btn_class: "btn--inverse"
-    url2: https://www.drivethrucards.com/product_info.php?products_id=432580
-    btn_label2: "Print-N-Play"
+    url2: https://www.drivethrucards.com/product/433384/Tableau-Improv-Playset-with-Tuckbox?src=dhwebsite
+    btn_label2: "Buy Now!"
     btn_class2: "btn--success"
 ---
 
