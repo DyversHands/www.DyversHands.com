@@ -46,7 +46,7 @@ tableau_playsets:
   - image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
     title: "Improv &#127914;"
-    excerpt: "Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, and script workshopping and creative writing."
+    excerpt: "Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, script workshopping and creative writing."
     url: /Improv
     btn_label: "Read More…"
     btn_class: "btn--inverse"
