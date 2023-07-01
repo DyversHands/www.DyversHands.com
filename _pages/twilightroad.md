@@ -39,7 +39,7 @@ gallery:
     image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
 ---
-_**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including **Twilight Road** 🛣, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
+_**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets, including **Twilight Road** 🛣, are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
 {: .notice--info}
 
 ![Tableau: Twilight Road 🛣 Playset 🎞- Cover Card](/assets/images/games/tableau/twilightroad/twilight_road_playset_cover_375_525.png){: style="float:right; padding:16px"}
