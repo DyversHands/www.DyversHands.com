@@ -1,6 +1,6 @@
 ---
 author: Dyvers Hands Productions
-title: "***Tableau Game System*** - Now Available to All Storytellers!"
+title: "Tableau Game System - Now Available to All Storytellers!"
 excerpt_separator: "<!--more-->"
 categories:
   - News
