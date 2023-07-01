@@ -21,15 +21,16 @@ gate_watch_playset:
     excerpt: "***Tableau:*** **Gate Watch** &#128682; playset is available print-on-demand from ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: **Cards w/Tuckbox!** version contains 52 poker-sized Playset & core cards; **Just the Cards!** version banded in a plastic wrap without a tuckbox; or a **Print-N-Play!** PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Gate Watch Playset Cover Card"
     title: "Twilight Road &#128739;"
-    url: /Subscribe
-    btn_label: "Cards w/Tuckbox (coming July!)"
+    url: https://www.drivethrucards.com/product/416166/Gate-Watch-A-Playset-for-Tableau-with-Tuckbox?src=dhwebsite
+    btn_label: "Cards w/Tuckbox"
     btn_class: "btn--info"
-    url2: /Subscribe
-    btn_label2: "Just the Cards (coming July!)"
+    url2: https://www.drivethrucards.com/product/428315/Gate-Watch-A-Playset-for-Tableau-Just-the-Cards-Edition?src=dhwebsite
+    btn_label2: "Just the Cards"
     btn_class2: "btn--info"
-    url3: /Subscribe
-    btn_label3: "Print-N-Play (coming July!)"
+    url3: https://www.drivethrucards.com/product/441434/Gate-Watch-A-Playset-for-Tableau-PrintNPlay-Edition?cPath=31767_46121
+    btn_label3: "Print-N-Play"
     btn_class3: "btn--info"
+    
 gallery:
   - url: /TwilightRoad
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
@@ -39,6 +40,9 @@ gallery:
     alt: "Tableau Improv &#127914; Playset Cover Card"
 
 ---
+_**Now Available:** After a successful Kickstarter campaign, our first three Tableau playsets are available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Kickstarter-Success/)._
+{: .notice--info}
+
 _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including**Gate Watch** 🚪, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
 {: .notice--info}
 
