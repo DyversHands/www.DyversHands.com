@@ -19,14 +19,14 @@ improv_playset:
     excerpt: "***Tableau:*** **Improv** &#127914; playset is available print-on-demand from ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: **Cards w/Tuckbox!** version contains 38 poker-sized Playset & core cards; **Just the Cards!** version banded in a plastic wrap without a tuckbox; or a **Print-N-Play!** PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Improv Playset Cover Card"
     title: "Improv &#127914;"
-    url: /Subscribe
-    btn_label: "Cards w/Tuckbox (coming summer!)"
+    url: https://www.drivethrucards.com/product/433384/Tableau-Improv-Playset-with-Tuckbox?src=dhwebsite
+    btn_label: "Cards w/Tuckbox"
     btn_class: "btn--info"
-    url2: /Subscribe
-    btn_label2: "Just the Cards (coming summer!)"
+    url2: https://www.drivethrucards.com/product/433380/Tableau-Improv-Playset-Just-the-Cards-Edition?src=dhwebsite
+    btn_label2: "Just the Cards"
     btn_class2: "btn--info"
-    url3: https://www.drivethrucards.com/product_info.php?products_id=432580
-    btn_label3: "Print-N-Play (available now!)"
+    url3: https://www.drivethrucards.com/product/432580/Tableau-Improv-Playset-PrintNPlay-Edition?src=dhwebsite
+    btn_label3: "Print-N-Play"
     btn_class3: "btn--success"
 gallery:
   - url: /TwilightRoad
@@ -39,8 +39,8 @@ gallery:
 _**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including **Improv** 🎪, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
 {: .notice--info}
 
-_**Free Print-N-Play for month of April!** The PDF version of the **Tableau:** **Improv** 🎪 Playset, is now available free for the month of April from [DriveThruCards](https://www.drivethrucards.com/product_info.php?products_id=432580)._
-{: .notice--success}
+_**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets, including **Twilight Road** 🛣, are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
+{: .notice--info}
 
 ![Tableau: Improv 🎪 Playset - Cover Card](/assets/images/games/tableau/improv/improv_playset_cover_375_525.png){: style="float:right; padding:16px"}
 
