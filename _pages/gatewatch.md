@@ -43,7 +43,7 @@ gallery:
 _**Now Available:** After a successful Kickstarter campaign, our first three Tableau playsets are available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Kickstarter-Success/)._
 {: .notice--info}
 
-_**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including**Gate Watch** 🚪, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
+_**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including **Gate Watch** 🚪, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
 {: .notice--info}
 
 **Gate Watch 2019:** if you are looking for the older version of Gate Watch, from Kickstarter 2019 with 18 cards, there are details about that game in our [archive](/GateWatch2019).
