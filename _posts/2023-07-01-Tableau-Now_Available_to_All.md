@@ -21,4 +21,4 @@ And, we have even more in the pipeline! Our next playset, **Lovecraft Country:**
 We thank you for your interest in our game system, and we can't wait for you to explore the endless narrative possibilities that Tableau offers. If you have any questions, suggestions, or exciting stories to share, please don't hesitate to contact us.
 
 -- Christopher Allen & the team at Dyvers Hands Productions
-“The best stories are the ones we tell together!”
+> “The best stories are the ones we tell together!”
