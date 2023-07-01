@@ -52,4 +52,8 @@ The original 18-card version of [Gate Watch](/games/gatewatch2019/), successfull
 
 Where Play-Doh creatures grow fangs, legs, wings, tentacles, poison stings & more, and players compete for the right to smash them. My goal was to just to see how simple and elegant I could make a board game. All the rules, table of costs for the "monster parts," a monster tracking sheet, and even the ruler needed for range attacks, all fit on a single sheet of paper.
 
-- Free downlod from [Github](https://github.com/ChristopherA/MonsterSmashGame2001)
+- Free download from [Github](https://github.com/ChristopherA/MonsterSmashGame2001)
+
+### Mailing List
+
+To stay updated on the latest news, including announcements about future products and future Kickstarter campaigns, sign up for our [Tableau Games Announcements Mailing List](/Subscribe). You'll be the first to know about exciting developments, promotions, and more.
