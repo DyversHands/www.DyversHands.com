@@ -1,6 +1,6 @@
 # Tableau Game System - Now Available to All Storytellers!
 
-We are excited to announce that the [***Tableau***](/Tableau), our innovative collaborative storytelling game, is now available for everyone to enjoy! After a successful initial launch period, we're excited to open the doors to all who are eager to explore new realms of creativity, narrative, and interactive storytelling.
+We are excited to announce that the [***Tableau***](/Tableau), our innovative collaborative storytelling game, is now available for everyone to enjoy! After a successful Kickstarter launch, we're excited to open the doors to all who are eager to explore new realms of creativity, narrative, and interactive storytelling.
 
 Tableau offers a cinematic storytelling experience that unlocks endless possibilities. The game system emphasizes collaborative storytelling and character development, allowing players to create stories across various genres and styles. The mechanics are designed to be approachable for players of all skill levels, encouraging creativity and player agency. This is your chance to embark on imaginative adventures and build captivating stories with friends, family, and gaming communities.
 
