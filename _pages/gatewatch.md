@@ -121,7 +121,7 @@ Creative Contributors: Shannon Appelcline, Aaron Reed
 
 ### Mailing List
 
-To stay updated on the latest news, including announcements about future products and future Kickstarter campaigns, sign up for our [Tableau Games Announcements Mailing List](/Subscribe). You'll be the first to know about exciting developments, promotions, and more.
+To stay updated on the latest news, including announcements about future products and Kickstarter campaigns, sign up for our [Tableau Games Announcements Mailing List](/Subscribe). You'll be the first to know about exciting developments, promotions, and more.
 
 ## Other Tableau Playsets
 
