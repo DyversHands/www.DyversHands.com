@@ -1,4 +1,4 @@
-# ***Tableau Games System*** - Now Available to All Storytellers!
+# ***Tableau Game System*** - Now Available to All Storytellers!
 
 We are excited to announce that the [***Tableau***](/Tableau), our innovative collaborative storytelling game, is now available for everyone to enjoy! After a successful Kickstarter launch, we're excited to open the doors to all who are eager to explore new realms of creativity, narrative, and interactive storytelling.
 
@@ -12,9 +12,9 @@ We're introducing the [***Tableau***](/Tableau) with three initial playsets:
 
 3. [**Improv:**](/Improv) Ignite your spirit of improvisation to weave unique tales together, one scene at a time. Perfect for roleplaying, improv, and creative writing, this playset encourages you to create unforgettable narratives across genres.
 
-To learn more about our ***Tableau Games System***, please visit our dedicated webpage [www.DyversHands.com/Tableau](/Tableau).
+To learn more about ***Tableau Games*** and these first three playsets, please visit our dedicated webpage [www.DyversHands.com/Tableau](/Tableau), or order directly from [DriveThruCards](https://www.drivethrucards.com/browse/pub/14163/Dyvers-Hands-Productions?src=dhwebsite).
 
-By inviting your friends to join in and encouraging your favorite local game stores to carry our Tableau Game playsets, you can enrich their gaming experiences and help us build a vibrant community of Tableau enthusiasts.
+By inviting your friends to join in and encouraging your favorite local game stores to carry our ***Tableau Games** playsets, you can enrich their gaming experiences and help us build a vibrant community of Tableau enthusiasts.
 
 And, we have even more in the pipeline! Our next playset, **Lovecraft Country:** *‘A Study in Madness’*, is currently in early playtesting.
 
