@@ -34,7 +34,11 @@ _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-S
 
 ![Tableau Logo](/assets/images/logos/Tableau_Games_portrait_white_spot_rgb_on_black_190_190.png){: style="float:right; padding:16px;" }
 
-***Tableau*** offers cinematic storytelling in 2-3 hours, with no prep or GM required. Rules and story prompts on poker-sized cards provide for versatile gameplay for 2-5 players, ages 14 and up. Multiple playsets are available cards may be mixed & matched with each other and with future ***Tableau Games*** playsets.
+We invite you to ***Tableau Games***, a cinematic storytelling adventure that requires neither a game master nor extensive preparation. With just 2-5 friends or family members, aged 14 and above, you can collaboratively spin captivating tales. ***Tableau** provides you with poker-sized cards filled with engaging rules, compelling story prompts, and inspirational imagery, empowering you to craft rather than merely play a game.
+
+A variety of Tableau playset decks cater to unique combinations of genres and themes, broadening the scope of your narrative adventures. Each playset comes with everything needed for the game. All you need to add are index cards, paper sheets, markers, and an optional six-sided dice.
+
+Choose your playset, gather around the table, and let your stories unfold. Each session of ***Tableau*** promises a fresh journey into the realms of creativity, offering limitless potential for unforgettable tales. With ***Tableau***, your storytelling experience is bound only by your imagination. The best stories are the ones we tell together!
 
 [Read More about ***Tableau Games***…](/Tableau){: .btn .btn--inverse}
 
