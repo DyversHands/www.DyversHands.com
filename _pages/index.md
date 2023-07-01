@@ -17,7 +17,7 @@ At [Dyvers Hands Productions](/About), we craft collaborative storytelling exper
 
 # Tableau Games
 
-_**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
+_**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
 {: .notice--info}
 
 [![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg)](/Tableau){: .align-left}
@@ -37,4 +37,4 @@ See the _[complete posts archive](/posts/)._
 
 ### Mailing List
 
-To stay updated on the latest news, including the official public release date of our first three ***Tableau Games*** playsets and announcements about future Kickstarter campaigns, be sure to sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.page.link/85EH). You'll be the first to know about exciting developments, promotions, and more.
+To stay updated on the latest news, including the official public release date of our first three ***Tableau Games*** playsets and announcements about future Kickstarter campaigns, be sure to sign up for our [Tableau Games Announcements Mailing List](/Subscrive). You'll be the first to know about exciting developments, promotions, and more.
