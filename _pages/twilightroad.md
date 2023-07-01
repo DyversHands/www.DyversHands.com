@@ -22,14 +22,14 @@ twilight_road_playset:
     excerpt: "***Tableau:*** **Twilight Road** &#128739; playset is available print-on-demand from ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: **Cards w/Tuckbox!** version contains 72 poker-sized Playset & core cards; **Just the Cards!** version banded in a plastic wrap without a tuckbox; or a **Print-N-Play!** PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
     alt: "Twilight Road Playset Cover Card"
     title: "Twilight Road &#128739;"
-    url: /Subscribe
-    btn_label: "Cards w/Tuckbox (coming summer!)"
+    url: https://www.drivethrucards.com/product/425525/Twilight-Road-A-Playset-for-Tableau-with-Tuckbox?src=dhwebsite
+    btn_label: "Cards w/Tuckbox"
     btn_class: "btn--info"
-    url2: /Subscribe
-    btn_label2: "Just the Cards (coming summer!)"
+    url2: https://www.drivethrucards.com/product/425524/Twilight-Road-A-Playset-for-Tableau-Just-the-Cards-Edition?src=dhwebsite
+    btn_label2: "Just the Cards"
     btn_class2: "btn--info"
-    url3: /Subscribe
-    btn_label3: "Print-N-Play (coming summer!)"
+    url3: https://www.drivethrucards.com/product/441594/Twilight-Road-A-Playset-for-Tableau-PrintNPlay-Edition?src=dhwebsite
+    btn_label3: "Print-N-Play"
     btn_class3: "btn--info"
 gallery:
   - url: /GateWatch
