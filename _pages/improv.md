@@ -36,8 +36,6 @@ gallery:
     image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
     alt: "Gate Watch &#128682; Playset Cover Card"
 ---
-_**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets, including **Improv** 🎪, concluded April 17th and is fully funded! For more details and our roadmap for delivery, see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
-{: .notice--info}
 
 _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets, including **Twilight Road** 🛣, are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
 {: .notice--info}
