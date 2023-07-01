@@ -54,6 +54,6 @@ Where Play-Doh creatures grow fangs, legs, wings, tentacles, poison stings & mor
 
 - Free download from [Github](https://github.com/ChristopherA/MonsterSmashGame2001)
 
-### Mailing List
+## Mailing List
 
 To stay updated on the latest news, including announcements about future products and Kickstarter campaigns, sign up for our [Games Announcements Mailing List](/Subscribe). You'll be the first to know about exciting developments, promotions, and more.
