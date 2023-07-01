@@ -57,10 +57,7 @@ tableau_playsets:
 
 # Tableau Games
 
-_**Now Available:** After a successful Kickstarter campaign, our first three Tableau playsets are available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Kickstarter-Success/)._
-{: .notice--info}
-
-_**Kickstarter Campaign:** The Kickstarter campaign for our first two **Tableau** playsets concluded April 17th and is fully funded! For more details see [NEWS: Tableau Kickstarter Success](/news/Tableau-Kickstarter-Success/)._
+_**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
 {: .notice--info}
 
 ![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg){: .align-left}
