@@ -30,7 +30,7 @@ We're introducing the [***Tableau***](/Tableau) with three initial playsets:
 
 3. [**Improv:**](/Improv) Ignite your spirit of improvisation to weave unique tales together, one scene at a time. Perfect for roleplaying, improv, and creative writing, this playset encourages you to create unforgettable narratives across genres.
 
-To learn more about ***Tableau Games*** and these first three playsets, please visit our dedicated webpage [www.DyversHands.com/Tableau](/Tableau), or order directly from [DriveThruCards](https://www.drivethrucards.com/browse/pub/14163/Dyvers-Hands-Productions?src=dhwebsite).
+To learn more about ***Tableau Games*** and these first three playsets, please visit our dedicated webpage [www.DyversHands.com/Tableau](/Tableau), or order directly from [DriveThruCards](https://www.drivethrucards.com/browse/pub/14163/Dyvers-Hands-Productions/subcategory/31767_46121/Tableau-Games?src=dhwebsite).
 
 By inviting your friends to join in and encouraging your favorite local game stores to carry our ***Tableau Games** playsets, you can enrich their gaming experiences and help us build a vibrant community of Tableau enthusiasts.
 
