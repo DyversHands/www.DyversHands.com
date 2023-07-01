@@ -16,7 +16,7 @@ To learn more about ***Tableau Games*** and these first three playsets, please v
 
 By inviting your friends to join in and encouraging your favorite local game stores to carry our ***Tableau Games** playsets, you can enrich their gaming experiences and help us build a vibrant community of Tableau enthusiasts.
 
-And, we have even more in the pipeline! Our next playset, **Lovecraft Country:** *‘A Study in Madness’*, is currently in early playtesting.
+And, we have even more in the pipeline! Our next playset, **Lovecraft Country:** *‘A Study in Madness’*, is currently in early playtesting. Don't forget to [subscribe for announcements](/Subscribe).
 
 We thank you for your interest in our game system, and we can't wait for you to explore the endless narrative possibilities that Tableau offers. If you have any questions, suggestions, or exciting stories to share, please don't hesitate to contact us.
 
