@@ -1,6 +1,6 @@
 ---
 author: Dyvers Hands Productions
-title: "Tableau Game System - Now Available to All Storytellers!"
+title: "***Tableau Game System*** - Now Available to All Storytellers!"
 excerpt_separator: "<!--more-->"
 categories:
   - News
@@ -15,8 +15,6 @@ tags:
 classes:
   - wide
 ---
-
-# ***Tableau Game System*** - Now Available to All Storytellers!
 
 We are excited to announce that the [***Tableau***](/Tableau), our innovative collaborative storytelling game, is now available for everyone to enjoy! After a successful Kickstarter launch, we're excited to open the doors to all who are eager to explore new realms of creativity, narrative, and interactive storytelling.
 
