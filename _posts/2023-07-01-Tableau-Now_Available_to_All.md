@@ -12,7 +12,7 @@ We're introducing the [***Tableau Game System***](/Tableau) with three initial p
 
 3. [**Improv:**](/Improv) Ignite your spirit of improvisation to weave unique tales together, one scene at a time. Perfect for roleplaying, improv, and creative writing, this playset encourages you to create unforgettable narratives across genres.
 
-To learn more about ***Tableau Games***, please visit our [dedicated webpage](/Tableau).
+To learn more about [***Tableau Games***, please visit our dedicated webpage [www.DyversHands.com/Tableau](/Tableau).
 
 By inviting your friends to join in and encouraging your favorite local game stores to carry our Tableau Game playsets, you can enrich their gaming experiences and help us build a vibrant community of Tableau enthusiasts.
 
