@@ -43,7 +43,7 @@ Enter a world where honor meets deception, whispered secrets, and hidden agendas
 
 ## Available from… 
 
-{% include feature_row id=this_storyset" type="left" %}
+{% include feature_row id="this_storyset" type="left" %}
 
 ## Other Tableau Storysets
 
