@@ -54,10 +54,10 @@ tableau_playsets:
     btn_label2: "Buy Now!"
     btn_class2: "btn--success"
 tableau_storysets:
-  - image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
+  - image_path: /assets/images/games/tableau/twilightroad/courtly_shadows_storyset_cover_630_500.jpg
     alt: "Courtly Shadows Storyset Cover"
     title: "Courtly Shadows &#128081;"
-    excerpt: "Enter a world where honor meets deception, whispered secrets, and hidden agendas in Courtly Shadows &#128081; a two-page Storyset &#128214; Booklet supplement for ***Tableau Games***."
+    excerpt: "Enter a world where honor meets deception, whispered secrets, and hidden agendas in Courtly Shadows &#128081; a two-page Storyset &#128214; Booklet supplement for ***Tableau Games***. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
     url: /games/Tableau/CourtlyShadows
     btn_label: "Read More…"
     btn_class: "btn--inverse"
