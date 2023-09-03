@@ -13,7 +13,8 @@ permalink: /games/Tableau/CourtlyShadows
 redirect_from:
   - /CourtlyShadows
   - /courtlyshadows
-
+  - /games/CourtlyShadows
+  - /games/courtlyshadows
 this_storyset:
   - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg
     excerpt: "***Tableau:*** **Courtly Shadows** &#128214; is available as a **Storyset** **Booklet** from: "
@@ -22,9 +23,9 @@ this_storyset:
     url: https://dyvershands.itch.io/courtlyshadows
     btn_label: "itch.io"
     btn_class: "btn--success"
-    #url2: https://www.drivethrucards.com/product/433380/Tableau-Improv-Playset-Just-the-Cards-Edition?src=dhwebsite
-    #btn_label2: "DriveThruCards"
-    #btn_class2: "btn--success"
+#  url2: https://www.drivethrucards.com/product/433380/Tableau-Improv-Playset-Just-the-Cards-Edition?src=dhwebsite
+#  btn_label2: "DriveThruCards"
+#  btn_class2: "btn--success"
 # gallery:
 #  - url: /CourtlyShadows
 #    image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg
