@@ -53,6 +53,17 @@ tableau_playsets:
     url2: https://www.drivethrucards.com/product/433384/Tableau-Improv-Playset-with-Tuckbox?src=dhwebsite
     btn_label2: "Buy Now!"
     btn_class2: "btn--success"
+tableau_storysets:
+  - image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
+    alt: "Courtly Shadows Storyset Cover"
+    title: "Courtly Shadows &#128081;"
+    excerpt: "Enter a world where honor meets deception, whispered secrets, and hidden agendas in Courtly Shadows &#128081; a two-page Storyset &#128214; Booklet supplement for ***Tableau Games***."
+    url: /games/Tableau/CourtlyShadows
+    btn_label: "Read More…"
+    btn_class: "btn--inverse"
+    url2: https://dyvershands.itch.io/courtlyshadows
+    btn_label2: "Buy Now!"
+    btn_class2: "btn--success"
 ---
 
 # Tableau Games
@@ -79,6 +90,11 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 ## Tableau Playsets
 
 {% include feature_row id="tableau_playsets" %}
+
+## Tableau Storysets
+
+{% include feature_row id="tableau_storysets" %}
+
 ## Reviewer Quotes
 
 > *“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.”* — **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
