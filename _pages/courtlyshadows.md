@@ -36,12 +36,13 @@ _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-S
 
 ![Courtly Shadows &#128214 Storyset Cover](/assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg){: style="float:right; padding:16px"}
 
-Enter a world where honor meets deception, whispered secrets, and hidden agendas in ***Courtly Shadows*** &#128081; a two-page ***Storyset*** &#128214; ***Booklet** supplement for ***Tableau* Games** that accentuates tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?
-***Tableau*** offers cinematic storytelling in 2-3 hours, with no prep or GM required. Composable rules on poker-sized cards provide multiple playsets for versatile gameplay with 2-5 players, ages 14 and up. Explore the opportunities for collaborative storytelling and thrilling cinematic adventures possible with **Improv** 🎪  and the ***Tableau Games*** system.
+Enter a world where honor meets deception, whispered secrets, and hidden agendas in **Courtly Shadows** &#128081; a two-page **Storyset** &#128214; **Booklet** supplement for ***Tableau* Games*** that accentuates tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?
+
+**Tableau Storysets** supplement ***Tableau*** stories with additional rules and story elements, but you'll need to already own a **Tableau Playset** or the _Tableau Core Rules_ to play. **Storysets** also are easy to incorporate into most _Belonging Outside Belonging_ style storygames, and are adaptable for use with many other styles of storygames.
 
 ## Available from… 
 
-{% include feature_row id="improv_playset" type="left" %}
+{% include feature_row id=this_storyset" type="left" %}
 
 ## Other Tableau Storysets
 
