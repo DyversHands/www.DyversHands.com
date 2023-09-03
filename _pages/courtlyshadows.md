@@ -9,11 +9,12 @@ title: Tableau&#58; Improv &#127914;
 hide_description: true
 classes:
   - wide
-permalink: /games/Improv/
+permalink: /games/Tableau/CourtlyShadows
 redirect_from:
-  - /Improv
-  - /improv
-  - /games/improv
+  - /CourtlyShadows
+  - /courtlyshadows
+  - /games/tableau/courtlyshadows
+  - /games/Tableau/courtlyshadows
 this_storyset:
   - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg
     excerpt: "***Tableau:*** **Courtly Shadows** &#128214; is available as a **Storyset** **Booklet** from: "
