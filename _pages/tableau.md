@@ -57,7 +57,7 @@ tableau_storysets:
   - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg
     alt: "Courtly Shadows Storyset Cover"
     title: "Courtly Shadows &#128081;"
-    excerpt: "Enter a world where honor meets deception, whispered secrets, and hidden agendas in Courtly Shadows &#128081; a two-page Storyset &#128214; Booklet supplement for ***Tableau Games***. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
+    excerpt: "Enter a world where honor meets deception, whispered secrets, and hidden agendas in ***Courtly Shadows*** &#128081; a two-page Storyset &#128214; Booklet supplement that accentuates tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
     url: /games/Tableau/CourtlyShadows
     btn_label: "Read More…"
     btn_class: "btn--inverse"
@@ -89,9 +89,13 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 ## Tableau Playsets
 
+***Tableau Playsets*** offer a curated set of rules and story elements, each within a specific framework of genre, themes, and tropes, for a unique storytelling experience. Instead of sifting through numerous rules and story elements, ***Playsets** provide a cohesive collections for a focused narrative. Each ***Playset*** includes everything you need to play except for your own index cards, markers and sheets of paper, and optionally one six-sided dice. They may be mixed & matched with each other and with future ***Tableau Games***.
+
 {% include feature_row id="tableau_playsets" %}
 
 ## Tableau Storysets
+
+***Tableau Storysets*** supplement ***Tableau*** stories with additional rules and story elements, but you'll need to already own a ***Tableau Playset*** with the **Tableau Core Rules** to play. ***Storysets*** also are easy to incorporate into most **Belonging Outside Belonging** style storygames, and are adaptable for use with many other styles of storygames.
 
 {% include feature_row id="tableau_storysets" %}
 
