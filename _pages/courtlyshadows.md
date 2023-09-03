@@ -13,8 +13,7 @@ permalink: /games/Tableau/CourtlyShadows
 redirect_from:
   - /CourtlyShadows
   - /courtlyshadows
-  - /games/tableau/courtlyshadows
-  - /games/Tableau/courtlyshadows
+
 this_storyset:
   - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg
     excerpt: "***Tableau:*** **Courtly Shadows** &#128214; is available as a **Storyset** **Booklet** from: "
