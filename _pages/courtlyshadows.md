@@ -37,9 +37,27 @@ _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-S
 
 ![Courtly Shadows &#128214 Storyset Cover](/assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg){: style="float:right; padding:16px"}
 
-Enter a world where honor meets deception, whispered secrets, and hidden agendas in **Courtly Shadows** &#128081; a two-page **Storyset** &#128214; **Booklet** supplement for ***Tableau* Games*** that accentuates tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?
+Enter a world where honor meets deception, whispered secrets, and hidden agendas in **Courtly Shadows** 👑;, a two-page _Storyset 📖 Booklet_ supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/) system available though DriveThruRPG & itch.io as Print'N'Play.
 
-**Tableau Storysets** supplement ***Tableau*** stories with additional rules and story elements, but you'll need to already own a **Tableau Playset** or the _Tableau Core Rules_ to play. **Storysets** also are easy to incorporate into most _Belonging Outside Belonging_ style storygames, and are adaptable for use with many other styles of storygames.
+Also adaptable for use in other _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames to accentuates tales of aristocracy, concealed motives, and duels of nobility.
+
+Leverage these five pivotal Story 📖 Elements in your stories:
+
+* **Setting**: The _Court 🏘️_: Waltz through an opulent realm of ambition and privilege, where every gesture hides a secret and power ebbs and flows like tides.
+* **Tone**: _Intrigue 🎶_: Witness the intricate ballet of deception and hidden motives, as power players navigate the murky waters of politics and strategy.
+* **Theme**: _Status 💢_: An environment where your worth is determined by lineage, power, and cunning, and where every step up the ladder may cost more than it's worth.
+* **Faction**: The _Watch 🫂_: Behind every great court lies an ever-vigilant protector. Stand alongside them as they guard against threats, both overt and concealed.
+* **Genre Beats**: _At Dawn 🥁_: As the first light pierces the horizon, watch as destinies are sealed, and the very fabric of the courtly realm hangs in the balance.
+
+In **Courtly Shadows 👑**, allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?
+
+## Tableau _Storyset 📖 Booklets_
+
+_**Tableau**_ _Storyset 📖 Booklets_ ​supplement _**Tableau**_ stories with additional rules and story elements, but you'll need to already own a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets 📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+
+_Storysets 📖_​ lack the full flexibility of full Tableau card-based Playset 🎞. Instead, they are designed for a similar style of play using a small, card-sized Booklets easily printed on US Letter 8½”x11" paper. To use _Storysets 📖_​, just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ the _Booklet_ to control that _Element_ just like a card with _Story 📖 Element_.
+
+Assembly: Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page‘s end. Refold as per image. Ensure cover is on front. Tighten creases.
 
 ## Available from… 
 
