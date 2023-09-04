@@ -19,7 +19,7 @@ this_storyset:
   - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg
     excerpt: "***Tableau:*** **Courtly Shadows** &#128214; is available as a **Storyset** **Booklet** from: "
     alt: "Improv Playset Cover Card"
-    title: "Courtly Shadows &#128214"
+    title: "Courtly Shadows &#128214;"
     url: https://dyvershands.itch.io/courtlyshadows
     btn_label: "itch.io"
     btn_class: "btn--success"
@@ -29,13 +29,13 @@ this_storyset:
 # gallery:
 #  - url: /CourtlyShadows
 #    image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg
-#    alt: "Courtly Shadows &#128214 Storyset Cover"
+#    alt: "Courtly Shadows &#128214; Storyset Cover"
 ---
 
 _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets, including **Twilight Road** 🛣, are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
 {: .notice--info}
 
-![Courtly Shadows &#128214 Storyset Cover](/assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg){: style="float:right; padding:16px"}
+![Courtly Shadows &#128214; Storyset Cover](/assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg){: style="float:right; padding:16px"}
 
 Enter a world where honor meets deception, whispered secrets, and hidden agendas in **Courtly Shadows** 👑;, a two-page _Storyset 📖 Booklet_ supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/) system available though DriveThruRPG & itch.io as Print'N'Play.
 
@@ -53,11 +53,11 @@ In **Courtly Shadows 👑**, allegiances shift, secrets unravel, and the dawn ma
 
 ## Tableau _Storyset 📖 Booklets_
 
-_**Tableau**_ _Storyset 📖 Booklets_ ​supplement _**Tableau**_ stories with additional rules and story elements, but you'll need to already own a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets 📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+_**Tableau**_ _Storyset 📖 Booklets_ ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll need to already own a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets 📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
-_Storysets 📖_​ lack the full flexibility of full Tableau card-based Playset 🎞. Instead, they are designed for a similar style of play using a small, card-sized Booklets easily printed on US Letter 8½”x11" paper. To use _Storysets 📖_​, just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ the _Booklet_ to control that _Element_ just like a card with _Story 📖 Element_.
+_Storysets 📖_​ lack the full flexibility of full _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play using a small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To use a _Storysets 📖_​, just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ to control that _Element_ just like they would a card with a _Story 📖 Element_.
 
-Assembly: Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page‘s end. Refold as per image. Ensure cover is on front. Tighten creases.
+**Assembly**: Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page‘s end. Refold as per image. Ensure cover is on front. Tighten creases.
 
 ## Available from… 
 
