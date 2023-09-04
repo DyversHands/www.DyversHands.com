@@ -57,7 +57,7 @@ tableau_storysets:
   - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg
     alt: "Courtly Shadows Storyset Cover"
     title: "Courtly Shadows &#128081;"
-    excerpt: "Enter a world where honor meets deception, whispered secrets, and hidden agendas in ***Courtly Shadows*** &#128081; a two-page ***Storyset*** &#128214; ***Booklet** supplement for ***Tableau* Games** that accentuates tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
+    excerpt: "In ***Courtly Shadows*** &#128081; where honor meets deception, whispered secrets, and hidden agendas. A two-page ***Storyset*** &#128214; ***Booklet** supplement for ***Tableau* Games** to accentuate tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
     url: /games/Tableau/CourtlyShadows
     btn_label: "Read More…"
     btn_class: "btn--inverse"
