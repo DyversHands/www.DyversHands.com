@@ -57,7 +57,7 @@ tableau_storysets:
   - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg
     alt: "Courtly Shadows Storyset Cover"
     title: "Courtly Shadows &#128081;"
-    excerpt: "In ***Courtly Shadows*** &#128081; where honor meets deception, whispered secrets, and hidden agendas. A two-page ***Storyset*** &#128214; ***Booklet** supplement for ***Tableau* Games** to accentuate tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
+    excerpt: "In ***Courtly Shadows*** &#128081; where honor meets deception, whispered secrets, and hidden agendas. A two-page ***Storyset*** &#128214; ***Booklet*** supplement for ***Tableau* Games** to accentuate tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
     url: /games/Tableau/CourtlyShadows
     btn_label: "Read More…"
     btn_class: "btn--inverse"
@@ -95,7 +95,7 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 ## Tableau Storysets
 
-***Tableau Storysets*** supplement ***Tableau*** stories with additional rules and story elements, but you'll need to already own a ***Tableau Playset*** or the _Tableau Core Rules_ to play. ***Storysets*** also are easy to incorporate into most _Belonging Outside Belonging_ style storygames, and are adaptable for use with many other styles of storygames.
+_**Tableau**_ _Storyset 📖 Booklets_ ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll require a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets 📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
 {% include feature_row id="tableau_storysets" %}
 
