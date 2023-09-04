@@ -35,7 +35,7 @@ this_storyset:
 _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets, including **Twilight Road** 🛣, are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
 {: .notice--info}
 
-![Courtly Shadows &#128214; Storyset Cover](/assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298){: style="float:right; padding:16px"}
+![Courtly Shadows &#128214; Storyset Cover](/assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg){: style="float:right; padding:16px"}
 
 Enter a world where honor meets deception, whispered secrets, and hidden agendas in **Courtly Shadows** 👑, a two-page _Storyset 📖 Booklet_ supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/) system available though DriveThruRPG & itch.io as Print'N'Play.
 
