@@ -17,9 +17,9 @@ redirect_from:
   - /games/courtlyshadows
 this_storyset:
   - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg
-    excerpt: "***Tableau:*** **Courtly Shadows** &#128214; is available as a **Storyset** **Booklet** from: "
+    excerpt: "***Tableau:*** **Courtly** &#128081; **Shadows**  is available as a **Storyset** &#128214; **Booklet** from: "
     alt: "Improv Playset Cover Card"
-    title: "Courtly Shadows &#128214;"
+    title: "Courtly Shadows &#128081;"
     url: https://dyvershands.itch.io/courtlyshadows
     btn_label: "itch.io"
     btn_class: "btn--success"
@@ -41,7 +41,7 @@ Enter a world where honor meets deception, whispered secrets, and hidden agendas
 
 Also adaptable for use in other _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames to accentuates tales of aristocracy, concealed motives, and duels of nobility.
 
-Leverage these five pivotal Story 📖 Elements in your stories:
+Leverage these five pivotal _Story 📖 Elements_ in your stories:
 
 * **Setting**: The _Court 🏘️_: Waltz through an opulent realm of ambition and privilege, where every gesture hides a secret and power ebbs and flows like tides.
 * **Tone**: _Intrigue 🎶_: Witness the intricate ballet of deception and hidden motives, as power players navigate the murky waters of politics and strategy.
