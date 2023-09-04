@@ -5,7 +5,7 @@ header:
   overlay_filter: "0.25"
   # overlay_image: /assets/images/games/tableau/improv/improv_banner_1280_360.jpg
   # og_image: /assets/images/improv/tableau-improv-card.jpg
-title: Tableau&#58; Improv &#127914;
+title: Tableau&#58; Courtly Shadows &#128214;
 hide_description: true
 classes:
   - wide
@@ -37,7 +37,7 @@ _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-S
 
 ![Courtly Shadows &#128214; Storyset Cover](/assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg){: style="float:right; padding:16px"}
 
-Enter a world where honor meets deception, whispered secrets, and hidden agendas in **Courtly Shadows** 👑;, a two-page _Storyset 📖 Booklet_ supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/) system available though DriveThruRPG & itch.io as Print'N'Play.
+Enter a world where honor meets deception, whispered secrets, and hidden agendas in **Courtly Shadows** 👑, a two-page _Storyset 📖 Booklet_ supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/) system available though DriveThruRPG & itch.io as Print'N'Play.
 
 Also adaptable for use in other _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames to accentuates tales of aristocracy, concealed motives, and duels of nobility.
 
@@ -51,17 +51,26 @@ Leverage these five pivotal Story 📖 Elements in your stories:
 
 In **Courtly Shadows 👑**, allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?
 
+## Available from… 
+
+{% include feature_row id="this_storyset" type="left" %}
+
 ## Tableau _Storyset 📖 Booklets_
 
 _**Tableau**_ _Storyset 📖 Booklets_ ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll need to already own a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets 📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
 _Storysets 📖_​ lack the full flexibility of full _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play using a small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To use a _Storysets 📖_​, just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ to control that _Element_ just like they would a card with a _Story 📖 Element_.
 
-**Assembly**: Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page‘s end. Refold as per image. Ensure cover is on front. Tighten creases.
+![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_752 _585.png){: style="float:right; padding:16px"}
+*Assembly**: Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page‘s end. Refold as per image. Ensure cover is on front. Tighten creases.
 
-## Available from… 
+## Credits
 
-{% include feature_row id="this_storyset" type="left" %}
+**Courtly Shadows 👑** — _A Storyset 📖 Booklet for Tableau Games_ was written & designed by [Christopher Allen](mailto:ChristopherA@DyversHands.com).
+
+©2023 by Dyvers Hands Productions, LLC. — All Rights Reserved (no license is granted for redistribution or derivation without permission). _Art “Castle Marrach” & “Queen Vivienne” by Stephanie Law._
+
+Tableau Games™, Dyvers Hands™, and Castle Marrach™ are trademarks of Dyvers Hands Productions LLC.
 
 ## Other Tableau Storysets
 
