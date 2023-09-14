@@ -18,7 +18,7 @@ redirect_from:
   - /games/Trialsoftenacity
   - /games/TrialsofTenacity
 this_storyset:
-  - image_path: /assets/images/games/tableau/TrialsOfTenacity/trials_of_tenacity_storyset_cover_630_500.jpg
+  - image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
     excerpt: "***Tableau:*** **Trials of Tenacity** &#128081; is available as a **Storyset** &#127869; **Booklet** from: "
     alt: "Trials of Tenacity Cover Card"
     title: "Trials of Tenacity &#128081;"
@@ -37,7 +37,7 @@ this_storyset:
 _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets, including **Twilight Road** 🛣, are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
 {: .notice--info}
 
-![Trials of Tenacity &#127869; Storyset Cover](/assets/images/games/tableau/TrialsOfTenacity/trials_of_tenacity_storyset_cover_375_298.jpg){: style="float:right; padding:16px"}
+![Trials of Tenacity &#127869; Storyset Cover](/assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg){: style="float:right; padding:16px"}
 
 Endure a world reshaped by calamity in **Trials of Tenacity** 🍽️, a three-page _Storyset 📖 Booklet_ supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/).
 
