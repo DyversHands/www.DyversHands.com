@@ -34,7 +34,7 @@ gallery:
     image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
     alt: "Touched by the Veil &#129702; Storyset Cover"
   - url: /games/tableau/TrialsOfTenacity
-    image_path: /assets/images/games/tableau/TrialsOfTenacity/trials_of_tenacity_storyset_cover_375_298.jpg
+    image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
     alt: "Trials of Tenacity &#127869; Storyset Cover"
 ---
 
