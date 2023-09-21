@@ -28,10 +28,17 @@ this_storyset:
 #  url2: https://www.drivethrucards.com/product/433380/Tableau-Improv-Playset-Just-the-Cards-Edition?src=dhwebsite
 #  btn_label2: "DriveThruCards"
 #  btn_class2: "btn--success"
-# gallery:
-#  - url: /TrialsOfTenacity
+gallery:
+  - url: /games/tableau/CourtlyShadows
+   image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg.jpg
+   alt: "Courtly Shadows &#128081; Storyset Cover"
+  - url: /games/tableau/TouchedByTheVeil
+   image_path: //assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg.jpg
+   alt: "Touched by the Veil &#129702; Storyset Cover"
+#   - url: /games/tableau/TrialsOfTenacity
 #    image_path: /assets/images/games/tableau/TrialsOfTenacity/trials_of_tenacity_storyset_cover_630_500.jpg
 #    alt: "Trials of Tenacity &#127869; Storyset Cover"
+
 ---
 
 _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets, including **Twilight Road** 🛣, are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
