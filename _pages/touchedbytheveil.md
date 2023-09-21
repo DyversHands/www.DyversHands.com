@@ -36,13 +36,13 @@ this_storyset:
 #  btn_class2: "btn--success"
 gallery:
   - url: /games/tableau/CourtlyShadows
-    image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg.jpg
+    image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
     alt: "Courtly Shadows &#128081; Storyset Cover"
 #   - url: /games/tableau/TouchedByTheVeil
-#    image_path: //assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg.jpg
+#    image_path: //assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
 #    alt: "Touched by the Veil &#129702; Storyset Cover"
   - url: /games/tableau/TrialsOfTenacity
-    image_path: /assets/images/games/tableau/TrialsOfTenacity/trials_of_tenacity_storyset_cover_630_500.jpg
+    image_path: /assets/images/games/tableau/TrialsOfTenacity/trials_of_tenacity_storyset_cover_375_298.jpg
     alt: "Trials of Tenacity &#127869; Storyset Cover"
 ---
 
