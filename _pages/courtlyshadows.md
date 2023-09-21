@@ -26,7 +26,7 @@ this_storyset:
 #  url2: https://www.drivethrucards.com/product/433380/Tableau-Improv-Playset-Just-the-Cards-Edition?src=dhwebsite
 #  btn_label2: "DriveThruCards"
 #  btn_class2: "btn--success"
-gallery:
+gallery-storysets:
 #   - url: /games/Tableau/CourtlyShadows
 #    image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
 #    alt: "Courtly Shadows &#128081; Storyset Cover"
@@ -79,7 +79,7 @@ Tableau Games™, Dyvers Hands™, and Castle Marrach™ are trademarks of Dyver
 
 ## Other Tableau Storysets
 
-{% include gallery %}
+{% include gallery id="gallery-storysets" caption="Other Tableau Storysets…" %}
 
 ### Mailing List
 
