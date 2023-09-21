@@ -35,13 +35,13 @@ this_storyset:
 #  btn_label2: "DriveThruCards"
 #  btn_class2: "btn--success"
 gallery:
-  - url: /games/tableau/CourtlyShadows
+  - url: /games/Tableau/CourtlyShadows
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
     alt: "Courtly Shadows &#128081; Storyset Cover"
-#   - url: /games/tableau/TouchedByTheVeil
+#   - url: /games/Tableau/TouchedByTheVeil
 #    image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
 #    alt: "Touched by the Veil &#129702; Storyset Cover"
-  - url: /games/tableau/TrialsOfTenacity
+  - url: /games/Tableau/TrialsOfTenacity
     image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
     alt: "Trials of Tenacity &#127869; Storyset Cover"
 ---
