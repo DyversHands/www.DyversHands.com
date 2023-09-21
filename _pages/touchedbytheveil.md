@@ -14,9 +14,15 @@ redirect_from:
   - /TouchedByTheVeil
   - /touchedbytheveil
   - /Touchedbytheveil
+  - /TouchedbytheVeil
+  - /games/TouchedByTheVeil
   - /games/touchedbytheveil
   - /games/Touchedbytheveil
   - /games/TouchedbytheVeil
+  - /games/Tableau/touchedbytheveil
+  - /games/Tableau/Touchedbytheveil
+  - /games/Tableau/TouchedbytheVeil
+
 this_storyset:
   - image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
     excerpt: "***Tableau:*** **Touched by the Veil** &#129702; is available as a **Storyset** &#127869; **Booklet** from: "
