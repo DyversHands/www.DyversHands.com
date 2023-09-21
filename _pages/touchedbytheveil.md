@@ -5,7 +5,7 @@ header:
   overlay_filter: "0.25"
   # overlay_image: /assets/images/games/tableau/improv/improv_banner_1280_360.jpg
   # og_image: /assets/images/improv/tableau-improv-card.jpg
-title: Tableau&#58; Trials of Tenacity &#127869;
+title: Tableau&#58; Touched by the Veil &#129702;
 hide_description: true
 classes:
   - wide
@@ -18,8 +18,8 @@ redirect_from:
   - /games/Touchedbytheveil
   - /games/TouchedbytheVeil
 this_storyset:
-  - image_path: /assets/images/games/tableau/trialsoftenacity/touched_by_the_veil_storyset_cover_375_298.jpg
-    excerpt: "***Tableau:*** **Touched by the Veil** &#129702;; is available as a **Storyset** &#127869; **Booklet** from: "
+  - image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
+    excerpt: "***Tableau:*** **Touched by the Veil** &#129702; is available as a **Storyset** &#127869; **Booklet** from: "
     alt: "Touched by the Veil Cover Card"
     title: "Touched by the Veil &#129702;"
     url: https://dyvershands.itch.io/TouchedByTheVeil
@@ -37,7 +37,7 @@ this_storyset:
 _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets, including **Twilight Road** 🛣, are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
 {: .notice--info}
 
-![Touched by the Veil &#129702; Storyset Cover](/assets/images/games/tableau/trialsoftenacity/touched_by_the_veiel_storyset_cover_375_298.jpg){: style="float:right; padding:16px"}
+![Touched by the Veil &#129702; Storyset Cover](/assets/images/games/tableau/touchedbytheveil/touched_by_the_veiel_storyset_cover_375_298.jpg){: style="float:right; padding:16px"}
 
 **Touched by the Veil** 🪦, where the unsolved intertwines with the unseen, setting hearts racing and souls searching.
 A two-page _Storyset 📖 Booklet_ supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/), and adaptable for use in other ‘belonging outside belonging’ style storygames , this _Storyset 📖_ daccentuates tales of lurking truths, and the irresistible dance between the known and the unknown.
