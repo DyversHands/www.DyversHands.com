@@ -72,7 +72,7 @@ _Storysets 📖_​ don't possess the same flexibility as a _**Tableau**_ card-b
 
 **Trials of Tenacity 👑** — _A Storyset 📖 Booklet for Tableau Games_ was written & designed by [Christopher Allen](mailto:ChristopherA@DyversHands.com).
 
-©2023 by Dyvers Hands Productions, LLC. — All Rights Reserved (no license is granted for redistribution or derivation without permission). _Art “Castle Marrach” & “Queen Vivienne” by Stephanie Law._
+©2023 by Dyvers Hands Productions, LLC. — All Rights Reserved (no license is granted for redistribution or derivation without permission). More info & image credits at DyversHands.com/Tableau.
 
 Tableau Games™, Dyvers Hands™, and Castle Marrach™ are trademarks of Dyvers Hands Productions LLC.
 
