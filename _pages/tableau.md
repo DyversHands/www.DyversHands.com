@@ -57,7 +57,7 @@ tableau_storysets:
   - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
     alt: "Courtly Shadows Storyset Cover"
     title: "Courtly Shadows&nbsp;&#128081;"
-    excerpt: "In ***Courtly Shadows***&nbsp;&#128081; where honor meets deception, whispered secrets, and hidden agendas. A two-page ***Storyset***&nbsp;&#128214; ***Booklet*** supplement for ***Tableau* Games** to accentuate tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
+    excerpt: "In ***Courtly Shadows***&nbsp;&#128081; where honor meets deception, whispered secrets, and hidden agendas. A two-page ***Booklet Storyset***&nbsp;&#128214; supplement for ***Tableau* Games** to accentuate tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
     url: /games/Tableau/CourtlyShadows
     btn_label: "Read More…"
     btn_class: "btn--inverse"
@@ -67,7 +67,7 @@ tableau_storysets:
   - image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
     alt: "Touched by the Veil &#129702; Storyset Cover"
     title: "Touched by the Veil&nbsp;&#129702;"
-    excerpt: "***Touched by the Veil***&nbsp;&#129702;, where the unsolved intertwines with the unseen, setting hearts racing and souls searching. A two-page ***Storyset*** &#128214;&nbsp;***Booklet*** supplement for ***Tableau* Games** to accentuate tales of lurking truths, and the irresistible dance between the known and the unknown. Every decision reverberates with suspense, every passion becomes a binding chain, and every shadow might just hold the key to a mystery unsolved. As the curtain lifts on these tales, how will you navigate the intricate tapestry of intrigue and emotion?"
+    excerpt: "***Touched by the Veil***&nbsp;&#129702;, where the unsolved intertwines with the unseen, setting hearts racing and souls searching. A two-page ***Booklet Storyset***&nbsp;&#128214; supplement for ***Tableau* Games** to accentuate tales of lurking truths, and the irresistible dance between the known and the unknown. Every decision reverberates with suspense, every passion becomes a binding chain, and every shadow might just hold the key to a mystery unsolved. As the curtain lifts on these tales, how will you navigate the intricate tapestry of intrigue and emotion?"
     url: /games/Tableau/TouchedByTheVeil
     btn_label: "Read More…"
     btn_class: "btn--inverse"
@@ -77,7 +77,7 @@ tableau_storysets:
   - image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
     alt: "Trials of Tenacity &#127869; Storyset Cover"
     title: "Trials of Tenacity&nbsp;&#127869;"
-    excerpt: "Endure a world reshaped by calamity in ***Trials of Tenacity***&nbsp;&#127869; a three-page ***Storyset*** &#128214;&nbsp;***Booklet*** supplement for ***Tableau* Games**, where resilience battles against time's ravages, hope dances on the knife's edge, and tales of survival intertwine with legends reborn. What stories will you weave from the remnants of a world once lost?"
+    excerpt: "Endure a world reshaped by calamity in ***Trials of Tenacity***&nbsp;&#127869; a three-page ***Booklet Storyset***;&nbsp;&#128214 supplement for ***Tableau* Games**, where resilience battles against time's ravages, hope dances on the knife's edge, and tales of survival intertwine with legends reborn. What stories will you weave from the remnants of a world once lost?"
     url: /games/Tableau/TrialsOfTenacity
     btn_label: "Read More…"
     btn_class: "btn--inverse"
