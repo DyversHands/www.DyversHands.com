@@ -17,7 +17,7 @@ redirect_from:
   - /games/courtlyshadows
 this_storyset:
   - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg
-    excerpt: "***Tableau:*** **Courtly** &#128081; **Shadows**  is available as a **Storyset** &#128214; **Booklet** from: "
+    excerpt: "***Tableau:*** **Courtly** &#128081; **Shadows**  is available as a **Booklet Storyset** &#128214; from: "
     alt: "Improv Playset Cover Card"
     title: "Courtly Shadows &#128081;"
     url: https://dyvershands.itch.io/courtlyshadows
@@ -43,7 +43,7 @@ _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-S
 
 ![Courtly Shadows &#128214; Storyset Cover](/assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg){: style="float:right; padding:16px"}
 
-In **Courtly Shadows** 👑 honor meets deception, whispered secrets, and hidden agendas. A two-page _Storyset 📖 Booklet_ supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/) system available through DriveThruRPG & itch.io as Print'N'Play.
+In **Courtly Shadows** 👑 honor meets deception, whispered secrets, and hidden agendas. A two-page _Booklet Storyset_&nbsp;📖 supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/) system available through DriveThruRPG & itch.io as Print'N'Play.
 
 Additionally, adaptable for use in other _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames to accentuate tales of aristocracy, concealed motives, and duels of nobility.
 
@@ -61,17 +61,17 @@ In **Courtly Shadows** 👑, allegiances shift, secrets unravel, and the dawn ma
 
 {% include feature_row id="this_storyset" type="left" %}
 
-## Tableau _Storyset 📖 Booklets_
+## Tableau _Booklet Storysets_&nbsp;📖
 
-_**Tableau**_ _Storyset 📖 Booklets_ ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll require a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets 📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+_**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll require a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets 📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
-_Storysets 📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storyset 📖_​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:right; padding:16px"}
+_Storysets_&nbsp;📖 don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storysets_&nbsp;📖​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:right; padding:16px"}
 
 **Assembly**: Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page‘s end. Refold as per image. Ensure cover is on front. Tighten creases.
 
 ## Credits
 
-**Courtly Shadows 👑** — _A Storyset 📖 Booklet for Tableau Games_ was written & designed by [Christopher Allen](mailto:ChristopherA@DyversHands.com).
+**Courtly Shadows 👑** — _A Booklet Storyset&nbsp;📖 for Tableau Games_ was written & designed by [Christopher Allen](mailto:ChristopherA@DyversHands.com).
 
 ©2023 by Dyvers Hands Productions, LLC. — All Rights Reserved (no license is granted for redistribution or derivation without permission). _Art “Castle Marrach” & “Queen Vivienne” by Stephanie Law._
 

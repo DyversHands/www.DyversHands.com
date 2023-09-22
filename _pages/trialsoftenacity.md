@@ -19,7 +19,7 @@ redirect_from:
   - /games/TrialsofTenacity
 this_storyset:
   - image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
-    excerpt: "***Tableau:*** **Trials of Tenacity** &#128081; is available as a **Storyset** &#127869; **Booklet** from: "
+    excerpt: "***Tableau:*** **Trials of Tenacity** &#128081; is available as a **Boolet Storyset**&nbsp;&#127869; from:"
     alt: "Trials of Tenacity Cover Card"
     title: "Trials of Tenacity &#128081;"
     url: https://dyvershands.itch.io/TrialsOfTenacity
@@ -46,7 +46,7 @@ _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-S
 
 ![Trials of Tenacity &#127869; Storyset Cover](/assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg){: style="float:right; padding:16px"}
 
-Endure a world reshaped by calamity in **Trials of Tenacity** 🍽️, a three-page _Storyset 📖 Booklet_ supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/).
+Endure a world reshaped by calamity in **Trials of Tenacity** 🍽️, a three-page _Booklet Storyset_&nbsp;📖 supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/).
 
 Also adaptable for use in other ‘belonging outside belonging’ style storygames , this _Storyset 📖_ delves into the struggles and hopes of a desolate landscape where the embers of civilization flicker.
 
@@ -67,9 +67,9 @@ In **Trials of Tenacity** 🍽️, resilience battles against time's ravages, ho
 
 {% include feature_row id="this_storyset" type="left" %}
 
-## Tableau _Storyset 📖 Booklets_
+## Tableau _Booklet Storysets_&nbsp;📖
 
-_**Tableau**_ _Storyset 📖 Booklets_ ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll require a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets 📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+_**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll require a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets 📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
 _Storysets 📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storyset 📖_​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:right; padding:16px"}
 
@@ -77,7 +77,7 @@ _Storysets 📖_​ don't possess the same flexibility as a _**Tableau**_ card-b
 
 ## Credits
 
-**Trials of Tenacity 👑** — _A Storyset 📖 Booklet for Tableau Games_ was written & designed by [Christopher Allen](mailto:ChristopherA@DyversHands.com).
+**Trials of Tenacity 👑** — _A Booklet Storyset&nbsp;📖  for Tableau Games_ was written & designed by [Christopher Allen](mailto:ChristopherA@DyversHands.com).
 
 ©2023 by Dyvers Hands Productions, LLC. — All Rights Reserved (no license is granted for redistribution or derivation without permission). More info & image credits at DyversHands.com/Tableau.
 
