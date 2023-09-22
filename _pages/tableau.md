@@ -125,7 +125,7 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 ## Tableau Storysets
 
-_**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll require a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets 📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+_**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll need the _Tableau Core Rules_&nbsp;📜 from a _Playset_&nbsp;🎞️ or from the _Tableau Core Booklets_&nbsp;📖 to play. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
 {% include feature_row id="tableau_storysets" %}
 
@@ -192,13 +192,10 @@ To stay updated on the latest news, including announcements about future product
 
 Written & Designed by: Christopher Allen <ChristopherA@DyversHands.com>
 
-©2022-23 by Dyvers Hands Productions, LLC. — All Rights Reserved
-
-(no license is granted for redistribution or derivation without permission, however, our goal is CC-BY-SA after a successful Kickstarter stretch goal)
+©2022-23 by Dyvers Hands Productions, LLC. — All Rights Reserved (no license is granted for redistribution or derivation without permission).
 
 Images © original creators & are Permissively Licensed. More info & image credits at www.DyversHands.com/Tableau
 
 Tableau Games™, Dyvers Hands™, Twilight Road™, and Gate Watch™ are trademarks of Dyvers Hands Productions LLC.
 
 Creative Contributors: Shannon Appelcline, Aaron Reed
-

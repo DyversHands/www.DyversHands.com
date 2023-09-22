@@ -85,7 +85,7 @@ Tableau Games™, Dyvers Hands™, and Castle Marrach™ are trademarks of Dyver
 
 ## Other Tableau Storysets
 
-{% include gallery id="gallery-storysets" caption="Other Tableau Storysets…" %}
+{% include gallery id="gallery-storysets" %}
 
 ### Mailing List
 
