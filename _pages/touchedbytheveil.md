@@ -29,7 +29,7 @@ this_storyset:
     alt: "Touched by the Veil Cover Card"
     title: "Touched by the Veil &#129702;"
     url: https://dyvershands.itch.io/TouchedByTheVeil
-    btn_label: "itch.io"
+    btn_label: "PDF on itch.io ($1.95)"
     btn_class: "btn--success"
 #  url2: https://www.drivethrucards.com/product/433380/Tableau-Improv-Playset-Just-the-Cards-Edition?src=dhwebsite
 #  btn_label2: "DriveThruCards"
@@ -86,7 +86,7 @@ Tableau Games™ and Dyvers Hands™ are trademarks of Dyvers Hands Productions 
 
 ## Other Tableau Storysets
 
-{% include gallery id="gallery-storysets" caption="Other Tableau Storysets…" %}
+{% include gallery id="gallery-storysets" %}
 
 ### Mailing List
 

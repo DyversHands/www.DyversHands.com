@@ -23,7 +23,7 @@ this_storyset:
     alt: "Trials of Tenacity Cover Card"
     title: "Trials of Tenacity &#128081;"
     url: https://dyvershands.itch.io/TrialsOfTenacity
-    btn_label: "itch.io"
+    btn_label: "PDF on itch.io ($2.95)"
     btn_class: "btn--success"
 #  url2: https://www.drivethrucards.com/product/433380/Tableau-Improv-Playset-Just-the-Cards-Edition?src=dhwebsite
 #  btn_label2: "DriveThruCards"

@@ -21,7 +21,7 @@ this_storyset:
     alt: "Improv Playset Cover Card"
     title: "Courtly Shadows &#128081;"
     url: https://dyvershands.itch.io/courtlyshadows
-    btn_label: "itch.io"
+    btn_label: "PDF on itch.io ($1.95)"
     btn_class: "btn--success"
 #  url2: https://www.drivethrucards.com/product/433380/Tableau-Improv-Playset-Just-the-Cards-Edition?src=dhwebsite
 #  btn_label2: "DriveThruCards"
