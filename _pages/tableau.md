@@ -67,7 +67,7 @@ tableau_storysets:
   - image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
     alt: "Touched by the Veil &#129702; Storyset Cover"
     title: "Touched by the Veil&nbsp;&#129702;"
-    excerpt: "***Touched by the Veil***&nbsp;&#129702;, where the unsolved intertwines with the unseen, setting hearts racing and souls searching. A two-page ***Booklet Storyset***&nbsp;&#128214; supplement for ***Tableau* Games** enhances tales of lurking truths and the irresistible dance between the known and the unknown. Every choice is laden with suspense, passion becomes a binding chain, and shadows harbor mysteries unsolved. As the curtain rises, how will you weave through the elaborate labyrinth of intrigue and emotion?"
+    excerpt: "***Touched by the Veil***&nbsp;&#129702;, where the unsolved intertwines with the unseen, setting hearts racing and souls searching. A two-page ***Booklet Storyset***&nbsp;&#128214; supplement for ***Tableau* Games** enhances tales of the irresistible dance between the known and the unknown. Every choice is laden with suspense, passion becomes a binding chain, and shadows harbor mysteries unsolved. How will you weave through this elaborate labyrinth of intrigue and emotion?"
     url: /games/Tableau/TouchedByTheVeil
     btn_label: "Read More…"
     btn_class: "btn--inverse"
