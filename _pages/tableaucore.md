@@ -93,7 +93,7 @@ Instead of poker-sized cards, this version of the _Tableau Core ꩜ Rules_ com
 
 Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper. Print the pages, make a few origami-inspired folds, and you have _Tableau Core ꩜ Rules_ in the palm of your hand!  This _Tableau Booklet 📖_ format makes setup fast and hassle-free.
 
-**Assembly:** Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page’s end. Refold as per image. Ensure cover is on front. Tighten creases.
+**Assembly:** Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page’s end. Refold as per image. Ensure cover is on front. Tighten creases. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:right; padding:16px"}
 
 ## Available from… 
 
@@ -101,11 +101,11 @@ Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper
 
 ## Tableau _Storyset&nbsp;📖 Booklets_
 
-_**Tableau**_ _Booklet Storysets&nbsp;📖_ ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll require a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets&nbsp;📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+_**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
-_Storysets&nbsp;📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storyset&nbsp;📖_​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:right; padding:16px"}
+_Storysets&nbsp;📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storyset&nbsp;📖_​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_.
 
-**Assembly**: Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page‘s end. Refold as per image. Ensure cover is on front. Tighten creases.
+{% include gallery id="gallery-storysets" %}
 
 ## Credits
 
@@ -114,12 +114,6 @@ _**Tableau** Core ꩜ Rules (Tableau Booklet 📖_ format)_ was written & desig
 ©2023 by Dyvers Hands Productions, LLC. — All Rights Reserved (no license is granted for redistribution or derivation without permission). More info & image credits at DyversHands.com/Tableau.
 
 Tableau Games™ and Dyvers Hands™ are trademarks of Dyvers Hands Productions LLC.
-
-## Tableau Storysets
-
-_**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
-
-{% include gallery id="gallery-storysets" %}
 
 ### Mailing List
 
