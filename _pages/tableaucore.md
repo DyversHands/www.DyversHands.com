@@ -44,38 +44,44 @@ _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-S
 
 ![Tableau Core &#43612; Rules Cover Card](/assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg){: style="float:right; padding:16px"}
 
-### Ignite Your Creativity with **_Tableau Core_** ꩜!
+## Ignite Your Creativity with _**Tableau Core ꩜**_!
 
 _“The best stories are the ones we tell together!”_
 
-Great tales are like wildfires—all they need is a spark to spread creative passion. _**Tableau**_ _Core ꩜ Rules_ provides that vital spark in this easy printable _Booklet 📖 _ format. With just these essential rules, you and your friends can craft immersive stories in a single evening.
+Great tales are like wildfires—all they need is a spark to spread creative passion. _**Tableau**_ _Core ꩜ Rules_ provides that vital spark in this easy printable _Booklet 📖_ format. With just these essential rules, you and your friends can craft immersive stories in a single evening.
 
 With _Tableau Core ꩜ Rules_, your group can conjure any story you desire—from high fantasy kingdoms and gritty detective noir to intense stories of characters dealing with life changes and their relationships. The story possibilities are endless!
 
 Define complex characters motivated by their past experiences and life bonds. Bring these characters to life through cinematic scenes brimming with vivid details. Guide their dramatic and emotional journeys toward a satisfying climax. And embrace memorable stories filled with laughter, tears, and celebration.
 
-### Using **_Tableau Core_** ꩜ **_Rules_
+## Using _**Tableau Core ꩜ Rules**_
 
-These _Core ꩜ Rules_ distill the process of telling a story together down to a few key procedures, including: how to make choices about what story elements to include; how to cast your leads; how to introduce them with truths and open questions written on index cards; how to direct and frame scenes; and the central story mechanics of character moves and drama. Safety rules with guidelines for respectful play are also included.
+These _Core ꩜ Rules_ distill the process of telling a story together down to a few key procedures, including:
+* how to make choices about what story elements to include;
+* how to cast your leads;
+* how to introduce them with truths and open questions written on index cards;
+* how to direct and frame scenes; and the central story mechanics of character moves and drama.
+
+Safety rules with guidelines for respectful play are also included.
 
 We also offer a wide range of _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_, each curated to inspire your sessions with the additional ingredients for your stories! Additionally, _Tableau Core ꩜ Rules_** **are easily adaptable for use with story elements and characters brought in from _[‘belonging outside belonging‘](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames.
 
-With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and additional _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness" _on the way, there's always more storytelling excitement to explore. It all starts with **Tableau's** vital spark. Let _**Tableau**__ Core ꩜ Rules_ ignite your creativity tonight!
+With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and additional _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness"_ on the way, there's always more storytelling excitement to explore. It all starts with _**Tableau's**_ vital spark. Let _**Tableau**__ Core ꩜ Rules_ ignite your creativity tonight!
 
 Pay what you want to light this spark. Gather some index cards, some tokens, and optionally one dice, and you're ready to collaboratively tell stories. Then watch the flames of imagination spread as you and your friends craft an unforgettable storytelling experience!
 
-### Contents
+## Contents
 
 By paring down the most essential rules of _Tableau_ into an abbreviated format, these_ Core ꩜ Rules_ simplify the learning process for new players. These _Booklets 📖_ are all you require to start crafting cooperative narratives. They include:
 
-  * ***About Tableau **\- An overview of the game and its storytelling goals
-  * ***Core Rules** \- Blueprints for collaborative storytelling
-  * ***Core Narrative Rules** \- Scaffolding to build your story on
-  * ***Core Casting Rules **\- Guidance for casting compelling characters
-  * ***Core Drama Rules** \- Techniques to raise the narrative tension
-  * ***Core Safety Rules** \- Methods to foster a safe and inclusive experience
-  * ***The Director** \- A key Player Role for shaping scenes
-  * ***Sample Genre Beats** \- Templates for pivotal events to pace your tale
+  * **About Tableau **\- An overview of the game and its storytelling goals
+  * **Core Rules** \- Blueprints for collaborative storytelling
+  * **Core Narrative Rules** \- Scaffolding to build your story on
+  * **Core Casting Rules **\- Guidance for casting compelling characters
+  * **Core Drama Rules** \- Techniques to raise the narrative tension
+  * **Core Safety Rules** \- Methods to foster a safe and inclusive experience
+  * **The Director** \- A key Player Role for shaping scenes
+  * **Sample Genre Beats** \- Templates for pivotal events to pace your tale
 
 With just these _**Tableau**_ Core ꩜ Rules_, you have everything needed to start telling stories! To take your adventures further, **Tableau's** _[Booklet Storyset 📖](https://itch.io/physical-games/tag-storyset)_ supplements and _Playsets 🎞️_ offer a treasure trove of detailed settings, evocative themes, fascinating characters, and much more.
 
@@ -103,13 +109,15 @@ _Storysets 📖_​ don't possess the same flexibility as a _**Tableau**_ card-b
 
 ## Credits
 
-**Touched by the Veil** 🪦 — _A Booklet Storyset 📖 for Tableau Games_ was written & designed by [Christopher Allen](mailto:ChristopherA@DyversHands.com).
+_**Tableau** Core ꩜ Rules (Tableau Booklet 📖_ format)_ was written & designed by [Christopher Allen](mailto:ChristopherA@DyversHands.com).
 
 ©2023 by Dyvers Hands Productions, LLC. — All Rights Reserved (no license is granted for redistribution or derivation without permission). More info & image credits at DyversHands.com/Tableau.
 
 Tableau Games™ and Dyvers Hands™ are trademarks of Dyvers Hands Productions LLC.
 
-## Other Tableau Storysets
+## Tableau Storysets
+
+_**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
 {% include gallery id="gallery-storysets" %}
 
