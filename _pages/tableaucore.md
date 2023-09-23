@@ -44,7 +44,7 @@ _**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-S
 
 ![Tableau Core &#43612; Rules Cover Card](/assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg){: style="float:right; padding:16px"}
 
-**Ignite Your Creativity with **_Tableau Core_** ꩜!**
+### Ignite Your Creativity with **_Tableau Core_** ꩜!
 
 _“The best stories are the ones we tell together!”_
 
@@ -54,7 +54,7 @@ With _Tableau Core ꩜ Rules_, your group can conjure any story you desire—fr
 
 Define complex characters motivated by their past experiences and life bonds. Bring these characters to life through cinematic scenes brimming with vivid details. Guide their dramatic and emotional journeys toward a satisfying climax. And embrace memorable stories filled with laughter, tears, and celebration.
 
-**Using **_Tableau Core_** ꩜ **_Rules_
+### Using **_Tableau Core_** ꩜ **_Rules_
 
 These _Core ꩜ Rules_ distill the process of telling a story together down to a few key procedures, including: how to make choices about what story elements to include; how to cast your leads; how to introduce them with truths and open questions written on index cards; how to direct and frame scenes; and the central story mechanics of character moves and drama. Safety rules with guidelines for respectful play are also included.
 
@@ -64,24 +64,24 @@ With new _[Booklet Storysets 📖_](https://itch.io/physical-games/tag-storyset
 
 Pay what you want to light this spark. Gather some index cards, some tokens, and optionally one dice, and you're ready to collaboratively tell stories. Then watch the flames of imagination spread as you and your friends craft an unforgettable storytelling experience!
 
-**Contents**
+### Contents
 
 By paring down the most essential rules of _Tableau_ into an abbreviated format, these_ Core ꩜ Rules_ simplify the learning process for new players. These _Booklets 📖_ are all you require to start crafting cooperative narratives. They include:
 
-  * ******About Tableau **\- An overview of the game and its storytelling goals
-  * ******Core Rules** \- Blueprints for collaborative storytelling
-  * ******Core Narrative Rules** \- Scaffolding to build your story on
-  * ******Core Casting Rules **\- Guidance for casting compelling characters
-  * ******Core Drama Rules** \- Techniques to raise the narrative tension
-  * ******Core Safety Rules** \- Methods to foster a safe and inclusive experience
-  * ******The Director** \- A key Player Role for shaping scenes
-  * ******Sample Genre Beats** \- Templates for pivotal events to pace your tale
+  * ***About Tableau **\- An overview of the game and its storytelling goals
+  * ***Core Rules** \- Blueprints for collaborative storytelling
+  * ***Core Narrative Rules** \- Scaffolding to build your story on
+  * ***Core Casting Rules **\- Guidance for casting compelling characters
+  * ***Core Drama Rules** \- Techniques to raise the narrative tension
+  * ***Core Safety Rules** \- Methods to foster a safe and inclusive experience
+  * ***The Director** \- A key Player Role for shaping scenes
+  * ***Sample Genre Beats** \- Templates for pivotal events to pace your tale
 
 With just these **Tableau**_ Core ꩜ Rules_, you have everything needed to start telling stories! To take your adventures further, **Tableau's ** _[Booklet Storyset 📖_](https://itch.io/physical-games/tag-storyset) supplements and _Playsets 🎞️_ offer a treasure trove of detailed settings, evocative themes, fascinating characters, and much more.
 
 The storytelling possibilities are endless. And it all begins by printing the pages, making a few folds, and watching imagination come alive in your hands.
 
-**Tableau Booklets **
+### Tableau Booklets
 
 Instead of poker-sized cards, this version of the_ Tableau Core ꩜ Rules_ comes in 8 folded _Booklets 📖_ designed for convenience and affordability.  This compact format simplifies setup and portability. Print at home, gather some friends, and you're ready for spontaneous storytelling.  Its compact size also makes it great for travel and conventions. 
 
