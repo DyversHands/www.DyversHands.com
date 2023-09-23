@@ -66,13 +66,13 @@ Safety rules with guidelines for respectful play are also included.
 
 We also offer a wide range of _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_, each curated to inspire your sessions with the additional ingredients for your stories! Additionally, _Tableau Core ꩜ Rules_** **are easily adaptable for use with story elements and characters brought in from _[‘belonging outside belonging‘](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames.
 
-With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness"_ [on the way](https://www.dyvershands.com/Subscribe), there's always more storytelling excitement to explore. It all starts with _**Tableau's**_ vital spark. Let _**Tableau**_ Core ꩜ Rules_ ignite your creativity tonight!
+With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness"_ [on the way](https://www.dyvershands.com/Subscribe), there's always more storytelling excitement to explore. It all starts with _**Tableau's**_ vital spark. Let _**Tableau**_Core ꩜ Rules_ ignite your creativity tonight!
 
 Pay what you want to light this spark. Gather some index cards, some tokens, and optionally one dice, and you're ready to collaboratively tell stories. Then watch the flames of imagination spread as you and your friends craft an unforgettable storytelling experience!
 
 ## Contents
 
-By paring down the most essential rules of _Tableau_ into an abbreviated format, these_ Core ꩜ Rules_ simplify the learning process for new players. These _Booklets 📖_ are all you require to start crafting cooperative narratives. They include:
+By paring down the most essential rules of _Tableau_ into an abbreviated format, these_Core ꩜ Rules_ simplify the learning process for new players. These _Booklets 📖_ are all you require to start crafting cooperative narratives. They include:
 
   * **About Tableau **\- An overview of the game and its storytelling goals
   * **Core Rules** \- Blueprints for collaborative storytelling
@@ -83,11 +83,11 @@ By paring down the most essential rules of _Tableau_ into an abbreviated format
   * **The Director** \- A key Player Role for shaping scenes
   * **Sample Genre Beats** \- Templates for pivotal events to pace your tale
 
-With just these _**Tableau**_ Core ꩜ Rules_, you have everything needed to start telling stories! To take your adventures further, **Tableau's** _[Booklet Storyset 📖](https://itch.io/physical-games/tag-storyset)_ supplements and _Playsets 🎞️_ offer a treasure trove of detailed settings, evocative themes, fascinating characters, and much more.
+With just these _**Tableau**_Core ꩜ Rules_, you have everything needed to start telling stories! To take your adventures further, **Tableau's** _[Booklet Storyset 📖](https://itch.io/physical-games/tag-storyset)_ supplements and _Playsets 🎞️_ offer a treasure trove of detailed settings, evocative themes, fascinating characters, and much more.
 
 The storytelling possibilities are endless. And it all begins by printing the pages, making a few folds, and watching imagination come alive in your hands.
 
-### Tableau Booklets
+## Tableau Booklets
 
 Instead of poker-sized cards, this version of the _Tableau Core ꩜ Rules_ comes in 8 folded _Booklets 📖_ designed for convenience and affordability.  This compact format simplifies setup and portability. Print at home, gather some friends, and you're ready for spontaneous storytelling.  Its compact size also makes it great for travel and conventions. 
 
@@ -99,11 +99,11 @@ Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper
 
 {% include feature_row id="this_storyset" type="left" %}
 
-## Tableau _Storyset 📖 Booklets_
+## Tableau _Storyset&nbsp;📖 Booklets_
 
-_**Tableau**_ _Booklet Storysets_&nbsp;_📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll require a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets 📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+_**Tableau**_ _Booklet Storysets&nbsp;📖_ ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll require a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets&nbsp;📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
-_Storysets 📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storyset 📖_​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:right; padding:16px"}
+_Storysets&nbsp;📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storyset&nbsp;📖_​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:right; padding:16px"}
 
 **Assembly**: Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page‘s end. Refold as per image. Ensure cover is on front. Tighten creases.
 
