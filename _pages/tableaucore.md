@@ -95,7 +95,7 @@ Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper
 
 **Assembly:** Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page’s end. Refold as per image. Ensure cover is on front. Tighten creases.
 
-[![How to Assemble a Tableau Booklet \[youtube\]](https://img.youtube.com/vi/n5hpg7hOXo4/mqdefault.jpg)](https://youtu.be/n5hpg7hOXo4)![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:left; padding:16px"}
+![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png)[![How to Assemble a Tableau Booklet \[youtube\]](https://img.youtube.com/vi/n5hpg7hOXo4/mqdefault.jpg)](https://youtu.be/n5hpg7hOXo4){: style="float:left; padding:16px"}
 
 ## Available from… 
 
