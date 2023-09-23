@@ -66,7 +66,7 @@ Safety rules with guidelines for respectful play are also included.
 
 We also offer a wide range of _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_, each curated to inspire your sessions with the additional ingredients for your stories! Additionally, _Tableau Core ꩜ Rules_** **are easily adaptable for use with story elements and characters brought in from _[‘belonging outside belonging‘](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames.
 
-With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and additional _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness"_ on the way, there's always more storytelling excitement to explore. It all starts with _**Tableau's**_ vital spark. Let _**Tableau**__ Core ꩜ Rules_ ignite your creativity tonight!
+With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness"_ [on the way](https://www.dyvershands.com/Subscribe), there's always more storytelling excitement to explore. It all starts with _**Tableau's**_ vital spark. Let _**Tableau**_ Core ꩜ Rules_ ignite your creativity tonight!
 
 Pay what you want to light this spark. Gather some index cards, some tokens, and optionally one dice, and you're ready to collaboratively tell stories. Then watch the flames of imagination spread as you and your friends craft an unforgettable storytelling experience!
 
