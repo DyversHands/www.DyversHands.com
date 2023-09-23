@@ -97,7 +97,7 @@ Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper
 
 ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png)[![How to Assemble a Tableau Booklet \[youtube\]](https://img.youtube.com/vi/n5hpg7hOXo4/hqdefault.jpg)](https://youtu.be/n5hpg7hOXo4){: style="float:left; padding:16px"}
 
-<p\>
+<p></p>
 
 ## Available from… 
 
