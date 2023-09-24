@@ -38,10 +38,7 @@ gallery-storysets:
     alt: "Trials of Tenacity &#127869; Storyset Cover"
 ---
 
-{% include tablau_news.md %}
-
-_**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets, including **Twilight Road** 🛣, are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
-{: .notice--info}
+{% include tableau_news.md %}
 
 ![Courtly Shadows &#128214; Storyset Cover](/assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg){: style="float:right; padding:16px"}
 

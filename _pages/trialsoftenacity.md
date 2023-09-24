@@ -41,8 +41,7 @@ gallery-storysets:
 
 ---
 
-_**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets, including **Twilight Road** 🛣, are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
-{: .notice--info}
+{% include tableau_news.md %}
 
 ![Trials of Tenacity &#127869; Storyset Cover](/assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg){: style="float:right; padding:16px"}
 

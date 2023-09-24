@@ -40,8 +40,7 @@ gallery:
     alt: "Tableau Improv &#127914; Playset Cover Card"
 
 ---
-_**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets, including **Gate Watch** 🚪, are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
-{: .notice--info}
+_{% include tableau_news.md %}
 
 **Gate Watch 2019:** if you are looking for the older version of Gate Watch, from Kickstarter 2019 with 18 cards, there are details about that game in our [archive](/GateWatch2019).
 {: .notice--warning}
