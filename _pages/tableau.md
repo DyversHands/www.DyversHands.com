@@ -22,6 +22,17 @@ redirect_from:
   - /tableauGames/
   - /tableauGames
   - /games/tableau/
+tableau_core_rules:
+  - image_path: tableau_core_rules_booklet_cover_375_298.jpg
+    alt: "Tableau Core &#43612; Rules Cover Card"
+    title: "Tableau Core &#43612; Rules"
+    excerpt: "Ignite your storytelling journey with Tableau Core ꩜ Rules in 'Print-N-Fold' Booklet. Pared down to the essential rules for  storytelling, this 'pay what you want' guide ignites your creative adventures instantly. Download and let Tableau spark your creative passions today!"
+    url: /games/tableau/TableauCore
+    btn_label: "Read More…"
+    btn_class: "btn--inverse"
+    url2: https://dyvershands.itch.io/TableauCore
+    btn_label2: "Download from itch.io"
+    btn_class2: "btn--success"
 tableau_playsets:
   - image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
     alt: "Twilight Road Playset Cover Card"
@@ -117,6 +128,8 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 {% include video id="eWMsySbdm_0" provider="youtube" %}
 
+{% include feature_row id="tableau_core_rules" %}
+
 ## Tableau Playsets
 
 ***Tableau Playsets*** offer a curated set of rules and story elements, each within a specific framework of genre, themes, and tropes, for a unique storytelling experience. Instead of sifting through numerous rules and story elements, ***Playsets*** provide a cohesive collections for a focused narrative. Each ***Playset*** includes everything you need to play except for your own index cards, markers and sheets of paper, and optionally one six-sided dice. They may be mixed & matched with each other and with future ***Tableau Games***.
@@ -125,7 +138,7 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 ## Tableau Storysets
 
-_**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll need the _Tableau Core Rules_&nbsp;📜 from a _Playset_&nbsp;🎞️ or from the _Tableau Core Booklets_&nbsp;📖 to play. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+_**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll need the _Tableau Core Rules_&nbsp;📜 from a _Playset_&nbsp;🎞️ or from the _Tableau Core Booklets_&nbsp;📖 to play. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
 {% include feature_row id="tableau_storysets" %}
 
