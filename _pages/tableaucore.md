@@ -104,7 +104,7 @@ Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper
 
 Once you have the _**Tableau** Core Rules_, you will find our _Booklet Storysets_&nbsp;📖 supplements useful. They add additional rules and _Story Elements_ for **Tableau**_ stories. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
-_Storysets&nbsp;📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play. To utilize a _Storyset&nbsp;📖_​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_.
+_Storysets&nbsp;📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play. To use a _Storyset&nbsp;📖_, simply​ unfold the _Booklet_ to the desired _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ to assume control that _Element_ just like they would a card featuring that _Story 📖 Element_.
 
 {% include gallery id="gallery-storysets" %}
 
