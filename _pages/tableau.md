@@ -129,7 +129,7 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 Ignite your storytelling journey with the _**Tableau Core** ꩜ Rules_ available in multiple formats. Pared down to the essential rules for storytelling, they are a guide to fuel your adventures. Download and let _**Tableau**_ spark your creative passions today!
 
-{% include feature_row id="tableau_core_rules" %}
+{% include feature_row id="tableau_core_rules" type="left" %}
 
 ## _**Tableau** Playsets&nbsp;_🎞️
 
