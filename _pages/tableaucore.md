@@ -100,7 +100,7 @@ Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper
 
 {% include feature_row id="this_storyset" type="left" %}
 
-## Also try our _**Tableau Storyset Booklets&nbsp;📖_
+## Also try our _**Tableau** Storyset Booklets&nbsp;📖_
 
 Once you have the _**Tableau** Core Rules_, you will find our _Booklet Storysets_&nbsp;📖_ supplements useful. They add additional rules and _Story Elements_ for **Tableau**_ stories. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
