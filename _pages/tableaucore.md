@@ -93,11 +93,11 @@ Instead of poker-sized cards, this version of the _Tableau Core ꩜ Rules_ com
 
 Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper. Print the pages, make a few origami-inspired folds, and you have _Tableau Core ꩜ Rules_ in the palm of your hand!  This _Tableau Booklet 📖_ format makes setup fast and hassle-free.
 
-**Assembly:** Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page’s end. Refold as per image. Ensure cover is on front. Tighten creases.
-
-![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png)[![How to Assemble a Tableau Booklet \[youtube\]](https://img.youtube.com/vi/n5hpg7hOXo4/hqdefault.jpg)](https://youtu.be/n5hpg7hOXo4)
+**Assembly:** Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page’s end. Refold as per image. Ensure cover is on front. Tighten creases. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:right; padding:16px; " }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5hpg7hOXo4?si=SbSiH2Aw2jvaGUWl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!--[![How to Assemble a Tableau Booklet \[youtube\]](https://img.youtube.com/vi/n5hpg7hOXo4/hqdefault.jpg)](https://youtu.be/n5hpg7hOXo4) -->
 
 ## Available from… 
 
