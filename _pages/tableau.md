@@ -1,6 +1,8 @@
 ---
+title: Tableau
+subtitle: Collaborative Cinematic Storytelling
+hide_description: true
 author: DyversHands
-title: Tableau Games
 summary: The Kickstarter campaign for our first two Tableau playsets concluded April 17th and is fully funded! For more details and our roadmap for delivery.
 image: /assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg
 cover: false
@@ -9,9 +11,6 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/games/tableau/twilightroad/twilight_road_banner_1280_360.jpg
   # og_image: assets/images/games/tableau/twilightroad/twilight_road_card.jpg
-title: Tableau
-subtitle: Collaborative Cinematic Storytelling
-hide_description: true
 classes:
   - wide
 permalink: /games/Tableau/
