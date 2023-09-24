@@ -49,7 +49,7 @@ _“The best stories are the ones we tell together!”_
 
 Great tales are like wildfires—all they need is a spark to spread creative passion. _**Tableau**_ _Core ꩜ Rules_ provides that vital spark in this easy printable _Booklet&nbsp;📖_ format. With just these essential rules, you and your friends can craft immersive stories in a single evening.
 
-With _Tableau Core ꩜ Rules_, your group can conjure any story you desire—from high fantasy kingdoms and gritty detective noir to intense stories of characters dealing with life changes and their relationships. The story possibilities are endless!
+With _**Tableau** Core&nbsp;꩜ Rules_, your group can conjure any story you desire—from high fantasy kingdoms and gritty detective noir to intense stories of characters dealing with life changes and their relationships. The story possibilities are endless!
 
 Define complex characters motivated by their past experiences and life bonds. Bring these characters to life through cinematic scenes brimming with vivid details. Guide their dramatic and emotional journeys toward a satisfying climax. And embrace memorable stories filled with laughter, tears, and celebration.
 
@@ -63,7 +63,7 @@ These _Core ꩜ Rules_ distill the process of telling a story together down to�
 
 Safety rules with guidelines for respectful play are also included.
 
-We also offer a wide range of _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_, each curated to inspire your sessions with the additional ingredients for your stories! Additionally, _Tableau Core ꩜ Rules_** **are easily adaptable for use with story elements and characters brought in from _[‘belonging outside belonging‘](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames.
+We also offer a wide range of _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_, each curated to inspire your sessions with the additional ingredients for your stories! Additionally, _**Tableau** Core&nbsp;꩜ Rules_** **are easily adaptable for use with story elements and characters brought in from _[‘belonging outside belonging‘](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames.
 
 With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness"_ [on the way](https://www.dyvershands.com/Subscribe), there's always more storytelling excitement to explore. It all starts with _**Tableau's**_ vital spark. Let _**Tableau** Core ꩜ Rules_ ignite your creativity tonight!
 
@@ -88,7 +88,7 @@ The storytelling possibilities are endless. And it all begins by printing the pa
 
 ## Tableau Booklets
 
-Instead of poker-sized cards, this version of the _Tableau Core ꩜ Rules_ comes in 8 folded _Booklets 📖_ designed for convenience and affordability.  This compact format simplifies setup and portability. Print at home, gather some friends, and you're ready for spontaneous storytelling.  Its compact size also makes it great for travel and conventions. 
+Instead of poker-sized cards, this version of the _**Tableau** Core&nbsp;꩜ Rules_ comes in 8 folded _Booklets 📖_ designed for convenience and affordability.  This compact format simplifies setup and portability. Print at home, gather some friends, and you're ready for spontaneous storytelling.  Its compact size also makes it great for travel and conventions. 
 
 Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper. Print the pages, make a few origami-inspired folds, and you have _Tableau Core ꩜ Rules_ in the palm of your hand!  This _Tableau Booklet 📖_ format makes setup fast and hassle-free. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_256_200.png){: style="float:right; padding:16px; " }
 
@@ -98,11 +98,11 @@ Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper
 
 ## Available from… 
 
-{% include feature_row id="this_storyset" %}
+{% include feature_row id="this_storyset" type="left" %}
 
 ## Tableau _Storyset Booklets&nbsp;📖_
 
-_**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+Once you have the _**Tableau**_ Core Rules_, you will find our _**Tableau**_ _Booklet Storysets_&nbsp;📖 _ supplements usefulfor **Tableau**_ stories, to add additional rules and _Story Elements_. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
 _Storysets&nbsp;📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play. To utilize a _Storyset&nbsp;📖_​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_.
 
