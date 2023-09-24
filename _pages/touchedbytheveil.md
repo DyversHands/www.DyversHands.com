@@ -74,7 +74,9 @@ _**Tableau**_ _Booklet Storysets_&nbsp;_📖 ​supplement _**Tableau**_ stories
 
 _Storysets 📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storyset 📖_​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:right; padding:16px"}
 
-**Assembly**: Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page‘s end. Refold as per image. Ensure cover is on front. Tighten creases.
+**Assembly:** Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page’s end. Refold as per image. Ensure cover is on front. Tighten creases.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n5hpg7hOXo4?si=SbSiH2Aw2jvaGUWl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Credits
 
