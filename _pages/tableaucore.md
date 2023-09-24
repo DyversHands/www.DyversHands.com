@@ -91,7 +91,7 @@ The storytelling possibilities are endless. And it all begins by printing the pa
 
 Instead of poker-sized cards, this version of the _Tableau Core ꩜ Rules_ comes in 8 folded _Booklets 📖_ designed for convenience and affordability.  This compact format simplifies setup and portability. Print at home, gather some friends, and you're ready for spontaneous storytelling.  Its compact size also makes it great for travel and conventions. 
 
-Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper. Print the pages, make a few origami-inspired folds, and you have _Tableau Core ꩜ Rules_ in the palm of your hand!  This _Tableau Booklet 📖_ format makes setup fast and hassle-free. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:right; padding:16px; " }
+Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper. Print the pages, make a few origami-inspired folds, and you have _Tableau Core ꩜ Rules_ in the palm of your hand!  This _Tableau Booklet 📖_ format makes setup fast and hassle-free. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_256_200.png){: style="float:right; padding:16px; " }
 
 **Assembly:** Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page’s end. Refold as per image. Ensure cover is on front. Tighten creases.
 
@@ -103,7 +103,7 @@ Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper
 
 {% include feature_row id="this_storyset" type="left" %}
 
-## Tableau _Storyset&nbsp;📖 Booklets_
+## Tableau _Storyset Booklets&nbsp;📖_
 
 _**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
