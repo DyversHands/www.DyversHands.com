@@ -24,7 +24,6 @@ redirect_from:
 tableau_core_rules:
   - image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
     alt: "Tableau Core &#43612; Rules Cover Card"
-    title: "Tableau Core &#43612; Rules"
     url: /games/Tableau/TableauCore
     btn_label: "Read More…"
     btn_class: "btn--inverse"
