@@ -23,9 +23,8 @@ redirect_from:
   - /games/tableau/
 tableau_core_rules:
   - image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
-    excerpt: "8-page PDF in ‘Print-N-Fold’ **Tableau Booklet**&nbsp;&#128214; format, available from itch.io: "
-    title: "Tableau Core &#43612; Rules"
     alt: "Tableau Core &#43612; Rules Cover Card"
+    excerpt: "8-page PDF in ‘Print-N-Fold’ **Tableau Booklet**&nbsp;&#128214; format, available from itch.io: "
     url: /games/Tableau/TableauCore
     btn_label: "Read More…"
     btn_class: "btn--inverse"
@@ -128,15 +127,15 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 ## _**Tableau** Core Rules_
 
-Ignite your storytelling journey with the _**Tableau Core** ꩜ Rules_ available in multiple formats. Pared down to the essential rules for storytelling, they are a guide to fuel your adventures. Download and let _**Tableau**__ spark your creative passions today!
+Ignite your storytelling journey with the _**Tableau Core** ꩜ Rules_ available in multiple formats. Pared down to the essential rules for storytelling, they are a guide to fuel your adventures. Download and let _**Tableau**_ spark your creative passions today!
 
-{% include feature_row id="tableau_core_rules" type="left" %}
+{% include feature_row id="this_storyset" %}
 
 ## _**Tableau** Playsets&nbsp;_🎞️
 
 ***Tableau Playsets*** offer a curated set of rules and story elements, each within a specific framework of genre, themes, and tropes, for a unique storytelling experience. Instead of sifting through numerous rules and story elements, ***Playsets*** provide a cohesive collections for a focused narrative. Each ***Playset*** includes everything you need to play except for your own index cards, markers and sheets of paper, and optionally one six-sided dice. They may be mixed & matched with each other and with future ***Tableau Games***.
 
-{% include feature_row id="tableau_playsets" %}
+{% include feature_row id="tableau_core_rules" %}
 
 ## _**Tableau** Storysets_&nbsp;📖
 
