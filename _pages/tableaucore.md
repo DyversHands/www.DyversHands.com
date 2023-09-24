@@ -47,7 +47,7 @@ gallery-storysets:
 
 _“The best stories are the ones we tell together!”_
 
-Great tales are like wildfires—all they need is a spark to spread creative passion. _**Tableau**_ _Core ꩜ Rules_ provides that vital spark in this easy printable _Booklet 📖_ format. With just these essential rules, you and your friends can craft immersive stories in a single evening.
+Great tales are like wildfires—all they need is a spark to spread creative passion. _**Tableau**_ _Core ꩜ Rules_ provides that vital spark in this easy printable _Booklet&nbsp;📖_ format. With just these essential rules, you and your friends can craft immersive stories in a single evening.
 
 With _Tableau Core ꩜ Rules_, your group can conjure any story you desire—from high fantasy kingdoms and gritty detective noir to intense stories of characters dealing with life changes and their relationships. The story possibilities are endless!
 
@@ -65,13 +65,13 @@ Safety rules with guidelines for respectful play are also included.
 
 We also offer a wide range of _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_, each curated to inspire your sessions with the additional ingredients for your stories! Additionally, _Tableau Core ꩜ Rules_** **are easily adaptable for use with story elements and characters brought in from _[‘belonging outside belonging‘](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames.
 
-With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness"_ [on the way](https://www.dyvershands.com/Subscribe), there's always more storytelling excitement to explore. It all starts with _**Tableau's**_ vital spark. Let _**Tableau**_Core ꩜ Rules_ ignite your creativity tonight!
+With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness"_ [on the way](https://www.dyvershands.com/Subscribe), there's always more storytelling excitement to explore. It all starts with _**Tableau's**_ vital spark. Let _**Tableau** Core ꩜ Rules_ ignite your creativity tonight!
 
 Pay what you want to light this spark. Gather some index cards, some tokens, and optionally one dice, and you're ready to collaboratively tell stories. Then watch the flames of imagination spread as you and your friends craft an unforgettable storytelling experience!
 
 ## Contents
 
-By paring down the most essential rules of _Tableau_ into an abbreviated format, these_Core ꩜ Rules_ simplify the learning process for new players. These _Booklets 📖_ are all you require to start crafting cooperative narratives. They include:
+By paring down the most essential rules of _Tableau_ into an abbreviated format, these _Core ꩜ Rules_ simplify the learning process for new players. These _Booklets 📖_ are all you require to start crafting cooperative narratives. They include:
 
   * **About Tableau **\- An overview of the game and its storytelling goals
   * **Core Rules** \- Blueprints for collaborative storytelling
@@ -82,7 +82,7 @@ By paring down the most essential rules of _Tableau_ into an abbreviated format
   * **The Director** \- A key Player Role for shaping scenes
   * **Sample Genre Beats** \- Templates for pivotal events to pace your tale
 
-With just these _**Tableau**_Core ꩜ Rules_, you have everything needed to start telling stories! To take your adventures further, **Tableau's** _[Booklet Storyset 📖](https://itch.io/physical-games/tag-storyset)_ supplements and _Playsets 🎞️_ offer a treasure trove of detailed settings, evocative themes, fascinating characters, and much more.
+With just these _**Tableau** Core ꩜ Rules_, you have everything needed to start telling stories! To take your adventures further, **Tableau's** _[Booklet Storyset 📖](https://itch.io/physical-games/tag-storyset)_ supplements and _Playsets 🎞️_ offer a treasure trove of detailed settings, evocative themes, fascinating characters, and much more.
 
 The storytelling possibilities are endless. And it all begins by printing the pages, making a few folds, and watching imagination come alive in your hands.
 
@@ -98,13 +98,13 @@ Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper
 
 ## Available from… 
 
-{% include feature_row id="this_storyset" type="left" %}
+{% include feature_row id="this_storyset" %}
 
 ## Tableau _Storyset Booklets&nbsp;📖_
 
 _**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
-_Storysets&nbsp;📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storyset&nbsp;📖_​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_.
+_Storysets&nbsp;📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play. To utilize a _Storyset&nbsp;📖_​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_.
 
 {% include gallery id="gallery-storysets" %}
 
