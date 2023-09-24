@@ -23,13 +23,12 @@ redirect_from:
   - /games/tableau/
 tableau_core_rules:
   - image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
+    excerpt: "In ‘Print-N-Fold’ **Tableau Booklet**&nbsp;&#127869; format: "
     alt: "Tableau Core &#43612; Rules Cover Card"
-    url: /games/Tableau/TableauCore
-    btn_label: "Read More…"
-    btn_class: "btn--inverse"
-    url2: https://dyvershands.itch.io/TableauCore
-    btn_label2: "Download Now!"
-    btn_class2: "btn--success"
+    title: "Tableau Core &#43612; Rules"
+    url: https://dyvershands.itch.io/TableauCore
+    btn_label: "PDF from itch.io (&#8220;Name your Price&#8221;)"
+    btn_class: "btn--success"
 tableau_playsets:
   - image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
     alt: "Twilight Road Playset Cover Card"
