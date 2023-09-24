@@ -40,7 +40,7 @@ tableau_playsets:
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://www.drivethrucards.com/product/425525/Twilight-Road-A-Playset-for-Tableau-with-Tuckbox?src=dhwebsite
-    btn_label2: "Buy Now!"
+    btn_label2: "Buy Now! ($29.95)"
     btn_class2: "btn--success"
   - image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
     alt: "Gate Watch Playset Cover Card"
@@ -50,7 +50,7 @@ tableau_playsets:
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://www.drivethrucards.com/product/416166/Gate-Watch-A-Playset-for-Tableau-with-Tuckbox?src=dhwebsite
-    btn_label2: "Buy Now!"
+    btn_label2: "Buy Now! ($24.95)"
     btn_class2: "btn--success"
   - image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
@@ -60,7 +60,7 @@ tableau_playsets:
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://www.drivethrucards.com/product/433384/Tableau-Improv-Playset-with-Tuckbox?src=dhwebsite
-    btn_label2: "Buy Now!"
+    btn_label2: "Buy Now! ($15.95)"
     btn_class2: "btn--success"
 tableau_storysets:
   - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
@@ -71,7 +71,7 @@ tableau_storysets:
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://dyvershands.itch.io/courtlyshadows
-    btn_label2: "Buy on itch.io!"
+    btn_label2: "Buy on itch.io! ($1.95)"
     btn_class2: "btn--success"
   - image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
     alt: "Touched by the Veil &#129702; Storyset Cover"
@@ -81,7 +81,7 @@ tableau_storysets:
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://dyvershands.itch.io/touchedbytheveil
-    btn_label2: "Buy on itch.io!"
+    btn_label2: "Buy on itch.io! ($1.95)"
     btn_class2: "btn--success"
   - image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
     alt: "Trials of Tenacity &#127869; Storyset Cover"
@@ -91,7 +91,7 @@ tableau_storysets:
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://dyvershands.itch.io/trialsoftenacity
-    btn_label2: "Buy on itch.io!"
+    btn_label2: "Buy on itch.io! ($2.95)"
     btn_class2: "btn--success"
 gallery-storysets:
   - url: /games/Tableau/CourtlyShadows
@@ -127,7 +127,7 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 ## _**Tableau** Core Rules_
 
-Ignite your storytelling journey with the _**Tableau Core** ꩜ Rules_ available in multiple formats. Pared down to the essential rules for storytelling, they are a guide to fuel your adventures. Download and let _**Tableau**_ spark your creative passions today!
+Ignite your storytelling journey with the _**Tableau Core** ꩜ Rules_, available in multiple formats. Pared down to the essential rules for storytelling, they are a guide to fuel your adventures. Download and let _**Tableau**_ spark your creative passions today!
 
 {% include feature_row id="tableau_core_rules" type="left" %}
 
@@ -139,7 +139,7 @@ Ignite your storytelling journey with the _**Tableau Core** ꩜ Rules_ available
 
 ## _**Tableau** Storysets_&nbsp;📖
 
-_**Tableau**_ _Booklet Storysets&nbsp;📖 ​supplement_ _**Tableau**_ stories with additional rules and story _Elements_, but you'll need the _Tableau Core Rules_&nbsp;📜 from a _Playset_&nbsp;🎞️ or from the _Tableau Core Booklets_&nbsp;📖 to play. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+_**Tableau**_ _Booklet Storysets&nbsp;_📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll need the _Tableau Core Rules_&nbsp;📜 from a _Playset_&nbsp;🎞️ or from the _Tableau Core Booklets_&nbsp;📖 to play. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
 {% include feature_row id="tableau_storysets" %}
 
