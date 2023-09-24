@@ -29,8 +29,7 @@ gallery:
 
 ## ***Tableau Games:*** **Collaborative Cinematic Storytelling**
 
-_**Now Available:** After a [successful Kickstarter](/news/Tableau-Kickstarter-Success/) campaign, our first three Tableau playsets are now available to the public. For more details see [NEWS: Tableau Game System - Now Available to All Storytellers!](/news/Tableau-Now_Available_to_All/)._
-{: .notice--info}
+{% include tableau_news.md %}
 
 ![Tableau Logo](/assets/images/logos/Tableau_Games_portrait_white_spot_rgb_on_black_190_190.png){: style="float:right; padding:16px;" }
 
