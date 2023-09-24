@@ -23,7 +23,7 @@ redirect_from:
   - /games/tableau/
 tableau_core_rules:
   - image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
-    excerpt: "PDF in **Tableau Booklet**&nbsp;&#127869; ‘Print-N-Fold’ format, from itch.io: "
+    excerpt: "8-page PDF in **Tableau Booklet**&nbsp;&#127869; ‘Print-N-Fold’ format, available from itch.io: "
     title: "Tableau Core &#43612; Rules"
     alt: "Tableau Core &#43612; Rules Cover Card"
     url: /games/Tableau/TableauCore
@@ -128,7 +128,7 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 ## Tableau Core Rules
 
-Ignite your storytelling journey with the _**Tableau Core** ꩜ Rules_ in a 'Print-N-Fold' easy to ‘Print-N-Fold’ _Booklet 📖_. Pared down to the essential rules for storytelling, this 'Pay What You Want' is a guide to fuel your adventures. Download and let _**Tableau*__ spark your creative passions today!
+Ignite your storytelling journey with the _**Tableau Core** ꩜ Rules_ available in multiple formats. Pared down to the essential rules for storytelling, they are a guide to fuel your adventures. Download and let _**Tableau*__ spark your creative passions today!
 
 {% include feature_row id="tableau_core_rules" %}
 
