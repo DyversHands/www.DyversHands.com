@@ -90,7 +90,7 @@ The storytelling possibilities are endless. And it all begins by printing the pa
 
 Instead of poker-sized cards, this version of the _**Tableau** Core&nbsp;꩜ Rules_ comes in 8 folded _Booklets 📖_ designed for convenience and affordability.  This compact format simplifies setup and portability. Print at home, gather some friends, and you're ready for spontaneous storytelling.  Its compact size also makes it great for travel and conventions. 
 
-![8 Tableau Core Rules Booklets](assets/images/games/tableau/tableaucore/tableau_core_rules_booklets_1024-768.jpg)
+![8 Tableau Core Rules Booklets](/assets/images/games/tableau/tableaucore/tableau_core_rules_booklets_1024-768.jpg)
 
 Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper. Print the pages, make a few origami-inspired folds, and you have _Tableau Core ꩜ Rules_ in the palm of your hand!  This _Tableau Booklet 📖_ format makes setup fast and hassle-free. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_256_200.png){: style="float:right; padding:16px; " }
 
