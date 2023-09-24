@@ -25,12 +25,11 @@ tableau_core_rules:
   - image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
     alt: "Tableau Core &#43612; Rules Cover Card"
     title: "Tableau Core &#43612; Rules"
-    excerpt: "Ignite your storytelling journey with Tableau Core ꩜ Rules in 'Print-N-Fold' Booklet. Pared down to the essential rules for  storytelling, this 'pay what you want' guide ignites your creative adventures instantly. Download and let Tableau spark your creative passions today!"
     url: /games/Tableau/TableauCore
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://dyvershands.itch.io/TableauCore
-    btn_label2: "PDF on itch.io (&#8220;Name your Price&#8221;)"
+    btn_label2: "Download Now!"
     btn_class2: "btn--success"
 tableau_playsets:
   - image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
@@ -128,6 +127,8 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 {% include video id="eWMsySbdm_0" provider="youtube" %}
 
 ## Tableau Core Rules
+
+Ignite your storytelling journey with Tableau Core ꩜ Rules in 'Print-N-Fold' Booklet. Pared down to the essential rules for  storytelling, this 'pay what you want' guide ignites your creative adventures instantly. Download and let Tableau spark your creative passions today!
 
 {% include feature_row id="tableau_core_rules" %}
 
