@@ -54,9 +54,15 @@ gallery-storysets:
 
 ### _**Tableau:**_ *Core Rules*, *Playsets*&nbsp;🎞️ and *Storysets*&nbsp;📖 Available*
 
+#### *Core Rules*
+
 {% include gallery id="gallery-rules" %}
 
+#### *Playsets*&nbsp;🎞️
+
 {% include gallery id="gallery-playsets" %}
+
+#### Storysets*&nbsp;📖
 
 {% include gallery id="gallery-storysets" %}
 
