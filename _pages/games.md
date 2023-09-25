@@ -22,22 +22,28 @@ gallery-playsets:
   - url: /games/Tableau/TwilightRoad
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
     alt: "Twilight Road&nbsp;&#128739;Playset&nbsp;&#127902; Cover Card"
+    title: "Twilight Road&nbsp;&#128739;Playset&nbsp;&#127902;"
   - url: /games/Tableau/GateWatch
     image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
     alt: "Gate Watch&nbsp;&#128682;Playset&nbsp;&#127902; Cover Card"
-  - url: /games/Tableau/Improv
+    title: "Gate Watch&nbsp;&#128682;Playset&nbsp;&#127902;"
+ - url: /games/Tableau/Improv
     image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
     alt: "Tableau Improv&nbsp;&#127914; Playset&nbsp;&#127902; Cover Card"
+    title: "Tableau Improv&nbsp;&#127914; Playset&nbsp;&#127902;"
 gallery-storysets:
   - url: /games/Tableau/CourtlyShadows
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
     alt: "Courtly Shadows&nbsp;&#128081; Storyset&nbsp;&#128214; Cover"
+    title: "Courtly Shadows&nbsp;&#128081; Storyset&nbsp;&#128214;"
   - url: /games/Tableau/TouchedByTheVeil
     image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
     alt: "Touched by the Veil&nbsp;&#129702; Storyset&nbsp;&#128214; Cover"
+    title: "Touched by the Veil&nbsp;&#129702; Storyset&nbsp;&#128214;"
   - url: /games/Tableau/TrialsOfTenacity
     image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
     alt: "Trials of Tenacity&nbsp;&#127869; Storyset&nbsp;&#128214; Cover"
+    title: "Trials of Tenacity&nbsp;&#127869; Storyset&nbsp;&#128214;"
 ---
 
 # CURRENT GAMES
@@ -52,7 +58,7 @@ gallery-storysets:
 
 [Read More about ***Tableau Games***…](/Tableau){: .btn .btn--inverse}
 
-### _**Tableau:**_ *Core Rules*, *Playsets*&nbsp;🎞️ and *Storysets*&nbsp;📖 Available
+### Available Now!
 
 *Core Rules&nbsp;📜*:
 
@@ -62,7 +68,7 @@ gallery-storysets:
 
 {% include gallery id="gallery-playsets" %}
 
-Storysets*&nbsp;📖:
+*Storysets*&nbsp;📖:
 
 {% include gallery id="gallery-storysets" %}
 
