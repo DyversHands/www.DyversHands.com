@@ -22,77 +22,78 @@ redirect_from:
   - /tableauGames
   - /games/tableau/
 tableau_core_rules:
-  - image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
+  - url: /games/Tableau/TableauCore
+    image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
     alt: "Tableau Core &#43612; Rules Cover Card"
+    title: "Tableau Core &#43612; Rules"
     excerpt: "8-page PDF in ‘Print-N-Fold’ **Tableau Booklet**&nbsp;&#128214; format, available from itch.io: "
-    url: /games/Tableau/TableauCore
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://dyvershands.itch.io/TableauCore
     btn_label2: "Get Now! (&#8220;Name your Price&#8221;)"
     btn_class2: "btn--success"
 tableau_playsets:
-  - image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
-    alt: "Twilight Road Playset Cover Card"
-    title: "Twilight Road &#128739;"
-    excerpt: "You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed. These are the stories of the ***Twilight Road***. Every game session is different, every road, every journey is unique."
-    url: /TwilightRoad
+  - url: /games/Tableau/TwilightRoad
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://www.drivethrucards.com/product/425525/Twilight-Road-A-Playset-for-Tableau-with-Tuckbox?src=dhwebsite
     btn_label2: "Buy Now! ($29.95)"
     btn_class2: "btn--success"
-  - image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
-    alt: "Gate Watch Playset Cover Card"
-    title: "Gate Watch &#128682;"
-    excerpt: "You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the *Enigma* that is *The Gate*. Every game session is different, every world, every gate unique."
-    url: /GateWatch
+    image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
+    alt: "Twilight Road Playset Cover Card"
+    title: "Twilight Road &#128739;"
+    excerpt: "You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed. These are the stories of the ***Twilight Road***. Every game session is different, every road, every journey is unique."
+  - url: /games/Tableau/GateWatch
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://www.drivethrucards.com/product/416166/Gate-Watch-A-Playset-for-Tableau-with-Tuckbox?src=dhwebsite
     btn_label2: "Buy Now! ($24.95)"
     btn_class2: "btn--success"
-  - image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
-    alt: "Tableau Improv Playset Cover Card"
-    title: "Improv &#127914;"
-    excerpt: "Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, script workshopping and creative writing."
-    url: /Improv
+    image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
+    alt: "Gate Watch Playset Cover Card"
+    title: "Gate Watch &#128682;"
+    excerpt: "You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the *Enigma* that is *The Gate*. Every game session is different, every world, every gate unique."
+  - url: /games/Tableau/Improv
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://www.drivethrucards.com/product/433384/Tableau-Improv-Playset-with-Tuckbox?src=dhwebsite
     btn_label2: "Buy Now! ($15.95)"
     btn_class2: "btn--success"
+    image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
+    alt: "Tableau Improv Playset Cover Card"
+    title: "Improv &#127914;"
+    excerpt: "Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, script workshopping and creative writing."
 tableau_storysets:
-  - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
-    alt: "Courtly Shadows Storyset Cover"
-    title: "Courtly Shadows&nbsp;&#128081;"
-    excerpt: "In ***Courtly Shadows***&nbsp;&#128081; where honor meets deception, whispered secrets, and hidden agendas. A two-page ***Booklet Storyset***&nbsp;&#128214; supplement for ***Tableau* Games** to accentuate tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
-    url: /games/Tableau/CourtlyShadows
+  - url: /games/Tableau/CourtlyShadows
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://dyvershands.itch.io/courtlyshadows
     btn_label2: "Buy on itch.io! ($1.95)"
     btn_class2: "btn--success"
-  - image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
-    alt: "Touched by the Veil &#129702; Storyset Cover"
-    title: "Touched by the Veil&nbsp;&#129702;"
-    excerpt: "***Touched by the Veil***&nbsp;&#129702;, where the unsolved intertwines with the unseen, setting hearts racing and souls searching. A two-page ***Booklet Storyset***&nbsp;&#128214; supplement for ***Tableau* Games** enhances tales of the irresistible dance between the known and the unknown. Every choice is laden with suspense, passion becomes a binding chain, and shadows harbor mysteries unsolved. How will you weave through this elaborate labyrinth of intrigue and emotion?"
-    url: /games/Tableau/TouchedByTheVeil
+    image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
+    alt: "Courtly Shadows Storyset Cover"
+    title: "Courtly Shadows&nbsp;&#128081;"
+    excerpt: "In ***Courtly Shadows***&nbsp;&#128081; where honor meets deception, whispered secrets, and hidden agendas. A two-page ***Booklet Storyset***&nbsp;&#128214; supplement for ***Tableau* Games** to accentuate tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
+  - url: /games/Tableau/TouchedByTheVeil
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://dyvershands.itch.io/touchedbytheveil
     btn_label2: "Buy on itch.io! ($1.95)"
     btn_class2: "btn--success"
-  - image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
-    alt: "Trials of Tenacity &#127869; Storyset Cover"
-    title: "Trials of Tenacity&nbsp;&#127869;"
-    excerpt: "Endure a world reshaped by calamity in ***Trials of Tenacity***&nbsp;&#127869; a three-page ***Booklet Storyset***&nbsp;&#128214; supplement for ***Tableau* Games**, where resilience battles against time's ravages, hope dances on the knife's edge, and tales of survival intertwine with legends reborn. What stories will you weave from the remnants of a world once lost?"
-    url: /games/Tableau/TrialsOfTenacity
+    image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
+    alt: "Touched by the Veil &#129702; Storyset Cover"
+    title: "Touched by the Veil&nbsp;&#129702;"
+    excerpt: "***Touched by the Veil***&nbsp;&#129702;, where the unsolved intertwines with the unseen, setting hearts racing and souls searching. A two-page ***Booklet Storyset***&nbsp;&#128214; supplement for ***Tableau* Games** enhances tales of the irresistible dance between the known and the unknown. Every choice is laden with suspense, passion becomes a binding chain, and shadows harbor mysteries unsolved. How will you weave through this elaborate labyrinth of intrigue and emotion?"
+  - url: /games/Tableau/TrialsOfTenacity
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://dyvershands.itch.io/trialsoftenacity
     btn_label2: "Buy on itch.io! ($2.95)"
     btn_class2: "btn--success"
+    image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
+    alt: "Trials of Tenacity &#127869; Storyset Cover"
+    title: "Trials of Tenacity&nbsp;&#127869;"
+    excerpt: "Endure a world reshaped by calamity in ***Trials of Tenacity***&nbsp;&#127869; a three-page ***Booklet Storyset***&nbsp;&#128214; supplement for ***Tableau* Games**, where resilience battles against time's ravages, hope dances on the knife's edge, and tales of survival intertwine with legends reborn. What stories will you weave from the remnants of a world once lost?"
 gallery-storysets:
   - url: /games/Tableau/CourtlyShadows
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
