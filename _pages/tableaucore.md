@@ -22,10 +22,10 @@ this_storyset:
     alt: "Tableau Core &#43612; Rules Cover Card"
     title: "Tableau Core &#43612; Rules"
     url: https://dyvershands.itch.io/TableauCore
-    btn_label: "PDF on itch.io _(&#8216;Name your Price&#8217;)_"
+    btn_label: "PDF on itch.io (&#8220;Name your Price&#8221;)"
     btn_class: "btn--success"
     url2: https://www.drivethrurpg.com/product/454192/Tableau-Core-PrintNFold-edition?src=dhwebsite
-    btn_label2: "PDF on DTRPG _(&#8216;Pay What You Want&#8217;)_"
+    btn_label2: "PDF on DTRPG (&#8220;Pay What You Want&#8221;)"
     btn_class2: "btn--success"
 gallery-storysets:
   - url: /games/Tableau/CourtlyShadows
