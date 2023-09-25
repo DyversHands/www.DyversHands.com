@@ -52,17 +52,17 @@ gallery-storysets:
 
 [Read More about ***Tableau Games***…](/Tableau){: .btn .btn--inverse}
 
-### _**Tableau:**_ *Core Rules*, *Playsets*&nbsp;🎞️ and *Storysets*&nbsp;📖 Available*
+### _**Tableau:**_ *Core Rules*, *Playsets*&nbsp;🎞️ and *Storysets*&nbsp;📖 Available
 
-#### *Core Rules*
+*Core Rules&nbsp;📜*:
 
 {% include gallery id="gallery-rules" %}
 
-#### *Playsets*&nbsp;🎞️
+*Playsets*&nbsp;🎞️:
 
 {% include gallery id="gallery-playsets" %}
 
-#### Storysets*&nbsp;📖
+Storysets*&nbsp;📖:
 
 {% include gallery id="gallery-storysets" %}
 
