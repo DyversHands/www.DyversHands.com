@@ -60,15 +60,15 @@ gallery-storysets:
 
 ### Available Now!
 
-*Core Rules&nbsp;📜*:
+_**Core Rules**_&nbsp;📜 _(Booklets)_:
 
 {% include gallery id="gallery-rules" %}
 
-*Playsets*&nbsp;🎞️:
+_**Playsets**_&nbsp;🎞️ _(Cards)_:
 
 {% include gallery id="gallery-playsets" %}
 
-*Storysets*&nbsp;📖:
+_**Storysets**_&nbsp;📖 _(Booklets)_:
 
 {% include gallery id="gallery-storysets" %}
 
