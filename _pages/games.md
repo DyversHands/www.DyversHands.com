@@ -27,7 +27,7 @@ gallery-playsets:
     image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
     alt: "Gate Watch&nbsp;&#128682;Playset&nbsp;&#127902; Cover Card"
     title: "Gate Watch&nbsp;&#128682;Playset&nbsp;&#127902;"
- - url: /games/Tableau/Improv
+  - url: /games/Tableau/Improv
     image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
     alt: "Tableau Improv&nbsp;&#127914; Playset&nbsp;&#127902; Cover Card"
     title: "Tableau Improv&nbsp;&#127914; Playset&nbsp;&#127902;"
