@@ -13,16 +13,31 @@ hide_description: true
 permalink: /Games/
 redirect_from:
   - /games/
-gallery:
-  - url: /TwilightRoad
+gallery-rules:
+  - url: /games/Tableau/TableauCore
+    image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
+    alt: "Tableau Core &#43612; Rules Cover Card"
+    title: "Tableau Core &#43612; Rules"
+gallery-playsets:
+  - url: /games/Tableau/TwilightRoad
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
     alt: "Twilight Road Playset Cover Card"
-  - url: /GateWatch
+  - url: /games/Tableau/GateWatch
     image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
     alt: "Gate WatchPlayset Cover Card"
-  - url: /Improv
+  - url: /games/Tableau/Improv
     image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
     alt: "Tableau Improv Playset Cover Card"
+gallery-storysets:
+  - url: /games/Tableau/CourtlyShadows
+    image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
+    alt: "Courtly Shadows&nbsp;&#128081; Storyset Cover"
+  - url: /games/Tableau/TouchedByTheVeil
+    image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
+    alt: "Touched by the Veil&nbsp;&#129702; Storyset Cover"
+  - url: /games/Tableau/TrialsOfTenacity
+    image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
+    alt: "Trials of Tenacity&nbsp;&#127869; Storyset Cover"
 ---
 
 # CURRENT GAMES
@@ -37,9 +52,13 @@ gallery:
 
 [Read More about ***Tableau Games***…](/Tableau){: .btn .btn--inverse}
 
-### ***Tableau:*** *Playsets Available*
+### _**Tableau:**_ *Core Rules*, *Playsets*&nbsp;🎞️ and *Storysets*&nbsp;📖 Available*
 
-{% include gallery %}
+{% include gallery id="gallery-rules" %}
+
+{% include gallery id="gallery-playsets" %}
+
+{% include gallery id="gallery-storysets" %}
 
 ## OLDER GAMES
 
