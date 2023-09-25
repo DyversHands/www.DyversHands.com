@@ -24,9 +24,9 @@ this_storyset:
     url: https://dyvershands.itch.io/TableauCore
     btn_label: "PDF on itch.io (&#8220;Name your Price&#8221;)"
     btn_class: "btn--success"
-#  url2: https://www.drivethrucards.com/product/433380/Tableau-Improv-Playset-Just-the-Cards-Edition?src=dhwebsite
-#  btn_label2: "DriveThruCards"
-#  btn_class2: "btn--success"
+    url2: https://www.drivethrurpg.com/product/454192/Tableau-Core-PrintNFold-edition?src=dhwebsite
+    btn_label2: "DriveThruRPG (&#8220;Pay What You Want&#8221;)"
+    btn_class2: "btn--success"
 gallery-storysets:
   - url: /games/Tableau/CourtlyShadows
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
@@ -65,9 +65,9 @@ Safety rules with guidelines for respectful play are also included.
 
 We also offer a wide range of _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_, each curated to inspire your sessions with the additional ingredients for your stories! Additionally, _**Tableau** Core&nbsp;꩜ Rules_** **are easily adaptable for use with story elements and characters brought in from _[‘belonging outside belonging‘](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames.
 
-With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness"_ [on the way](https://www.dyvershands.com/Subscribe), there's always more storytelling excitement to explore. It all starts with _**Tableau's**_ vital spark. Let _**Tableau** Core ꩜ Rules_ ignite your creativity tonight!
+With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness"_ [on the way](https://www.dyvershands.com/Subscribe), there’s always more storytelling excitement to explore. It all starts with _**Tableau’s**_ vital spark. Let _**Tableau** Core ꩜ Rules_ ignite your creativity tonight!
 
-Pay what you want to light this spark. Gather some index cards, some tokens, and optionally one dice, and you're ready to collaboratively tell stories. Then watch the flames of imagination spread as you and your friends craft an unforgettable storytelling experience!
+Pay what you want to light this spark. Gather some index cards, some tokens, and optionally one dice, and you’re ready to collaboratively tell stories. Then watch the flames of imagination spread as you and your friends craft an unforgettable storytelling experience!
 
 ## Contents
 
@@ -82,13 +82,13 @@ By paring down the most essential rules of _Tableau_ into an abbreviated format
   * **The Director** \- A key Player Role for shaping scenes
   * **Sample Genre Beats** \- Templates for pivotal events to pace your tale
 
-With just these _**Tableau** Core ꩜ Rules_, you have everything needed to start telling stories! To take your adventures further, **Tableau's** _[Booklet Storyset 📖](https://itch.io/physical-games/tag-storyset)_ supplements and _Playsets 🎞️_ offer a treasure trove of detailed settings, evocative themes, fascinating characters, and much more.
+With just these _**Tableau** Core ꩜ Rules_, you have everything needed to start telling stories! To take your adventures further, **Tableau’s** _[Booklet Storyset 📖](https://itch.io/physical-games/tag-storyset)_ supplements and _Playsets 🎞️_ offer a treasure trove of detailed settings, evocative themes, fascinating characters, and much more.
 
 The storytelling possibilities are endless. And it all begins by printing the pages, making a few folds, and watching imagination come alive in your hands.
 
 ## Tableau Booklets
 
-Instead of poker-sized cards, this version of the _**Tableau** Core&nbsp;꩜ Rules_ comes in 8 folded _Booklets 📖_ designed for convenience and affordability.  This compact format simplifies setup and portability. Print at home, gather some friends, and you're ready for spontaneous storytelling.  Its compact size also makes it great for travel and conventions. 
+Instead of poker-sized cards, this version of the _**Tableau** Core&nbsp;꩜ Rules_ comes in 8 folded _Booklets 📖_ designed for convenience and affordability.  This compact format simplifies setup and portability. Print at home, gather some friends, and you’re ready for spontaneous storytelling.  Its compact size also makes it great for travel and conventions. 
 
 ![8 Tableau Core Rules Booklets](/assets/images/games/tableau/tableaucore/tableau_core_rules_booklets_1024-768.jpg)
 
@@ -106,7 +106,7 @@ Each rulebook page prints single-sided on a standard US Letter 8.5" x 11" paper
 
 Once you have the _**Tableau** Core Rules_, you will find our _Booklet Storysets_&nbsp;📖 supplements useful. They introduce additional rules and _Story Elements_ to enrich your _**Tableau**_ stories. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
-_Storysets&nbsp;📖_​ don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play. To use a _Storyset&nbsp;📖_, simply​ unfold the _Booklet_ to the desired _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ to assume control that _Element_ just like they would a card featuring that _Story 📖 Element_.
+_Storysets&nbsp;📖_​ don’t possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play. To use a _Storyset&nbsp;📖_, simply​ unfold the _Booklet_ to the desired _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ to assume control of that _Element_ just like they would a card featuring that _Story 📖 Element_.
 
 {% include gallery id="gallery-storysets" %}
 
@@ -120,4 +120,4 @@ Tableau Games™ and Dyvers Hands™ are trademarks of Dyvers Hands Productions 
 
 ### Mailing List
 
-To stay updated on the latest news, including announcements about future products and Kickstarter campaigns, sign up for our [Tableau Games Announcements Mailing List](/Subscribe). You'll be the first to know about exciting developments, promotions, and more.
+To stay updated on the latest news, including announcements about future products and Kickstarter campaigns, sign up for our [Tableau Games Announcements Mailing List](/Subscribe). You’ll be the first to know about exciting developments, promotions, and more.
