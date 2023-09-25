@@ -16,28 +16,28 @@ redirect_from:
 gallery-rules:
   - url: /games/Tableau/TableauCore
     image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
-    alt: "Tableau Core &#43612; Rules Cover Card"
-    title: "Tableau Core &#43612; Rules"
+    alt: "Tableau Core &#43612; Rules Booklet&nbsp;&#128214; Cover Card"
+    title: "Tableau Core &#43612; Rules Booklset&nbsp;&#128214;"
 gallery-playsets:
   - url: /games/Tableau/TwilightRoad
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
-    alt: "Twilight Road Playset Cover Card"
+    alt: "Twilight Road&nbsp;&#128739;Playset&nbsp;&#127902; Cover Card"
   - url: /games/Tableau/GateWatch
     image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
-    alt: "Gate WatchPlayset Cover Card"
+    alt: "Gate Watch&nbsp;&#128682;Playset&nbsp;&#127902; Cover Card"
   - url: /games/Tableau/Improv
     image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
-    alt: "Tableau Improv Playset Cover Card"
+    alt: "Tableau Improv&nbsp;&#127914; Playset&nbsp;&#127902; Cover Card"
 gallery-storysets:
   - url: /games/Tableau/CourtlyShadows
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
-    alt: "Courtly Shadows&nbsp;&#128081; Storyset Cover"
+    alt: "Courtly Shadows&nbsp;&#128081; Storyset&nbsp;&#128214; Cover"
   - url: /games/Tableau/TouchedByTheVeil
     image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
-    alt: "Touched by the Veil&nbsp;&#129702; Storyset Cover"
+    alt: "Touched by the Veil&nbsp;&#129702; Storyset&nbsp;&#128214; Cover"
   - url: /games/Tableau/TrialsOfTenacity
     image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
-    alt: "Trials of Tenacity&nbsp;&#127869; Storyset Cover"
+    alt: "Trials of Tenacity&nbsp;&#127869; Storyset&nbsp;&#128214; Cover"
 ---
 
 # CURRENT GAMES
