@@ -47,7 +47,7 @@ gallery-storysets:
 
 ![Tidal Secrets &#9875; Storyset Cover](/assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_cover_375_298.jpg){: style="float:right; padding:16px"}
 
-Dive into the abyss of _**Lovecraft Country:**_ **Tidal Secrets**&nbsp;⚓️ where ancient tales meld with the ocean’s roar, guiding the curious and ensnaring the unwary. A two-page _Booklet Storyset_&nbsp;📚 supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/) system available through DriveThruRPG & itch.io as Print'N'Play.
+Dive into the abyss of _**Lovecraft Country:**_ **Tidal Secrets**&nbsp;⚓️ where ancient tales meld with the ocean’s roar, guiding the curious and ensnaring the unwary. A two-page _Booklet Storyset_&nbsp;📚 supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/) system available through [DriveThruRPG](https://www.drivethrurpg.com/en/publisher/14163/dyvers-hands-productions) & [itch.io](https://dyvershands.itch.io) as Print'N'Play.
 
 Additionally, adaptable for use in other _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames to amplify narratives that blend seafaring lore, coastal enigmas, and the inexorable pull of the shadows of family history.
 
@@ -71,9 +71,9 @@ We hope this **Storyset**&nbsp;📚 inspires you to [signup](https://www.dyversh
 
 ## _Tableau_ Booklet Storysets&nbsp;📚
 
-_**Tableau**_ _Booklet Storysets_&nbsp;📚 ​supplement _**Tableau**_ stories with additional rules and story _Elements_&nbsp;☯, but you'll require a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets&nbsp;📚_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+_**Tableau**_ _Booklet Storysets_&nbsp;📚 ​supplement _**Tableau**_ stories with additional rules and story _Elements_&nbsp;☯, but you'll require a _Tableau Playset_ or the [_Tableau Core Rules_](https://www.dyvershands.com/games/Tableau/TableauCore) to play. _Storysets&nbsp;📚_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
-_Storysets_&nbsp;📚 don't possess the same flexibility as a _**Tableau**_ card-based _Playset&nbsp;🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storysets_&nbsp;📚​ just unfold the _Booklet_ to a particular _Story&nbsp;📖 Element_ page and have a storyteller _Take Up&nbsp;🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story&nbsp;📖 Element_. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375_292.png){: style="float:right; padding:16px"}
+_Storysets_&nbsp;📚 don't possess the same flexibility as a _**Tableau**_ card-based _Playset&nbsp;🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storysets_&nbsp;📚​ just unfold the _Booklet_ to a particular _Story&nbsp;📖 Element_ page and have a storyteller _Take Up&nbsp;🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story&nbsp;📖 Element_. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_256_200.png){: style="float:right; padding:16px"}
 
 **Assembly:** Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page’s end. Refold as per image. Ensure cover is on front. Tighten creases.
 
