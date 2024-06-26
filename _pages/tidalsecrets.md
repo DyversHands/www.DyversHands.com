@@ -65,7 +65,7 @@ In **Tidal Secrets** ⚓️, every decision ripples with the ocean's might, ever
 
 We hope this **Storyset* 📖 inspires you to [signup](https://www.dyvershands.com/Subscribe) for future _**Lovecraft Country**_ **Playsets** 🎞️ and **Storysets** 📖.
 
-![Lovecraft Country Classic Logo](/assets/images/games/tableau/lovecraftcountry/lovecraft_country_classic_logo_994_858.png "Lovecraft Country Classic Logo")
+![Lovecraft Country Classic Logo](/assets/images/games/tableau/lovecraftcountry/lovecraft_country_classic_logo_297_256.png "Lovecraft Country Classic Logo")
 
 ## Available from… 
 
