@@ -3,8 +3,8 @@ cover: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  # overlay_image: /assets/images/games/tableau/improv/improv_banner_1280_360.jpg
-  # og_image: /assets/images/improv/tableau-improv-card.jpg
+  overlay_image: /assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_banner_1280_360.jpg
+  #og_image: /assets/images/improv/tableau-improv-card.jpgti
 title: Tableau&#58; Tidal Secrets &#9875;
 hide_description: true
 classes:
@@ -13,9 +13,13 @@ permalink: /games/Tableau/TidalSecrets
 redirect_from:
   - /TidalSecrets
   - /tidalsecrets
+  - /Tableau/TidalSecrets
+  - /tableau/tidalsecrets
   - /games/TidalSecrets
   - /games/tidalsecrets
-this_storyset:
+  - /games/Tableau/TidalSecrets
+  - /games/tableau/tidalsecrets
+this_storyset:  
   - image_path: /assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_cover_630_500.jpg
     excerpt: "***Tableau:*** **Tidal** &#128081; **Secrets**  is available as a **Booklet Storyset** &#9875; from: "
     alt: "Improv Playset Cover Card"
