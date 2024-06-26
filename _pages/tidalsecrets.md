@@ -17,7 +17,6 @@ redirect_from:
   - /tableau/tidalsecrets
   - /games/TidalSecrets
   - /games/tidalsecrets
-  - /games/tableau/tidalsecrets
 this_storyset:  
   - image_path: /assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_cover_630_500.jpg
     excerpt: "***Tableau:*** **Tidal** &#128081; **Secrets**  is available as a **Booklet Storyset** &#9875; from: "
