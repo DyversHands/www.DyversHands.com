@@ -47,7 +47,7 @@ gallery-storysets:
 
 ![Tidal Secrets &#9875; Storyset Cover](/assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_cover_375_298.jpg){: style="float:right; padding:16px"}
 
-Dive into the abyss of _**Lovecraft Country:**_ **Tidal Secrets** ⚓️ where ancient tales meld with the ocean’s roar, guiding the curious and ensnaring the unwary. A two-page _Booklet Storyset_&nbsp;📖 supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/) system available through DriveThruRPG & itch.io as Print'N'Play.
+Dive into the abyss of _**Lovecraft Country:**_ **Tidal Secrets** ⚓️ where ancient tales meld with the ocean’s roar, guiding the curious and ensnaring the unwary. A two-page _Booklet Storyset_&nbsp;📚 supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/) system available through DriveThruRPG & itch.io as Print'N'Play.
 
 Additionally, adaptable for use in other _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames to accentuate tales of aristocracy, concealed motives, and duels of nobility.
 
@@ -61,7 +61,7 @@ Anchor your tales with these five maritimel _Story 📖 Elements_ in your storie
 
 In **Tidal Secrets** ⚓️, every decision ripples with the ocean's might, every bond can anchor or set free, and every legend might just reveal a truth waiting to surface. As the tide rises and falls on these stories, how will you navigate the waves of mystery and legacy?
 
-We hope this **Storyset* 📖 inspires you to [signup](https://www.dyvershands.com/Subscribe) for future _**Lovecraft Country**_ **Playsets** 🎞️ and **Storysets** 📖.
+We hope this **Storyset*&nbsp;📚 inspires you to [signup](https://www.dyvershands.com/Subscribe) for future _**Lovecraft Country**_ **Playsets** 🎞️ and **Storysets**&nbsp;📚.
 
 ![Lovecraft Country Classic Logo](/assets/images/games/tableau/lovecraftcountry/lovecraft_country_classic_logo_297_256.png "Lovecraft Country Classic Logo")
 
@@ -69,11 +69,11 @@ We hope this **Storyset* 📖 inspires you to [signup](https://www.dyvershands.c
 
 {% include feature_row id="this_storyset" type="left" %}
 
-## Tableau _Booklet Storysets_&nbsp;📖
+## Tableau _Booklet Storysets_&nbsp;📚
 
-_**Tableau**_ _Booklet Storysets_&nbsp;📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll require a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets 📖_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+_**Tableau**_ _Booklet Storysets_&nbsp;📚 ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll require a _Tableau Playset_ or the _Tableau Core Rules_ to play. _Storysets&nbsp;📚_​ also are easy to incorporate into most _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
 
-_Storysets_&nbsp;📖 don't possess the same flexibility as a _**Tableau**_ card-based _Playset 🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storysets_&nbsp;📖​ just unfold the _Booklet_ to a particular _Story 📖 Element_ page and have a storyteller _Take Up 🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story 📖 Element_. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:right; padding:16px"}
+_Storysets_&nbsp;📚 don't possess the same flexibility as a _**Tableau**_ card-based _Playset&nbsp;🎞_. Instead, they are designed for a similar style of play using small, card-sized _Booklets_ easily printed on _US Letter 8½''x11''_ paper. To utilize a _Storysets_&nbsp;📚​ just unfold the _Booklet_ to a particular _Story&nbsp;📖 Element_ page and have a storyteller _Take Up&nbsp;🫰_ that _Booklet_ for control that _Element_ just like they would a card with a _Story&nbsp;📖 Element_. ![Tableau Booklet Assembly Illustration](/assets/images/games/tableau/booklet_assembly_illustration_375 _292.png){: style="float:right; padding:16px"}
 
 **Assembly:** Print booklet, single-sided. Fold long way (11'') with text out, then unfold. Fold short way (8-½'') with text out, then unfold. Fold short sides ¼ and ¾ inward with text in. Cut center guide, stopping at the ¼ & ¾ folds—don’t cut to page’s end. Refold as per image. Ensure cover is on front. Tighten creases.
 
@@ -81,7 +81,7 @@ _Storysets_&nbsp;📖 don't possess the same flexibility as a _**Tableau**_ card
 
 ## Credits
 
-**Tidal Secrets 👑** — _A Booklet Storyset&nbsp;📖 for Tableau Games_ was written & designed by [Christopher Allen](mailto:ChristopherA@DyversHands.com).
+**Tidal Secrets 👑** — _A Booklet Storyset&nbsp;📚 for Tableau Games_ was written & designed by [Christopher Allen](mailto:ChristopherA@DyversHands.com).
 
 ©2023 by Dyvers Hands Productions, LLC. — All Rights Reserved (no license is granted for redistribution or derivation without permission). _Art “Castle Marrach” & “Queen Vivienne” by Stephanie Law._
 
