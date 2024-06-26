@@ -17,7 +17,6 @@ redirect_from:
   - /tableau/tidalsecrets
   - /games/TidalSecrets
   - /games/tidalsecrets
-  - /games/Tableau/TidalSecrets
   - /games/tableau/tidalsecrets
 this_storyset:  
   - image_path: /assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_cover_630_500.jpg
