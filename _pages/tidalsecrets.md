@@ -49,7 +49,7 @@ gallery-storysets:
 
 Dive into the abyss of _**Lovecraft Country:**_ **Tidal Secrets**&nbsp;⚓️ where ancient tales meld with the ocean’s roar, guiding the curious and ensnaring the unwary. A two-page _Booklet Storyset_&nbsp;📚 supplement for [***Tableau:*** _Collaborative Cinematic Storytelling_](https://www.dyvershands.com/games/Tableau/) system available through DriveThruRPG & itch.io as Print'N'Play.
 
-Additionally, adaptable for use in other _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames to accentuate tales of aristocracy, concealed motives, and duels of nobility.
+Additionally, adaptable for use in other _[Belonging Outside Belonging](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames to amplify narratives that blend seafaring lore, coastal enigmas, and the inexorable pull of the shadows of family history.
 
 Anchor your tales with these five maritime _Story&nbsp;📖 Elements&nbsp;☯_ in your stories:
 
