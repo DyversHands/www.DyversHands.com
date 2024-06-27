@@ -30,7 +30,6 @@ gate_watch_playset:
     url3: https://www.drivethrucards.com/product/441434/Gate-Watch-A-Playset-for-Tableau-PrintNPlay-Edition?cPath=31767_46121
     btn_label3: "Print-N-Play"
     btn_class3: "btn--info"
-    
 gallery:
   - url: /TwilightRoad
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
@@ -38,7 +37,19 @@ gallery:
   - url: /Improv
     image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
     alt: "Tableau Improv &#127914; Playset Cover Card"
-
+gallery-storysets:
+  - url: /games/Tableau/CourtlyShadows
+    image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
+    alt: "Courtly Shadows &#128081; Storyset Cover"
+  - url: /games/Tableau/TidalSecrets
+    image_path: /assets/images/games/tableau/courtlyshadows/tidal_secrets_storyset_cover_375_298.jpg
+    alt: "Tidal Secrets &#9875; Storyset Cover"
+  - url: /games/Tableau/TouchedByTheVeil
+    image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
+    alt: "Touched by the Veil &#129702; Storyset Cover"
+  - url: /games/Tableau/TrialsOfTenacity
+    image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
+    alt: "Trials of Tenacity &#127869; Storyset Cover"
 ---
 _{% include tableau_news.md %}
 
