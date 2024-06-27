@@ -33,7 +33,7 @@ gallery-storysets:
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
     alt: "Courtly Shadows &#128081; Storyset Cover"
   - url: /games/Tableau/TidalSecrets
-    image_path: /assets/images/games/tableau/courtlyshadows/tidal_secrets_storyset_cover_375_298.jpg
+    image_path: /assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_cover_375_298.jpg
     alt: "Tidal Secrets &#9875; Storyset Cover"
   - url: /games/Tableau/TouchedByTheVeil
     image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
@@ -41,7 +41,6 @@ gallery-storysets:
   # - url: /games/Tableau/TrialsOfTenacity
   #   image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
   #   alt: "Trials of Tenacity &#127869; Storyset Cover"
-
 ---
 
 {% include tableau_news.md %}
