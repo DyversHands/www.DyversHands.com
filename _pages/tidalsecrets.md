@@ -34,7 +34,7 @@ gallery-storysets:
     alt: "Courtly Shadows &#128081; Storyset Cover"
 #   - url: /games/Tableau/TidalSecrets
 #    image_path: /assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_cover_375_298.jpg
-#    alt: "Tidal Secrets &#128081; Storyset Cover"
+#    alt: "Tidal Secrets &#9875; Storyset Cover"
   - url: /games/Tableau/TouchedByTheVeil
     image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
     alt: "Touched by the Veil &#129702; Storyset Cover"

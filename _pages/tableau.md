@@ -82,7 +82,7 @@ tableau_storysets:
     btn_class2: "btn--success"
     image_path: /assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_cover_375_298.jpg
     alt: "Courtly Tidal Secrets Cover"
-    title: "Tidal Secrets &#128081; "
+    title: "Tidal Secrets &#9875;"
     excerpt: "Dive into the abyss of _**Lovecraft Country:**_ **Tidal Secrets**&nbsp;⚓️ where ancient tales meld with the ocean’s roar, guiding the curious and ensnaring the unwary. A two-page _Booklet Storyset_&nbsp;📚 supplement for ***Tableau* Games*** to amplify narratives that blend seafaring lore, coastal enigmas, and the inexorable pull of the shadows of family history. As the tide rises and falls on these stories, how will you navigate the waves of mystery and legacy?"
   - url: /games/Tableau/TouchedByTheVeil
     btn_label: "Read More…"
@@ -110,7 +110,7 @@ gallery-storysets:
     alt: "Courtly Shadows &#128081; Storyset Cover"
   - url: /games/Tableau/TidalSecrets
     image_path: /assets/images/games/tableau/courtlyshadows/tidal_secrets_storyset_cover_375_298.jpg
-    alt: "Tidal Secrets &#128081; Storyset Cover"
+    alt: "Tidal Secrets &#9875; Storyset Cover"
   - url: /games/Tableau/TouchedByTheVeil
     image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
     alt: "Touched by the Veil &#129702; Storyset Cover"
