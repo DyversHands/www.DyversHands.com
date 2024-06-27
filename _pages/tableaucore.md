@@ -5,7 +5,7 @@ header:
   overlay_filter: "0.25"
   # overlay_image: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_630_500.jpg
   og_image: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_630_500.jpg
-title: Tableau Core
+title: Tableau Core &#43372;
 hide_description: true
 classes:
   - wide
@@ -18,9 +18,9 @@ redirect_from:
   - /games/Tableau/tableauCore
 this_storyset:
   - image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
-    excerpt: "***Tableau Core &#43612; Rules*** are available in our **Tableau Booklet**&nbsp;&#127869; from: "
-    alt: "Tableau Core &#43612; Rules Cover Card"
-    title: "Tableau Core &#43612; Rules"
+    excerpt: "***Tableau Core &#43372; Rules*** are available in our **Tableau Booklet**&nbsp;&#127869; from: "
+    alt: "Tableau Core &#43372; Rules Cover Card"
+    title: "Tableau Core &#43372; Rules"
     url: https://dyvershands.itch.io/TableauCore
     btn_label: "PDF on itch.io (&#8220;Name your Price&#8221;)"
     btn_class: "btn--success"
@@ -44,7 +44,7 @@ gallery-storysets:
 
 {% include tableau_news.md %}
 
-![Tableau Core &#43612; Rules Cover Card](/assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg){: style="float:right; padding:16px"}
+![Tableau Core &#43372; Rules Cover Card](/assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg){: style="float:right; padding:16px"}
 
 ## Ignite Your Creativity with _**Tableau Core ꩜**_!
 

@@ -73,7 +73,7 @@ tableau_storysets:
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
     alt: "Courtly Shadows Storyset Cover"
     title: "Courtly Shadows&nbsp;&#128081;"
-    excerpt: "In ***Courtly Shadows***&nbsp;&#128081; where honor meets deception, whispered secrets, and hidden agendas. A two-page ***Booklet Storyset***&nbsp;&#128214; supplement for ***Tableau* Games** to accentuate tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
+    excerpt: "In ***Courtly Shadows***&nbsp;&#128081; where honor meets deception, whispered secrets, and hidden agendas. A two-page ***Booklet Storyset***&nbsp;&#128214; supplement for ***Tableau*** to accentuate tales of noble duels and concealed motives. Allegiances shift, secrets unravel, and the dawn may herald victory or despair. How will you shape the fate of your realm?"
   - url: /games/Tableau/TidalSecrets
     btn_label: "Read More…"
     btn_class: "btn--inverse"
@@ -83,7 +83,7 @@ tableau_storysets:
     image_path: /assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_cover_375_298.jpg
     alt: "Courtly Tidal Secrets Cover"
     title: "Tidal Secrets &#9875;"
-    excerpt: "Dive into the abyss of _**Lovecraft Country:**_ **Tidal Secrets**&nbsp;⚓️ where ancient tales meld with the ocean’s roar, guiding the curious and ensnaring the unwary. A two-page _Booklet Storyset_&nbsp;📚 supplement for ***Tableau* Games*** to amplify narratives that blend seafaring lore, coastal enigmas, and the inexorable pull of the shadows of family history. As the tide rises and falls on these stories, how will you navigate the waves of mystery and legacy?"
+    excerpt: "Dive into the abyss of _**Lovecraft Country:**_ **Tidal Secrets**&nbsp;⚓️ where ancient tales meld with the ocean’s roar, guiding the curious and ensnaring the unwary. A two-page _Booklet Storyset_&nbsp;📚 supplement for ***Tableau*** to amplify narratives that blend seafaring lore, coastal enigmas, and the inexorable pull of the shadows of family history. In **Tidal Secrets**&nbsp;⚓️, every decision ripples with the ocean's might, every bond can anchor or set free, and every legend might just reveal a truth waiting to surface. As the tide rises and falls on these stories, how will you navigate the waves of mystery and legacy?"
   - url: /games/Tableau/TouchedByTheVeil
     btn_label: "Read More…"
     btn_class: "btn--inverse"
