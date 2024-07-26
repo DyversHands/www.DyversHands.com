@@ -5,7 +5,7 @@ header:
   overlay_filter: "0.25"
   # overlay_image: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_630_500.jpg
   og_image: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_630_500.jpg
-title: Tableau Core &#43372;
+title: Tableau Core &#43612
 hide_description: true
 classes:
   - wide
@@ -18,9 +18,9 @@ redirect_from:
   - /games/Tableau/tableauCore
 this_storyset:
   - image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
-    excerpt: "***Tableau Core &#43372; Rules*** are available in our **Tableau Booklet**&nbsp;&#127869; from: "
-    alt: "Tableau Core &#43372; Rules Cover Card"
-    title: "Tableau Core &#43372; Rules"
+    excerpt: "***Tableau Core &#43612; Rules*** are available in our **Tableau Booklet**&nbsp;&#127869; from: "
+    alt: "Tableau Core &#43612; Rules Cover Card"
+    title: "Tableau Core &#43612; Rules"
     url: https://dyvershands.itch.io/TableauCore
     btn_label: "PDF on itch.io (&#8220;Name your Price&#8221;)"
     btn_class: "btn--success"
@@ -32,7 +32,7 @@ gallery-storysets:
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
     alt: "Courtly Shadows &#128081; Storyset Cover"
   - url: /games/Tableau/TidalSecrets
-    image_path: /assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_cover_375_298.jpg
+    image_path: /assets/images/games/tableau/courtlyshadows/tidal_secrets_storyset_cover_375_298.jpg
     alt: "Tidal Secrets &#9875; Storyset Cover"
   - url: /games/Tableau/TouchedByTheVeil
     image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
@@ -44,19 +44,19 @@ gallery-storysets:
 
 {% include tableau_news.md %}
 
-![Tableau Core &#43372; Rules Cover Card](/assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg){: style="float:right; padding:16px"}
+![Tableau Core &#43612; Rules Cover Card](/assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg){: style="float:right; padding:16px"}
 
-## Ignite Your Creativity with _**Tableau Core ꩜**_!
+## Ignite Your Creativity with _**Tableau Core&nbsp;꩜**_!
 
 _“The best stories are the ones we tell together!”_
 
-Great tales are like wildfires—all they need is a spark to spread creative passion. _**Tableau**_ _Core ꩜ Rules_ provides that vital spark in this easy printable _Booklet&nbsp;📖_ format. With these foundational rules, you and your friends can craft immersive stories in a single evening.
+Great tales are like wildfires—all they need is a spark to spread creative passion. _**Tableau**_ _Core&nbsp;꩜ Rules_ provides that vital spark in this easy printable _Booklet&nbsp;📖_ format. With these foundational rules, you and your friends can craft immersive stories in a single evening.
 
 With _**Tableau** Core&nbsp;꩜ Rules_, your group can conjure any story you desire—from high fantasy kingdoms and gritty detective noir to intense stories of characters dealing with life changes and their relationships. The story possibilities are endless!
 
 Define complex characters motivated by their past experiences and life bonds. Bring these characters to life through cinematic scenes brimming with vivid details. Guide their dramatic and emotional journeys toward a satisfying climax. And embrace memorable stories filled with laughter, tears, and celebration.
 
-## Using _**Tableau Core ꩜ Rules**_
+## Using _**Tableau Core&nbsp;꩜ Rules**_
 
 These _Core ꩜ Rules_ distill the process of telling a story together down to a few key procedures, including:
 * how to make choices about what story elements to include;
@@ -66,7 +66,7 @@ These _Core ꩜ Rules_ distill the process of telling a story together down to�
 
 Safety rules with guidelines for respectful play are also included.
 
-We also offer a wide range of _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_, each curated to inspire your sessions with the additional ingredients for your stories! Additionally, _**Tableau** Core&nbsp;꩜ Rules_** **are easily adaptable for use with story elements and characters brought in from _[‘belonging outside belonging‘](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames.
+We also offer a wide range of _[Booklet Storysets&nbsp;📖](https://itch.io/physical-games/tag-storyset)_, each curated to inspire your sessions with the additional ingredients for your stories! Additionally, _**Tableau** Core&nbsp;꩜ Rules_** **are easily adaptable for use with story elements and characters brought in from _[‘belonging outside belonging‘](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames.
 
 With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness"_ [on the way](https://www.dyvershands.com/Subscribe), there’s always more storytelling excitement to explore. It all starts with _**Tableau’s**_ vital spark. Let _**Tableau** Core ꩜ Rules_ ignite your creativity tonight!
 
