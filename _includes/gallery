@@ -42,7 +42,7 @@
   }
 }
 .archive__item-teaser img{
-width: 84%;
+width: 84% !important;
 }
 
 </style>
