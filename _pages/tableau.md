@@ -35,14 +35,14 @@ tableau_accelerated:
       Booklet&nbsp;&#128214;** format, and a 1-page PDF in **Avery 10-up Business Card&nbsp;&#128196;** format._"
 tableau_storysets:
   - url: /games/Tableau/DarkExpeditions
+    image_path: assets/images/games/tableau/darkexpeditions/TableauStorysetDarkExpeditions_SmallCard01_StorysetCover.jpg
+    alt: Dark Expeditions&nbsp;&#127957 Storyset&nbsp;&#128220; Cover
+    title: Dark Expeditions&nbsp;&#127957; Storyset&nbsp;&#128220;
     btn_label: Read More…
     btn_class: btn--inverse
     url2: https://downloads.dyvershands.com/l/DarkExpeditions
     btn_label2: Get Now! (&#8220;Name a Fair Price&#8221; $14.95 Suggested)
     btn_class2: btn--success
-    image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
-    alt: Dark Expeditions&nbsp;&#127957 Storyset&nbsp;&#128220; Cover
-    title: Dark Expeditions&nbsp;&#127957; Storyset&nbsp;&#128220;
     excerpt: "Venture beyond the boundaries of the known world to uncover ancient mysteries and risk entering realms of cosmic horror. This 4-page PDF supplement _(for 40 business-card-sized cards)_ for ***Tableau*** draws inspiration from the mythos of H.P. Lovecraft and classic adventure tales. Craft gripping stories of exploration, survival, and the revelation of forbidden knowledge, where each decision can lead to awe, terror, or madness."
 ---
 
@@ -58,9 +58,9 @@ The system is intuitive and approachable, making it easy for players of all expe
 
 Whether you're a seasoned role-player or new to tabletop storytelling, ***Tableau*** offers an engaging and flexible framework for creating stories together.
 
-## _**Tableau** Accelerated Core Rules_
+## _**Tableau**_ _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_
 
-Ignite your storytelling journey with the _**Tableau**_ _Accelerated Core ꩜ Rules 📜_. They distill the heart of collaborative storytelling into a set of modular, easy-to-use rules. Whether you're crafting a tale of high fantasy, gritty noir, or personal transformation, the _Accelerated Core ꩜ Rules 📜_ provide the structure for a dynamic narrative experience. Download now and let _**Tableau**_ spark your creative passions today!
+Ignite your storytelling journey with our latest streamlined edition of _**Tableau**_ _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_. They distill the heart of collaborative storytelling into a set of modular, easy-to-use rules. Whether you're crafting a tale of high fantasy, gritty noir, or personal transformation, the _Accelerated Core ꩜ Rules 📜_ provide the structure for a dynamic narrative experience. Download now and let _**Tableau**_ spark your creative passions today!
 
 {% include feature_row id="tableau_accelerated" type="left" %}
 
@@ -68,7 +68,7 @@ Ignite your storytelling journey with the _**Tableau**_ _Accelerated Core ꩜ Ru
 
 _**Tableau**_ _StorySets 📚_ expand your storytelling experience by offering curated _Elements ☯_ to enhance and enrich your narratives. All _StorySets_ 📚 are modular and compatible with one another, and they easily integrate with most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames. They can also be adapted for use with many other tabletop role-playing systems. To play, you'll need also the _**Accelerated Core ꩜ Rules**_ 📜.
 
-{% include feature_row id="tableau_storysets" %}
+{% include feature_row id="tableau_storysets" type="left"  %}
 
 ## Reviewer Quotes
 
