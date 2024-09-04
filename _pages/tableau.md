@@ -22,14 +22,14 @@ redirect_from:
   - /tableauGames
   - /games/tableau/
 tableau_accelerated:
-  - url: /games/Tableau/TableauAccelerated
-    image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
-    alt: Tableau Accelerated Core &#43612; Rules Cover
-    title: Tableau Accelerated Core &#43612; Rules
+  - url: /games/Tableau/TableauCoreAccelerated
+    image_path: /assets/images/games/tableau/tableaucoreacellerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
+    alt: Tableau Accelerated Core &#43612; Rules &#128220; Cover
+    title: Tableau Accelerated Core &#43612; Rules &#128220;
     btn_label: Read More…
     btn_class: btn--inverse
     url2: https://downloads.dyvershands.com/l/TableauAccelerated
-    btn_label2: Get Now! (&#8220;Name a Fair Price&#8221; $1.95 Suggested)
+    btn_label2: "Get Now!<br/>(&#8220;Name a Fair Price&#8221; $1.95 Suggested)"
     btn_class2: btn--success
     excerpt: "_Two versions: a 2-page PDF in ‘Print-N-Fold’ **Tableau
       Booklet&nbsp;&#128214;** format, and a 1-page PDF in **Avery 10-up Business Card&nbsp;&#128196;** format._"
