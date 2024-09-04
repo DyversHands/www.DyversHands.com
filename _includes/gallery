@@ -17,17 +17,17 @@
 {% endif %}
 
 <style>
-  @media screen and (max-width: 480px) {
+  @media screen and (max-width: 300px) {
   .image-mobile{
     width: 65px !important;
     height: auto !important;
   }
   .mfp-img{
-    width: 175px !important;
+    width: 150px !important;
     height: auto !important;
   }
   .fourth, .half{
-    width: 380px !important;
+    width: 300px !important;
     height: auto !important;
     flex-direction: row !important;
     justify-content: space-around;
