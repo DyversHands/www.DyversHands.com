@@ -23,7 +23,7 @@ redirect_from:
   - /games/tableau/
 tableau_accelerated:
   - url: /games/Tableau/TableauCoreAccelerated
-    image_path: /assets/images/games/tableau/tableaucoreacellerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
+    image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     alt: Tableau Accelerated Core &#43612; Rules &#128220; Cover
     title: Tableau Accelerated Core &#43612; Rules &#128220;
     btn_label: Read More…
