@@ -43,12 +43,7 @@ tableau_storysets:
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
     alt: Dark Expeditions Storyset Cover
     title: Dark Expeditions&nbsp;&#127957;
-    excerpt: In ***Dark Expeditions***&nbsp;&#127957; journey beyond the edge of the
-      known world into realms of cosmic horror and ancient mysteries. A 4-page
-      PDF (for 40 business-card sized cards) supplement for ***Tableau***
-      inspired by the mythos of H.P. Lovecraft and other classic adventure
-      tales, uncover secrets that challenge your sanity and the fabric of
-      reality itself.
+    excerpt: Venture beyond the boundaries of the known world to uncover ancient mysteries and risk entering realms of cosmic horror. This 4-page PDF supplement _(for 40 business-card-sized cards)_ for ***Tableau*** draws inspiration from the mythos of H.P. Lovecraft and classic adventure tales. Craft gripping stories of exploration, survival, and the revelation of forbidden knowledge, where each decision can lead to awe, terror, or madness.
 gallery-storysets:
   - url: /games/Tableau/CourtlyShadows
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
