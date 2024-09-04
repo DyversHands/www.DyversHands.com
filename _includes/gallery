@@ -41,6 +41,10 @@
     height: auto !important;
   }
 }
+.archive__item-teaser img{
+width: 84%;
+}
+
 </style>
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
