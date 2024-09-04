@@ -3,14 +3,14 @@ title: Tableau
 subtitle: Collaborative Cinematic Storytelling
 hide_description: true
 author: DyversHands
-summary: Explore the dynamic world of Tableau, the collaborative storytelling game system that empowers you to craft memorable stories in any genre.
+summary: Explore the dynamic world of Tableau, the collaborative storytelling
+  game system that empowers you to craft memorable stories in any genre.
 image: /assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg
 cover: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/games/tableau/twilightroad/twilight_road_banner_1280_360.jpg
-  # og_image: assets/images/games/tableau/twilightroad/twilight_road_card.jpg
 classes:
   - wide
 permalink: /games/Tableau/
@@ -24,29 +24,35 @@ redirect_from:
 tableau_accelerated:
   - url: /games/Tableau/TableauAccelerated
     image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
-    alt: "Tableau Accelerated Core &#43612; Rules Cover"
-    title: "Tableau Accelerated Core &#43612; Rules"
-    btn_label: "Read More…"
-    btn_class: "btn--inverse"
+    alt: Tableau Accelerated Core &#43612; Rules Cover
+    title: Tableau Accelerated Core &#43612; Rules
+    btn_label: Read More…
+    btn_class: btn--inverse
     url2: https://downloads.dyvershands.com/l/TableauAccelerated
-    btn_label2: "Get Now! (&#8220;Name a Fair Price&#8221; $1.95 Suggested)"
-    btn_class2: "btn--success"
-    excerpt: "Two versions: a 2-page PDF in ‘Print-N-Fold’ **Tableau Booklet**&nbsp;&#128214; format, 1-page Avery 10-up Business card format."
+    btn_label2: Get Now! (&#8220;Name a Fair Price&#8221; $1.95 Suggested)
+    btn_class2: btn--success
+    excerpt: "Two versions: a 2-page PDF in ‘Print-N-Fold’ **Tableau
+      Booklet**&nbsp;&#128214; format, 1-page Avery 10-up Business card format."
 tableau_storysets:
   - url: /games/Tableau/DarkExpeditions
-    btn_label: "Read More…"
-    btn_class: "btn--inverse"
+    btn_label: Read More…
+    btn_class: btn--inverse
     url2: https://downloads.dyvershands.com/l/DarkExpeditions
-    btn_label2: "Get Now! (&#8220;Name a Fair Price&#8221; $14.95 Suggested)"
-    btn_class2: "btn--success"
+    btn_label2: Get Now! (&#8220;Name a Fair Price&#8221; $14.95 Suggested)
+    btn_class2: btn--success
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
-    alt: "Dark Expeditions Storyset Cover"
-    title: "Dark Expeditions&nbsp;&#127957;"
-    excerpt: "In ***Dark Expeditions***&nbsp;&#127957; journey beyond the edge of the known world into realms of cosmic horror and ancient mysteries. A 4-page PDF (for 40 business-card sized cards) supplement for ***Tableau*** inspired by the mythos of H.P. Lovecraft and other classic adventure tales, uncover secrets that challenge your sanity and the fabric of reality itself.
+    alt: Dark Expeditions Storyset Cover
+    title: Dark Expeditions&nbsp;&#127957;
+    excerpt: In ***Dark Expeditions***&nbsp;&#127957; journey beyond the edge of the
+      known world into realms of cosmic horror and ancient mysteries. A 4-page
+      PDF (for 40 business-card sized cards) supplement for ***Tableau***
+      inspired by the mythos of H.P. Lovecraft and other classic adventure
+      tales, uncover secrets that challenge your sanity and the fabric of
+      reality itself.
 gallery-storysets:
   - url: /games/Tableau/CourtlyShadows
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
-    alt: "Courtly Shadows &#128081; Storyset Cover"
+    alt: Courtly Shadows &#128081; Storyset Cover
 ---
 
 # Tableau Games
