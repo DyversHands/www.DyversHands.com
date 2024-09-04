@@ -59,25 +59,23 @@ gallery-storysets:
 
 {% include tableau_news.md %}
 
-***Tableau*** is a storytelling game system that emphasizes collaborative storytelling and character development. The game's mechanics are designed to be flexible, allowing players to create stories in just a few hours from a wide variety of genres and styles without the need for advanced preparation or a designated game master.
+_**Tableau**_ is a collaborative cinematic storytelling system that empowers players to create immersive stories across a wide variety of genres and narrative styles. Designed for flexibility, ***Tableau*** enables you to craft memorable tales in just a few hours, without the need for extensive preparation or a traditional game master.
 
-***Tableau*** consists of a set of rules cards and a variety of story cards that establish themes, moods, settings, and character traits. Players use these cards to collaboratively create a story, with each scene focusing on a single question and building toward a satisfying cinematic narrative.
+At its core, ***Tableau*** uses modular rules and story elements, including themes, tones, settings, and character traits. Players work together to build scenes, focusing on key questions that drive the narrative forward, ultimately leading to a rich and satisfying cinematic experience.
 
-The system is designed to be approachable for players of all skill levels and encourages creativity and player agency. Tableau is ideal for players who enjoy immersive role-playing and narrative-focused gameplay.
+The system is intuitive and approachable, making it easy for players of all experience levels to dive into storytelling. ***Tableau*** encourages creativity, player agency, and collaborative worldbuilding, making it a perfect fit for anyone who loves narrative-driven gameplay.
 
-Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau is a great choice for anyone looking to tell their own stories in a collaborative and engaging way.
-
-{% include video id="eWMsySbdm_0" provider="youtube" %}
+Whether you're a seasoned role-player or new to tabletop storytelling, ***Tableau*** offers an engaging and flexible framework for creating stories together.
 
 ## _**Tableau** Accelerated Core Rules_
 
-Ignite your storytelling journey with the _**Tableau Core** ꩜ Rules_, available in multiple formats. Pared down to the essential rules for storytelling, they are a guide to fuel your adventures. Download and let _**Tableau**_ spark your creative passions today!
+Ignite your storytelling journey with the _**Tableau**_ _Accelerated Core ꩜ Rules 📜_. They distill the heart of collaborative storytelling into a set of modular, easy-to-use rules. Whether you're crafting a tale of high fantasy, gritty noir, or personal transformation, the _Accelerated Core ꩜ Rules 📜_ provide the structure for a dynamic narrative experience. Download now and let _**Tableau**_ spark your creative passions today!
 
 {% include feature_row id="tableau_accelerated" type="left" %}
 
 ## _**Tableau** Storysets_&nbsp;📖
 
-_**Tableau**_ _Booklet Storysets&nbsp;_📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll need the _Tableau Core Rules_&nbsp;📜 from a _Playset_&nbsp;🎞️ or from the _Tableau Core Booklets_&nbsp;📖 to play. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
+_**Tableau**_ _StorySets 📚_ expand your storytelling experience by offering curated _Elements ☯_ to enhance and enrich your narratives. All _StorySets_ 📚 are modular and compatible with one another, and they easily integrate with most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames. They can also be adapted for use with many other tabletop role-playing systems. To play, you'll need also the _**Accelerated Core ꩜ Rules**_ 📜.
 
 {% include feature_row id="tableau_storysets" %}
 
@@ -88,6 +86,16 @@ _**Tableau**_ _Booklet Storysets&nbsp;_📖 ​supplement _**Tableau**_ stories 
 ### Types of Stories
 
 We've found the mechanics of ***Tableau*** work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. ***Tableau*** is a fun evening's entertainment.
+
+### Previous Release
+
+![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg){: .align-left}
+
+<p>&nbsp;</p>
+
+![Tableau Logo](/assets/images/logos/Tableau_Games_portrait_white_spot_rgb_on_black_190_190.png){: style="float:right; padding:16px; " }
+
+{% include video id="eWMsySbdm_0" provider="youtube" %}
 
 ## Latest News about Tableau Games
 
