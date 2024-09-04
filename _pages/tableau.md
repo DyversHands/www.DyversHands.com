@@ -59,12 +59,6 @@ gallery-storysets:
 
 {% include tableau_news.md %}
 
-![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg){: .align-left}
-
-<p>&nbsp;</p>
-
-![Tableau Logo](/assets/images/logos/Tableau_Games_portrait_white_spot_rgb_on_black_190_190.png){: style="float:right; padding:16px; " }
-
 ***Tableau*** is a storytelling game system that emphasizes collaborative storytelling and character development. The game's mechanics are designed to be flexible, allowing players to create stories in just a few hours from a wide variety of genres and styles without the need for advanced preparation or a designated game master.
 
 ***Tableau*** consists of a set of rules cards and a variety of story cards that establish themes, moods, settings, and character traits. Players use these cards to collaboratively create a story, with each scene focusing on a single question and building toward a satisfying cinematic narrative.
@@ -75,18 +69,12 @@ Whether you are a seasoned RPG veteran or a newcomer to tabletop gaming, Tableau
 
 {% include video id="eWMsySbdm_0" provider="youtube" %}
 
-## _**Tableau** Core Rules_
+## _**Tableau** Accelerated Core Rules_
 
 Ignite your storytelling journey with the _**Tableau Core** ꩜ Rules_, available in multiple formats. Pared down to the essential rules for storytelling, they are a guide to fuel your adventures. Download and let _**Tableau**_ spark your creative passions today!
 
 {% include feature_row id="tableau_accelerated" type="left" %}
 
-<!-- ## _**Tableau** Playsets&nbsp;_🎞️
-
-***Tableau Playsets*** offer a curated set of rules and story elements, each within a specific framework of genre, themes, and tropes, for a unique storytelling experience. Instead of sifting through numerous rules and story elements, ***Playsets*** provide a cohesive collections for a focused narrative. Each ***Playset*** includes everything you need to play except for your own index cards, markers and sheets of paper, and optionally one six-sided dice. They may be mixed & matched with each other and with future ***Tableau Games***.
-
-{% include feature_row id="tableau_playsets" %}
--->
 ## _**Tableau** Storysets_&nbsp;📖
 
 _**Tableau**_ _Booklet Storysets&nbsp;_📖 ​supplement _**Tableau**_ stories with additional rules and story _Elements_, but you'll need the _Tableau Core Rules_&nbsp;📜 from a _Playset_&nbsp;🎞️ or from the _Tableau Core Booklets_&nbsp;📖 to play. _Storysets_&nbsp;📖​ also are easy to incorporate into most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)​_ style storygames, and are adaptable for use with many other styles of tabletop role-playing games.​​
@@ -97,44 +85,8 @@ _**Tableau**_ _Booklet Storysets&nbsp;_📖 ​supplement _**Tableau**_ stories 
 
 > *“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.”* — **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
 
-<!-- ### Overview of Play
-
-There is only rule required for ***Tableau Games***: **Tableau Core ꩜** which is described on three poker-sized cards:
-
-![Rule Card: Tableau Core ꩜ 1](/assets/images/games/tableau/core/core_rule_core_1_1500_1050.png)
-
-![Rule Card: Tableau Core ꩜ 2](/assets/images/games/tableau/core/core_rule_core_2_1500_1050.png)
-
-![Rule Card: Tableau Core ꩜ 3](/assets/images/games/tableau/core/core_rule_core_3_1500_1050.png)
-
-After review of these **Core ꩜** rules, the players will either choose a pre-defined **Playset 🎞** of cards that works well together or combine specific **Rules** 📜 cards to define the mechanics of collaborative storytelling, **Story 📖** cards to describe the elements of the narrative, and optional **Character Traits** 👤 to create unique and complex characters.
--->
-
 ### Types of Stories
 
-<!-- 
-Tableau inspires players to be creative, supporting a nearly infinite variety of potential stories.
-
-The **Twilight Road** 🛣️ _Playset_ 🎞 is particularly focused journey of self-discovery & personal growth. Explore themes of identity, purpose, and belonging as you search for answers. What will you discover on your way? Will you find your destination, or return home? 
-
-The **Gate Watch** 🚪 _Playset_ 🎞takes you to the edge of the world. You are charged to keep an eye on the border between realms. Who built The Gate? What is on the other side? Why are you watching? 
-
-While playtesting the **Twilight Road** 🛣 _Playset_ 🎞, the cards collaboratively selected by storytellers resulted in a wide variety of settings & genres:
-
-* a historical fantasy, where a river journey across the Viking lands of ancient Russian followed the trail of Uncle Ingvar, lost while he was searching for the Silk Road and a lost city and treasure;
-* a 90s paranormal fantasy, in which a spring-break car trip led free-spirited students across America, each trying to find a lost icon on Route 66, looking for answers to a secret in their family history.
-
-In play-testing the **Gate Watch** 🚪 _Playset_ 🎞, games have included:
-
-* a classics fantasy, with the gate lying between the real-world and the Greek heaven & hell, and Watchers possibly hired by Charon;
-* a 1950's noir mystery, featuring the gate between a Hollywood producer's mansion and the hardscrabble blue-collar world of post-war Los Angeles;
-* a sci-fi adventure, where a collapsing underground mutant civilization had a hidden exit to a post-apocalyptic landscape;
-* a wacky parallel universe, home of mechano-electro elves, who had discovered a gate to our reality at a California game convention, full of people who didn't understand them.
-
-A game mixing storytelling cards from both **Twilight Road** 🛣 & **Gate Watch** 🚪 Playsets 🎞 was:
-
-* a dark historical fantasy, where a water well located in a German farming village at the end of WWII was the only escape from invading Russians, but led the villagers into a perilous journey through the lands of the fae, with no way home.
- -->
 We've found the mechanics of ***Tableau*** work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. ***Tableau*** is a fun evening's entertainment.
 
 ## Latest News about Tableau Games
