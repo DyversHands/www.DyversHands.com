@@ -31,8 +31,8 @@ tableau_accelerated:
     url2: https://downloads.dyvershands.com/l/TableauAccelerated
     btn_label2: Get Now! (&#8220;Name a Fair Price&#8221; $1.95 Suggested)
     btn_class2: btn--success
-    excerpt: "Two versions: a 2-page PDF in ‘Print-N-Fold’ **Tableau
-      Booklet**&nbsp;&#128214; format, 1-page Avery 10-up Business card format."
+    excerpt: "_Two versions: a 2-page PDF in ‘Print-N-Fold’ **Tableau
+      Booklet&nbsp;&#128214;** format, and a 1-page PDF in **Avery 10-up Business Card&nbsp;&#128196;** format._"
 tableau_storysets:
   - url: /games/Tableau/DarkExpeditions
     btn_label: Read More…
@@ -41,13 +41,9 @@ tableau_storysets:
     btn_label2: Get Now! (&#8220;Name a Fair Price&#8221; $14.95 Suggested)
     btn_class2: btn--success
     image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
-    alt: Dark Expeditions Storyset Cover
-    title: Dark Expeditions&nbsp;&#127957;
-    excerpt: Venture beyond the boundaries of the known world to uncover ancient mysteries and risk entering realms of cosmic horror. This 4-page PDF supplement _(for 40 business-card-sized cards)_ for ***Tableau*** draws inspiration from the mythos of H.P. Lovecraft and classic adventure tales. Craft gripping stories of exploration, survival, and the revelation of forbidden knowledge, where each decision can lead to awe, terror, or madness.
-gallery-storysets:
-  - url: /games/Tableau/CourtlyShadows
-    image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_375_298.jpg
-    alt: Courtly Shadows &#128081; Storyset Cover
+    alt: Dark Expeditions&nbsp;&#127957 Storyset&nbsp;&#128220; Cover
+    title: Dark Expeditions&nbsp;&#127957; Storyset&nbsp;&#128220;
+    excerpt: "Venture beyond the boundaries of the known world to uncover ancient mysteries and risk entering realms of cosmic horror. This 4-page PDF supplement _(for 40 business-card-sized cards)_ for ***Tableau*** draws inspiration from the mythos of H.P. Lovecraft and classic adventure tales. Craft gripping stories of exploration, survival, and the revelation of forbidden knowledge, where each decision can lead to awe, terror, or madness."
 ---
 
 # Tableau Games
