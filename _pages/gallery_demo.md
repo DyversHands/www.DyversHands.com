@@ -27,4 +27,4 @@ gallery-playsets:
     title: "Tableau Improv&nbsp;&#127914; Playset&nbsp;&#127902;"
 ---
 
-{% include gallery id="gallery-playsets" layout="half" class="full" %}
+{% include gallery id="gallery-playsets" layout="half" %}
