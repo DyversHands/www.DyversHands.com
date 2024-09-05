@@ -12,7 +12,7 @@ toc_label: Our Games
 hide_description: true
 permalink: /demo/
 
-gallery-playsets:
+cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     alt: "Twilight Road&nbsp;&#128739;Playset&nbsp;&#127902; Cover Card"
@@ -27,4 +27,6 @@ gallery-playsets:
     title: "Tableau Improv&nbsp;&#127914; Playset&nbsp;&#127902;"
 ---
 
-{% include gallery id="gallery-playsets" %}
+{% include cardgallery id="cardgallery_dark_expeditions" %}
+
+
