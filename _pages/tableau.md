@@ -22,10 +22,10 @@ redirect_from:
   - /tableauGames
   - /games/tableau/
 tableau_accelerated:
-  - url: /games/Tableau/TableauCoreAccelerated
+  - url: https://downloads.dyvershands.com/l/TableauAccelerated
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     alt: Tableau Accelerated Core &#43612; Rules &#128220; Cover
-    title: Tableau Accelerated Core &#43612; Rules &#128220;
+    title: Accelerated Core &#43612; Rules &#128220;
     btn_label: Read More…
     btn_class: btn--inverse
     url2: https://downloads.dyvershands.com/l/TableauAccelerated
@@ -34,7 +34,7 @@ tableau_accelerated:
     excerpt: "_Two versions: a 2-page PDF in ‘Print-N-Fold’ **Tableau
       Booklet&nbsp;&#128214;** format, and a 1-page PDF in **Avery 10-up Business Card&nbsp;&#128196;** format._"
 tableau_storysets:
-  - url: /games/Tableau/DarkExpeditions
+  - url: https://downloads.dyvershands.com/l/DarkExpeditions
     image_path: assets/images/games/tableau/darkexpeditions/TableauStorysetDarkExpeditions_SmallCard01_StorysetCover.jpg
     alt: Dark Expeditions&nbsp;&#127957 Storyset&nbsp;&#128220; Cover
     title: Dark Expeditions&nbsp;&#127957; Storyset&nbsp;&#128220;
@@ -43,7 +43,7 @@ tableau_storysets:
     url2: https://downloads.dyvershands.com/l/DarkExpeditions
     btn_label2: Get Now! (&#8220;Name a Fair Price&#8221; $14.95 Suggested)
     btn_class2: btn--success
-    excerpt: "Venture beyond the boundaries of the known world to uncover ancient mysteries and risk entering realms of cosmic horror. This 4-page PDF supplement _(for 40 business-card-sized cards)_ for ***Tableau*** draws inspiration from the mythos of H.P. Lovecraft and classic adventure tales. Craft gripping stories of exploration, survival, and the revelation of forbidden knowledge, where each decision can lead to awe, terror, or madness."
+    excerpt: "Venture beyond the boundaries of the known world to uncover ancient mysteries and risk entering realms of cosmic horror. This 4-page PDF _(for 40 business-card-sized cards)_ draws inspiration from the mythos of H.P. Lovecraft and classic adventure tales. Craft gripping stories of exploration, survival, and the revelation of forbidden knowledge, where each decision can lead to awe, terror, or madness."
 ---
 
 # Tableau Games
