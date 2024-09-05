@@ -55,6 +55,13 @@ figure{
   display: none !important;
 }
 
+@media screen and (min-width: 37.5em) {
+
+figure.half>a, figure.half>img {
+        width: 120px !important;
+        height: auto;
+    }
+}
 @media screen and (max-width: 48em) and (min-width: 20em) {
   figure img {
     width: 170px !important;
