@@ -43,7 +43,7 @@ tableau_storysets:
     url2: https://downloads.dyvershands.com/l/DarkExpeditions
     btn_label2: Get Now! (&#8220;Name a Fair Price&#8221; $14.95 Suggested)
     btn_class2: btn--success
-    excerpt: "Venture beyond the boundaries of the known world to uncover ancient mysteries and risk entering realms of cosmic horror. This 4-page PDF _(for 40 business-card-sized cards)_ draws inspiration from the mythos of H.P. Lovecraft and classic adventure tales. Craft gripping stories of exploration, survival, and the revelation of forbidden knowledge, where each decision can lead to awe, terror, or madness."
+    excerpt: "Venture beyond the boundaries of the known world to uncover ancient mysteries and risk entering realms of cosmic horror. This 4-page PDF _(for 40 business-card-sized cards)_ draws inspiration from the mythos of H.P. Lovecraft and classic adventure tales. Craft gripping stories of exploration, survival, and the revelation of forbidden knowledge, where each decision can lead to awe, terror, or madness. Ready to create your next chilling adventure?"
 tableau_playsets:
   - url: /games/Tableau/TwilightRoad
     btn_label: "Read More…"
@@ -91,15 +91,27 @@ Whether you're a seasoned role-player or new to tabletop storytelling, ***Tablea
 
 ## _**Tableau**_ _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_
 
-Ignite your storytelling journey with our latest streamlined edition of _**Tableau**_ _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_. They distill the heart of collaborative storytelling into a set of modular, easy-to-use rules. Whether you're crafting a tale of high fantasy, gritty noir, or personal transformation, the _Accelerated Core ꩜ Rules 📜_ provide the structure for a dynamic narrative experience. Download now and let _**Tableau**_ spark your creative passions today!
+Ignite your storytelling with streamlined _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_ for _**Tableau:**_ _Collaborative Cinematic Storytelling_. This modular system provides the essential tools to create dynamic stories in any genre, from tales of high fantasy, gritty noir, personal transformation, and more. Download the _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_ in a convenient _Print-at-Home_ format using business-card-sized sheets. Spark your creative passions today!
 
 {% include feature_row id="tableau_accelerated" type="left" %}
 
 ## _**Tableau** Storysets_&nbsp;📖
 
-_**Tableau**_ _StorySets 📚_ expand your storytelling experience by offering curated _Elements ☯_ to enhance and enrich your narratives. All _StorySets_ 📚 are modular and compatible with one another, and they easily integrate with most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames. They can also be adapted for use with many other tabletop role-playing systems. To play, you'll need also the _**Accelerated Core ꩜ Rules**_ 📜.
+_**Tableau**_ _Storysets 📚_ expand your storytelling experience by offering curated _Elements ☯_ to enhance and enrich your narratives. All _Storysets_ 📚 are modular and compatible with one another, and they easily integrate with most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames. They can also be adapted for use with many other tabletop role-playing systems. Each include a copy of the _**Accelerated Core ꩜ Rules**_ 📜 in the 1-page PDF in **Avery 10-up Business Card&nbsp;&#128196;** format.
 
 {% include feature_row id="tableau_storysets" type="left"  %}
+
+## Support Our Next Chapter: New Storysets Coming Soon!
+
+We are excited to announce our upcoming **crowdfunding campaign** for three new **Lovecraft Country** Storysets:
+
+- **A Study in Madness 🏛️**: Unravel the academic enigmas and dark secrets that threaten the mind and soul.
+- **Tidal Secrets ⚓️**: Dive deep into seafaring mysteries, where ancient truths rise from the ocean's depths.
+- **Generations 🏡**: Preserve or destroy your family legacy as choices ripple through time.
+
+Be part of the journey by pledging on Day ONE and helping us make these stories come to life. Stay tuned for more details and early access opportunities.
+
+[Join the Campaign Here!](https://www.backerkit.com/call_to_action/af40b645-b540-448d-a94b-ff209c715f01/landing)
 
 ## Reviewer Quotes
 
@@ -109,9 +121,9 @@ _**Tableau**_ _StorySets 📚_ expand your storytelling experience by offering 
 
 We've found the mechanics of ***Tableau*** work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. ***Tableau*** is a fun evening's entertainment.
 
-## Previous Versions
+## Legacy Version: **Tableau** _(r1 - 2023-05)_
 
-_(r1 - 2023-05)_
+For those who prefer the original edition of **Tableau** (r1), featuring poker-sized cards, they are are still available on **DriveThruRPG**. This edition offers a classic take on the **Tableau** system, perfect for fans of the original format.
 
 ![Tableau Logo](/assets/images/logos/Tableau_Games_portrait_white_spot_rgb_on_black_190_190.png){: style="float:right; padding:16px; " }
 
@@ -136,7 +148,7 @@ See the _[complete posts archive](/posts/)._
 
 ### Mailing List
 
-To stay updated on the latest news, including announcements about future products and Kickstarter campaigns, sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.gumroad.com/subscribe). You'll be the first to know about exciting developments, promotions, and more.
+Sign up for the [Tableau Games Announcements Mailing List](https://dyvershands.gumroad.com/subscribe) to be the first to know about new releases, upcoming crowdfunding campaigns, and exclusive promotions. Don't miss out on exciting updates for **Tableau** and future Storysets!
 
 ### Credits
 
