@@ -22,10 +22,10 @@ redirect_from:
   - /tableauGames
   - /games/tableau/
 tableau_accelerated:
-  - url: /games/Tableau/TableauCoreAccelerated
+  - url: https://downloads.dyvershands.com/l/TableauAccelerated
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     alt: Tableau Accelerated Core &#43612; Rules &#128220; Cover
-    title: Tableau Accelerated Core &#43612; Rules &#128220;
+    title: Accelerated Core &#43612; Rules &#128220;
     btn_label: Read More…
     btn_class: btn--inverse
     url2: https://downloads.dyvershands.com/l/TableauAccelerated
@@ -34,7 +34,7 @@ tableau_accelerated:
     excerpt: "_Two versions: a 2-page PDF in ‘Print-N-Fold’ **Tableau
       Booklet&nbsp;&#128214;** format, and a 1-page PDF in **Avery 10-up Business Card&nbsp;&#128196;** format._"
 tableau_storysets:
-  - url: /games/Tableau/DarkExpeditions
+  - url: https://downloads.dyvershands.com/l/DarkExpeditions
     image_path: assets/images/games/tableau/darkexpeditions/TableauStorysetDarkExpeditions_SmallCard01_StorysetCover.jpg
     alt: Dark Expeditions&nbsp;&#127957 Storyset&nbsp;&#128220; Cover
     title: Dark Expeditions&nbsp;&#127957; Storyset&nbsp;&#128220;
@@ -43,7 +43,38 @@ tableau_storysets:
     url2: https://downloads.dyvershands.com/l/DarkExpeditions
     btn_label2: Get Now! (&#8220;Name a Fair Price&#8221; $14.95 Suggested)
     btn_class2: btn--success
-    excerpt: "Venture beyond the boundaries of the known world to uncover ancient mysteries and risk entering realms of cosmic horror. This 4-page PDF supplement _(for 40 business-card-sized cards)_ for ***Tableau*** draws inspiration from the mythos of H.P. Lovecraft and classic adventure tales. Craft gripping stories of exploration, survival, and the revelation of forbidden knowledge, where each decision can lead to awe, terror, or madness."
+    excerpt: "Venture beyond the boundaries of the known world to uncover ancient mysteries and risk entering realms of cosmic horror. This 4-page PDF _(for 40 business-card-sized cards)_ draws inspiration from the mythos of H.P. Lovecraft and classic adventure tales. Craft gripping stories of exploration, survival, and the revelation of forbidden knowledge, where each decision can lead to awe, terror, or madness."
+tableau_playsets:
+  - url: /games/Tableau/TwilightRoad
+    btn_label: "Read More…"
+    btn_class: "btn--inverse"
+    url2: https://www.drivethrucards.com/product/425525/Twilight-Road-A-Playset-for-Tableau-with-Tuckbox?src=dhwebsite
+    btn_label2: "Buy Deck! ($29.95)"
+    btn_class2: "btn--success"
+    image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
+    alt: "Twilight Road Playset Cover Card"
+    title: "Twilight Road &#128739;"
+    excerpt: "You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed. These are the stories of the ***Twilight Road***. Every game session is different, every road, every journey is unique."
+  - url: /games/Tableau/GateWatch
+    btn_label: "Read More…"
+    btn_class: "btn--inverse"
+    url2: https://www.drivethrucards.com/product/416166/Gate-Watch-A-Playset-for-Tableau-with-Tuckbox?src=dhwebsite
+    btn_label2: "Buy Deck! ($24.95)"
+    btn_class2: "btn--success"
+    image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
+    alt: "Gate Watch Playset Cover Card"
+    title: "Gate Watch &#128682;"
+    excerpt: "You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the *Enigma* that is *The Gate*. Every game session is different, every world, every gate unique."
+  - url: /games/Tableau/Improv
+    btn_label: "Read More…"
+    btn_class: "btn--inverse"
+    url2: https://www.drivethrucards.com/product/433384/Tableau-Improv-Playset-with-Tuckbox?src=dhwebsite
+    btn_label2: "Buy Deck! ($15.95)"
+    btn_class2: "btn--success"
+    image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
+    alt: "Tableau Improv Playset Cover Card"
+    title: "Improv &#127914;"
+    excerpt: "Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, script workshopping and creative writing."
 ---
 
 # Tableau Games
@@ -78,15 +109,17 @@ _**Tableau**_ _StorySets 📚_ expand your storytelling experience by offering 
 
 We've found the mechanics of ***Tableau*** work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. ***Tableau*** is a fun evening's entertainment.
 
-### Previous Release
+## Previous Versions
 
-![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg){: .align-left}
-
-<p>&nbsp;</p>
+_(r1 - 2023-05)_
 
 ![Tableau Logo](/assets/images/logos/Tableau_Games_portrait_white_spot_rgb_on_black_190_190.png){: style="float:right; padding:16px; " }
 
 {% include video id="eWMsySbdm_0" provider="youtube" %}
+
+<p>&nbsp;</p>
+
+{% include feature_row id="tableau_playsets" %}
 
 ## Latest News about Tableau Games
 
@@ -103,7 +136,7 @@ See the _[complete posts archive](/posts/)._
 
 ### Mailing List
 
-To stay updated on the latest news, including announcements about future products and Kickstarter campaigns, sign up for our [Tableau Games Announcements Mailing List](/Subscribe). You'll be the first to know about exciting developments, promotions, and more.
+To stay updated on the latest news, including announcements about future products and Kickstarter campaigns, sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.gumroad.com/subscribe). You'll be the first to know about exciting developments, promotions, and more.
 
 ### Credits
 
