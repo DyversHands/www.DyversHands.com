@@ -13,15 +13,15 @@ hide_description: true
 permalink: /demo/
 
 gallery-playsets:
-  - url: assets/images/games/tableau/tableaucoreaccelerated/
+  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     alt: "Twilight Road&nbsp;&#128739;Playset&nbsp;&#127902; Cover Card"
     title: "Twilight Road&nbsp;&#128739; Playset&nbsp;&#127902;"
-  - url: assets/images/games/tableau/tableaucoreaccelerated/
+  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
     alt: "Gate Watch&nbsp;&#128682;Playset&nbsp;&#127902; Cover Card"
     title: "Gate Watch&nbsp;&#128682; Playset&nbsp;&#127902;"
-  - url: assets/images/games/tableau/tableaucoreaccelerated/
+  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
     alt: "Tableau Improv&nbsp;&#127914; Playset&nbsp;&#127902; Cover Card"
     title: "Tableau Improv&nbsp;&#127914; Playset&nbsp;&#127902;"
