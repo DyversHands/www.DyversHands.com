@@ -50,11 +50,17 @@ figure{
         padding-inline-end: 120px !important;
     }
 }
-@media screen and (min-width: 48em) and (max-width: 64em) {
+@media screen and (min-width: 60em) and (max-width: 64em) {
   .page {
         width: calc(100% - 230px) !important;
         padding-inline-end: 0px !important;
     }
+    figure.half>a, figure.half>img {
+        width: 140px !important;
+        height: auto;
+    }
+}
+@media screen and (min-width: 48em) and (max-width: 63em) {
     figure.half>a, figure.half>img {
         width: 140px !important;
         height: auto;
