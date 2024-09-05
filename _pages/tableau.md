@@ -109,7 +109,7 @@ _**Tableau**_ _StorySets 📚_ expand your storytelling experience by offering 
 
 We've found the mechanics of ***Tableau*** work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. ***Tableau*** is a fun evening's entertainment.
 
-### Previous Versions
+## Previous Versions
 
 _(r1 - 2023-05)_
 
@@ -136,7 +136,7 @@ See the _[complete posts archive](/posts/)._
 
 ### Mailing List
 
-To stay updated on the latest news, including announcements about future products and Kickstarter campaigns, sign up for our [Tableau Games Announcements Mailing List](/Subscribe). You'll be the first to know about exciting developments, promotions, and more.
+To stay updated on the latest news, including announcements about future products and Kickstarter campaigns, sign up for our [Tableau Games Announcements Mailing List](https://dyvershands.gumroad.com/subscribe). You'll be the first to know about exciting developments, promotions, and more.
 
 ### Credits
 
