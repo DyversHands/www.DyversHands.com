@@ -41,6 +41,29 @@
     height: auto !important;
   }
 }
+figure{
+  margin: 0em 0 !important;
+}
+@media (min-width: 64em) {
+    .page {
+        width: calc(100% - 400px) !important;
+        padding-inline-end: 120px !important;
+    }
+}
+
+.sidebar__right{
+  display: none !important;
+}
+
+@media screen and (max-width: 48em) and (min-width: 20em) {
+  figure img {
+    width: 170px !important;
+}
+figure.half>a, figure.half>img {
+        width: 120px !important;
+        height: auto;
+    }
+}
 </style>
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
