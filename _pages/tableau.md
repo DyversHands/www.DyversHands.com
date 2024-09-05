@@ -113,13 +113,11 @@ We've found the mechanics of ***Tableau*** work well for experienced gamers as w
 
 _(r1 - 2023-05)_
 
-![Just Funded on Kickstarter!](/assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg){: .align-left}
-
-<p>&nbsp;</p>
-
 ![Tableau Logo](/assets/images/logos/Tableau_Games_portrait_white_spot_rgb_on_black_190_190.png){: style="float:right; padding:16px; " }
 
 {% include video id="eWMsySbdm_0" provider="youtube" %}
+
+<p>&nbsp;</p>
 
 {% include feature_row id="tableau_playsets" %}
 
