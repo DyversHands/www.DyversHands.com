@@ -47,7 +47,6 @@ cardgallery_dark_expeditions:
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
     alt: "Beats Narrative Rhythms"
     title: "Beats Narrative Rhythms"
-
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_07_MovesDuringScenes.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_07_MovesDuringScenes.jpg
     alt: "Moves During Scenes"
@@ -64,4 +63,4 @@ cardgallery_dark_expeditions:
     title: "Using Story Elements"
 ---
 
-{% include layout="half"  cardgallery id="cardgallery_dark_expeditions" %}
+{% include cardgallery id="cardgallery_dark_expeditions" layout="half" %}
