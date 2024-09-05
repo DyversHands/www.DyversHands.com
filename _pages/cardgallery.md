@@ -64,4 +64,4 @@ cardgallery_dark_expeditions:
     title: "Using Story Elements"
 ---
 
-{% include layout="third"  cardgallery id="cardgallery_dark_expeditions" %}
+{% include layout="half"  cardgallery id="cardgallery_dark_expeditions" %}
