@@ -49,6 +49,9 @@ figure{
         width: calc(100% - 400px) !important;
         padding-inline-end: 120px !important;
     }
+    figure img {
+    width: 100% !important;
+}
 }
 @media screen and (min-width: 60em) and (max-width: 64em) {
   .page {
@@ -59,6 +62,9 @@ figure{
         width: 140px !important;
         height: auto;
     }
+    figure img {
+    width: 100% !important;
+}
 }
 @media screen and (min-width: 48em) and (max-width: 63em) {
     figure.half>a, figure.half>img {
@@ -76,10 +82,13 @@ figure.half>a, figure.half>img {
         width: 120px !important;
         height: auto;
     }
+    figure img {
+    width: 100% !important;
+}
 }
 @media screen and (max-width: 48em) and (min-width: 20em) {
   figure img {
-    width: 170px !important;
+    width: 100% !important;
 }
 figure.half>a, figure.half>img {
         width: 120px !important;
