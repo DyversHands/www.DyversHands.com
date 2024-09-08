@@ -21,7 +21,7 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
     alt: "Setting The Table"
-    title: "Setting The Table"
+    title: " <strong>Setting The Table </strong> <br/> This is some text after the gallery just to make sure that everything aligns properly. <br/> Here comes another gallery, this time set the id to match 2nd gallery hash in YAML Front Matter."
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
