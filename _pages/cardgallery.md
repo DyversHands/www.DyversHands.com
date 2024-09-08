@@ -16,7 +16,7 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     alt: "Cover"
-    title: "Cover"
+    title: "<strong>Cover</strong><br/><br/> <strong><i>Collaborative Cinematic Storytelling:<i></strong> <br/><br/> <strong><i>Accelerated Core💫 RULES 📑 <i></strong> <center> Written & Designed by <br/> <strong>Christopher Allen</strong></center>"
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
