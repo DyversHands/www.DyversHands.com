@@ -44,7 +44,7 @@ figure{
         height: auto;
     }
     figure img {
-    width: 100% !important;
+    width: 620px !important;
 }
 .mfp-bottom-bar {
   margin-top: -36px;
@@ -70,6 +70,9 @@ figure{
       cursor: auto;
       margin-left: 0px !important;
   }
+  figure img {
+    width: 500px !important;
+}
 }
 .sidebar__right{
   display: none !important;
