@@ -26,7 +26,10 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
     alt: "Initial Elements"
-    title: "Initial Elements"
+    title: "<strong>2 Initial Elements</strong><br><br><strong><i>Outline our story’s shape:</i></      strong><br><br><ul><li>To foster a safe, inclusive space, we first create, using a blank <strong>CARD</strong> 📝, our <strong>SAFETY</strong> 🔴 <strong>RULES</strong> 🧾, such as the simple but effective <i>X-Card</i>:
+        <ul>
+            <li>Tap this card if you experience any discomfort; no explanation is needed – the content is omitted.</li>
+        </ul></li><li>If we are using <strong>ELEMENT</strong> 🧩 <strong>CARDS</strong> 📝 from a <strong>STORYSET</strong> 📚, we choose from them first. Read aloud their introductions and establish their <strong>TRUTHS</strong> ✝️.</li><li>Create a <strong>PALETTE</strong> 🎨 on a blank <strong>CARD</strong> 📝 with a list of any narrative features we desire to explore in our story. On <strong>CONSTRAINTS</strong> 📑, we identify those narrative aspects we wish to avoid.</li><li>We should define at least a <strong>GENRE</strong> 🔍 and one <strong>SETTING</strong> 🏙️, and consider adding a <strong>THEME</strong> 🎭 or <strong>TONE</strong> 🎶.</li><li>Propose these collaboratively, one at a time, adding only with <strong>TABLE CONSENT</strong> 🤝.</li></ul>"
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
