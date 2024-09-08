@@ -75,6 +75,15 @@ figure.half>a, figure.half>img {
         width: 120px !important;
         height: auto;
     }
+    .mfp-bottom-bar {
+      margin-top: -36px;
+      position: absolute;
+      top: 100% !important;
+      left: 0% !important;
+      width: 100% !important;
+      cursor: auto;
+      margin-left: 0px !important;
+  }
 }
 
 .mfp-bottom-bar {
