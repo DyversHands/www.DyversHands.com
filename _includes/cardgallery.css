@@ -55,6 +55,10 @@ figure{
   cursor: auto;
   margin-left: 0px !important;
 }
+.mfp-image-holder .mfp-content {
+  max-width: 100%;
+  margin-left: 0% !important;
+}
 }
 @media screen and (min-width: 48em) and (max-width: 63em) {
     figure.half>a, figure.half>img {
@@ -72,6 +76,10 @@ figure{
   }
   figure img {
     width: 500px !important;
+}
+.mfp-image-holder .mfp-content {
+  max-width: 100%;
+  margin-left: 0% !important;
 }
 }
 .sidebar__right{
@@ -105,14 +113,22 @@ figure.half>a, figure.half>img {
       cursor: auto;
       margin-left: 0px !important;
   }
+  .mfp-image-holder .mfp-content {
+    max-width: 100%;
+    margin-left: 0% !important;
+  }
 }
 
 .mfp-bottom-bar {
   margin-top: -36px;
   position: absolute;
-  top: 20%;
-  left: -100%;
-  width: 120%;
+  top: 15%;
+  left: -150%;
+  width: 170%;
   cursor: auto;
   margin-left: -80px;
+}
+.mfp-image-holder .mfp-content {
+  max-width: 100%;
+  margin-left: 35% !important;
 }
