@@ -57,7 +57,7 @@ figure{
 }
 .mfp-image-holder .mfp-content {
   max-width: 100%;
-  margin-left: 0% !important;
+  margin-left: 45% !important;
 }
 }
 @media screen and (min-width: 48em) and (max-width: 63em) {
@@ -130,5 +130,5 @@ figure.half>a, figure.half>img {
 }
 .mfp-image-holder .mfp-content {
   max-width: 100%;
-  margin-left: 35% !important;
+  margin-left: 35%;
 }
