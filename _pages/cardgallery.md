@@ -63,7 +63,7 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
     alt: "Using Story Elements"
-    title: "Using Story Elements"
+    title: "_titles/adding-elements.md"
 ---
 
 {% include cardgallery id="cardgallery_dark_expeditions" layout="half" %}
