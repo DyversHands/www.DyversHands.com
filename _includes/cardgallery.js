@@ -2,7 +2,7 @@ const lightbox = document.createElement('div');
   lightbox.id = 'lightbox';
   document.body.appendChild(lightbox);
 
-  const images = document.querySelectorAll('img');
+  const images = document.getElementById('img');
   let currentIndex = 0;
 
   const updateLightbox = (index) => {

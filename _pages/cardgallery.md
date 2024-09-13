@@ -80,7 +80,7 @@ cardgallery_dark_expeditions:
 
 <div class="grid">
   {% for card in page.cardgallery_dark_expeditions %}
-    <img src="/{{card.image_path}}" data-description="{{card.title}}" data-side="{{card.position}}">
+    <img id="img" src="/{{card.image_path}}" data-description="{{card.title}}" data-side="{{card.position}}">
   {% endfor %}
 </div> 
 
