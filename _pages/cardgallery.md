@@ -17,13 +17,13 @@ cardgallery_dark_expeditions:
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     alt: "Cover"
     title: "<strong>Cover</strong><br/><br/> <strong><i>Collaborative Cinematic Storytelling:<i></strong> <br/><br/> <strong><i>Accelerated Core💫 RULES 📑 <i></strong> <center> Written & Designed by <br/> <strong>Christopher Allen</strong></center>"
-    position: left
+    position_title: left
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
     alt: "Setting The Table"
     title: "<strong>1. Setting The Table</strong><br/><br/> <strong><i>We begin our storytelling session by establishing our <strong>RULES</strong> 🧾 & STORY 📖 ELEMENTS 🧩 on THE TABLE</strong> 🛋️:<i></strong> <br/><br/> <ul> <li>The way we play together, and our dynamic storytelling choices are represented by <strong>ELEMENTS</strong> 🧩 on <strong>THE TABLE</strong> 🛋️.</li><li>These include various <strong>RULES</strong> 🧾 and <strong>STORY</strong> 📖 aspects written on <strong>ELEMENT</strong> 🧩 <strong>CARDS</strong> 📝 from a <strong>STORYSET</strong> 📚 or on blank <strong>CARDS</strong> 📝 that we create together.</li><li>Taking turns, we each propose an <strong>ELEMENT</strong> 🧩 <strong>CARD</strong> 📝 or create our own <strong>ELEMENT</strong> 🧩 by writing it up on a blank <strong>CARD</strong> 📝.</li><li>We seek <strong>TABLE CONSENT</strong> 🤝 to ensure unanimous agreement – or at the least, no objections – before placing any <strong>ELEMENT</strong> 🧩 on <strong>THE TABLE</strong> 🛋️.</li><li>Resolve any <strong>ELEMENT</strong> 🧩 conflicts with <strong>TABLE CONSENT</strong> 🤝.</li><li>We will remain open to refine our <strong>ELEMENTS</strong> 🧩 as the story evolves, allowing updates or removal from <strong>THE TABLE</strong> 🛋️ with <strong>TABLE CONSENT</strong> 🤝.</li></ul>"
-    position: right
+    position_title: right
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
@@ -32,25 +32,25 @@ cardgallery_dark_expeditions:
         <ul>
             <li>Tap this card if you experience any discomfort; no explanation is needed – the content is omitted.</li>
         </ul></li><li>If we are using <strong>ELEMENT</strong> 🧩 <strong>CARDS</strong> 📝 from a <strong>STORYSET</strong> 📚, we choose from them first. Read aloud their introductions and establish their <strong>TRUTHS</strong> ✝️.</li><li>Create a <strong>PALETTE</strong> 🎨 on a blank <strong>CARD</strong> 📝 with a list of any narrative features we desire to explore in our story. On <strong>CONSTRAINTS</strong> 📑, we identify those narrative aspects we wish to avoid.</li><li>We should define at least a <strong>GENRE</strong> 🔍 and one <strong>SETTING</strong> 🏙️, and consider adding a <strong>THEME</strong> 🎭 or <strong>TONE</strong> 🎶.</li><li>Propose these collaboratively, one at a time, adding only with <strong>TABLE CONSENT</strong> 🤝.</li></ul>"
-    position: left
+    position_title: left
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
     alt: "Adding Elements"
     title: "Adding Elements"
-    position: right
+    position_title: right
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
     alt: "Casting"
     title: "Casting"
-    position: left
+    position_title: left
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
     alt: "Scenes And The Director"
     title: "Scenes And The Director"
-    position: right
+    position_title: right
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
@@ -60,19 +60,19 @@ cardgallery_dark_expeditions:
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_07_MovesDuringScenes.jpg
     alt: "Moves During Scenes"
     title: "Moves During Scenes"
-    position: left
+    position_title: left
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_08_VulnerableAndStrongMoves.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_08_VulnerableAndStrongMoves.jpg
     alt: "Vulnerable And Strong Moves"
     title: "Vulnerable And Strong Moves"
-    position: right
+    position_title: right
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
     alt: "Using Story Elements"
     title: "Using Story Elements"
-    position: left
+    position_title: left
 ---
 <style>
   {% include cardgallery.css %}
@@ -80,7 +80,7 @@ cardgallery_dark_expeditions:
 
 <div class="grid">
   {% for card in page.cardgallery_dark_expeditions %}
-    <img src="/{{card.image_path}}" data-description="{{card.title}}" data-side="{{card.position}}">
+    <img src="/{{card.image_path}}" data-description="{{card.title}}" data-side="{{card.position_title}}">
   {% endfor %}
 </div> 
 
