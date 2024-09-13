@@ -37,43 +37,47 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
     alt: "Adding Elements"
-    title: "Adding Elements"
+    title: "3. Adding Elements"
     position_title: right
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
     alt: "Casting"
-    title: "Casting"
+    title: "4. Casting"
     position_title: left
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
     alt: "Scenes And The Director"
-    title: "Scenes And The Director"
+    title: "5. Scenes And The Director"
     position_title: right
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
     alt: "Beats Narrative Rhythms"
-    title: "Beats Narrative Rhythms"
+    title: "6. Beats Narrative Rhythms"
+    position_title: left
+
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_07_MovesDuringScenes.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_07_MovesDuringScenes.jpg
     alt: "Moves During Scenes"
-    title: "Moves During Scenes"
-    position_title: left
+    title: "7. Moves During Scenes"
+    position_title: right
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_08_VulnerableAndStrongMoves.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_08_VulnerableAndStrongMoves.jpg
     alt: "Vulnerable And Strong Moves"
-    title: "Vulnerable And Strong Moves"
-    position_title: right
+    title: "8. Vulnerable And Strong Moves"
+    position_title: left
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
     alt: "Using Story Elements"
-    title: "Using Story Elements"
-    position_title: left
+    title: "9. Using Story Elements"
+    position_title: right
 ---
+
+
 <style>
   {% include cardgallery.css %}
 </style>
