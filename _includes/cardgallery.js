@@ -34,12 +34,12 @@ const lightbox = document.createElement('div');
 
     // Create next button
     const nextButton = document.createElement('button');
-    nextButton.innerHTML = '<';
+    nextButton.innerHTML = '>';
     nextButton.classList.add('next-button');
 
       // Create previous button
     const previousButton = document.createElement('button');
-    previousButton.innerHTML = '>';
+    previousButton.innerHTML = '<';
     previousButton.classList.add('previous-button');
 
     // Clear existing content in lightbox
