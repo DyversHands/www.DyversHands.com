@@ -92,8 +92,7 @@ cardgallery_dark_expeditions:
     <ul>
       <li>If we are using <strong>FACE 👤 CARDS</strong> from a <strong>STORYSET 🗃️</strong> choose from them first and establish their <strong>TRUTHS ✝️</strong>.</li>
       <li>Each of us <strong>TAKES UP 👌</strong> a blank <strong>CARD 📇</strong> to draft a preliminary concept for our <strong>LEAD 🧑‍🤝‍🧑</strong>.</li>
-      <li>Delve into each <strong>LEAD’s 🧑‍🤝‍🧑</strong> backstory through <strong>LEADING QUESTIONS 🧑‍🏫</strong> such as 
-      <i>"What do you desire?", "What burdens do you carry?" and "How did our paths cross?"</i> to help flesh out personalities, motivations, and relationships. </li>
+      <li>Delve into each <strong>LEAD’s 🧑‍🤝‍🧑</strong> backstory through <strong>LEADING QUESTIONS 🧑‍🏫</strong> such as <i>"What do you desire?", "What burdens do you carry?" and "How did our paths cross?"</i> to help flesh out personalities, motivations, and relationships. </li>
       <li>Establish at least one <strong>TRUTH ✝️</strong> to set a foundation for each <strong>LEAD’s 🧑‍🤝‍🧑</strong> persona and at least one open <strong>QUESTION ❓</strong> for each of us to explore during our story.</li>
       <li>Before we begin our first <strong>SCENE 🎬</strong>, ensure that all details about our <strong>LEADS 🧑‍🤝‍🧑</strong> and their connections to each other and <strong>STORY 📖 ELEMENTS 🌐</strong> have <strong>TABLE CONSENT 🤝</strong>.</li>
     </ul>"

@@ -151,7 +151,7 @@ figure.half>a, figure.half>img {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, .8);
+  background-color: rgba(0, 0, 0, .93);
   display: none;
   flex-direction: row; /* Changed to row for side-by-side layout */
   overflow: hidden; /* Prevent body scrolling */
@@ -193,6 +193,7 @@ figure.half>a, figure.half>img {
   align-items: top;
   text-align: left;
   line-height: 1.6; /* Improve readability with spacing between lines */
+  margin-top: -15px;
 }
 body.lightbox-open {
   overflow: hidden; /* Prevent body scroll when modal is open */
