@@ -16,7 +16,7 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     alt: "Cover"
-    title: "<strong>Tableau</strong>
+    title: "<h3>Tableau</h3>
     <br/><br/> 
     <strong><i>Collaborative Cinematic Storytelling:</i></strong> 
     <br/><br/>

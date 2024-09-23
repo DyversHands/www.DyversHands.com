@@ -96,11 +96,3 @@ previousButton.addEventListener('click', () => {
       document.body.classList.remove('lightbox-open'); // Enable body scroll after lightbox closes
     }
   });
-
-document.addEventListener("copy", function(event) {
-  // Change the color of the title dynamically on copy event
-  const title = document.querySelector('.description');
-  if (title) {
-    title.style.color = 'blue'; // Change the color to red
-  }
-});
