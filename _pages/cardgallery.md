@@ -25,8 +25,7 @@ cardgallery_dark_expeditions:
     <br>
     <strong>Christopher Allen</strong>
     <br>
-    <ChristopherA@DyversHands.com>
-  "
+    <ChristopherA@DyversHands.com>"
     position_title: left
 
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
