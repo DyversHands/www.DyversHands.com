@@ -82,10 +82,26 @@ cardgallery_dark_expeditions:
     </ul>"
     position_title: right
 
+  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
+    image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
+    alt: "Casting"
+    title: "<strong>4. Casting</strong>
+    <br><br>
+    <i><strong>Develop our LEADS 🧑‍🤝‍🧑 and their interconnections:</strong></i>
+    <br><br>
+    <ul>
+      <li>If we are using <strong>FACE 👤 CARDS</strong> from a <strong>STORYSET 🗃️</strong> choose from them first and establish their <strong>TRUTHS ✝️</strong>.</li>
+      <li>Each of us <strong>TAKES UP 👌</strong> a blank <strong>CARD 📇</strong> to draft a preliminary concept for our <strong>LEAD 🧑‍🤝‍🧑</strong>.</li>
+      <li>Delve into each <strong>LEAD’s 🧑‍🤝‍🧑</strong> backstory through <strong>LEADING QUESTIONS 🧑‍🏫</strong> such as <i>“What do you desire?”, “What burdens do you carry?” and “How did our paths cross?”</i> to help flesh out personalities, motivations, and relationships. </li>
+      <li>Establish at least one <strong>TRUTH ✝️</strong> to set a foundation for each <strong>LEAD’s 🧑‍🤝‍🧑</strong> persona and at least one open <strong>QUESTION ❓</strong> for each of us to explore during our story.</li>
+      <li>Before we begin our first <strong>SCENE 🎬</strong>, ensure that all details about our <strong>LEADS 🧑‍🤝‍🧑</strong> and their connections to each other and <strong>STORY 📖 ELEMENTS 🌐</strong> have <strong>TABLE CONSENT 🤝</strong>.</li>
+    </ul>"
+    position_title: left
+
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
     alt: "Scenes And The Director"
-    title: "<strong>5 SCENES 🎬 and THE DIRECTOR 🕵️‍♀️</strong>
+    title: "<strong>5. SCENES 🎬 and THE DIRECTOR 🕵️‍♀️</strong>
     <br><br>
     <i><strong>We unfold our story through a series of engaging SCENES 🎬:</strong></i>
     <br><br>
@@ -103,7 +119,7 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
     alt: "Beats Narrative Rhythms"
-    title: "<strong>6 BEATS: Narrative Rhythms</strong>
+    title: "<strong>6. BEATS: Narrative Rhythms</strong>
     <br><br>
     <i><strong>Stories benefit from planned BEATS</strong> to shape character arcs and progress the narrative towards a satisfying conclusion.</i>
     <br><br>
