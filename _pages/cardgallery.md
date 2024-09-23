@@ -25,7 +25,7 @@ cardgallery_dark_expeditions:
     <br>
     <strong>Christopher Allen</strong>
     <br>
-    <ChristopherA@DyversHands.com>"
+    ChristopherA@DyversHands.com"
     position_title: left
 ---
 
