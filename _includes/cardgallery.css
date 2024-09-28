@@ -195,7 +195,7 @@ figure.half>a, figure.half>img {
 }
 
 .description {
-  align-items: top;
+  text-align: justify;
   text-align: left;
   line-height: 1.6; /* Improve readability with spacing between lines */
   margin-top: -15px;
