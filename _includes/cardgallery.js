@@ -96,19 +96,3 @@ previousButton.addEventListener('click', () => {
       document.body.classList.remove('lightbox-open'); // Enable body scroll after lightbox closes
     }
   });
-
-  // Add the display button functionality
-const displayButton = document.createElement('button');
-displayButton.innerHTML = 'Display Text';
-displayButton.classList.add('display-button');
-document.body.appendChild(displayButton);
-
-// Event listener for the display button (mobile)
-displayButton.addEventListener('click', () => {
-  const description = document.querySelector('.description');
-  if (description.style.display === 'none') {
-    description.style.display = 'block'; // Show the text
-  } else {
-    description.style.display = 'none'; // Hide the text
-  }
-});
