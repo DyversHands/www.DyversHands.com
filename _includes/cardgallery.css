@@ -251,7 +251,7 @@ body.lightbox-open {
     overflow-y: auto; /* Make the description scrollable */
     padding: 18% 0px 0px 20% ;
   }
-  
+
   #lightbox img {
     max-width: 80%; /* Adjust the width for better side-by-side layout */
     max-height: 88%;
@@ -317,4 +317,45 @@ body.lightbox-open {
   border: 0px;
   color: white;
   font-size: 60px;
+}
+/* Style for the display button */
+.display-button {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  z-index: 1001;
+}
+
+.display-button:hover {
+  background-color: #555;
+}
+
+/* Initially hide the text content */
+.description {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .description {
+    display: none; /* Initially hide the text on mobile */
+  }
+
+  /* Style changes for better mobile experience */
+  #lightbox.active {
+    flex-direction: column-reverse; /* Stack elements on mobile */
+  }
+
+  .next-button, .previous-button {
+    font-size: 40px;
+  }
+
+  .close-button {
+    font-size: 1.5rem;
+  }
 }
