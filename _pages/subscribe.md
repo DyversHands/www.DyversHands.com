@@ -1,7 +1,7 @@
 ---
-title: Subscribe to Mailing List
+permalink: subscribe
 redirect_from:
-  - /subscribe/
   - /Subscribe/
 redirect_to:
   - https://downloads.dyvershands.com/subscribe
+
