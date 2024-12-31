@@ -249,21 +249,19 @@ body.lightbox-open {
     align-items: flex-start; /* Align items to the top */
     padding-top: 50px;
     overflow-y: auto; /* Make the description scrollable */
-    padding: 18% 0px 0px 20% ;
+    padding: 18% 0px 70% 20% ;
   }
   .description-left {
     color: white;
     font-size: 15px;
     margin-right: 20px;
     max-width: 70% !important;
-    overflow: auto;
   }
   .description-right {
     color: white;
     font-size: 15px;
     margin-right: 20px;
     max-width: 70% !important;
-    overflow: auto;
   }
   #lightbox img {
     max-width: 80%; /* Adjust the width for better side-by-side layout */
