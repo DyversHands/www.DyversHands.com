@@ -280,6 +280,10 @@ body.lightbox-open {
   .title{
     font-size: x-large;
     color: white;
+    width: 71%;
+  }
+  .next-button, .previous-button{
+    font-size: 45px !important;
   }
 }
 
@@ -290,7 +294,7 @@ body.lightbox-open {
   background: transparent;
   border: none;
   color: white;
-  font-size: 5rem;
+  font-size: 3.5rem;
   cursor: pointer;
   z-index: 100001; /* Make sure it's above the lightbox content */
 }
