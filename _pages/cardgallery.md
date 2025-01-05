@@ -13,8 +13,8 @@ hide_description: true
 permalink: /cardgallery/
 
 cardgallery_dark_expeditions:
-  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
-    image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
+  - url: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
+    image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     alt: "Cover"
     title: "<strong>Tableau</strong>"
     content: "<h2>Tableau</h2>
@@ -30,8 +30,8 @@ cardgallery_dark_expeditions:
     <i> c 2024 by Dyvers Hands Productions, LLC, r2av1 2024-08 </i>"
     position_title: left
 
-  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
-    image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
+  - url: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
+    image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
     alt: "Setting The Table"
     title: "<strong>1. Setting The Table</strong>"
     content: "<strong>1. Setting The Table</strong>
@@ -47,8 +47,8 @@ cardgallery_dark_expeditions:
     </ul>"
     position_title: right
 
-  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
-    image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
+  - url: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
+    image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
     alt: "Initial Elements"
     title: "<strong>2. Initial Elements</strong>"
     content: "<strong>2. Initial Elements</strong>
@@ -68,8 +68,8 @@ cardgallery_dark_expeditions:
     </ul>"
     position_title: left
 
-  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
-    image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
+  - url: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
+    image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
     alt: "Adding Elements"
     title: "<strong>3. Adding Elements</strong>"
     content: "<strong>3. Adding Elements</strong>
@@ -86,8 +86,8 @@ cardgallery_dark_expeditions:
     </ul>"
     position_title: right
 
-  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
-    image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
+  - url: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
+    image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
     alt: "Casting"
     title: "<strong>4. Casting</strong>"
     content: "<strong>4. Casting</strong>
@@ -103,8 +103,8 @@ cardgallery_dark_expeditions:
     </ul>"
     position_title: left
 
-  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
-    image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
+  - url: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
+    image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
     alt: "Scenes And The Director"
     title: "<strong>5. SCENES 🎬 and THE DIRECTOR 🕵️‍♀️</strong>"
     content: "<strong>5. SCENES 🎬 and THE DIRECTOR 🕵️‍♀️</strong>
@@ -122,8 +122,8 @@ cardgallery_dark_expeditions:
     </ul>"
     position_title: right
 
-  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
-    image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
+  - url: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
+    image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
     alt: "Beats Narrative Rhythms"
     title: "<strong>6. BEATS: Narrative Rhythms</strong>"
     content: "<strong>6. BEATS: Narrative Rhythms</strong>
@@ -138,8 +138,8 @@ cardgallery_dark_expeditions:
     </ul>"
     position_title: left
 
-  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_07_MovesDuringScenes.jpg
-    image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_07_MovesDuringScenes.jpg
+  - url: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_07_MovesDuringScenes.jpg
+    image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_07_MovesDuringScenes.jpg
     alt: "Moves During Scenes"
     title: "<strong>7. MOVES ⬆ During Scenes 🎬</strong>"
     content: "<strong>7. MOVES ⬆ During Scenes 🎬</strong>
@@ -156,8 +156,8 @@ cardgallery_dark_expeditions:
     </ul>"
     position_title: right
 
-  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_08_VulnerableAndStrongMoves.jpg
-    image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_08_VulnerableAndStrongMoves.jpg
+  - url: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_08_VulnerableAndStrongMoves.jpg
+    image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_08_VulnerableAndStrongMoves.jpg
     alt: "Vulnerable And Strong Moves"
     title: "<strong>8. Vulnerable & Strong MOVES ⬆</strong>"
     content: "<strong>8. Vulnerable & Strong MOVES ⬆</strong>
@@ -172,8 +172,8 @@ cardgallery_dark_expeditions:
     </ul>"
     position_title: left
 
-  - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
-    image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
+  - url: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
+    image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
     alt: "Using Story Elements"
     title: "<strong>9. Using Story 🏛 Elements</strong>"
     content: "<strong>9. Using Story 🏛 Elements</strong>
