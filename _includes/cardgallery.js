@@ -15,7 +15,9 @@ const lightbox = document.createElement('div');
 
     // Create description element
     const description = document.createElement('p');
+    const title = document.createElement('h4');
     description.classList.add('description');
+    title.classList.add('title');
 
     // Choose whether the description is on the right or left
     const side = image.getAttribute('data-side') || 'right'; // Default to right
@@ -25,6 +27,7 @@ const lightbox = document.createElement('div');
       description.classList.add('description-left');
     }
 
+    title.innerHTML = image.getAttribute('data-title');
     description.innerHTML = image.getAttribute('data-description');
 
     // Create close button
@@ -52,9 +55,11 @@ const lightbox = document.createElement('div');
     if (side === 'right') {
       lightbox.appendChild(img);
       lightbox.appendChild(description);
+      lightbox.appendChild(title);
     } else {
       lightbox.appendChild(description);
       lightbox.appendChild(img);
+      lightbox.appendChild(title);
     }
 
     lightbox.appendChild(nextButton);

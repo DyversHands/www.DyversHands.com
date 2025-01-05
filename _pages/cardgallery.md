@@ -16,7 +16,8 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     alt: "Cover"
-    title: "<h2>Tableau</h2>
+    title: "<strong>Tableau</strong>"
+    content: "<h2>Tableau</h2>
     <br>
     <strong><i>Collaborative Cinematic Storytelling:</i></strong> 
     <br/><br/>
@@ -32,7 +33,8 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
     alt: "Setting The Table"
-    title: "<strong>1. Setting The Table</strong>
+    title: "<strong>1. Setting The Table</strong>"
+    content: "<strong>1. Setting The Table</strong>
     <br/><br/> 
     <strong><i>We begin our storytelling session by establishing our <strong>RULES</strong> 🧾 & STORY 📖 ELEMENTS 🧩 on THE TABLE</strong> 🛋️:</i></strong> 
     <br/><br/> 
@@ -48,7 +50,8 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
     alt: "Initial Elements"
-    title: "<strong>2. Initial Elements</strong>
+    title: "<strong>2. Initial Elements</strong>"
+    content: "<strong>2. Initial Elements</strong>
     <br><br>
     <strong><i>Outline our story’s shape:</i></strong>
     <br><br>
@@ -68,7 +71,8 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
     alt: "Adding Elements"
-    title: "<strong>3. Adding Elements</strong>
+    title: "<strong>3. Adding Elements</strong>"
+    content: "<strong>3. Adding Elements</strong>
     <br><br>
     <i><strong>Deepen the foundations of our narrative:</strong></i>
     <br><br>
@@ -85,7 +89,8 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
     alt: "Casting"
-    title: "<strong>4. Casting</strong>
+    title: "<strong>4. Casting</strong>"
+    content: "<strong>4. Casting</strong>
     <br><br>
     <i><strong>Develop our LEADS 🧑‍🤝‍🧑 and their interconnections:</strong></i>
     <br><br>
@@ -101,7 +106,8 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
     alt: "Scenes And The Director"
-    title: "<strong>5. SCENES 🎬 and THE DIRECTOR 🕵️‍♀️</strong>
+    title: "<strong>5. SCENES 🎬 and THE DIRECTOR 🕵️‍♀️</strong>"
+    content: "<strong>5. SCENES 🎬 and THE DIRECTOR 🕵️‍♀️</strong>
     <br><br>
     <i><strong>We unfold our story through a series of engaging SCENES 🎬:</strong></i>
     <br><br>
@@ -119,7 +125,8 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
     alt: "Beats Narrative Rhythms"
-    title: "<strong>6. BEATS: Narrative Rhythms</strong>
+    title: "<strong>6. BEATS: Narrative Rhythms</strong>"
+    content: "<strong>6. BEATS: Narrative Rhythms</strong>
     <br><br>
     <i><strong>Stories benefit from planned BEATS</strong> to shape character arcs and progress the narrative towards a satisfying conclusion.</i>
     <br><br>
@@ -134,7 +141,8 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_07_MovesDuringScenes.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_07_MovesDuringScenes.jpg
     alt: "Moves During Scenes"
-    title: "<strong>7. MOVES ⬆ During Scenes 🎬</strong>
+    title: "<strong>7. MOVES ⬆ During Scenes 🎬</strong>"
+    content: "<strong>7. MOVES ⬆ During Scenes 🎬</strong>
     <br><br>
     <i><strong>Navigate character actions and consequences during SCENES 🎬:</strong></i>
     <br><br>
@@ -151,7 +159,8 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_08_VulnerableAndStrongMoves.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_08_VulnerableAndStrongMoves.jpg
     alt: "Vulnerable And Strong Moves"
-    title: "<strong>8. Vulnerable & Strong MOVES ⬆</strong>
+    title: "<strong>8. Vulnerable & Strong MOVES ⬆</strong>"
+    content: "<strong>8. Vulnerable & Strong MOVES ⬆</strong>
     <br><br>
     <i><strong>Use DRAMA TOKENS 🎭 to navigate the ebb and flow of dramatic tension.</strong></i>
     <br><br>
@@ -166,7 +175,8 @@ cardgallery_dark_expeditions:
   - url: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
     image_path: assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
     alt: "Using Story Elements"
-    title: "<strong>9. Using Story 🏛 Elements</strong>
+    title: "<strong>9. Using Story 🏛 Elements</strong>"
+    content: "<strong>9. Using Story 🏛 Elements</strong>
     <br><br>
     <i><strong>Harness and control STORY 🏛 ELEMENTS ⌛ within SCENES 🎬:</strong></i>
     <br><br>
@@ -188,7 +198,7 @@ cardgallery_dark_expeditions:
 
 <div class="grid">
   {% for card in page.cardgallery_dark_expeditions %}
-    <img src="/{{card.image_path}}" data-description="{{card.title | markdownify}}" data-side="{{card.position_title}}">
+    <img src="{{card.image_path}}" data-title="{{card.title | markdownify}}"  data-description="{{card.content | markdownify}}" data-side="{{card.position_title}}">
   {% endfor %}
 </div> 
 

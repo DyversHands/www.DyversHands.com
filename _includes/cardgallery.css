@@ -150,16 +150,21 @@ figure.half>a, figure.half>img {
   filter: alpha(opacity = 80);
 }
 
-#lightbox {
-  position: fixed;
-  z-index: 1000;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, .93);
-  display: none;
-  flex-direction: row; /* Changed to row for side-by-side layout */
-  overflow: hidden; /* Prevent body scrolling */
+@media screen and (min-width: 769px) {
+  #lightbox {
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .93);
+    display: none;
+    flex-direction: row; /* Changed to row for side-by-side layout */
+    overflow: hidden; /* Prevent body scrolling */
+  }
+  .title{
+    display: none;
+  }
 }
 
 #lightbox img {
@@ -220,12 +225,7 @@ body.lightbox-open {
   .grid {
     grid-template-columns: repeat(3, 1fr); /* 3 images per row on tablet */
   }
-  .next-button{
-    margin-top: 20vh !important;
-  }
-  .previous-button{
-    margin-top: 20vh !important;
-  }
+
 }
 
 @media (max-width: 768px) {
@@ -249,7 +249,7 @@ body.lightbox-open {
     align-items: flex-start; /* Align items to the top */
     padding-top: 50px;
     overflow-y: auto; /* Make the description scrollable */
-    padding: 18% 0px 0px 20% ;
+    padding: 18% 0px 0px 24% ;
   }
   .description-left {
     color: white;
@@ -257,6 +257,7 @@ body.lightbox-open {
     margin-right: 20px;
     max-width: 70% !important;
     overflow: auto;
+    display: none !important;
   }
   .description-right {
     color: white;
@@ -264,6 +265,7 @@ body.lightbox-open {
     margin-right: 20px;
     max-width: 70% !important;
     overflow: auto;
+    display: none !important;
   }
   #lightbox img {
     max-width: 80%; /* Adjust the width for better side-by-side layout */
@@ -273,29 +275,14 @@ body.lightbox-open {
     border: 2px solid white;
     top: 0;
     position: relative;
+    width: 71%;
   }
-  .next-button{
-    vertical-align: middle;
-    margin-top: 0vh !important;
-    position: fixed;
-    margin-left: 65% !important;
-    background-color: transparent;
-    border: 0px;
+  .title{
+    font-size: x-large;
     color: white;
-    font-size: 55px !important;
   }
-  .previous-button{
-    vertical-align: middle;
-    margin-top: 0vh !important;
-    position: fixed;
-    margin-left: -19% !important;
-    background-color: transparent;
-    border: 0px;
-    color: white;
-    font-size: 55px !important;
-  }
-  
 }
+
 .close-button {
   position: fixed;
   top: 0px;
@@ -303,7 +290,7 @@ body.lightbox-open {
   background: transparent;
   border: none;
   color: white;
-  font-size: 2rem;
+  font-size: 5rem;
   cursor: pointer;
   z-index: 100001; /* Make sure it's above the lightbox content */
 }
@@ -312,22 +299,21 @@ body.lightbox-open {
 }
 
 .next-button{
-  vertical-align: middle;
-  margin-top: 30vh;
   position: fixed;
-  margin-left: 85%;
   background-color: transparent;
   border: 0px;
   color: white;
-  font-size: 60px;
+  font-size: 55px;
+  top: 50%;
+  right: 15px;
 }
 .previous-button{
   vertical-align: middle;
-  margin-top: 30vh;
   position: fixed;
-  margin-left: -85%;
   background-color: transparent;
   border: 0px;
   color: white;
-  font-size: 60px;
+  font-size: 55px;
+  left: 15px;
+  top: 50%;
 }
