@@ -206,7 +206,7 @@ figure.half>a, figure.half>img {
   text-align: justify;
   text-align: left;
   line-height: 1.6; /* Improve readability with spacing between lines */
-  margin-top: -15px;
+  margin-top: 45px;
 }
 body.lightbox-open {
   overflow: hidden; /* Prevent body scroll when modal is open */
@@ -252,7 +252,7 @@ body.lightbox-open {
     align-items: flex-start; /* Align items to the top */
     padding-top: 50px;
     overflow-y: auto; /* Make the description scrollable */
-    padding: 18% 0px 0px 24% ;
+    padding: 18% 0px 0px 20%;
   }
   .description-left {
     color: white;
@@ -285,8 +285,8 @@ body.lightbox-open {
     color: white;
     width: 71%;
   }
-  .title h4{
-    margin: -6em 0 0 0 !important;
+  .title p strong{
+    margin: 2em 0 .5em !important;
   }
   .next-button, .previous-button{
     font-size: 45px !important;
@@ -303,7 +303,9 @@ body.lightbox-open {
     background: cadetblue;
     border-radius: 7px;
   }
-  
+  .title-desktop{
+    display: none;
+  }
 }
 
 .close-button {
@@ -339,4 +341,9 @@ body.lightbox-open {
   font-size: 55px;
   left: 15px;
   top: 50%;
+}
+.title-desktop{
+  position: fixed;
+  color: white;
+  margin: -10px 0 0 190px;
 }

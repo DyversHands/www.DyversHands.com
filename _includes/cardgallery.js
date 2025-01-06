@@ -16,8 +16,10 @@ const updateLightbox = (index) => {
   // Create description element
   const description = document.createElement('p');
   const title = document.createElement('h4');
+  const titleDesktop = document.createElement('h4');
   description.classList.add('description');
   title.classList.add('title');
+  titleDesktop.classList.add('title-desktop');
 
   // Create description content element
   const descriptionContent = document.createElement('div');
@@ -39,13 +41,29 @@ const updateLightbox = (index) => {
       readMoreButton.innerText = 'Read More';
       descriptionContent.appendChild(readMoreButton);
       img.style.display = 'block'; // Show image
-      lightbox.style.padding = '18% 0px 0px 24%'; // Add padding
+      // Select all elements matching the selector
+      const titleElements = document.querySelectorAll('.title');
+
+      // Apply the styles to each element
+      titleElements.forEach(element => {
+        element.style.margin = '6em 0 .5em';
+        element.style.setProperty('margin', '2em 0 .5em', 'important');
+      });
+     
     } else {
       descriptionContent.innerHTML = fullContent;
       readMoreButton.innerText = 'Read Less';
       descriptionContent.appendChild(readMoreButton);
       img.style.display = 'none'; // Hide image
-      lightbox.style.padding = '130% 0px 0 20%'; // Add padding
+// Select all elements matching the selector
+const titleElements = document.querySelectorAll('.title');
+
+// Apply the styles to each element
+titleElements.forEach(element => {
+  element.style.margin = '17em 0 .5em';
+  element.style.setProperty('margin', '17em 0 .5em', 'important');
+});
+      
     }
     descriptionContent.classList.toggle('expanded');
   });
@@ -57,7 +75,7 @@ const updateLightbox = (index) => {
   } else {
     description.classList.add('description-left');
   }
-
+  titleDesktop.innerHTML = image.getAttribute('data-title');
   title.innerHTML = image.getAttribute('data-title');
   description.innerHTML = image.getAttribute('data-description');
 
@@ -88,8 +106,10 @@ lightbox.appendChild(descriptionContent);
   lightbox.appendChild(closeButton);
   if (side === 'right') {
     lightbox.appendChild(img);
+    lightbox.appendChild(titleDesktop);
     lightbox.appendChild(description);
   } else {
+    lightbox.appendChild(titleDesktop);
     lightbox.appendChild(description);
     lightbox.appendChild(img);
   }
@@ -113,7 +133,6 @@ lightbox.appendChild(nextButton);
   // Close the lightbox when the close button is clicked
   closeButton.addEventListener('click', () => {
     lightbox.classList.remove('active');
-    lightbox.style.padding = '18% 0px 0px 24%'; // Add padding
     document.body.classList.remove('lightbox-open'); // Enable body scroll after lightbox closes
   });
 };
