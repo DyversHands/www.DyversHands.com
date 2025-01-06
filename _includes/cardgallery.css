@@ -342,8 +342,3 @@ body.lightbox-open {
   left: 15px;
   top: 50%;
 }
-.title-desktop{
-  position: fixed;
-  color: white;
-  margin: -10px 0 0 190px;
-}

@@ -46,7 +46,7 @@ const updateLightbox = (index) => {
 
       // Apply the styles to each element
       titleElements.forEach(element => {
-        element.style.margin = '6em 0 .5em';
+        element.style.margin = '2em 0 .5em';
         element.style.setProperty('margin', '2em 0 .5em', 'important');
       });
      
@@ -60,8 +60,8 @@ const titleElements = document.querySelectorAll('.title');
 
 // Apply the styles to each element
 titleElements.forEach(element => {
-  element.style.margin = '17em 0 .5em';
-  element.style.setProperty('margin', '17em 0 .5em', 'important');
+  element.style.margin = '24em 0 .5em';
+  element.style.setProperty('margin', '24em 0 .5em', 'important');
 });
       
     }
@@ -108,10 +108,28 @@ lightbox.appendChild(descriptionContent);
     lightbox.appendChild(img);
     lightbox.appendChild(titleDesktop);
     lightbox.appendChild(description);
+    // Select all elements matching the selector
+const titleDesktopElements = document.querySelectorAll('.title-desktop');
+
+// Apply the styles to each element
+titleDesktopElements.forEach(element => {
+  element.style.position = 'absolute';
+  element.style.color = 'white';
+  element.style.margin = '-10px 0 0 250px';
+});
   } else {
     lightbox.appendChild(titleDesktop);
     lightbox.appendChild(description);
     lightbox.appendChild(img);
+    // Select all elements matching the selector
+const titleDesktopElements = document.querySelectorAll('.title-desktop');
+
+// Apply the styles to each element
+titleDesktopElements.forEach(element => {
+  element.style.position = 'absolute';
+  element.style.color = 'white';
+  element.style.margin = '-10px 0 0 -350px';
+});
   }
 
 lightbox.appendChild(nextButton);
