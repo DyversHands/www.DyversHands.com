@@ -39,11 +39,13 @@ const updateLightbox = (index) => {
       readMoreButton.innerText = 'Read More';
       descriptionContent.appendChild(readMoreButton);
       img.style.display = 'block'; // Show image
+      lightbox.style.padding = '18% 0px 0px 24%'; // Add padding
     } else {
       descriptionContent.innerHTML = fullContent;
       readMoreButton.innerText = 'Read Less';
       descriptionContent.appendChild(readMoreButton);
       img.style.display = 'none'; // Hide image
+      lightbox.style.padding = '130% 0px 0 20%'; // Add padding
     }
     descriptionContent.classList.toggle('expanded');
   });
@@ -111,6 +113,7 @@ lightbox.appendChild(nextButton);
   // Close the lightbox when the close button is clicked
   closeButton.addEventListener('click', () => {
     lightbox.classList.remove('active');
+    lightbox.style.padding = '18% 0px 0px 24%'; // Add padding
     document.body.classList.remove('lightbox-open'); // Enable body scroll after lightbox closes
   });
 };
