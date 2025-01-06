@@ -17,9 +17,7 @@ cardgallery_dark_expeditions:
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg
     alt: "Cover"
     title: "<strong>Tableau</strong>"
-    content: "<h2>Tableau</h2>
-    <br>
-    <strong><i>Collaborative Cinematic Storytelling:</i></strong> 
+    content: "<strong><i>Collaborative Cinematic Storytelling:</i></strong> 
     <br/><br/>
     <strong><i>Accelerated Core💫 RULES 📑 </i></strong> 
     <p>Written & Designed by</p> 
@@ -34,9 +32,7 @@ cardgallery_dark_expeditions:
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_01_SettingThe_Table.jpg
     alt: "Setting The Table"
     title: "<strong>1. Setting The Table</strong>"
-    content: "<strong>1. Setting The Table</strong>
-    <br/><br/> 
-    <strong><i>We begin our storytelling session by establishing our <strong>RULES</strong> 🧾 & STORY 📖 ELEMENTS 🧩 on THE TABLE</strong> 🛋️:</i></strong> 
+    content: "<strong><i>We begin our storytelling session by establishing our <strong>RULES</strong> 🧾 & STORY 📖 ELEMENTS 🧩 on THE TABLE</strong> 🛋️:</i></strong> 
     <br/><br/> 
     <ul> 
       <li>The way we play together, and our dynamic storytelling choices are represented by <strong>ELEMENTS</strong> 🧩 on <strong>THE TABLE</strong> 🛋️.</li>
@@ -51,11 +47,9 @@ cardgallery_dark_expeditions:
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_02_InitialElements.jpg
     alt: "Initial Elements"
     title: "<strong>2. Initial Elements</strong>"
-    content: "<strong>2. Initial Elements</strong>
-    <br><br>
-    <strong><i>Outline our story’s shape:</i></strong>
-    <br><br>
-    <ul>
+    content: "<strong><i>Outline our story’s shape:</i></strong>
+      <br><br>
+      <ul>
       <li>To foster a safe, inclusive space, we first create, using a blank <strong>CARD</strong> 📝, our <strong>SAFETY</strong> 🔴          <strong>RULES</strong> 🧾, such as the simple but effective <i>X-Card</i>:
         <ul>
           <li>Tap this card if you experience any discomfort; no explanation is needed – the content is omitted.</li>
@@ -72,9 +66,7 @@ cardgallery_dark_expeditions:
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_03_AddingElements.jpg
     alt: "Adding Elements"
     title: "<strong>3. Adding Elements</strong>"
-    content: "<strong>3. Adding Elements</strong>
-    <br><br>
-    <i><strong>Deepen the foundations of our narrative:</strong></i>
+    content: "<i><strong>Deepen the foundations of our narrative:</strong></i>
     <br><br>
     <ul>
       <li>Develop <strong>QUESTIONS</strong> <em>?</em> and underline <strong>TRUTHS</strong> <em>†</em> on blank <strong>CARDS</strong> as <strong>STORY ELEMENTS</strong> <em>✪</em>, each to spotlight a unique aspect of our fictional world or pose an inquiry to drive narrative exploration.</li>
@@ -90,9 +82,7 @@ cardgallery_dark_expeditions:
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_04_Casting.jpg
     alt: "Casting"
     title: "<strong>4. Casting</strong>"
-    content: "<strong>4. Casting</strong>
-    <br><br>
-    <i><strong>Develop our LEADS 🧑‍🤝‍🧑 and their interconnections:</strong></i>
+    content: "<i><strong>Develop our LEADS 🧑‍🤝‍🧑 and their interconnections:</strong></i>
     <br><br>
     <ul>
       <li>If we are using <strong>FACE 👤 CARDS</strong> from a <strong>STORYSET 🗃️</strong> choose from them first and establish their <strong>TRUTHS ✝️</strong>.</li>
@@ -107,9 +97,7 @@ cardgallery_dark_expeditions:
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_05_ScenesAndThe Director.jpg
     alt: "Scenes And The Director"
     title: "<strong>5. SCENES 🎬 and THE DIRECTOR 🕵️‍♀️</strong>"
-    content: "<strong>5. SCENES 🎬 and THE DIRECTOR 🕵️‍♀️</strong>
-    <br><br>
-    <i><strong>We unfold our story through a series of engaging SCENES 🎬:</strong></i>
+    content: "<i><strong>We unfold our story through a series of engaging SCENES 🎬:</strong></i>
     <br><br>
     <ul>
       <li>Rotate the role of <strong>THE DIRECTOR 🕵️‍♀️</strong>.</li>
@@ -126,15 +114,13 @@ cardgallery_dark_expeditions:
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_06_BeatsNarrativeRhythms.jpg
     alt: "Beats Narrative Rhythms"
     title: "<strong>6. BEATS: Narrative Rhythms</strong>"
-    content: "<strong>6. BEATS: Narrative Rhythms</strong>
-    <br><br>
-    <i><strong>Stories benefit from planned BEATS</strong> to shape character arcs and progress the narrative towards a satisfying conclusion.</i>
+    content: "<i><strong>Stories benefit from planned BEATS</strong> to shape character arcs and progress the narrative towards a satisfying conclusion.</i>
     <br><br>
     <ul>
-      <li>If you don’t have BEATS 🍵 from a STORYSET 🍵, use the following to navigate our LEADS 🍵 through the classic literary ebb & flow:</li>
-      <li><strong>Development:</strong> Start with a captivating HOOK 🍵, introduce the world and its challenges with STASIS & STAKES 🍵, followed by a CATALYST 🍵 to launch the LEADS into action, culminating in RISING ACTION 🍵.</li>
-      <li><strong>Confrontation:</strong> Unveil the main conflict at a TURNING POINT 🍵, push LEADS towards decisive actions at the point of NO RETURN 🍵, potentially SPIRAL 🍵 into chaos or a momentary FALSE VICTORY 🍵.</li>
-      <li><strong>Resolution:</strong> The LEADS face crucial decisions that heighten tension at the CROSSROADS 🍵 which lead to a CLIMAX 🍵 and resolve in a DENOUEMENT 🍵 to tie together the narrative threads and satisfyingly conclude our tale.</li>
+      <li>If you don’t have BEATS  from a STORYSET 🍵, use the following to navigate our LEADS 🍵 through the classic literary ebb & flow:</li>
+      <li><strong>Development:</strong> Start with a captivating HOOK 🍵, introduce the world and its challenges with STASIS & STAKES , followed by a CATALYST  to launch the LEADS into action, culminating in RISING ACTION .</li>
+      <li><strong>Confrontation:</strong> Unveil the main conflict at a TURNING POINT , push LEADS towards decisive actions at the point of NO RETURN , potentially SPIRAL  into chaos or a momentary FALSE VICTORY .</li>
+      <li><strong>Resolution:</strong> The LEADS face crucial decisions that heighten tension at the CROSSROADS  which lead to a CLIMAX  and resolve in a DENOUEMENT 🍵 to tie together the narrative threads and satisfyingly conclude our tale.</li>
     </ul>"
     position_title: left
 
@@ -142,9 +128,7 @@ cardgallery_dark_expeditions:
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_07_MovesDuringScenes.jpg
     alt: "Moves During Scenes"
     title: "<strong>7. MOVES ⬆ During Scenes 🎬</strong>"
-    content: "<strong>7. MOVES ⬆ During Scenes 🎬</strong>
-    <br><br>
-    <i><strong>Navigate character actions and consequences during SCENES 🎬:</strong></i>
+    content: "<i><strong>Navigate character actions and consequences during SCENES 🎬:</strong></i>
     <br><br>
     <ul>
       <li>During any SCENE 🎬, a LEAD 🧍 can attempt any MOVE ⬆ representing their character’s action.</li>
@@ -160,9 +144,7 @@ cardgallery_dark_expeditions:
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_08_VulnerableAndStrongMoves.jpg
     alt: "Vulnerable And Strong Moves"
     title: "<strong>8. Vulnerable & Strong MOVES ⬆</strong>"
-    content: "<strong>8. Vulnerable & Strong MOVES ⬆</strong>
-    <br><br>
-    <i><strong>Use DRAMA TOKENS 🎭 to navigate the ebb and flow of dramatic tension.</strong></i>
+    content: "<i><strong>Use DRAMA TOKENS 🎭 to navigate the ebb and flow of dramatic tension.</strong></i>
     <br><br>
     <ul>
       <li><strong>VULNERABLE</strong> ⬇ MOVES ⬆ happen when a LEAD 🧍, based on an intrinsic TRUTH ✝, takes a personal risk that may lead to failure or expose a weakness. These moments, essential for character development, earn a DRAMA TOKEN 🎭 from the pool.</li>
@@ -176,9 +158,7 @@ cardgallery_dark_expeditions:
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_09_UsingStoryElements.jpg
     alt: "Using Story Elements"
     title: "<strong>9. Using Story 🏛 Elements</strong>"
-    content: "<strong>9. Using Story 🏛 Elements</strong>
-    <br><br>
-    <i><strong>Harness and control STORY 🏛 ELEMENTS ⌛ within SCENES 🎬:</strong></i>
+    content: "<i><strong>Harness and control STORY 🏛 ELEMENTS ⌛ within SCENES 🎬:</strong></i>
     <br><br>
     <ul>
       <li>We can TAKE UP 🏛 any STORY 🏛 ELEMENT ⌛ from THE TABLE 🗂, thus gain control to shape its narrative aspects.</li>
