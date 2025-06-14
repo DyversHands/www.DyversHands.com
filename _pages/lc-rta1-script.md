@@ -1,47 +1,96 @@
 ---
-cover: false
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.25"
-  overlay_image: /images/qr-background.jpg
-hide_description: true
-classes:
-  - script-page
-  - wide
+# ==============================================================================
+# JEKYLL CONFIGURATION
+# These settings control how Jekyll processes and displays this page
+# ==============================================================================
+
+layout: script
 permalink: /Comics/lovecraft-country-return-to-arkham-no-1
 redirect_from:
   - /comics/rta1
   - /Comics/rta1
+published: true  # Jekyll setting: true = page is rendered, false = page is hidden
+categories: [script, lovecraft-country]
+
+# Page Display Settings
+classes:
+  - script-page
+  - wide
+cover: false
+hide_description: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /images/qr-background.jpg
+
+# ==============================================================================
+# COMIC METADATA
+# Information about the comic book/graphic novel itself
+# ==============================================================================
+
+# Basic Issue Information
 title: "Lovecraft Country: Return to Arkham"
 series: "Lovecraft Country"
 issue: 1
 issue_title: "Return to Arkham"
-script_version: "v3.01"
-status: "Final"
-published: true
-published_date: 2005
-arc_total_issues: 6
-continuity_date: "Summer 1933"
-setting: "Arkham, Massachusetts during the Great Depression"
-main_character: "Seth Fletcher"
-synopsis: >
-  Seth Fletcher arrives in Arkham to search for his missing brother Carlton.
-  The town’s outward normalcy hides academic intrigue, lingering trauma from
-  a Moroccan expedition, and the eerie symbols of the Yellow Sign.
+
+# Creative Team
 creators:
   writers: Shannon Appelcline
   artists: Saffronrage Solutions
   letterers: Saffronrage Solutions
-  publishers: Christopher Allen
+  editors: Christopher Allen
   cover_artists: Shannon Appelcline
+
+# Publication Details
+publication_status: "Published"  # Options: Published, Unpublished, In Development
+first_published_date: 2005  # Year of first publication (if published)
 publisher: "Dyvers Hands Productions, LLC"
+script_version: "v3.01"
+script_status: "Final"  # Options: Draft, Final, Revised
+
+# Story Information
+synopsis: >
+  Seth Fletcher arrives in Arkham to search for his missing brother Carlton.
+  The town's outward normalcy hides academic intrigue, lingering trauma from
+  a Moroccan expedition, and the eerie symbols of the Yellow Sign.
+logline: "A young man searches for his missing brother in a town haunted by academic secrets and otherworldly mysteries."
+tagline: "Some answers are better left unfound."
+main_characters: "Seth Fletcher"
+setting: "Arkham, Massachusetts during the Great Depression"
+
+# Genre and Classification
+genres:
+  - "Horror"
+  - "Mystery"
+  - "Period Drama"
+rating: "Teen+"
+keywords:
+  - "Lovecraft"
+  - "1930s"
+  - "cosmic horror"
+  - "missing persons"
+  - "Yellow Sign"
+
+# Series/Arc Information
 continuity:
   arc: "Arkham by Night"
   placement: "Prequel to 'Whitechapel' arc"
   timeline: "Summer 1933"
-layout: script
-permalink: /scripts/return-to-arkham/
-categories: [script, lovecraft-country]
+arc_total_issues: 6
+
+# Adaptation Information (if applicable)
+runtime: "Estimated 120 mins if adapted to screen"
+aspect_ratio: "1.85:1"
+language: "English"
+subtitle_languages:
+  - "Spanish"
+  - "French"
+adaptation_notes: >
+  This comic is structured as a mystery thriller with cosmic horror elements. 
+  The pacing builds from normalcy to the uncanny, suitable for both print and screen adaptation.
+
+# Legal Information
 copyright: "© 2005 Dyvers Hands Productions, LLC"
 license: "Creative Commons BY-NC-SA 4.0"
 license-short: CC-BY-SA
@@ -54,12 +103,11 @@ rights_holder: "Dyvers Hands Productions, LLC"
 
 > Written by {{ page.creators.writers }}  
 > Art & Lettering by {{ page.creators.artists }}  
-> Published by {{ page.creators.publishers }} / {{ page.publisher }}  
-> First published: {{ page.published_date }}  
+> Published by {{ page.creators.editors }} / {{ page.publisher }}  
+> First published: {{ page.first_published_date }}  
 > Second Edition: 2026  
 >
-> {{ page.copyright }}, licensed {{ page.license-short }}.
->
+> {{ page.copyright }}, licensed {{ page.license-short }}.  
 > This work is licensed [{{ page.license-long }}]({{ page.license-url }}).  
 >  
 > This script is part of the *{{ page.series }}* series and may not be used for commercial purposes without permission from the rights holder.  
@@ -77,719 +125,763 @@ rights_holder: "Dyvers Hands Productions, LLC"
 **Issue:** {{ page.issue }} of {{ page.arc_total_issues }}  
 **Continuity Date:** {{ page.continuity.timeline }}  
 **Setting:** {{ page.setting }}  
-**Main Character:** {{ page.main_character }}  
+**Main Character:** {{ page.main_characters }}  
 **Synopsis:** {{ page.synopsis }}
 
-  > [🎨 Artist Note: Arkham by Night is intended to be designed and laid out as a regular comic book. It will initially be offered for online distribution, but eventually will probably be printed as well; therefore any artwork needs to be at high-enough resolution to support offline printing (presumably 600dpi black & white artwork at normal comic-book size).]
+### 📝 Script Notes
 
-  > [🎨 Artist Note: _The general style of Lovecraft Country_—Arkham by Night should be realistic and historical. We're not going for either super-hero artwork, nor particularly stylized artwork (though the artwork should be just a little dark and gloomy).]
+  > 🎨 ARTIST: Arkham by Night is designed as a regular comic book. Initially for online distribution but eventually printed—artwork must be high-resolution (600dpi black & white at standard comic-book size).
 
-  > [🎨 Artist Note: The comic is set in the summer of 1933, and thus clothes, buildings, automobiles, and other items all need to be appropriate for the era. The comic is ultimately horror, but the horror is intended to be in the background; thus the artwork can be gloomy, dark, and dangerous, but not horrific except for in the very rare occasions that it's called for. There aren't deep ones and star spawn lurking around this Arkham; instead, we have secrets in the shadows.]
+  > 🎨 ARTIST: The general style of Lovecraft Country should be realistic and historical. Not super-hero artwork, nor particularly stylized—though the artwork should be slightly dark and gloomy.
+
+  > 🌫️ ATMOSPHERE: The comic is set in summer 1933. Artwork can be gloomy, dark, and dangerous, but not horrific except in rare occasions. We have secrets in the shadows, not deep ones and star spawn.
+
+  > 🎭 COSTUME: All clothes must be appropriate for 1933 Depression era.
+
+  > 🌆 BACKGROUND: Buildings, automobiles, and other items need to be historically accurate for 1933.
+
+---
 
 ### 📄 **Page One**
 
-  > [🎨 Artist Note: Full page panel. There should be space for the credits here as well as the title of the issue, "Welcome to Arkham".]
+  > 🔲 PANEL LAYOUT: Full-page splash panel with space for credits and issue title "Welcome to Arkham".
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Closeup focus on a desk. In the foreground, running off the edge of a page is a journal, open to the first page, with text matching the first few lines of the captions of this page. To the left, taking up much of the foreground is a photograph of an 18-year old, hair slicked back, dressed properly in a period suit and tie. [Carlton is a tall striking young man with a slender almost delicate build. He has short very fair blond hair and lightly tanned skin. He has bright blue eyes with an average nose and a soft mouth.] It's in a frame, but lying flat on the desk.]
+  > 🎨 ARTIST: Closeup on desk. Journal open to first page with text matching captions. Left foreground: framed photograph of Carlton (18 years old, hair slicked back, period suit and tie) lying flat.
 
-  > [🎨 Artist Note: Further back on the desk are a couple of newspaper clippings, with text largely Greeked but photographs present. One reads "Nation must Prevent Hunger and Cold" and shows people lined up in front of St. Peter's Mission waiting for bread. Another reads " Hitler Named German Chancellor" and shows Adolf Hitler in a suit. Nearest to the bottom of the desk is the headline "NRA Promises National Recovery" with drawing of Franklin Delano Roosevelt. These newspapers may be partially or largely obscured.]
+  > 🎨 ARTIST: Carlton is tall and striking with slender, almost delicate build. Short very fair blond hair, lightly tanned skin, bright blue eyes, average nose, soft mouth.
 
-- **📝 CAPTION:**<br/> It was June 17, 1933 when I first came to Arkham, Massachusetts.
+  > 📦 PROP: Newspaper clippings on desk (may be partially obscured): "Nation must Prevent Hunger and Cold" with photo of bread line at St. Peter's Mission; "Hitler Named German Chancellor" with Hitler in suit; "NRA Promises National Recovery" with FDR drawing.
 
-- **📝 CAPTION:**<br/> We were deep in the Depression, while across the ocean Europe faced its own horrors.
+  - **🎙️ CAPTION (SETH):**<br/> It was June 17, 1933 when I first came to Arkham, Massachusetts.
 
-- **📝 CAPTION:**<br/> But at home a new president offered a new deal.
+  - **🎙️ CAPTION (SETH):**<br/> We were deep in the Depression, while across the ocean Europe faced its own horrors.
 
-- **📝 CAPTION:**<br/> And I came to Arkham looking for my brother, Carlton Fletcher.
+  - **🎙️ CAPTION (SETH):**<br/> But at home a new president offered a new deal.
+
+  - **🎙️ CAPTION (SETH):**<br/> And I came to Arkham looking for my brother, Carlton Fletcher.
 
 ### 📄 **Page Two**
 
-  > [🎨 Artist Note: A four-panel page, with a three-panel row across the top, then a large panel under it.]
+  > 🔲 PANEL LAYOUT: Three panels across top row, one large panel below.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Tight shot on a single large suitcase, being placed on a train platform, with a black hand holding the handle.]
+  > 🎨 ARTIST: Tight shot on single large suitcase being placed on train platform, black hand holding handle.
 
-- **📝 CAPTION:**<br/> When I arrived, I at once saw that Arkham was a small town.
+  - **🎙️ CAPTION (SETH):**<br/> When I arrived, I at once saw that Arkham was a small town.
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: Pull back to show more of the platform. A black porter offers a partial bow standing near the suitcase. We may see Seth Fletcher standing to the side. [Seth looks much like his brother, except more lanky and more delicate. His hair is dirty blonde—much darker than his brothers. He's 18 now, as his brother was in the picture.]
+  > 🎨 ARTIST: Pull back to show more platform. Black porter offers partial bow near suitcase. Seth Fletcher may be visible to the side.
 
-- **📝 CAPTION:**<br/> A polite town.
+  > 🎨 ARTIST: Seth looks like his brother but more lanky and delicate. Dirty blonde hair (darker than Carlton's). Age 18.
 
-- **🗣️ PORTER:**<br/> Your bags, sir.
+  - **🎙️ CAPTION (SETH):**<br/> A polite town.
 
-#### 🎬 **PANEL THREE**
+  - **🗣️ PORTER (BALLOON):**<br/> Your bags, sir.
 
-  > [🎨 Artist Note: And pull back one more time to show the whole platform, which is otherwise empty. The train has already pulled out. To the side we can see some heavy wooden doors with "Arkham" written over them in bronze etchings. Windows in the door may frame a small amount of the vista we'll see in a see in a second.]
+#### 🖼️ **PANEL THREE**
 
-- **📝 CAPTION:**<br/> A quiet town.
+  > 🎨 ARTIST: Pull back to show whole empty platform. Train has departed. Heavy wooden doors with "Arkham" in bronze lettering. Door windows may frame vista glimpse.
 
-#### 🎬 **PANEL FOUR**
+  - **🎙️ CAPTION (SETH):**<br/> A quiet town.
 
-  > [🎨 Artist Note: Seth is now outside the train station. We see a panoramic view from behind him. His suitcase is next to him and in front of him, across the street from the train stations, we see a number of old Arkham houses rising up, gables, gambrels, and turrets making them look entirely odd.]
+#### 🖼️ **PANEL FOUR**
 
-- **📝 CAPTION:**<br/> But it was not until I emerged onto the streets of Arkham proper that I saw that it was a ghost town too.
+  > 🎨 ARTIST: Seth outside train station, panoramic view from behind. Suitcase beside him. Across street: old Arkham houses with gables, gambrels, and turrets.
 
-- **📝 CAPTION:**<br/> I finally understood how my brother could have been lost here.
+  > 🌆 BACKGROUND: Houses should appear architecturally odd and Gothic.
+
+  - **🎙️ CAPTION (SETH):**<br/> But it was not until I emerged onto the streets of Arkham proper that I saw that it was a ghost town too.
+
+  - **🎙️ CAPTION (SETH):**<br/> I finally understood how my brother could have been lost here.
 
 ### 📄 **Page Three**
 
-  > [🎨 Artist Note: A six-panel page, with long panels on top and bottom, and two tiers in between, each with two uneven panels.]
+  > 🔲 PANEL LAYOUT: Six-panel page. Long panels top and bottom, two middle tiers with two uneven panels each.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: The same street, but now we're at a more normal perspective. A handsome Ford Deuce (See: http://www.roadsters.com/deuce/; or some other appropriate period car) is now pulled up in front of the station. Seth is leaning into the car.]
+  > 🎨 ARTIST: Same street, normal perspective. Handsome Ford Deuce or appropriate period car at station. Seth leaning into car.
 
-- **🗣️ SETH:**<br/> Miskatonic University please.
+  > 📦 PROP: Period-appropriate automobile (circa 1933).
 
-#### 🎬 **PANEL TWO**
+  > 📎 REFERENCE: Ford Deuce example: http://www.roadsters.com/deuce/
 
-  > [🎨 Artist Note: This is the first of four flashback panels. They should be differentiated in some way, perhaps by a different sort of border, perhaps by a graying of the colors used to shade the panel.]
+  - **🗣️ SETH (BALLOON):**<br/> Miskatonic University please.
 
-  > [🎨 Artist Note: Here we see a younger Carlton, perhaps 16, holding up a print of a crude cave drawing of a hunter facing off against a snake with a spear in his hand. Seth is young, perhaps 6. He's lying on the floor drawing a crude picture with chalk.]
+#### 🖼️ **PANEL TWO**
 
-- **📝 CAPTION:**<br/> I barely knew my brother.
+  > 🌀 FLASHBACK: First of four flashback panels. Differentiate with altered border or grayed colors.
 
-#### 🎬 **PANEL THREE**
+  > 🎨 ARTIST: Young Carlton (age 16) holding print of crude cave drawing—hunter facing snake with spear. Young Seth (age 6) on floor drawing with chalk.
 
-  > [🎨 Artist Note: Flashback. Now Carlton is 18, standing in the magnificent entryway of his parent's New England home. A suitcase stands at his side, very similar to the suitcase that Seth will later use. Seth and their parents stand nearby, bidding him farewell. Their parents are in their mid forties, and look like the epitome of New England breeding: respectable and proper. Seth is now 8.]
+  - **🎙️ CAPTION (SETH):**<br/> I barely knew my brother.
 
-- **📝 CAPTION:**<br/> He left for college when I was too young for us to be friends. For Miskatonic University.
+#### 🖼️ **PANEL THREE**
 
-#### 🎬 **PANEL FOUR**
+  > 🌀 FLASHBACK: Carlton (age 18) in magnificent New England home entryway. Suitcase beside him. Parents and Seth bidding farewell.
 
-  > [🎨 Artist Note: Flashback. Carlton's mother holding a piece of paper in her left hand, her right hand to her forehead in grief. Seth is now 12. He stands nearby, ever the observer.]
+  > 🎨 ARTIST: Parents in mid-forties, epitome of New England breeding—respectable and proper. Seth now age 8.
 
-- **📝 CAPTION:**<br/> When he disappeared, four years later, I was still young. My parents simply said he was gone.
+  > 🌆 BACKGROUND: Wealthy New England home interior.
 
-#### 🎬 **PANEL FIVE**
+  - **🎙️ CAPTION (SETH):**<br/> He left for college when I was too young for us to be friends. For Miskatonic University.
 
-  > [🎨 Artist Note: Flashback. A tight shot of Carlton's mother's legs, the floor, and the paper drifting down toward the floor.]
+#### 🖼️ **PANEL FOUR**
 
-- **📝 CAPTION:**<br/> Gone.
+  > 🌀 FLASHBACK: Carlton's mother holding paper, right hand to forehead in grief. Seth (age 12) stands nearby observing.
 
-#### 🎬 **PANEL SIX**
+  - **🎙️ CAPTION (SETH):**<br/> When he disappeared, four years later, I was still young. My parents simply said he was gone.
 
-  > [🎨 Artist Note: Back to the modern day. We see the taxi pulled up in front of the administration building of Miskatonic University.]
+#### 🖼️ **PANEL FIVE**
 
-- **📝 CAPTION:**<br/> Now I was ready to learn the real answers.
+  > 🌀 FLASHBACK: Tight shot—mother's legs, floor, paper drifting down.
 
-- **🗣️ TAXI DRIVER:**<br/> Here's Miskatonic, lad.
+  - **🎙️ CAPTION (SETH):**<br/> Gone.
+
+#### 🖼️ **PANEL SIX**
+
+  > 🎨 ARTIST: Back to present day. Taxi at administration building of Miskatonic University.
+
+  - **🎙️ CAPTION (SETH):**<br/> Now I was ready to learn the real answers.
+
+  - **🗣️ TAXI DRIVER (BALLOON):**<br/> Here's Miskatonic, lad.
 
 ### 📄 **Page Four**
 
-  > [🎨 Artist Note: Panel one runs down the left side, then two and three form a tier, then four, five, and six are each their own tier.]
+  > 🔲 PANEL LAYOUT: Panel one runs down left side. Panels two and three form tier. Panels four, five, and six each own tier.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Seth standing on the steps leading up to the administration building's main entrance. Huge double doors stand in front of him with the word "Miskatonic University" carved out of the granite above them. Scrawled nearby, in chalk are the words, "Act as if nothing is wrong." There's a bit of an archway, maybe four feet deep leading up to those main doors, and off to the left side we can barely make out a a rectangular box, which lists professors' names and room numbers.]
+  > 🎨 ARTIST: Seth on steps to administration building entrance. Huge double doors with "Miskatonic University" carved in granite above. Four-foot deep archway. Professor directory box visible on left.
 
-- **📝 CAPTION:**<br/> I had very little to go on, just two professors' names that Carlton had mentioned in a letter.
+  > 🌆 BACKGROUND: Chalk graffiti nearby: "Act as if nothing is wrong."
 
-#### 🎬 **PANEL TWO**
+  - **🎙️ CAPTION (SETH):**<br/> I had very little to go on, just two professors' names that Carlton had mentioned in a letter.
 
-  > [🎨 Artist Note: Tight on Seth's finger, which is now tracing down a list of professors. He's going to the "N"s and we see "Newbury, Christian … LA 142", "Newland, Richard … SH 513", and "Peaslee, Wingate … SH 609". Seth is pointing at Newland.]
+#### 🖼️ **PANEL TWO**
 
-- **📝 CAPTION:**<br/> Professor Richard Newland.
+  > 🎨 ARTIST: Tight on Seth's finger tracing professor list. Visible names: "Newbury, Christian … LA 142", "Newland, Richard … SH 513", "Peaslee, Wingate … SH 609". Finger pointing at Newland.
 
-#### 🎬 **PANEL THREE**
+  - **🎙️ CAPTION (SETH):**<br/> Professor Richard Newland.
 
-  > [🎨 Artist Note: Still tight on his finger, he's now going through the Hs. We see: "Gilman, Frederick … ME 102", "Harding, Julian …  ", and "Henry, Joseph … LA 151". His finger is now at Harding, but it should be obvious that the room number is explicitly missing.]
+#### 🖼️ **PANEL THREE**
 
-- **📝 CAPTION:**<br/> And Professor Julian Harding.
+  > 🎨 ARTIST: Still tight on finger, now at H section. Visible: "Gilman, Frederick … ME 102", "Harding, Julian … " (room number missing), "Henry, Joseph … LA 151". Finger at Harding.
 
-#### 🎬 **PANEL FOUR**
+  - **🎙️ CAPTION (SETH):**<br/> And Professor Julian Harding.
 
-  > [🎨 Artist Note: We're now inside Newland's outer office. There's a large, very clean desk here, with a manual typewriter set off to the side, but otherwise bare. An older, tired-looking woman is sitting behind the desk. Behind her is a door to an inner office which stands partially ajar. Perhaps we can see the door behind Seth with frosted window that has stenciled on to the outside the number "513". Seth still has his suitcase, which he's carrying around, until he makes it to his hotel later in the issue.]
+#### 🖼️ **PANEL FOUR**
 
-- **📝 CAPTION:**<br/> I decided to approach Professor Newland first.
+  > 🎨 ARTIST: Inside Newland's outer office. Large clean desk with manual typewriter. Older, tired woman behind desk. Inner office door ajar behind her.
 
-- **🗣️ SETH:**<br/> Pardon. I'd like to speak with Professor Newland.
+  > 🌆 BACKGROUND: Frosted door window shows "513" stenciled outside.
 
-#### 🎬 **PANEL FIVE**
+  > 📦 PROP: Seth still carrying suitcase.
 
-  > [🎨 Artist Note: The secretary and Seth both look in startlement at the inner office door.]
+  - **🎙️ CAPTION (SETH):**<br/> I decided to approach Professor Newland first.
 
-- **📝 CAPTION:**<br/> I was to be disappointed.
+  - **🗣️ SETH (BALLOON):**<br/> Pardon. I'd like to speak with Professor Newland.
 
-- **🗣️ NEWLAND (OFF-PANEL, BEYOND THE DOOR, SHOUTED):**<br/> Damned cemeteries!
+#### 🖼️ **PANEL FIVE**
 
-#### 🎬 **PANEL SIX**
+  > 🎨 ARTIST: Secretary and Seth both look startled at inner office door.
 
-  > [🎨 Artist Note: The secretary turns back to Seth, her hands primly folder in front of her.]
+  - **🎙️ CAPTION (SETH):**<br/> I was to be disappointed.
 
-- **🗣️ SECRETARY:**<br/> I'm sorry, but Dr. Newland is very busy right now.
+  - **🗣️ NEWLAND (OFF-PANEL, SHOUT):**<br/> Damned cemeteries!
+
+#### 🖼️ **PANEL SIX**
+
+  > 🎨 ARTIST: Secretary turns back to Seth, hands primly folded.
+
+  - **🗣️ SECRETARY (BALLOON):**<br/> I'm sorry, but Dr. Newland is very busy right now.
 
 ### 📄 **Page Five**
 
-  > [🎨 Artist Note: A three-panel page with the top tier of two panels approximately the same height as the top tier of page four, and the third, large panel taking up the rest of the page.]
+  > 🔲 PANEL LAYOUT: Three panels. Top tier with two panels (same height as page four top tier). Third large panel fills rest of page.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: The secretary is now looking a bit distractedly at the inner door again, while Seth speaks.]
+  > 🎨 ARTIST: Secretary looking distractedly at inner door while Seth speaks.
 
-- **🗣️ SETH:**<br/> I understand. I guess I can come back later.
+  - **🗣️ SETH (BALLOON):**<br/> I understand. I guess I can come back later.
 
-- **🗣️ NEWLAND (OFF-PANEL, QUIETER):**<br/> Cemeteries.
+  - **🗣️ NEWLAND (OFF-PANEL):**<br/> Cemeteries.
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: Her attention is now returned to Seth, but she's clearly distracted.]
+  > 🎨 ARTIST: Secretary's attention returns to Seth, but clearly distracted.
 
-- **🗣️ SETH:**<br/> But do you know where I could find Professor Harding? His office isn't listed in the directory.
+  - **🗣️ SETH (BALLOON):**<br/> But do you know where I could find Professor Harding? His office isn't listed in the directory.
 
-- **🗣️ SECRETARY:**<br/> Oh, dear. Dr. Harding? I'm sorry, but he's not here.
+  - **🗣️ SECRETARY (BALLOON):**<br/> Oh, dear. Dr. Harding? I'm sorry, but he's not here.
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: A wide shot of Arkham Sanitarium. It's a fierce-looking structure, as outré as any in Arkham. The words "Arkham Sanitarium" should be visible on a sign outside the stone wall and gates which front the premises.]
+  > 🎨 ARTIST: Wide shot of Arkham Sanitarium—fierce-looking structure, as outré as any in Arkham.
 
-- **🗣️ SECRETARY:**<br/> He's at the Sanitarium.
+  > 🌆 BACKGROUND: Stone wall and gates front the premises. Sign reading "Arkham Sanitarium" visible.
+
+  - **🗣️ SECRETARY (OFF-PANEL):**<br/> He's at the Sanitarium.
 
 ### 📄 **Page Six**
 
-  > [🎨 Artist Note: From this point on, the panel layout, which has been pretty simple so far, should become more organic and more ragged, reflecting our slow plunge into Arkham. This one is four tiers, with the first three panels in tier one.]
+  > 🔲 PANEL LAYOUT: Four tiers, first three panels in tier one. Layouts become more organic and ragged from here, reflecting descent into Arkham.
 
-#### 🎬 **PANEL ONE**
+  > 🎨 ARTIST: Panel layouts should become increasingly irregular to reflect psychological tension.
 
-  > [🎨 Artist Note: Seth standing in front of a counter. A girl stands behind it. On the counter is a plaque with the words "Hotel Miskatonic" on it. The entire room (and in fact the entire hotel, which we see through panel 3, then again on pages 18-19) has a nice Art Deco feel to it. It's relatively new & well kept.]
+#### 🖼️ **PANEL ONE**
 
-- **📝 CAPTION:**<br/> After that, I knew I'd need a room.
+  > 🎨 ARTIST: Seth at hotel counter. Girl behind it. "Hotel Miskatonic" plaque on counter.
 
-- **🗣️ GIRL:**<br/> Five dollars for the night, sir.
+  > 🌆 BACKGROUND: Art Deco style throughout hotel. Relatively new and well-kept.
 
-#### 🎬 **PANEL TWO**
+  - **🎙️ CAPTION (SETH):**<br/> After that, I knew I'd need a room.
 
-  > [🎨 Artist Note: A small hotel room. Seth's suitcase is now open in the middle of the bed. (In the room are a bed, a desk—the same desk from page one but currently bare—and a chair; it's all very neat and clean but sterile.) Neatly packed and pressed clothes fill the suit case, but on top of them is a picture in a frame. Seth stands over the bed, clearly tired.]
+  - **🗣️ GIRL (BALLOON):**<br/> Five dollars for the night, sir.
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: A tight shot of Seth's upper body. He's now holding the picture in a front of him. It's the same picture we see on page one of his brother, Carlton.]
+  > 🎨 ARTIST: Small hotel room. Seth's suitcase open on bed with neatly packed clothes. Framed picture on top. Seth stands over bed, tired.
 
-- **📝 CAPTION:**<br/> I decided I'd be in Arkham for a while.
+  > 🌆 BACKGROUND: Room contains bed, desk (same as page one but bare), and chair. Neat, clean, but sterile.
 
-#### 🎬 **PANEL FOUR**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: Seth talking to someone across yet another desk. This one a middle-aged nurse, surrounded by paperwork.]
+  > 🎨 ARTIST: Tight shot of Seth's upper body holding framed picture—same photo of Carlton from page one.
 
-- **📝 CAPTION:**<br/> And then I was off to the Sanitarium.
+  - **🎙️ CAPTION (SETH):**<br/> I decided I'd be in Arkham for a while.
 
-- **🗣️ SETH:**<br/> I'm here to see Professor Harding.
+#### 🖼️ **PANEL FOUR**
 
-- **🗣️ NURSE:**<br/> Are you a relative?
+  > 🎨 ARTIST: Seth at another desk, facing middle-aged nurse surrounded by paperwork.
 
-#### 🎬 **PANEL FIVE**
+  - **🎙️ CAPTION (SETH):**<br/> And then I was off to the Sanitarium.
 
-  > [🎨 Artist Note: Seth stands, thinking, while the nurse looks on.]
+  - **🗣️ SETH (BALLOON):**<br/> I'm here to see Professor Harding.
 
-- **📝 CAPTION:**<br/> It seemed an entirely natural thing to do.
+  - **🗣️ NURSE (BALLOON):**<br/> Are you a relative?
 
-#### 🎬 **PANEL SIX**
+#### 🖼️ **PANEL FIVE**
 
-  > [🎨 Artist Note: Seth scratches behind his head, looking a bit sheepish. The nurse still looks on, unblinking.]
+  > 🎨 ARTIST: Seth stands thinking while nurse looks on.
 
-- **🗣️ SETH:**<br/> Yes.
+  - **🎙️ CAPTION (SETH):**<br/> It seemed an entirely natural thing to do.
+
+#### 🖼️ **PANEL SIX**
+
+  > 🎨 ARTIST: Seth scratches behind head, looking sheepish. Nurse still looks on, unblinking.
+
+  - **🗣️ SETH (BALLOON):**<br/> Yes.
 
 ### 📄 **Page Seven**
 
-  > [🎨 Artist Note: This page has a long panel down the gutter, then a bunch of tiers to the right. Two and three form one tier, then four, then five under them, then six and seven form the last tier.]
+  > 🔲 PANEL LAYOUT: Long panel down gutter. Right side: panels two and three form tier, then four, then five, then six and seven form last tier.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Seth follows the nurse down a long hallway, with doors interspaced to either side. From the doors we hear voices. Seth looks a bit uncomfortable as he walks.]
+  > 🎨 ARTIST: Seth follows nurse down long hallway with doors on both sides. Seth looks uncomfortable.
 
-- **🗣️ VOICE (OFF-PANEL, QUIET):**<br/> In the walls. They live in the walls. In the walls.
+  > 🌫️ ATMOSPHERE: Voices drift from behind doors, creating unsettling cacophony.
 
-- **🗣️ VOICE (OFF-PANEL, QUIET):**<br/> By my word, do not attend the theatre, Mr. President.
+  - **🗣️ VOICE (OFF-PANEL, WHISPER):**<br/> In the walls. They live in the walls. In the walls.
 
-- **🗣️ VOICE (OFF-PANEL, QUIET):**<br/> Cthulhu fthagn.
+  - **🗣️ VOICE (OFF-PANEL, WHISPER):**<br/> By my word, do not attend the theatre, Mr. President.
 
-- **🗣️ VOICE (OFF-PANEL, QUIET):**<br/> Nothing is wrong. Nothing is wrong.
+  - **🗣️ VOICE (OFF-PANEL, WHISPER):**<br/> Cthulhu fthagn.
 
-- **🗣️ VOICE (OFF-PANEL, QUIET):**<br/> Nevanus. It was she.
+  - **🗣️ VOICE (OFF-PANEL, WHISPER):**<br/> Nothing is wrong. Nothing is wrong.
 
-#### 🎬 **PANEL TWO**
+  - **🗣️ VOICE (OFF-PANEL, WHISPER):**<br/> Nevanus. It was she.
 
-  > [🎨 Artist Note: We've come to the last door (with the final voice from the previous panel). The nurse is fitting a key in the lock.]
+#### 🖼️ **PANEL TWO**
 
-- **🗣️ NURSE:**<br/> Here we are.
+  > 🎨 ARTIST: At last door. Nurse fitting key in lock.
 
-- **🗣️ VOICE (THROUGH THE DOOR, QUIET):**<br/> And the snakes, the snakes.
+  - **🗣️ NURSE (BALLOON):**<br/> Here we are.
 
-#### 🎬 **PANEL THREE**
+  - **🗣️ VOICE (OFF-PANEL, WHISPER):**<br/> And the snakes, the snakes.
 
-  > [🎨 Artist Note: The door is now opened. We see Professor Harding laying against a cement wall, in straight jacket, his hair wild. [Dr Harding is a tall handsome man with short black hair, piercing blue eyes and fair skin.]
+#### 🖼️ **PANEL THREE**
 
-- **🗣️ NURSE:**<br/> I'll be back in ten minutes.
+  > 🎨 ARTIST: Door open. Professor Harding against cement wall in straitjacket, hair wild.
 
-- **🗣️ HARDING:**<br/> Carlton, is that you?
+  > 🎨 ARTIST: Dr. Harding is tall, handsome man with short black hair, piercing blue eyes, fair skin.
 
-#### 🎬 **PANEL FOUR**
+  > 🎭 COSTUME: Hospital-issued straitjacket, disheveled appearance.
 
-  > [🎨 Artist Note: Seth rushes up next to Harding. He's kneeling down next to the man.]
+  - **🗣️ NURSE (BALLOON):**<br/> I'll be back in ten minutes.
 
-- **📝 CAPTION:**<br/> When I met Harding I knew at once that he held the answers I needed.
+  - **🗣️ HARDING (BALLOON):**<br/> Carlton, is that you?
 
-- **🗣️ SETH:**<br/> No, I’m his brother Seth. But my brother, you knew my brother.
+#### 🖼️ **PANEL FOUR**
 
-#### 🎬 **PANEL FIVE**
+  > 🎨 ARTIST: Seth rushes up next to Harding. He's kneeling down next to the man.
 
-  > [🎨 Artist Note: Dr. Harding slowly rises up, pushing himself upright against the wall.]
+  - **🎙️ CAPTION (SETH):**<br/> When I met Harding I knew at once that he held the answers I needed.
 
-- **🗣️ HARDING:**<br/> It was the expedition. The Moroccan expedition.
+  - **🗣️ SETH (BALLOON):**<br/> No, I'm his brother Seth. But my brother, you knew my brother.
 
-#### 🎬 **PANEL SIX**
+#### 🖼️ **PANEL FIVE**
 
-  > [🎨 Artist Note: We're now tight in on Harding and notice that his straight jacket ties have come free, and his arms are now loosely lying to his sides.]
+  > 🎨 ARTIST: Dr. Harding slowly rises up, pushing himself upright against the wall.
 
-- **🗣️ HARDING:**<br/> The oasis and the temple. He was in the Phoenician Temple, so far inland. Odd, don't you think?
+  - **🗣️ HARDING (BALLOON):**<br/> It was the expedition. The Moroccan expedition.
 
-#### 🎬 **PANEL SEVEN**
+#### 🖼️ **PANEL SIX**
 
-  > [🎨 Artist Note: And now he's raising his hands up above his head.]
+  > 🎨 ARTIST: We're now tight in on Harding and notice that his straight jacket ties have come free, and his arms are now loosely lying to his sides.
 
-- **📝 CAPTION:**<br/> And he seemed ready to tell them all.
+  - **🗣️ HARDING (BALLOON):**<br/> The oasis and the temple. He was in the Phoenician Temple, so far inland. Odd, don't you think?
 
-- **🗣️ HARDING:**<br/> I'll tell you about him and about Nevanus and her snakes.
+#### 🖼️ **PANEL SEVEN**
+
+  > 🎨 ARTIST: And now he's raising his hands up above his head.
+
+  - **🎙️ CAPTION (SETH):**<br/> And he seemed ready to tell them all.
+
+  - **🗣️ HARDING (BALLOON):**<br/> I'll tell you about him and about Nevanus and her snakes.
 
 ### 📄 **Page Eight**
 
-  > [🎨 Artist Note: A full page panel.]
+  > 🔲 PANEL LAYOUT: Full page panel.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: A hallucinatory picture. Harding, looking a decade younger and much better kempt stands in the desert, his hand raised up above his head, just like we saw him in the last panel. Two snakes are coiled around him, like the snakes on the caduceus. He has one of their heads grasped in each of his hands. Behind him there is an oasis, with palm trees, and beyond that an opening into a dune, flanked by two columns. We cannot see the cavernous depths beyond.]
+  > 🎨 ARTIST: A hallucinatory picture. Harding, looking a decade younger and much better kempt stands in the desert, his hand raised up above his head, just like we saw him in the last panel. Two snakes are coiled around him, like the snakes on the caduceus. He has one of their heads grasped in each of his hands. Behind him there is an oasis, with palm trees, and beyond that an opening into a dune, flanked by two columns. We cannot see the cavernous depths beyond.
 
-- **📝 CAPTION:**<br/> Unfortunately, he was utterly insane.
+  - **🎙️ CAPTION (SETH):**<br/> Unfortunately, he was utterly insane.
 
 ### 📄 **Page Nine**
 
-- **🎬 ANOTHER PANEL RUNNING DOWN THE GUTTER, THEN A SET OF TIERS TO THE RIGHT:** two by itself, then three, then four and five as taller panels, next to each other.
+  > 🔲 PANEL LAYOUT: Panel running down the gutter, then a set of tiers to the right: two by itself, then three, then four and five as taller panels, next to each other.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Seth is standing on the sidewalk looking up at the Miskatonic University Science Hall. It's now dark outside, with a moon over the top of the Hall. There's only one light on in the hall, on the fifth floor. There's some chalked graffiti on this building too: "Go Badgers!" and "Act as If".]
+  > 🎨 ARTIST: Seth is standing on the sidewalk looking up at the Miskatonic University Science Hall. It's now dark outside, with a moon over the top of the Hall. There's only one light on in the hall, on the fifth floor. There's some chalked graffiti on this building too: "Go Badgers!" and "Act as If".
 
-- **📝 CAPTION:**<br/> Which left me only one option.
+  - **🎙️ CAPTION (SETH):**<br/> Which left me only one option.
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: We're back in Newland's office, last seen on page four. This time the outer office is empty & dark. There's a cover over the typewriter, but otherwise things are much the same. From the inner office comes a light. Seth is peering in from the outer door.]
+  > 🎨 ARTIST: We're back in Newland's office, last seen on page four. This time the outer office is empty & dark. There's a cover over the typewriter, but otherwise things are much the same. From the inner office comes a light. Seth is peering in from the outer door.
 
-- **📝 CAPTION:**<br/> Professor Richard Newland.
+  - **🎙️ CAPTION (SETH):**<br/> Professor Richard Newland.
 
-- **🗣️ SETH:**<br/> Professor Newland?
+  - **🗣️ SETH (BALLOON):**<br/> Professor Newland?
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: A view of the inner office, framed by the doorway, which Seth is now standing in. This office is a mess, with paper piled everywhere and bookshelves crammed into every corner, each with books set in at every possible angle. There are also a few odd tribal masks hanging from the walls and a framed photograph of Professor Newland, looking about five years younger, standing in front of a pyramid.]
+  > 🎨 ARTIST: A view of the inner office, framed by the doorway, which Seth is now standing in. This office is a mess, with paper piled everywhere and bookshelves crammed into every corner, each with books set in at every possible angle. There are also a few odd tribal masks hanging from the walls and a framed photograph of Professor Newland, looking about five years younger, standing in front of a pyramid.
 
-  > [🎨 Artist Note: Professor Newland is at his desk, crouched over a paper that he's writing. [Prof. Newland is an athletic man of average height with thick sandy brown hair, intelligent brown eyes and tanned, somewhat lined, skin. He favors tweed over formal suits. He wears glasses, and has a habit of taking them off and gesturing with them when lecturing.]
+  > 🎨 ARTIST: Professor Newland is at his desk, crouched over a paper that he's writing. Prof. Newland is an athletic man of average height with thick sandy brown hair, intelligent brown eyes and tanned, somewhat lined, skin. He favors tweed over formal suits. He wears glasses, and has a habit of taking them off and gesturing with them when lecturing.
 
-- **🗣️ SETH:**<br/> Professor Newland?
+  - **🗣️ SETH (BALLOON):**<br/> Professor Newland?
 
-#### 🎬 **PANEL FOUR**
+#### 🖼️ **PANEL FOUR**
 
-  > [🎨 Artist Note: Tighter on Newland, who's looking up now.]
+  > 🎨 ARTIST: Tighter on Newland, who's looking up now.
 
-- **🗣️ NEWLAND:**<br/> Eh?
+  - **🗣️ NEWLAND (BALLOON):**<br/> Eh?
 
-#### 🎬 **PANEL FIVE**
+#### 🖼️ **PANEL FIVE**
 
-  > [🎨 Artist Note: Now Newland has taken off his glasses and started gesturing with them.]
+  > 🎨 ARTIST: Now Newland has taken off his glasses and started gesturing with them.
 
-- **🗣️ NEWLAND:**<br/> Oh, there you are, I've been waiting for you Mr. Nixon.
+  - **🗣️ NEWLAND (BALLOON):**<br/> Oh, there you are, I've been waiting for you Mr. Nixon.
 
 ### 📄 **Page Ten**
 
-  > [🎨 Artist Note: A clean set of three tiers, the last the largest.]
+  > 🔲 PANEL LAYOUT: A clean set of three tiers, the last the largest.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Seth has taken a step back from the desk as Newland continues to lecture.]
+  > 🎨 ARTIST: Seth has taken a step back from the desk as Newland continues to lecture.
 
-- **📝 CAPTION:**<br/> After the strangeness of the day, I wasn't surprised when I was faced with another case of mistaken identity.
+  - **🎙️ CAPTION (SETH):**<br/> After the strangeness of the day, I wasn't surprised when I was faced with another case of mistaken identity.
 
-- **🗣️ NEWLAND:**<br/> I need a few things done, son. Get me the Pango-Pango invoices. They're down in the basement.
+  - **🗣️ NEWLAND (BALLOON):**<br/> I need a few things done, son. Get me the Pango-Pango invoices. They're down in the basement.
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: Pull back a bit, so that we see more of the room, and our two characters look a little smaller.]
+  > 🎨 ARTIST: Pull back a bit, so that we see more of the room, and our two characters look a little smaller.
 
-- **📝 CAPTION:**<br/> I decided to play along to win some favor from the Professor.
+  - **🎙️ CAPTION (SETH):**<br/> I decided to play along to win some favor from the Professor.
 
-- **🗣️ NEWLAND:**<br/> And my mail. There should be a listing of new books in the restricted collection.
+  - **🗣️ NEWLAND (BALLOON):**<br/> And my mail. There should be a listing of new books in the restricted collection.
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: Pulled all the way back to show the whole room. Our characters should now look small, the professor's small desk top just illuminating a tiny sphere.]
+  > 🎨 ARTIST: Pulled all the way back to show the whole room. Our characters should now look small, the professor's small desk top just illuminating a tiny sphere.
 
-- **📝 CAPTION:**<br/> I didn't know what I was getting into.
+  - **🎙️ CAPTION (SETH):**<br/> I didn't know what I was getting into.
 
-- **🗣️ NEWLAND:**<br/> Oh, and two handfuls of dirt from the cemetery.
+  - **🗣️ NEWLAND (BALLOON):**<br/> Oh, and two handfuls of dirt from the cemetery.
 
-- **🗣️ SETH:**<br/> The cemetery?
+  - **🗣️ SETH (BALLOON):**<br/> The cemetery?
 
 ### 📄 **Page Eleven**
 
-  > [🎨 Artist Note: A long panel down the left, then a set of tiers to the right of that. The second panel is the largest. Three and four are next to each other on a tier.]
+  > 🔲 PANEL LAYOUT: A long panel down the left, then a set of tiers to the right of that. The second panel is the largest. Three and four are next to each other on a tier.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Seth is descending down a spiral staircase which is poorly lit.]
+  > 🎨 ARTIST: Seth is descending down a spiral staircase which is poorly lit.
 
-- **📝 CAPTION:**<br/> But nonetheless, I played along.
+  - **🎙️ CAPTION (SETH):**<br/> But nonetheless, I played along.
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: A large overview of the basement, with Seth looking very small within. There's all kinds of weird and arcane things here. Lab equipment, statuary from many lost cultures, such as the Incans, the Aztec, the Polynesians, and the Egyptians. Books stacked haphazardly here and there.]
+  > 🎨 ARTIST: A large overview of the basement, with Seth looking very small within. There's all kinds of weird and arcane things here. Lab equipment, statuary from many lost cultures, such as the Incans, the Aztec, the Polynesians, and the Egyptians. Books stacked haphazardly here and there.
 
-- **📝 CAPTION:**<br/> The basement in the Science Hall was … impressive.
+  - **🎙️ CAPTION (SETH):**<br/> The basement in the Science Hall was … impressive.
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: A close up of Seth's hands, paging through a pile of invoices. He's just revealed one that's labeled "Date: 1931, From: Pango Pango Expedition, To: Richard Newland" with an itemization of items after it ("1 stone head, 3 wooden masks, 1 rectangular stone, 1 knife of uncertain origin"). These items don't have to be entirely visible (or visible at all for that matter).]
+  > 🎨 ARTIST: A close up of Seth's hands, paging through a pile of invoices. He's just revealed one that's labeled "Date: 1931, From: Pango Pango Expedition, To: Richard Newland" with an itemization of items after it ("1 stone head, 3 wooden masks, 1 rectangular stone, 1 knife of uncertain origin"). These items don't have to be entirely visible (or visible at all for that matter).
 
-- **📝 CAPTION:**<br/> I managed to find the invoice Professor Newland was looking for.
+  - **🎙️ CAPTION (SETH):**<br/> I managed to find the invoice Professor Newland was looking for.
 
-#### 🎬 **PANEL FOUR**
+#### 🖼️ **PANEL FOUR**
 
-  > [🎨 Artist Note: Same view, but this time he's flipped a few more pages and we see a new invoice that reads "Date: 1928, From: Sahara Desert Expedition, To: 2372 Blake Street, Arkham, Massachusetts" and below that only "1 wooden box".]
+  > 🎨 ARTIST: Same view, but this time he's flipped a few more pages and we see a new invoice that reads "Date: 1928, From: Sahara Desert Expedition, To: 2372 Blake Street, Arkham, Massachusetts" and below that only "1 wooden box".
 
-- **📝 CAPTION:**<br/> And something more.
+  - **🎙️ CAPTION (SETH):**<br/> And something more.
 
-#### 🎬 **PANEL FIVE**
+#### 🖼️ **PANEL FIVE**
 
-  > [🎨 Artist Note: Pulled back a bit, we now see Seth in a small pool of light in the basement. He's holding the paper, staring at it.]
+  > 🎨 ARTIST: Pulled back a bit, we now see Seth in a small pool of light in the basement. He's holding the paper, staring at it.
 
-- **📝 CAPTION:**<br/> It was an item shipped back from the Moroccan expedition that Harding had mentioned.
+  - **🎙️ CAPTION (SETH):**<br/> It was an item shipped back from the Moroccan expedition that Harding had mentioned.
 
-- **📝 CAPTION:**<br/> The year that my brother had disappeared.
+  - **🎙️ CAPTION (SETH):**<br/> The year that my brother had disappeared.
 
 ### 📄 **Page Twelve**
 
-  > [🎨 Artist Note: Two panels in the first tier, then a wide third panel, followed by a wide and large fourth panel.]
+  > 🔲 PANEL LAYOUT: Two panels in the first tier, then a wide third panel, followed by a wide and large fourth panel.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Seth is back in Newland's office, handing over the invoice and a couple of pieces of mail.]
+  > 🎨 ARTIST: Seth is back in Newland's office, handing over the invoice and a couple of pieces of mail.
 
-- **🗣️ SETH:**<br/> Here's these, Sir. The invoice and some mail.
+  - **🗣️ SETH (BALLOON):**<br/> Here's these, Sir. The invoice and some mail.
 
-- **🗣️ SETH:**<br/> Now you really want me to go to the graveyard?
+  - **🗣️ SETH (BALLOON):**<br/> Now you really want me to go to the graveyard?
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: Newland is still crouched over his work, not even looking up at Seth.]
+  > 🎨 ARTIST: Newland is still crouched over his work, not even looking up at Seth.
 
-- **🗣️ NEWLAND:**<br/> Of course. Shoo, shoo.
+  - **🗣️ NEWLAND (BALLOON):**<br/> Of course. Shoo, shoo.
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: A shot of the empty street outside the Science Hall, with Seth looking small on it. We probably have some mist on the street by this time.]
+  > 🎨 ARTIST: A shot of the empty street outside the Science Hall, with Seth looking small on it. We probably have some mist on the street by this time.
 
-- **📝 CAPTION:**<br/> By the time I headed out to the graveyard, the fog was starting to come in off the Miskatonic. The streets were empty and I had to walk.
+  - **🎙️ CAPTION (SETH):**<br/> By the time I headed out to the graveyard, the fog was starting to come in off the Miskatonic. The streets were empty and I had to walk.
 
-#### 🎬 **PANEL FOUR**
+#### 🖼️ **PANEL FOUR**
 
-  > [🎨 Artist Note: Seth approaching the cemetery, looking tired. We see an elegant metal arched entrance, and beyond that the cemetery, full of headstones, angels, and crypts.]
+  > 🎨 ARTIST: Seth approaching the cemetery, looking tired. We see an elegant metal arched entrance, and beyond that the cemetery, full of headstones, angels, and crypts.
 
 ### 📄 **Page Thirteen**
 
-- **🎬 A PANEL RUNNING DOWN THE LEFT, THEN THREE TIERS:** first panel two in a tier, then panel three and four in a tier, then, largest, panel five in the last tier, with six either to the right or an inset.
+  > 🔲 PANEL LAYOUT: Panel running down the left, then three tiers: first panel two in a tier, then panel three and four in a tier, then, largest, panel five in the last tier, with six either to the right or an inset.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Seth picking his way up a path in the graveyard, heading toward a couple of tombstones on the top of a small rise. Around him, the graveyard is a bit more ramshackle than was obvious from the street.]
+  > 🎨 ARTIST: Seth picking his way up a path in the graveyard, heading toward a couple of tombstones on the top of a small rise. Around him, the graveyard is a bit more ramshackle than was obvious from the street.
 
-- **📝 CAPTION:**<br/> There's a certain loneliness about a graveyard at night.
+  - **🎙️ CAPTION (SETH):**<br/> There's a certain loneliness about a graveyard at night.
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: Seth has now approached a grave that reads "Alfred Langresen, 1790-1821". He's leaning down to scoop a handful of dirt.]
+  > 🎨 ARTIST: Seth has now approached a grave that reads "Alfred Langresen, 1790-1821". He's leaning down to scoop a handful of dirt.
 
-- **📝 CAPTION:**<br/> Yet you still feel that it must be inhabited by monsters.
+  - **🎙️ CAPTION (SETH):**<br/> Yet you still feel that it must be inhabited by monsters.
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: Suddenly we see a monstrous ghoul's head rearing up over the back of the tombstone. It's goblin-like, with canine features: long, sharp teeth and a bristling of hair over the face. Seth is jumping back in shock.]
+  > 🎨 ARTIST: Suddenly we see a monstrous ghoul's head rearing up over the back of the tombstone. It's goblin-like, with canine features: long, sharp teeth and a bristling of hair over the face. Seth is jumping back in shock.
 
-- **📝 CAPTION:**<br/> And Arkham Cemetery was.
+  - **🎙️ CAPTION (SETH):**<br/> And Arkham Cemetery was.
 
-#### 🎬 **PANEL FOUR–The exact same view, but this time we see the truth: it's not really a ghoul, but rather a student wearing a cheap, homemade mask.**
+#### 🖼️ **PANEL FOUR**
 
-- **📝 CAPTION:**<br/> It contained the worst sort of monster.
+  > 🎨 ARTIST: The exact same view, but this time we see the truth: it's not really a ghoul, but rather a student wearing a cheap, homemade mask.
 
-#### 🎬 **PANEL FIVE**
+  - **🎙️ CAPTION (SETH):**<br/> It contained the worst sort of monster.
 
-  > [🎨 Artist Note: A large view of Arkham cemetery. Seth is still standing at the grave and we see a group of three students, dressed in proper school uniforms, one of them still wearing the "ghoul" mask running away toward the entrance. The one with the mask is still waving his hands over his head to look scary.]
+#### 🖼️ **PANEL FIVE**
 
-- **📝 CAPTION:**<br/> Students.
+  > 🎨 ARTIST: A large view of Arkham cemetery. Seth is still standing at the grave and we see a group of three students, dressed in proper school uniforms, one of them still wearing the "ghoul" mask running away toward the entrance. The one with the mask is still waving his hands over his head to look scary.
 
-#### 🎬 **PANEL SIX**
+  - **🎙️ CAPTION (SETH):**<br/> Students.
 
-  > [🎨 Artist Note: Seth is now kneeling on the grave, shoving handfuls of dirts into the pocket of his jacket.]
+#### 🖼️ **PANEL SIX**
+
+  > 🎨 ARTIST: Seth is now kneeling on the grave, shoving handfuls of dirts into the pocket of his jacket.
 
 ### 📄 **Page Fourteen**
 
-  > [🎨 Artist Note: Five tiers, first two panels in one tier, then each other panel making up its own tier.]
+  > 🔲 PANEL LAYOUT: Five tiers, first two panels in one tier, then each other panel making up its own tier.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Back in Professor Newland's office. He's now slumped over his desk, deep in sleep. Seth is just inside the door.]
+  > 🎨 ARTIST: Back in Professor Newland's office. He's now slumped over his desk, deep in sleep. Seth is just inside the door.
 
-- **📝 CAPTION:**<br/> Upon returning to Newland's office for the third time, I was determined to have my answers at last.
+  - **🎙️ CAPTION (SETH):**<br/> Upon returning to Newland's office for the third time, I was determined to have my answers at last.
 
-- **🗣️ SETH:**<br/> Professor? I'm back.
+  - **🗣️ SETH (BALLOON):**<br/> Professor? I'm back.
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: Seth is now placing the two handfuls of dirt on a corner of the desk that he's cleared. Newland is just waking up and adjusting his glasses.]
+  > 🎨 ARTIST: Seth is now placing the two handfuls of dirt on a corner of the desk that he's cleared. Newland is just waking up and adjusting his glasses.
 
-- **🗣️ SETH:**<br/> Here's the dirt, sir.
+  - **🗣️ SETH (BALLOON):**<br/> Here's the dirt, sir.
 
-- **🗣️ NEWLAND:**<br/> Ah, cemeteries. Thank you, Mr. Nixon.
+  - **🗣️ NEWLAND (BALLOON):**<br/> Ah, cemeteries. Thank you, Mr. Nixon.
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: A long panel, showing the width of the office and Seth and Newland within. Again, emphasize the darkness, and the small pocket of light.]
+  > 🎨 ARTIST: A long panel, showing the width of the office and Seth and Newland within. Again, emphasize the darkness, and the small pocket of light.
 
-- **🗣️ SETH:**<br/> I'm not really Nixon, you know.
+  - **🗣️ SETH (BALLOON):**<br/> I'm not really Nixon, you know.
 
-#### 🎬 **PANEL FOUR**
+#### 🖼️ **PANEL FOUR**
 
-  > [🎨 Artist Note: Same shot, Newland and Seth staring at each other.]
+  > 🎨 ARTIST: Same shot, Newland and Seth staring at each other.
 
-#### 🎬 **PANEL FIVE**
+#### 🖼️ **PANEL FIVE**
 
-  > [🎨 Artist Note: Same shot.]
+  > 🎨 ARTIST: Same shot.
 
-- **🗣️ NEWLAND:**<br/> I know.
+  - **🗣️ NEWLAND (BALLOON):**<br/> I know.
 
-- **🗣️ NEWLAND:**<br/> You're Carlton's brother aren't you?
+  - **🗣️ NEWLAND (BALLOON):**<br/> You're Carlton's brother aren't you?
 
-- **🗣️ NEWLAND:**<br/> Your brother, he died in Morocco. At the tomb. He was very brave.
+  - **🗣️ NEWLAND (BALLOON):**<br/> Your brother, he died in Morocco. At the tomb. He was very brave.
 
-#### 🎬 **PANEL SIX**
+#### 🖼️ **PANEL SIX**
 
-  > [🎨 Artist Note: Same shot, but now Seth is still standing stunned as Newland watches on with empathy.]
+  > 🎨 ARTIST: Same shot, but now Seth is still standing stunned as Newland watches on with empathy.
 
-- **📝 CAPTION:**<br/> And Newland gave them to me.
+  - **🎙️ CAPTION (SETH):**<br/> And Newland gave them to me.
 
-- **🗣️ NEWLAND:**<br/> I ... he was very brave. Go home, Mr. Fletcher.
+  - **🗣️ NEWLAND (BALLOON):**<br/> I ... he was very brave. Go home, Mr. Fletcher.
 
 ### 📄 **Page Fifteen**
 
-  > [🎨 Artist Note: Panels one through three are in a tier, then four and five are their own tiers. Panel six is the last tier, larger than the others, with panel seven as an inset.]
+  > 🔲 PANEL LAYOUT: Panels one through three are in a tier, then four and five are their own tiers. Panel six is the last tier, larger than the others, with panel seven as an inset.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Tighter shot of Seth still standing in Newland's office, still looking stunned.]
+  > 🎨 ARTIST: Tighter shot of Seth still standing in Newland's office, still looking stunned.
 
-- **📝 CAPTION:**<br/> What do you do when your world ends?
+  - **🎙️ CAPTION (SETH):**<br/> What do you do when your world ends?
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: Flashback panel. Same as page 14, panel 5, except this is a tighter shot of Newland, while he was talking to Seth.]
+  > 🌀 FLASHBACK: Same as page 14, panel 5, except this is a tighter shot of Newland, while he was talking to Seth.
 
-- **🗣️ NEWLAND:**<br/> Your brother, he died in Morocco.
+  - **🗣️ NEWLAND (BALLOON):**<br/> Your brother, he died in Morocco.
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: Seth turning and walking out of Newland's office.]
+  > 🎨 ARTIST: Seth turning and walking out of Newland's office.
 
-- **📝 CAPTION:**<br/> What do you do when your hope crumbles?
+  - **🎙️ CAPTION (SETH):**<br/> What do you do when your hope crumbles?
 
-#### 🎬 **PANEL FOUR**
+#### 🖼️ **PANEL FOUR**
 
-  > [🎨 Artist Note: Seth in the stairwell that we last saw on page 11, panel 1.]
+  > 🎨 ARTIST: Seth in the stairwell that we last saw on page 11, panel 1.
 
-- **📝 CAPTION:**<br/> You stop and you die.
+  - **🎙️ CAPTION (SETH):**<br/> You stop and you die.
 
-#### 🎬 **PANEL FIVE**
+#### 🖼️ **PANEL FIVE**
 
-  > [🎨 Artist Note: Seth walking down the stairs again, a new determination on his face.]
+  > 🎨 ARTIST: Seth walking down the stairs again, a new determination on his face.
 
-- **📝 CAPTION:**<br/> Or you keep moving.
+  - **🎙️ CAPTION (SETH):**<br/> Or you keep moving.
 
-#### 🎬 **PANEL SIX**
+#### 🖼️ **PANEL SIX**
 
-  > [🎨 Artist Note: Seth is now back in front of the science building. Here we see a close up of him unfolding the Moroccan Expedition invoice that he found on page 11, panel 4. It's important that the address (2372 Blake) be visible.]
+  > 🎨 ARTIST: Seth is now back in front of the science building. Here we see a close up of him unfolding the Moroccan Expedition invoice that he found on page 11, panel 4. It's important that the address (2372 Blake) be visible.
 
-- **📝 CAPTION:**<br/> I choose to move.
+  - **🎙️ CAPTION (SETH):**<br/> I choose to move.
 
-#### 🎬 **PANEL SEVEN**
+#### 🖼️ **PANEL SEVEN**
 
-  > [🎨 Artist Note: Seth still holding the unfolded paper up in front of him is now standing in front of a dark, mysterious house with turrets and gables growing from it like cancerous tumors. It's old and worn down. The windows are partially boarded up. The house number, 2372, should be visible in elegant though tarnished metal numbers.]
+  > 🎨 ARTIST: Seth still holding the unfolded paper up in front of him is now standing in front of a dark, mysterious house with turrets and gables growing from it like cancerous tumors. It's old and worn down. The windows are partially boarded up. The house number, 2372, should be visible in elegant though tarnished metal numbers.
 
-- **📝 CAPTION:**<br/> I choose to find new hope.
+  - **🎙️ CAPTION (SETH):**<br/> I choose to find new hope.
 
 ### 📄 **Page Sixteen**
 
-  > [🎨 Artist Note: Panel one is a tall panel running down the left of the page. Two and three are each their own tier, then four and five form a tier.]
+  > 🔲 PANEL LAYOUT: Panel one is a tall panel running down the left of the page. Two and three are each their own tier, then four and five form a tier.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Seth has opened the door, which is lit only from the street outside. We see an elegant entryway with archways leading off into large rooms. The elegant wooden floor of the entry way is stained deeply while cracks run up and down the walls.]
+  > 🎨 ARTIST: Seth has opened the door, which is lit only from the street outside. We see an elegant entryway with archways leading off into large rooms. The elegant wooden floor of the entry way is stained deeply while cracks run up and down the walls.
 
-  > [🎨 Artist Note: Just to the side of the door is a table, with an unlit candle and a plate of matches upon it.]
+  > 🎨 ARTIST: Just to the side of the door is a table, with an unlit candle and a plate of matches upon it.
 
-- **📝 CAPTION:**<br/> I went to 2372 Blake Street, the address on the invoice, because it was the only connection I still had to the past, to that summer in 1928.
+  - **🎙️ CAPTION (SETH):**<br/> I went to 2372 Blake Street, the address on the invoice, because it was the only connection I still had to the past, to that summer in 1928.
 
-- **🗣️ SETH:**<br/> Hello?
+  - **🗣️ SETH (BALLOON):**<br/> Hello?
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: Seth looking into a sitting room. The chairs and couches are covered with sheets that are discolored. There's a coffee table near one of the couches that seems to have rotted in two. Seth is now holding the candle from the previous page, which he has lit.]
+  > 🎨 ARTIST: Seth looking into a sitting room. The chairs and couches are covered with sheets that are discolored. There's a coffee table near one of the couches that seems to have rotted in two. Seth is now holding the candle from the previous page, which he has lit.
 
-- **📝 CAPTION:**<br/> The house was utterly abandoned, and looked like it had been for decades.
+  - **🎙️ CAPTION (SETH):**<br/> The house was utterly abandoned, and looked like it had been for decades.
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: Seth standing in a kitchen. The cabinets are all open and the shelves are bare. A butcher knife sticks up from one of the counters, where it's been deeply embedded.]
+  > 🎨 ARTIST: Seth standing in a kitchen. The cabinets are all open and the shelves are bare. A butcher knife sticks up from one of the counters, where it's been deeply embedded.
 
-- **📝 CAPTION:**<br/> And yet a package had been sent here just five years before.
+  - **🎙️ CAPTION (SETH):**<br/> And yet a package had been sent here just five years before.
 
-#### 🎬 **PANEL FOUR**
+#### 🖼️ **PANEL FOUR**
 
-  > [🎨 Artist Note: Seth is now looking in a closet, which has a few lady's shoes scattered around the bottom and a shelf up at the top. Seth is trying to hold up his candle in his right hand to see what's on the shelf. Just vaguely we can make out two rat-like eyes up there. We should also be able to see his left hand hand, palm up; he's probably reaching up toward the shelf with it. There's nothing marked on his palm (which is relevant for reasons we'll see on the next page).]
+  > 🎨 ARTIST: Seth is now looking in a closet, which has a few lady's shoes scattered around the bottom and a shelf up at the top. Seth is trying to hold up his candle in his right hand to see what's on the shelf. Just vaguely we can make out two rat-like eyes up there. We should also be able to see his left hand hand, palm up; he's probably reaching up toward the shelf with it. There's nothing marked on his palm (which is relevant for reasons we'll see on the next page).
 
-- **📝 CAPTION:**<br/> I continued to search for clues, but there were none.
+  - **🎙️ CAPTION (SETH):**<br/> I continued to search for clues, but there were none.
 
-#### 🎬 **PANEL FIVE**
+#### 🖼️ **PANEL FIVE**
 
-  > [🎨 Artist Note: The panel is now entirely black, except for the faint glint of eyes and of teeth where we saw just the eyes a moment before.]
+  > 🎨 ARTIST: The panel is now entirely black, except for the faint glint of eyes and of teeth where we saw just the eyes a moment before.
 
-- **📝 CAPTION:**<br/> And then there was nothing.
+  - **🎙️ CAPTION (SETH):**<br/> And then there was nothing.
 
 ### 📄 **Page Seventeen**
 
-- **🎬 FOUR TIERS:** panel one by itself, two and three in a tier, four by itself, five forming a tier with six as an inset.
+  > 🔲 PANEL LAYOUT: Four tiers: panel one by itself, two and three in a tier, four by itself, five forming a tier with six as an inset.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Seth is now in the woods. He hand is raised exactly as it was in page 16/panel 4, but now there's a dagger in his hand where before he was holding up a candle. It's still night out and he's lit by a bonfire. Standing just behind him is a dark shape. This is the first of several dreamlike panels. Perhaps use a similar style to the hallucination on page 8.]
+  > 🎨 ARTIST: Seth is now in the woods. He hand is raised exactly as it was in page 16/panel 4, but now there's a dagger in his hand where before he was holding up a candle. It's still night out and he's lit by a bonfire. Standing just behind him is a dark shape. This is the first of several dreamlike panels. Perhaps use a similar style to the hallucination on page 8.
 
-- **📝 CAPTION:**<br/> There was no sense of transition. One moment I was in the house.
+  - **🎙️ CAPTION (SETH):**<br/> There was no sense of transition. One moment I was in the house.
 
-- **🗣️ WITCH:**<br/> Do it, boy.
+  - **🗣️ WITCH (BALLOON):**<br/> Do it, boy.
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: We now have a better view of the witch peering at Seth who is still holding that dagger up. There's some type of rat on her shoulder with a vaguely human face.]
+  > 🎨 ARTIST: We now have a better view of the witch peering at Seth who is still holding that dagger up. There's some type of rat on her shoulder with a vaguely human face.
 
-- **📝 CAPTION:**<br/> The next I was elsewhere.
+  - **🎙️ CAPTION (SETH):**<br/> The next I was elsewhere.
 
-- **🗣️ WITCH:**<br/> Do it now.
+  - **🗣️ WITCH (BALLOON):**<br/> Do it now.
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: We now see Seth plunging his dagger down into his left palm.]
+  > 🎨 ARTIST: We now see Seth plunging his dagger down into his left palm.
 
-- **📝 CAPTION:**<br/> And my body was no longer my own.
+  - **🎙️ CAPTION (SETH):**<br/> And my body was no longer my own.
 
-#### 🎬 **PANEL FOUR**
+#### 🖼️ **PANEL FOUR**
 
-  > [🎨 Artist Note: And he's starting to carve out the first arc of what we'll eventually recognize as a Yellow Sign. (Ask for reference.) This is the last dreamlike panel.]
+  > 🎨 ARTIST: And he's starting to carve out the first arc of what we'll eventually recognize as a Yellow Sign. (Ask for reference.) This is the last dreamlike panel.
 
-- **🗣️ SETH:**<br/> Agh!!
+  - **🗣️ SETH (SHOUT):**<br/> Agh!!
 
-#### 🎬 **PANEL FIVE**
+#### 🖼️ **PANEL FIVE**
 
-  > [🎨 Artist Note: We're now back in the house, with a much wider shot of Seth standing in a room, looking into a closet, as per page 16/panel 4. He's still holding that candle up, but it's entirely melted down and gone out. There's nothing in the closet any more, other than those shoes that we saw at the bottom.]
+  > 🎨 ARTIST: We're now back in the house, with a much wider shot of Seth standing in a room, looking into a closet, as per page 16/panel 4. He's still holding that candle up, but it's entirely melted down and gone out. There's nothing in the closet any more, other than those shoes that we saw at the bottom.
 
-  > [🎨 Artist Note: The dawn light is streaming into the room from the window. Wooden slats block some of the light, but the tattered curtains don't.]
+  > 🎨 ARTIST: The dawn light is streaming into the room from the window. Wooden slats block some of the light, but the tattered curtains don't.
 
-  > [🎨 Artist Note: We can barely make out that something is on Seth's left palm.]
+  > 🎨 ARTIST: We can barely make out that something is on Seth's left palm.
 
-- **📝 CAPTION:**<br/> And then it was dawn. And everything was as it had been.
+  - **🎙️ CAPTION (SETH):**<br/> And then it was dawn. And everything was as it had been.
 
-#### 🎬 **PANEL SIX**
+#### 🖼️ **PANEL SIX**
 
-  > [🎨 Artist Note: A closeup of Seth's left hand. There's a tattoo of a yellow sign there.]
+  > 🎨 ARTIST: A closeup of Seth's left hand. There's a tattoo of a yellow sign there.
 
-- **📝 CAPTION:**<br/> And everything was changed.
+  - **🎙️ CAPTION (SETH):**<br/> And everything was changed.
 
 ### 📄 **Page Eighteen**
 
-- **🎬 A TALL PANEL DOWN THE SIDE, THEN THREE TIERS:** panel two in a tier, then three and four together, then five by itself, which is the largest.
+  > 🔲 PANEL LAYOUT: A tall panel down the side, then three tiers: panel two in a tier, then three and four together, then five by itself, which is the largest.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Seth, looking very tired, stumbles out of the deserted house.]
+  > 🎨 ARTIST: Seth, looking very tired, stumbles out of the deserted house.
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: Seth flags down a taxi on the street.]
+  > 🎨 ARTIST: Seth flags down a taxi on the street.
 
-- **📝 CAPTION:**<br/> The horrors of the night were done.
+  - **🎙️ CAPTION (SETH):**<br/> The horrors of the night were done.
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: Seth exits at a tall building, identified by sign as "The Hotel Miskatonic". The tall, Art Deco "Hotel Miskatonic" has a vertical illuminated (not neon) sign, with "Hotel" across the top, and "Miskatonic" in bigger letters down to the marquee (the awning over the actual entrance).]
+  > 🎨 ARTIST: Seth exits at a tall building, identified by sign as "The Hotel Miskatonic". The tall, Art Deco "Hotel Miskatonic" has a vertical illuminated (not neon) sign, with "Hotel" across the top, and "Miskatonic" in bigger letters down to the marquee (the awning over the actual entrance).
 
-#### 🎬 **PANEL FOUR**
+#### 🖼️ **PANEL FOUR**
 
-  > [🎨 Artist Note: Seth opens the door to his room, and we see a letter lying just inside the door, marked "Seth Fletcher".]
+  > 🎨 ARTIST: Seth opens the door to his room, and we see a letter lying just inside the door, marked "Seth Fletcher".
 
-- **📝 CAPTION:**<br/> But one last surprise waited for me in my hotel room.
+  - **🎙️ CAPTION (SETH):**<br/> But one last surprise waited for me in my hotel room.
 
-#### 🎬 **PANEL FIVE**
+#### 🖼️ **PANEL FIVE**
 
-  > [🎨 Artist Note: Seth collapsed on his bed, reading the letter. We can see "Dear Mr. Fletcher, We have heard of your inquiries. We regret to inform you that your brother, Carlton Fletcher, was accidentally drowned on his way to Morocco in the Summer of 1928. With Regrets, The Regents, Miskatonic University."]
+  > 🎨 ARTIST: Seth collapsed on his bed, reading the letter. We can see "Dear Mr. Fletcher, We have heard of your inquiries. We regret to inform you that your brother, Carlton Fletcher, was accidentally drowned on his way to Morocco in the Summer of 1928. With Regrets, The Regents, Miskatonic University."
 
 ### 📄 **Page Nineteen**
 
-  > [🎨 Artist Note: First three panels forming a single tier. Fourth panel taking up most of the page. Fifth panel an inset to the fourth.]
+  > 🔲 PANEL LAYOUT: First three panels forming a single tier. Fourth panel taking up most of the page. Fifth panel an inset to the fourth.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: A tight shot of Seth's legs, lying against the bed. The paper is slowly drifting down toward the floor. (This is a reflection of page 3/panel 5).]
+  > 🎨 ARTIST: A tight shot of Seth's legs, lying against the bed. The paper is slowly drifting down toward the floor. (This is a reflection of page 3/panel 5).
 
-- **📝 CAPTION:**<br/> The regents' letter contradicted everything else I had learned that night.
+  - **🎙️ CAPTION (SETH):**<br/> The regents' letter contradicted everything else I had learned that night.
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: Flashback. Newland at his desk, looking very tired, finally revealing the truth to Seth. (Page 14, Panel 5).]
+  > 🌀 FLASHBACK: Newland at his desk, looking very tired, finally revealing the truth to Seth. (Page 14, Panel 5).
 
-- **📝 CAPTION:**<br/> But it was simple.
+  - **🎙️ CAPTION (SETH):**<br/> But it was simple.
 
-- **🗣️ NEWLAND:**<br/> Your brother, he died in Morocco. At the tomb.
+  - **🗣️ NEWLAND (BALLOON):**<br/> Your brother, he died in Morocco. At the tomb.
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: Flashback. Harding, in his asylum cell, straight jacked partially freed and arms at his side (see page 7/panel 6).]
+  > 🌀 FLASHBACK: Harding, in his asylum cell, straight jacked partially freed and arms at his side (see page 7/panel 6).
 
-- **📝 CAPTION:**<br/> It was sane.
+  - **🎙️ CAPTION (SETH):**<br/> It was sane.
 
-- **🗣️ HARDING:**<br/> He was in the Phoenician Temple, so far inland.
+  - **🗣️ HARDING (BALLOON):**<br/> He was in the Phoenician Temple, so far inland.
 
-#### 🎬 **PANEL FOUR**
+#### 🖼️ **PANEL FOUR**
 
-  > [🎨 Artist Note: We're back to Seth lying on the bed, now staring at his left hand with fascination.]
+  > 🎨 ARTIST: We're back to Seth lying on the bed, now staring at his left hand with fascination.
 
-- **📝 CAPTION:**<br/> And so I was forced to make a choice.
+  - **🎙️ CAPTION (SETH):**<br/> And so I was forced to make a choice.
 
-- **📝 CAPTION:**<br/> I could go home, accepting that my brother's death was a simple tragedy.
+  - **🎙️ CAPTION (SETH):**<br/> I could go home, accepting that my brother's death was a simple tragedy.
 
-- **📝 CAPTION:**<br/> Or, I could decide that there was something stranger going on in Arkham.
+  - **🎙️ CAPTION (SETH):**<br/> Or, I could decide that there was something stranger going on in Arkham.
 
-#### 🎬 **PANEL FIVE**
+#### 🖼️ **PANEL FIVE**
 
-  > [🎨 Artist Note: Another closeup of his hand, and the Yellow Sign there.]
+  > 🎨 ARTIST: Another closeup of his hand, and the Yellow Sign there.
 
-- **📝 CAPTION:**<br/> There was no real choice.
+  - **🎙️ CAPTION (SETH):**<br/> There was no real choice.
 
 ### 📄 **Page Twenty**
 
-  > [🎨 Artist Note: Full-page panel.]
+  > 🔲 PANEL LAYOUT: Full-page panel.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Same picture as on page one, but we're now pulled way back. We can see that Seth is writing at a desk in an elegant looking dorm room. He has a simple twin bed off to one side, a bookbag near the chair, and a couple of shelves with books arrayed neatly on them. High in the molding on one of the walls is an embossed "Miskatonic University" seal.]
+  > 🎨 ARTIST: Same picture as on page one, but we're now pulled way back. We can see that Seth is writing at a desk in an elegant looking dorm room. He has a simple twin bed off to one side, a bookbag near the chair, and a couple of shelves with books arrayed neatly on them. High in the molding on one of the walls is an embossed "Miskatonic University" seal.
 
-- **📝 CAPTION:**<br/> On August 19, 1933 I enrolled as a Freshman at Miskatonic University.
+  - **🎙️ CAPTION (SETH):**<br/> On August 19, 1933 I enrolled as a Freshman at Miskatonic University.
