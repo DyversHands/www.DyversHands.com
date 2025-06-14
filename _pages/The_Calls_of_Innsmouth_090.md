@@ -44,7 +44,7 @@ creators:
 
 # Publication Details
 publication_status: "In Development"  # Options: Published, Unpublished, In Development
-first_published_date: 2024  # Year of first publication (if published)
+first_published_date: 2025  # Year of first publication (if published)
 publisher: "Dyvers Hands Productions, LLC"
 script_version: "v0.9.0"
 script_status: "Draft"  # Options: Draft, Final, Revised
