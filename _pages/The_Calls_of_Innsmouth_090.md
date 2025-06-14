@@ -29,7 +29,7 @@ header:
 # ==============================================================================
 
 # Basic Issue Information
-title: "Lovecraft Country: The Innsmouth Papers - 'Dead Air'"
+title: "The Calls of Innsmouth - 'Dead Air'"
 series: "Lovecraft Country: The Innsmouth Papers"
 issue: 1
 issue_title: "Dead Air"
@@ -117,7 +117,7 @@ rights_holder: "Dyvers Hands Productions, LLC"
 > This work is licensed [{{ page.license-long }}]({{ page.license-url }}).  
 >  
 > This script is part of the *{{ page.series }}* series.  
-> *{{ page.series }}*™ is a trademark of {{ page.rights_holder }}.  
+> *{{ page.series }}*™ is a trademark of {{ page.rights_holder }}.
 
 ---
 
