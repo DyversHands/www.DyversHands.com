@@ -6,8 +6,8 @@ header:
   overlay_image: /images/qr-background.jpg
 hide_description: true
 classes:
-  - wide
   - script-page
+  - wide
 permalink: /Comics/lovecraft-country-return-to-arkham-no-1
 redirect_from:
   - /comics/rta1
@@ -46,11 +46,6 @@ copyright: "© 2005 Dyvers Hands Productions, LLC."
 license: "Creative Commons BY-NC-SA 4.0"
 rights_holder: "Dyvers Hands Productions, LLC"
 ---
-<style>
-li {
-  hyphens: none;
-}
-</style>
 
 # 📘 {{ page.title }} – Issue {{ page.issue }}
 
