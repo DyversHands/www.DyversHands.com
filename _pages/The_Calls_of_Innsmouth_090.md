@@ -52,7 +52,7 @@ original_draft_date: "2025-06-14"
 
 # Story Information
 synopsis: >
-  February 13, 1928. Night telephone operator Claire Palmer connects routine calls 
+  July 15, 1928. Night telephone operator Claire Palmer connects routine calls 
   in sleepy Arkham—until desperate voices from neighboring Innsmouth break through. 
   Against every rule of her profession, she listens in, discovering a federal raid 
   planned for dawn. As the night deepens, familiar operators at the coastal exchange 
@@ -62,7 +62,7 @@ synopsis: >
 logline: "A 1920's telephone operator becomes witness to a town's final hours before federal erasure."
 tagline: "Every call carries the weight of history."
 main_characters: "Claire Palmer (Telephone Operator)"
-setting: "Arkham, Massachusetts, February 13-14, 1928"
+setting: "Arkham, Massachusetts, July 15, 1927"
 
 # Genre and Classification
 genres:
@@ -84,7 +84,7 @@ keywords:
 continuity:
   arc: "The Innsmouth Papers"
   placement: "Prologue: Dead Air"
-  timeline: "February 13-14, 1928"
+  timeline: "July 15-16, 1927"
 arc_total_issues: 6
 
 # Adaptation Information (if applicable)
@@ -162,7 +162,7 @@ rights_holder: "Dyvers Hands Productions, LLC"
 
   > 🌆 BACKGROUND: Show Arkham Telephone Exchange building prominently. No phone booths visible anywhere.
 
-  - **🎙️ CAPTION (NARRATOR):**<br/> Arkham, Massachusetts. February 13th, 1928.
+  - **🎙️ CAPTION (NARRATOR):**<br/> Arkham, Massachusetts. July 15th, 1927.
 
   - **🎙️ CAPTION (NARRATOR):**<br/> Population 3,847. Twelve public telephones in the entire town.
 
@@ -972,7 +972,7 @@ rights_holder: "Dyvers Hands Productions, LLC"
 
   > 🌆 BACKGROUND: Period-accurate vehicles and uniforms. Show the sheer scale of the operation.
 
-  - **🎙️ CAPTION (NARRATOR):**<br/> February 14th, 1928. Dawn.
+  - **🎙️ CAPTION (NARRATOR):**<br/> July 16th, 1927. Dawn.
 
   - **🎙️ CAPTION (NARRATOR):**<br/> 387 arrests. Most would never be seen again.
 
@@ -1052,7 +1052,7 @@ rights_holder: "Dyvers Hands Productions, LLC"
 
   - **🎙️ CAPTION (NARRATOR):**<br/> The Coastal Exchange was rebuilt in 1930. Fully automatic. No operators required.
 
-  - **🎙️ CAPTION (NARRATOR):**<br/> Sarah Henley, the night operator, was never seen again after February 14th, 1928.
+  - **🎙️ CAPTION (NARRATOR):**<br/> Sarah Henley, the night operator, was never seen again after July 16th, 1927.
 
   - **🎙️ CAPTION (NARRATOR):**<br/> Innsmouth remains empty. Federal property. No trespassing.
 
