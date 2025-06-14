@@ -12,7 +12,7 @@ categories: [script, sample-series]
 # Page Display Settings
 classes:
   - script-page
-  - wide
+
 cover: false
 hide_description: true
 header:
