@@ -354,26 +354,15 @@ input[type="submit"],
   transition: $global-transition;
 }
 
-script-page li {
+.script-page li {
   text-align: center;
   list-style: none;
   hyphens: none;
   margin: 0.5em 0;
 }
 
-script-page ul,
-script-page ol {
+.script-page ul,
+.script-page ol {
   padding-left: 0;
-}
-
-body.script-page li {
   text-align: center;
-  list-style: none;
-  hyphens: none;
-  margin: 0.5em 0;
-}
-
-body.script-page ul,
-body.script-page ol {
-  padding-left: 0;
 }
