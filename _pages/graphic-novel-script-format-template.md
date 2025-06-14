@@ -259,25 +259,25 @@ rights_holder: "Sample Press Publishing"
 
 ### Script Formatting Elements
 
-> **📘** - Issue/series markers
-> **📄** - Page markers  
-> **🎬** - Panel markers and layout instructions (alternative to 🖼️)
-> **🖼️** - Panel designator
-> **🔲** - Panel layout instructions
-> **🎨** - Artist notes and visual direction
-> **🎙️** - Captions (narrator or character internal monologue)
-> **📝** - Alternative caption marker
-> **🗣️** - Character dialogue (spoken)
-> **🔊** - Sound effects (SFX)
-> **✍️** - Letterer notes
-> **🎭** - Costume notes
-> **📦** - Prop notes
-> **🌫️** - Atmosphere/mood notes
-> **🌆** - Background/setting notes
-> **🌀** - Flashback/time shift indicators
-> **♻️** - Panel reuse instructions
-> **📎** - Reference links/images
-> **🗂️** - Organizational sections
+> **📘** - Issue/series markers <br/>
+> **🗂️** - Organizational sections <br/>
+> **📝** - Script notes for overall script <br/>
+> **📄** - Page markers   <br/>
+> **🖼️** - Panel designator  <br/>
+> **🔲** - Panel layout instructions <br/>
+> **🎬** - Panel markers and layout instructions (alternative to 🖼️) <br/>
+> **🎨** - Artist notes and visual direction <br/>
+> **🎙️** - Captions (narrator or character internal monologue) <br/>
+> **🗣️** - Character dialogue (spoken) <br/>
+> **🔊** - Sound effects (SFX) <br/>
+> **✍️** - Letterer notes <br/>
+> **🎭** - Costume notes <br/>
+> **📦** - Prop notes <br/>
+> **🌫️** - Atmosphere/mood notes <br/>
+> **🌆** - Background/setting notes <br/>
+> **🌀** - Flashback/time shift indicators <br/>
+> **♻️** - Panel reuse instructions <br/>
+> **📎** - Reference links/images <br/>
 
 ### Dialogue Types
 
