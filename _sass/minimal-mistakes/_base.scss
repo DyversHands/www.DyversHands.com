@@ -354,15 +354,30 @@ input[type="submit"],
   transition: $global-transition;
 }
 
-.script-page li {
-  text-align: center;
-  list-style: none;
+/* Script page styles */
+.script-page li,
+body.script-page li {
+  text-align: center !important;
+  list-style: none !important;
+  list-style-type: none !important;
   hyphens: none;
   margin: 0.5em 0;
 }
 
 .script-page ul,
-.script-page ol {
-  padding-left: 0;
-  text-align: center;
+.script-page ol,
+body.script-page ul,
+body.script-page ol {
+  padding-left: 0 !important;
+  text-align: center !important;
+  list-style: none !important;
+  list-style-type: none !important;
+}
+
+/* More specific selectors for script pages */
+.page__content .script-page li,
+body.script-page .page__content li {
+  text-align: center !important;
+  list-style: none !important;
+  list-style-type: none !important;
 }
