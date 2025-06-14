@@ -354,15 +354,14 @@ input[type="submit"],
   transition: $global-transition;
 }
 
-.script-page {
-  li {
-    text-align: center;
-    hyphens: none;
-    list-style: none;
-    margin: 0.5em 0;
-  }
+.script-page li {
+  text-align: center;
+  list-style: none;
+  hyphens: none;
+  margin: 0.5em 0;
+}
 
-  ul, ol {
-    padding-left: 0; // Remove left indent on lists
-  }
+.script-page ul,
+.script-page ol {
+  padding-left: 0;
 }
