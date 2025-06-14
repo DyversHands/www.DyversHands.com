@@ -82,4 +82,33 @@ search: false
       */
     }
   }
+
+/* Script page specific styles */
+body.script-page .page__content ul,
+body.script-page .page__content ol {
+  padding-left: 0 !important;
+  list-style: none !important;
+  list-style-type: none !important;
+  text-align: center !important;
+}
+
+body.script-page .page__content li {
+  text-align: center !important;
+  list-style: none !important;
+  list-style-type: none !important;
+  margin: 0.5em 0 !important;
+}
+
+/* Even more specific for nested lists */
+body.script-page .page__content ul li,
+body.script-page .page__content ol li,
+body.script-page .page__content ul ul,
+body.script-page .page__content ul ol,
+body.script-page .page__content ol ul,
+body.script-page .page__content ol ol {
+  padding-left: 0 !important;
+  list-style: none !important;
+  list-style-type: none !important;
+  text-align: center !important;
+}
   
