@@ -4,7 +4,7 @@
 # These settings control how Jekyll processes and displays this page
 # ==============================================================================
 
-layout: script
+layout: splash
 permalink: /Comics/graphic-novel-script-format-template
 published: true  # Jekyll setting: true = page is rendered, false = page is hidden
 categories: [script, sample-series]
