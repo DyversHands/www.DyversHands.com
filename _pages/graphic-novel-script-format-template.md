@@ -131,64 +131,97 @@ rights_holder: "Sample Press Publishing"
 > **Aspect Ratio (Suggested for Screen):** {{ page.aspect_ratio }}  
 > **Language:** {{ page.language }}  
 > **Subtitles Available:** {{ page.subtitle_languages | join: ', ' }}  
->
 > **Adaptation Notes:** {{ page.adaptation_notes }}
+
+### 📝 Script Notes
+
+  > [🎨 Artist Note: Maintain realism with subtle surreal cues. Use strong shadows and ambient details to create unease.]
+  > [🎭 Costume Note: Jane's trench coat should appear increasingly worn through the issue.]
+  > [📦 Prop Note: The pendant must always be visible when Jane speaks with the ghost.]
+  > [🌫️ Atmosphere Note: A humid, cold quality to all indoor scenes. Mist clings to windows.]
+  > [🔖 REFERENCE: Inspiration for city layout from Fritz Lang's *Metropolis*.]
+  > [🔖 REFERENCE: See aerial image reference: /images/skylines/sample.jpg]
+
 
 ---
 
-## Script Template
-
 ### 📄 **Page One**
 
-  > [🎨 Artist Note: Full page splash. Establish the tone and atmosphere.]
+  > 🔲 **Panel Layout:** Full-page splash panel.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Describe the visual composition, camera angle, lighting, and key elements in frame.]
+  > [🎨 Artist Note: Bird's-eye view of Sample City skyline at dusk, Jane walking alone. Cold palette.]
+  > [🌆 Background Note: Include faded billboard advertising "DreamTech"]
+  > [🌀 FLASHBACK: Color tones shift to pale sepia.]
+  > [🔖 REFERENCE: https://unsplash.com/photos/cityscape]
 
-- **📝 CAPTION:**<br/> Narrative text that sets the scene or provides internal monologue.
+  - **🎙️ CAPTION (JANE):**<br/> You never forget the first time you see it from above.
+  - **🔊 SFX (AMBIENT):**<br/> wind whistling
 
-- **🗣️ CHARACTER NAME:**<br/> Dialogue goes here.
+---
 
 ### 📄 **Page Two**
 
-  > [🎨 Artist Note: Six-panel grid. Focus on character introduction.]
+  > 🔲  **Panel Layout:** 3 top panels, 1 wide panel below.
 
-#### 🎬 **PANEL ONE**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Medium shot. Character enters frame left.]
+  > [🎨 Artist Note: Close-up of Jane's eye. Reflections hint at a ghostly figure.]
 
-- **📝 CAPTION:**<br/> The city breathes in shadows.
+  - **🎙️ CAPTION (NARRATOR):**<br/> There are cracks in every surface.
 
-#### 🎬 **PANEL TWO**
+#### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: Close-up on character's eyes. Show emotion.]
+  > [🎨 Artist Note: Side view of Jane on a subway train. Reflections distort in the glass.]
 
-- **🗣️ JANE:**<br/> This isn't what I expected.
+  - **🗣️ JANE (BALLOON):**<br/> You see it too, right?
+  - **✍️ Letterer Note: Jane's dialogue should have a whispery tail.]
 
-#### 🎬 **PANEL THREE**
+#### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: Wide shot. Reveal the environment.]
+  > [🎨 Artist Note: Insert of a pendant glowing faintly against her coat.]
 
-- **🗣️ VOICE (OFF-PANEL):**<br/> Nothing ever is.
+  - **🔊 SFX (MAGIC):**<br/> thrum-thrum-thrum
 
-#### 🎬 **PANEL FOUR**
+#### 🖼️ **PANEL FOUR**
 
-  > [🎨 Artist Note: Over-the-shoulder shot. Jane turns toward voice.]
+  > [🎨 Artist Note: A wide shot of the train speeding into the underground tunnel. Mist trailing.]
 
-- **🗣️ JANE:**<br/> Who's there?
+  - **🎙️ CAPTION (JANE):**<br/> It always begins underground.
 
-#### 🎬 **PANEL FIVE**
+---
 
-  > [🎨 Artist Note: Silhouette in doorway. Keep mysterious.]
+### 📄 **Page Three**
 
-- **🗣️ STRANGER:**<br/> Someone who knows the truth.
+  > 🔲  **Panel Layout:** 2x2 grid
 
-#### 🎬 **PANEL SIX**
+#### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Extreme close-up on Jane's hand reaching for something.]
+  > [🎨 Artist Note: Interior hallway, flickering lights. Jane's shadow splits into two.]
 
-- **📝 CAPTION:**<br/> Every choice echoes forward.
+  - **🗣️ VOICE (OFF-PANEL):**<br/> Jane…?
+  - **🔊 SFX (ELECTRICAL):**<br/> bzzzZT
+
+#### 🖼️ **PANEL TWO**
+
+  > [🎭 Costume Note: Jane's scarf is now twisted unnaturally.]
+
+  - **🗣️ JANE (THOUGHT BALLOON):**<br/> Not again. Not this soon.
+
+#### 🖼️ **PANEL THREE**
+
+  > [🎨 Artist Note: Flashlight beam reveals a sigil on the wall.]
+
+  - **🎙️ CAPTION (JANE):**<br/> I've seen that mark before.
+
+#### 🖼️ **PANEL FOUR**
+
+  > [🎨 Artist Note: Close-up on Jane's hand brushing over the sigil.]
+
+  - **♻️ REUSE PANEL:** Page 2, Panel 3 (same pendant glow and composition).
+  - **🔊 SFX (MAGIC):**<br/> humMMM
+  > [🔖 REFERENCE: Arcane sigil sketch: /references/sigil-sketch.png]
 
 ---
 
@@ -196,26 +229,16 @@ rights_holder: "Sample Press Publishing"
 
 ### Panel Layout Descriptions
 
-- **🎬 STANDARD SIX-PANEL GRID:** Two rows of three panels each
-- **🎬 NINE-PANEL GRID:** Three rows of three panels each
-- **🎬 WIDESCREEN:** Three horizontal panels stacked
-- **🎬 VERTICAL STACK:** One tall panel on left, smaller panels on right
-- **🎬 SPLASH PAGE:** Full page single image
-- **🎬 DOUBLE-PAGE SPREAD:** Image spans across two facing pages
-
-### Script Formatting Elements
-
-- **📘** - Issue/series markers
-- **📄** - Page markers  
-- **🎬** - Panel markers and layout instructions
-- **🎨** - Artist notes and visual direction
-- **📝** - Captions and narrative text
-- **🗣️** - Character dialogue
-- **🗂️** - Organizational sections
+- **🔲 STANDARD SIX-PANEL GRID:** Two rows of three panels each
+- **🔲 NINE-PANEL GRID:** Three rows of three panels each
+- **🔲 WIDESCREEN:** Three horizontal panels stacked
+- **🔲 VERTICAL STACK:** One tall panel on left, smaller panels on right
+- **🔲 SPLASH PAGE:** Full page single image
+- **🔲 DOUBLE-PAGE SPREAD:** Image spans across two facing pages
 
 ---
 
-## Notes for Writers
+## Notes for Graphic Novel Script Writers
 
 1. **Visual Storytelling**: Remember that comics are a visual medium. Show don't tell.
 2. **Panel Economy**: Each panel should advance the story or reveal character.
@@ -225,11 +248,52 @@ rights_holder: "Sample Press Publishing"
 
 ---
 
-## Script Version History
+## 📌 Legend of Tags
+
+### Script Formatting Elements
+
+- **📘** - Issue/series markers
+- **📄** - Page markers  
+- **🎬** - Panel markers and layout instructions (alternative to 🖼️)
+- **🖼️** - Panel designator
+- **🔲** - Panel layout instructions
+- **🎨** - Artist notes and visual direction
+- **🎙️** - Captions (narrator or character internal monologue)
+- **📝** - Alternative caption marker
+- **🗣️** - Character dialogue (spoken)
+- **🔊** - Sound effects (SFX)
+- **✍️** - Letterer notes
+- **🎭** - Costume notes
+- **📦** - Prop notes
+- **🌫️** - Atmosphere/mood notes
+- **🌆** - Background/setting notes
+- **🌀** - Flashback/time shift indicators
+- **♻️** - Panel reuse instructions
+- **🔖** - Reference links/images
+- **🗂️** - Organizational sections
+
+### Dialogue Types
+
+- **(BALLOON)** - Standard speech balloon
+- **(THOUGHT BALLOON)** - Internal thoughts
+- **(OFF-PANEL)** - Voice from outside the panel
+- **(WHISPER)** - Quiet/whispered dialogue
+- **(SHOUT)** - Loud/shouted dialogue
+- **(ELECTRONIC)** - Radio, phone, or digital voice
+
+### Sound Effect Types
+
+- **(AMBIENT)** - Environmental sounds
+- **(IMPACT)** - Collision/hit sounds
+- **(ELECTRICAL)** - Electronic/energy sounds
+- **(MAGIC)** - Supernatural sounds
+- **(MECHANICAL)** - Machine/device sounds
+
+---
+
+## GraphicScript Version History
 
 - **v1.0** - Initial draft template (Current)
-- **v0.9** - Beta template structure
-- **v0.8** - Early concept
 
 ---
 
