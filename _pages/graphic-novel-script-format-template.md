@@ -135,26 +135,30 @@ rights_holder: "Sample Press Publishing"
 
 ### 📝 Script Notes
 
-  > [🎨 Artist Note: Maintain realism with subtle surreal cues. Use strong shadows and ambient details to create unease.]
-  > [🎭 Costume Note: Jane's trench coat should appear increasingly worn through the issue.]
-  > [📦 Prop Note: The pendant must always be visible when Jane speaks with the ghost.]
-  > [🌫️ Atmosphere Note: A humid, cold quality to all indoor scenes. Mist clings to windows.]
-  > [🔖 REFERENCE: Inspiration for city layout from Fritz Lang's *Metropolis*.]
-  > [🔖 REFERENCE: See aerial image reference: /images/skylines/sample.jpg]
+  > 🎨 ARTIST: Maintain realism with subtle surreal cues. Use strong shadows and ambient details to create unease.
 
+  > 🎭 COSTUME: Jane's trench coat should appear increasingly worn through the issue.
+
+  > 📦 PROP: The pendant must always be visible when Jane speaks with the ghost.
+
+  > 🌫️ ATMOSPHERE: A humid, cold quality to all indoor scenes. Mist clings to windows.
+
+  > 📎 REFERENCE: Inspiration for city layout from Fritz Lang's *Metropolis*.
+
+  > 📎 REFERENCE: See aerial image reference: /images/skylines/sample.jpg
 
 ---
 
 ### 📄 **Page One**
 
-  > 🔲 **Panel Layout:** Full-page splash panel.
+  > 🔲 PANEL LAYOUT: Full-page splash panel.
 
 #### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Bird's-eye view of Sample City skyline at dusk, Jane walking alone. Cold palette.]
-  > [🌆 Background Note: Include faded billboard advertising "DreamTech"]
-  > [🌀 FLASHBACK: Color tones shift to pale sepia.]
-  > [🔖 REFERENCE: https://unsplash.com/photos/cityscape]
+  > 🎨 ARTIST: Bird's-eye view of Sample City skyline at dusk, Jane walking alone. Cold palette.
+  > 🌆 BACKGROUND: Include faded billboard advertising "DreamTech"
+  > 🌀 FLASHBACK: Color tones shift to pale sepia.
+  > 📎 REFERENCE: https://unsplash.com/photos/cityscape
 
   - **🎙️ CAPTION (JANE):**<br/> You never forget the first time you see it from above.
   - **🔊 SFX (AMBIENT):**<br/> wind whistling
@@ -163,30 +167,31 @@ rights_holder: "Sample Press Publishing"
 
 ### 📄 **Page Two**
 
-  > 🔲  **Panel Layout:** 3 top panels, 1 wide panel below.
+  > 🔲 PANEL LAYOUT: 3 top panels, 1 wide panel below.
 
 #### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Close-up of Jane's eye. Reflections hint at a ghostly figure.]
+  > 🎨 ARTIST: Close-up of Jane's eye. Reflections hint at a ghostly figure.
 
   - **🎙️ CAPTION (NARRATOR):**<br/> There are cracks in every surface.
 
 #### 🖼️ **PANEL TWO**
 
-  > [🎨 Artist Note: Side view of Jane on a subway train. Reflections distort in the glass.]
+  > 🎨 ARTIST: Side view of Jane on a subway train. Reflections distort in the glass.
 
   - **🗣️ JANE (BALLOON):**<br/> You see it too, right?
-  - **✍️ Letterer Note: Jane's dialogue should have a whispery tail.]
+  
+  > ✍️ LETTERER: Jane's dialogue should have a whispery tail.
 
 #### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: Insert of a pendant glowing faintly against her coat.]
+  > 🎨 ARTIST: Insert of a pendant glowing faintly against her coat.
 
   - **🔊 SFX (MAGIC):**<br/> thrum-thrum-thrum
 
 #### 🖼️ **PANEL FOUR**
 
-  > [🎨 Artist Note: A wide shot of the train speeding into the underground tunnel. Mist trailing.]
+  > 🎨 ARTIST: A wide shot of the train speeding into the underground tunnel. Mist trailing.
 
   - **🎙️ CAPTION (JANE):**<br/> It always begins underground.
 
@@ -194,34 +199,36 @@ rights_holder: "Sample Press Publishing"
 
 ### 📄 **Page Three**
 
-  > 🔲  **Panel Layout:** 2x2 grid
+  > 🔲 PANEL LAYOUT: 2x2 grid
 
 #### 🖼️ **PANEL ONE**
 
-  > [🎨 Artist Note: Interior hallway, flickering lights. Jane's shadow splits into two.]
+  > 🎨 ARTIST: Interior hallway, flickering lights. Jane's shadow splits into two.
 
   - **🗣️ VOICE (OFF-PANEL):**<br/> Jane…?
   - **🔊 SFX (ELECTRICAL):**<br/> bzzzZT
 
 #### 🖼️ **PANEL TWO**
 
-  > [🎭 Costume Note: Jane's scarf is now twisted unnaturally.]
+  > 🎭 COSTUME: Jane's scarf is now twisted unnaturally.
 
   - **🗣️ JANE (THOUGHT BALLOON):**<br/> Not again. Not this soon.
 
 #### 🖼️ **PANEL THREE**
 
-  > [🎨 Artist Note: Flashlight beam reveals a sigil on the wall.]
+  > 🎨 ARTIST: Flashlight beam reveals a sigil on the wall.
 
   - **🎙️ CAPTION (JANE):**<br/> I've seen that mark before.
 
 #### 🖼️ **PANEL FOUR**
 
-  > [🎨 Artist Note: Close-up on Jane's hand brushing over the sigil.]
+  > 🎨 ARTIST: Close-up on Jane's hand brushing over the sigil.
 
-  - **♻️ REUSE PANEL:** Page 2, Panel 3 (same pendant glow and composition).
+  > ♻️ REUSE PANEL: Page 2, Panel 3 (same pendant glow and composition).
+
   - **🔊 SFX (MAGIC):**<br/> humMMM
-  > [🔖 REFERENCE: Arcane sigil sketch: /references/sigil-sketch.png]
+
+  > 📎 REFERENCE: Arcane sigil sketch: ![Arcane Sigil](/assets/img/references/sigil-sketch.png "Glowing arcane image on black background")
 
 ---
 
@@ -269,7 +276,7 @@ rights_holder: "Sample Press Publishing"
 - **🌆** - Background/setting notes
 - **🌀** - Flashback/time shift indicators
 - **♻️** - Panel reuse instructions
-- **🔖** - Reference links/images
+- **📎** - Reference links/images
 - **🗂️** - Organizational sections
 
 ### Dialogue Types
@@ -291,10 +298,10 @@ rights_holder: "Sample Press Publishing"
 
 ---
 
-## GraphicScript Version History
+## GNSF Template Version History
 
 - **v1.0** - Initial draft template (Current)
 
 ---
 
-*End of Template*
+*End of GNSF Template*
