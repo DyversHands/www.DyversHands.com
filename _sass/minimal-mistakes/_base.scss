@@ -353,3 +353,16 @@ input[type="submit"],
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+.script-page {
+  li {
+    text-align: center;
+    hyphens: none;
+    list-style: none;
+    margin: 0.5em 0;
+  }
+
+  ul, ol {
+    padding-left: 0; // Remove left indent on lists
+  }
+}

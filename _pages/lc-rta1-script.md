@@ -7,6 +7,7 @@ header:
 hide_description: true
 classes:
   - wide
+  - script-page
 permalink: /Comics/lovecraft-country-return-to-arkham-no-1
 redirect_from:
   - /comics/rta1
