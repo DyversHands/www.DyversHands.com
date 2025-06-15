@@ -148,6 +148,17 @@ rights_holder: "Dyvers Hands Productions, LLC"
   > 📎 REFERENCE: 1920s telephone operator procedures: https://www.youtube.com/watch?v=HcjEaH7lqEo
   > 📎 REFERENCE: Manual switchboard operation: https://www.youtube.com/watch?v=XgHbgJiF0oc
 
+<details>
+<summary>📎 REFERENCE: Period Telephone Switchboard (click to view)</summary>
+
+![1920s Telephone Switchboard](/assets/references/bell-telephone-mag-switchboard.jpg)
+
+**Source:** Bell Telephone Magazine, Volume 22 (1943), page 233  
+**Original Archive:** [Internet Archive - Bell Telephone Magazine](https://archive.org/details/belltelephonemag22amerrich/page/233/mode/1up?view=theater)  
+**Description:** This image shows a typical manual telephone switchboard from the era, with vertical panels of jacks and hanging cords that operators used to physically connect calls. Note the multiple rows of connection points and the indicator lamps above each jack that would light up when a subscriber lifted their receiver.
+
+</details>
+
 ---
 
 ## Act 1: Rumblings of Unease
