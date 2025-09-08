@@ -1,3 +1,3 @@
 * Tag, You're It - Photo by <a href="https://unsplash.com/@alin_luna?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alin Luna</a> on <a href="https://unsplash.com/photos/a-couple-of-dogs-running-across-a-lush-green-field-LyjGDwQ-9PM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 * The Third Partner - Photo by <a href="https://unsplash.com/@kaylar_photo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kaylar Photo</a> on <a href="https://unsplash.com/photos/dog-holds-a-stick-while-a-hand-reaches-out-8QFtNt2rmfw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
+* The Call to Play - Photo by <a href="https://flickr.com/photos/mugsy/3544833302/">Matt Stratton</a> on Flickr, licensed as CC BY-NC-ND 2.0.
