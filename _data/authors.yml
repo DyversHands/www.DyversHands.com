@@ -1,17 +1,25 @@
 Dyvers Hands Productions:
   name   : "Dyvers Hands Productions"
+  home   : "/About/"
   avatar : "/assets/images/logos/dyvers_hands_avatar_subtle_color_on_white.svg"
   bio    : "&#8220;The best stories are the ones we tell together!&#8221;"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/dyvershands.bsky.social"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/DyversHands"
 
 Christopher Allen:
   name   : "Christopher Allen"
+  home   : "/About/ChristopherA"
   avatar : "/assets/images/logos/dyvers_hands_avatar_subtle_color_on_white.svg"
   bio    : "&#8220;The best stories are the ones we tell together!&#8221;"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/dyvershands.bsky.social"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/DyversHands"
