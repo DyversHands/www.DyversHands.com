@@ -89,9 +89,13 @@ The system is intuitive and approachable, making it easy for players of all expe
 
 Whether you're a seasoned role-player or new to tabletop storytelling, ***Tableau*** offers an engaging and flexible framework for creating stories together.
 
-## _**Tableau**_ _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_
+## Try Before You Back: Evaluation Demos
 
-Ignite your storytelling with streamlined _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_ for _**Tableau:**_ _Collaborative Cinematic Storytelling_. This modular system provides the essential tools to create dynamic stories in any genre, from tales of high fantasy, gritty noir, personal transformation, and more. Download the _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_ in a convenient _Print-at-Home_ format using business-card-sized sheets. Spark your creative passions today!
+Experience **Tableau** with our business-card-sized evaluation demos. These are designed to help you evaluate the system before backing our upcoming Kickstarter campaign for the complete tarot-sized edition.
+
+### _**Tableau**_ _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_
+
+Try the streamlined rules that power the entire **Tableau** system. This modular framework provides the essential tools to create dynamic stories in any genre – from cosmic horror to personal transformation.
 
 {% include feature_row id="tableau_accelerated" type="left" %}
 
