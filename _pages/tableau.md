@@ -29,52 +29,52 @@ tableau_accelerated:
     btn_label: Read More…
     btn_class: btn--inverse
     url2: https://downloads.dyvershands.com/l/TableauAccelerated
-    btn_label2: "Evaluate Now!<br/>(&#8220;Name a Fair Price&#8221; $1.95 Suggested)"
+    btn_label2: "Get Now!<br/>(&#8220;Name a Fair Price&#8221; $1.95 Suggested)"
     btn_class2: btn--success
-    excerpt: "_Try the streamlined rules in two formats: a 2-page PDF in 'Print-N-Fold' **Tableau
+    excerpt: "_Two versions: a 2-page PDF in ‘Print-N-Fold’ **Tableau
       Booklet&nbsp;&#128214;** format, and a 1-page PDF in **Avery 10-up Business Card&nbsp;&#128196;** format._"
 tableau_storysets:
   - url: https://downloads.dyvershands.com/l/DarkExpeditions
     image_path: assets/images/games/tableau/darkexpeditions/TableauStorysetDarkExpeditions_SmallCard01_StorysetCover.jpg
-    alt: Dark Expeditions&nbsp;&#127957 PlaySet&nbsp;&#128220; Demo Cover
-    title: Dark Expeditions&nbsp;&#127957; PlaySet&nbsp;&#128220; <em>(Evaluation Demo)</em>
+    alt: Dark Expeditions&nbsp;&#127957 Storyset&nbsp;&#128220; Cover
+    title: Dark Expeditions&nbsp;&#127957; Storyset&nbsp;&#128220;
     btn_label: Read More…
     btn_class: btn--inverse
     url2: https://downloads.dyvershands.com/l/DarkExpeditions
-    btn_label2: Evaluate Now! (&#8220;Name a Fair Price&#8221; $14.95 Suggested)
+    btn_label2: Get Now! (&#8220;Name a Fair Price&#8221; $14.95 Suggested)
     btn_class2: btn--success
-    excerpt: "_Evaluation demo of our cosmic horror PlaySet._ Venture beyond the boundaries of the known world to uncover ancient mysteries. This business-card-sized demo includes curated StorySets to guide your first adventures. Experience the full Tableau system before backing our upcoming Kickstarter for the complete tarot-sized edition."
+    excerpt: "Venture beyond the boundaries of the known world to uncover ancient mysteries and risk entering realms of cosmic horror. This 4-page PDF _(for 40 business-card-sized cards)_ draws inspiration from the mythos of H.P. Lovecraft and classic adventure tales. Craft gripping stories of exploration, survival, and the revelation of forbidden knowledge, where each decision can lead to awe, terror, or madness. Ready to create your next chilling adventure?"
 tableau_playsets:
   - url: /games/Tableau/TwilightRoad
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://www.drivethrucards.com/product/425525/Twilight-Road-A-Playset-for-Tableau-with-Tuckbox?src=dhwebsite
-    btn_label2: "Buy Legacy Deck ($29.95)"
-    btn_class2: "btn--inverse"
+    btn_label2: "Buy Deck! ($29.95)"
+    btn_class2: "btn--success"
     image_path: /assets/images/games/tableau/twilightroad/twilight_road_playset_cover_750_1050.png
-    alt: "Twilight Road Legacy Playset Cover Card"
-    title: "Twilight Road &#128739; <em>(Legacy Edition)</em>"
-    excerpt: "_Original poker-sized edition with two-sided cards._ You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials."
+    alt: "Twilight Road Playset Cover Card"
+    title: "Twilight Road &#128739;"
+    excerpt: "You are fellow travelers on the ***Twilight Road***. Together your journey will take you through choices & transitions, quests & trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed. These are the stories of the ***Twilight Road***. Every game session is different, every road, every journey is unique."
   - url: /games/Tableau/GateWatch
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://www.drivethrucards.com/product/416166/Gate-Watch-A-Playset-for-Tableau-with-Tuckbox?src=dhwebsite
-    btn_label2: "Buy Legacy Deck ($24.95)"
-    btn_class2: "btn--inverse"
+    btn_label2: "Buy Deck! ($24.95)"
+    btn_class2: "btn--success"
     image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
-    alt: "Gate Watch Legacy Playset Cover Card"
-    title: "Gate Watch &#128682; <em>(Legacy Edition)</em>"
-    excerpt: "_Original poker-sized edition with two-sided cards._ You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms."
+    alt: "Gate Watch Playset Cover Card"
+    title: "Gate Watch &#128682;"
+    excerpt: "You and your companions are members of the ***Gate Watch*** – charged to monitor the border between realms. Who built *The Gate*? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the *Enigma* that is *The Gate*. Every game session is different, every world, every gate unique."
   - url: /games/Tableau/Improv
     btn_label: "Read More…"
     btn_class: "btn--inverse"
     url2: https://www.drivethrucards.com/product/433384/Tableau-Improv-Playset-with-Tuckbox?src=dhwebsite
-    btn_label2: "Buy Legacy Deck ($15.95)"
-    btn_class2: "btn--inverse"
+    btn_label2: "Buy Deck! ($15.95)"
+    btn_class2: "btn--success"
     image_path: /assets/images/games/tableau/improv/improv_playset_cover_750_1050.png
-    alt: "Tableau Improv Legacy Playset Cover Card"
-    title: "Improv &#127914; <em>(Legacy Edition)</em>"
-    excerpt: "_Original poker-sized edition with two-sided cards._ Ignite your "Yes, and…" spirit of improvisation to weave unique tales together, one scene at a time."
+    alt: "Tableau Improv Playset Cover Card"
+    title: "Improv &#127914;"
+    excerpt: "Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, script workshopping and creative writing."
 ---
 
 # Tableau Games
@@ -89,66 +89,47 @@ The system is intuitive and approachable, making it easy for players of all expe
 
 Whether you're a seasoned role-player or new to tabletop storytelling, ***Tableau*** offers an engaging and flexible framework for creating stories together.
 
-## Try Before You Back: Evaluation Demos
+## _**Tableau**_ _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_
 
-Experience **Tableau** with our business-card-sized evaluation demos. These are loss-leaders designed to help you evaluate the system before backing our upcoming Kickstarter campaign for the complete tarot-sized edition.
-
-### _**Tableau**_ _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_
-
-Try the streamlined rules that power the entire **Tableau** system. This modular framework provides the essential tools to create dynamic stories in any genre – from cosmic horror to personal transformation.
+Ignite your storytelling with streamlined _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_ for _**Tableau:**_ _Collaborative Cinematic Storytelling_. This modular system provides the essential tools to create dynamic stories in any genre, from tales of high fantasy, gritty noir, personal transformation, and more. Download the _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_ in a convenient _Print-at-Home_ format using business-card-sized sheets. Spark your creative passions today!
 
 {% include feature_row id="tableau_accelerated" type="left" %}
 
-### _**Tableau PlaySets**_ with **StorySets&nbsp;📚**
+## _**Tableau** Storysets_&nbsp;📖
 
-**PlaySets** provide themed collections of story elements for specific genres. **StorySets** are curated scenarios within PlaySets that solve choice paralysis by offering focused story starters – perfect for new players or quick setup.
+_**Tableau**_ _Storysets 📚_ expand your storytelling experience by offering curated _Elements ☯_ to enhance and enrich your narratives. All _Storysets_ 📚 are modular and compatible with one another, and they easily integrate with most _[‘belonging outside belonging’](https://itch.io/physical-games/tag-belonging-outside-belonging)_ style storygames. They can also be adapted for use with many other tabletop role-playing systems. Each include a copy of the _**Accelerated Core ꩜ Rules**_ 📜 in the 1-page PDF in **Avery 10-up Business Card&nbsp;&#128196;** format.
 
 {% include feature_row id="tableau_storysets" type="left"  %}
 
-## Coming This Fall: Dark Expeditions Complete Edition
+## Support Our Next Chapter: New Storysets Coming Soon!
 
-Experience the full **Dark Expeditions 🏕️** PlaySet with our upcoming **Kickstarter campaign**:
+We are excited to announce our upcoming **crowdfunding campaign** for three new **Lovecraft Country** Storysets:
 
-### **Dark Expeditions** _(Complete Tarot-Sized PlaySet)_
-The full cosmic horror experience featuring **tarot-sized cards** for better readability and expanded content. Includes all **StorySets** such as "Ghosts of Empire," "Frozen Frequencies," "The Lost Library of Babel," and many more curated scenarios to eliminate choice paralysis and get you storytelling faster.
+- **A Study in Madness 🏛️**: Unravel the academic enigmas and dark secrets that threaten the mind and soul.
+- **Tidal Secrets ⚓️**: Dive deep into seafaring mysteries, where ancient truths rise from the ocean's depths.
+- **Generations 🏡**: Preserve or destroy your family legacy as choices ripple through time.
 
-The complete edition offers the full **Tableau** experience – far beyond what's possible in our business-card evaluation demo.
+Be part of the journey by pledging on Day ONE and helping us make these stories come to life. Stay tuned for more details and early access opportunities.
 
 [Join the Campaign Here!](https://www.backerkit.com/call_to_action/af40b645-b540-448d-a94b-ff209c715f01/landing)
 
-## Future Lovecraft Country PlaySets
-
-Additional **Tableau** PlaySets are in development:
-
-- **A Study in Madness 🏛️**: Unravel academic enigmas and dark secrets that threaten the mind and soul.
-- **Tidal Secrets ⚓️**: Dive deep into seafaring mysteries where ancient truths rise from the ocean's depths.
-- **Generations 🏡**: Preserve or destroy your family legacy as choices ripple through time.
-
-Each will feature the same tarot-sized format with curated **StorySets** for focused storytelling experiences.
-
 ## Reviewer Quotes
 
-> *"Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story."* — **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
+> *“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.”* — **Aaron A. Reed, author of the [Archives of the Sky](https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying) story game.**
 
 ### Types of Stories
 
 We've found the mechanics of ***Tableau*** work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. ***Tableau*** is a fun evening's entertainment.
 
-## What are PlaySets and StorySets?
+## Legacy Version: **Tableau** _(r1 - 2023-05)_
 
-**PlaySets** are themed collections of story elements designed for specific genres (like cosmic horror, fantasy, or noir). Each PlaySet contains all the rules and components needed to tell stories in that genre.
-
-**StorySets** are curated scenario packages within PlaySets that solve choice paralysis by providing focused story starters. Instead of choosing from dozens of possible story elements, a StorySet gives you a pre-selected combination that creates a specific narrative focus – perfect for new players or quick setup.
+For those who prefer the original edition of **Tableau** (r1), featuring poker-sized cards, they are are still available on **DriveThruRPG**. This edition offers a classic take on the **Tableau** system, perfect for fans of the original format.
 
 ![Tableau Logo](/assets/images/logos/Tableau_Games_portrait_white_spot_rgb_on_black_190_190.png){: style="float:right; padding:16px; " }
 
 {% include video id="eWMsySbdm_0" provider="youtube" %}
 
 <p>&nbsp;</p>
-
-## Legacy Editions _(Original Poker-Sized Rules)_
-
-**Note**: These earlier editions use different rules than our current **Accelerated** system and are not compatible with the business-card demos above.
 
 {% include feature_row id="tableau_playsets" %}
 
@@ -162,12 +143,12 @@ We've found the mechanics of ***Tableau*** work well for experienced gamers as w
   {% endfor %}
 </ul>
 
-See the _[complete posts archive](/posts/)._
+See the _[complete posts archive](/posts/)._ 
 {: .text-right}
 
 ### Mailing List
 
-Sign up for the [Tableau Games Announcements Mailing List](https://dyvershands.gumroad.com/subscribe) to be the first to know about new releases, upcoming crowdfunding campaigns, and exclusive promotions. Don't miss out on exciting updates for **Tableau** and future PlaySets!
+Sign up for the [Tableau Games Announcements Mailing List](https://dyvershands.gumroad.com/subscribe) to be the first to know about new releases, upcoming crowdfunding campaigns, and exclusive promotions. Don't miss out on exciting updates for **Tableau** and future Storysets!
 
 ### Credits
 
