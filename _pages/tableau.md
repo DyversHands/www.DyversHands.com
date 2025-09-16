@@ -125,9 +125,11 @@ Be part of the journey by pledging on Day ONE and helping us make these stories 
 
 We've found the mechanics of ***Tableau*** work well for experienced gamers as well as those who are completely new to collaborative story games. From improv actors to experienced role players, a wide range of people have found the instructions and mechanisms easy to understand and fun to play. The resulting stories were imaginative, the settings and genres intriguing, the play dynamic, and most importantly, all had a satisfying ending in just a couple of hours of play. ***Tableau*** is a fun evening's entertainment.
 
-## Legacy Version: **Tableau** _(r1 - 2023-05)_
+## Legacy Editions _(Original Poker-Sized Rules)_
 
-For those who prefer the original edition of **Tableau** (r1), featuring poker-sized cards, they are are still available on **DriveThruRPG**. This edition offers a classic take on the **Tableau** system, perfect for fans of the original format.
+**Note**: These earlier editions use different rules than our current **Accelerated** system and are not compatible with the business-card demos above.
+
+The original poker-sized PlaySets are still available for those who prefer the classic format.
 
 ![Tableau Logo](/assets/images/logos/Tableau_Games_portrait_white_spot_rgb_on_black_190_190.png){: style="float:right; padding:16px; " }
 
