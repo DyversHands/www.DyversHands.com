@@ -33,7 +33,7 @@ tableau_accelerated:
     btn_class2: btn--success
     excerpt: "_Try the streamlined rules in two formats: a 2-page PDF in 'Print-N-Fold' **Tableau
       Booklet&nbsp;&#128214;** format, and a 1-page PDF in **Avery 10-up Business Card&nbsp;&#128196;** format._"
-tableau_demo_playsets:
+tableau_storysets:
   - url: https://downloads.dyvershands.com/l/DarkExpeditions
     image_path: assets/images/games/tableau/darkexpeditions/TableauStorysetDarkExpeditions_SmallCard01_StorysetCover.jpg
     alt: Dark Expeditions&nbsp;&#127957 PlaySet&nbsp;&#128220; Demo Cover
@@ -44,7 +44,7 @@ tableau_demo_playsets:
     btn_label2: Evaluate Now! (&#8220;Name a Fair Price&#8221; $14.95 Suggested)
     btn_class2: btn--success
     excerpt: "_Evaluation demo of our cosmic horror PlaySet._ Venture beyond the boundaries of the known world to uncover ancient mysteries. This business-card-sized demo includes curated StorySets to guide your first adventures. Experience the full Tableau system before backing our upcoming Kickstarter for the complete tarot-sized edition."
-tableau_legacy_playsets:
+tableau_playsets:
   - url: /games/Tableau/TwilightRoad
     btn_label: "Read More…"
     btn_class: "btn--inverse"
@@ -103,7 +103,7 @@ Try the streamlined rules that power the entire **Tableau** system. This modular
 
 **PlaySets** provide themed collections of story elements for specific genres. **StorySets** are curated scenarios within PlaySets that solve choice paralysis by offering focused story starters – perfect for new players or quick setup.
 
-{% include feature_row id="tableau_demo_playsets" type="left"  %}
+{% include feature_row id="tableau_storysets" type="left"  %}
 
 ## Coming This Fall: Dark Expeditions Complete Edition
 
@@ -150,7 +150,7 @@ We've found the mechanics of ***Tableau*** work well for experienced gamers as w
 
 **Note**: These earlier editions use different rules than our current **Accelerated** system and are not compatible with the business-card demos above.
 
-{% include feature_row id="tableau_legacy_playsets" %}
+{% include feature_row id="tableau_playsets" %}
 
 ## Latest News about Tableau Games
 
