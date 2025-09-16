@@ -36,8 +36,8 @@ tableau_accelerated:
 tableau_storysets:
   - url: https://downloads.dyvershands.com/l/DarkExpeditions
     image_path: assets/images/games/tableau/darkexpeditions/TableauStorysetDarkExpeditions_SmallCard01_StorysetCover.jpg
-    alt: Dark Expeditions&nbsp;&#127957 Storyset&nbsp;&#128220; Cover
-    title: Dark Expeditions&nbsp;&#127957; Storyset&nbsp;&#128220;
+    alt: Dark Expeditions&nbsp;&#127957 PlaySet&nbsp;&#128220; Cover
+    title: Dark Expeditions&nbsp;&#127957; PlaySet&nbsp;&#128220;
     btn_label: Read More…
     btn_class: btn--inverse
     url2: https://downloads.dyvershands.com/l/DarkExpeditions
