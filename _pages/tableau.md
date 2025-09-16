@@ -105,15 +105,24 @@ _**Tableau**_ _Storysets 📚_ expand your storytelling experience by offering 
 
 {% include feature_row id="tableau_storysets" type="left"  %}
 
-## Support Our Next Chapter: New Storysets Coming Soon!
+## Coming This Fall: Dark Expeditions Complete Edition
 
-We are excited to announce our upcoming **crowdfunding campaign** for three new **Lovecraft Country** Storysets:
+Experience the full **Dark Expeditions 🏕️** PlaySet with our upcoming **Kickstarter campaign**:
 
-- **A Study in Madness 🏛️**: Unravel the academic enigmas and dark secrets that threaten the mind and soul.
-- **Tidal Secrets ⚓️**: Dive deep into seafaring mysteries, where ancient truths rise from the ocean's depths.
+### **Dark Expeditions** _(Complete Tarot-Sized PlaySet)_
+The full cosmic horror experience featuring **tarot-sized cards** for better readability and expanded content. Includes all **StorySets** such as "Ghosts of Empire," "Frozen Frequencies," "The Lost Library of Babel," and many more curated scenarios to eliminate choice paralysis and get you storytelling faster.
+
+The complete edition offers the full **Tableau** experience – far beyond what's possible in our business-card evaluation demo.
+
+## Future Lovecraft Country PlaySets
+
+Additional **Tableau** PlaySets are in development:
+
+- **A Study in Madness 🏛️**: Unravel academic enigmas and dark secrets that threaten the mind and soul.
+- **Tidal Secrets ⚓️**: Dive deep into seafaring mysteries where ancient truths rise from the ocean's depths.
 - **Generations 🏡**: Preserve or destroy your family legacy as choices ripple through time.
 
-Be part of the journey by pledging on Day ONE and helping us make these stories come to life. Stay tuned for more details and early access opportunities.
+Each will feature the same tarot-sized format with curated **StorySets** for focused storytelling experiences.
 
 [Join the Campaign Here!](https://www.backerkit.com/call_to_action/af40b645-b540-448d-a94b-ff209c715f01/landing)
 
