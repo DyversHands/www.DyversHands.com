@@ -10,12 +10,13 @@ hide_description: true
 author: Christopher Allen
 classes:
   - wide
-permalink: /games/GateWatch/
+permalink: /games/Tableau/GateWatch/
 redirect_from:
   - /GateWatch
   - /gatewatch
   - /Gatewatch
   - /games/gatewatch
+  - /games/GateWatch
 gate_watch_playset:
   - image_path: /assets/images/games/tableau/gatewatch/gate_watch_playset_cover_750_1050.png
     excerpt: "***Tableau:*** **Gate Watch** &#128682; playset is available print-on-demand from ![Drive Thru Cards Logo](/assets/images/logos/drivethrucards_logo_125_20.png) in three different versions: **Cards w/Tuckbox!** version contains 52 poker-sized Playset & core cards; **Just the Cards!** version banded in a plastic wrap without a tuckbox; or a **Print-N-Play!** PDF version suitable for printing on US Letter-sized card stock and cutting out manually using the cut-lines for use with poker-sized card sleeves."
