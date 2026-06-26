@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Games"
     url: /games/
+  - title: "Design Notes"
+    url: /design-notes/
   - title: "Posts"
     url: /posts/
   - title: "About"

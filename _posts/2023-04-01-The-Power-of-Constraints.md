@@ -12,6 +12,8 @@ tags:
 classes:
   - wide
 author: Christopher Allen
+header:
+  teaser: /assets/images/originals/5524991164_9d9c99bdd7_o.jpg
 ---
 
 ![Another Bonsai](/assets/images/originals/5524991164_9d9c99bdd7_o.jpg)
