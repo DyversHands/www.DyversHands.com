@@ -9,9 +9,11 @@ tags:
 classes:
   - wide
 author: Christopher Allen
+header:
+  teaser: /assets/images/posts/in-confidence-sample-card.jpeg
 ---
 
-<!-- TODO: add the lead image and a header.teaser before publishing. -->
+![A prompt card from In Confidence](/assets/images/posts/in-confidence-sample-card.jpeg)
 
 *A Design Diary — on writing a question that does three jobs at once.*
 
