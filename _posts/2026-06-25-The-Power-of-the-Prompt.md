@@ -4,6 +4,7 @@ subtitle: (a Design Diary)
 excerpt_separator: <!--more-->
 categories:
   - Design Notes
+permalink: /design-notes/The-Power-of-the-Prompt/
 tags:
   - Design Diary
 classes:
