@@ -3,7 +3,9 @@ title: The Power of Constraints
 subtitle: (a Tableau Design Diary)
 excerpt_separator: <!--more-->
 categories:
-  - News
+  - Design Notes
+redirect_from:
+  - /news/The-Power-of-Constraints/
 tags:
   - Tableau
   - Tableau Design Diary
