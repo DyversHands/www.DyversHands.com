@@ -21,7 +21,7 @@ Game-design notes from Dyvers Hands Productions &mdash; reflections on the craft
     <h2 class="archive__item-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     {% if post.subtitle %}<p class="archive__item-excerpt"><em>{{ post.subtitle }}</em></p>{% endif %}
     <p class="page__meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
-    <div class="archive__item-excerpt">{{ post.excerpt }}</div>
+    <p class="archive__item-excerpt">{{ post.excerpt | strip_html | strip_newlines | truncatewords: 50 }}</p>
   </article>
   {% endfor %}
 </div>
