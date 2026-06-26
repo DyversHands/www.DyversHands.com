@@ -1,12 +1,11 @@
 ---
 title: The Power of the Prompt
-subtitle: (a Tableau Design Diary)
+subtitle: (a Design Diary)
 excerpt_separator: <!--more-->
 categories:
   - Design Notes
 tags:
-  - Tableau
-  - Tableau Design Diary
+  - Design Diary
 classes:
   - wide
 author: Christopher Allen
@@ -14,7 +13,7 @@ author: Christopher Allen
 
 <!-- TODO: add the lead image and a header.teaser before publishing. -->
 
-*Tableau Design Diary — on writing a question that does three jobs at once.*
+*A Design Diary — on writing a question that does three jobs at once.*
 
 A while back, my friend Deanna got me thinking about exposition — about how a storytelling-game prompt can hand the players a whole world without ever sounding like a lecture. I'd been treating exposition, character, and plot as three separate jobs: three things a good prompt had to take turns doing. Her way of looking at it knocked that idea loose for me. What if one question could do all three at once? That single shift reorganized the way I write prompts, and it's the thing I most want to pass along here.
 

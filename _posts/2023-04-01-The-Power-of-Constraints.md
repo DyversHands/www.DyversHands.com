@@ -1,6 +1,6 @@
 ---
 title: The Power of Constraints
-subtitle: (a Tableau Design Diary)
+subtitle: (a Design Diary)
 excerpt_separator: <!--more-->
 categories:
   - Design Notes
@@ -8,7 +8,7 @@ redirect_from:
   - /news/The-Power-of-Constraints/
 tags:
   - Tableau
-  - Tableau Design Diary
+  - Design Diary
 classes:
   - wide
 author: Christopher Allen
