@@ -4,9 +4,10 @@ permalink: /design-notes/
 classes:
   - wide
 author_profile: true
+author: Christopher Allen
 ---
 
-Game-design notes from Dyvers Hands Productions &mdash; reflections on the craft behind our games, the ones in print and the ones still taking shape.
+These are my design notes &mdash; first-person reflections on the craft behind the games I make, from Tableau to the projects still taking shape. I'm Christopher Allen, a creator and publisher of cooperative storytelling games, fascinated by how and why collaboration works at the table. [More about me &rarr;](/About/ChristopherA/)
 
 {% assign design_notes = site.categories['Design Notes'] %}
 {% if design_notes and design_notes.size > 0 %}
