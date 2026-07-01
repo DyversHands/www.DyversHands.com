@@ -46,8 +46,10 @@ Same three jobs — a leaked secret, a character put on the spot, a suspicion ti
 
 One hard-won caution, because this is the kind of power that's easy to overuse. Since the magic lives in what you *assume*, you can quietly assume too much. The line I try to hold is this: presume the *situation* a character is in, never the *verdict* on who they are. "What did you do in the war that you've never told anyone?" lets a player make their past shameful or noble — they still hold the pen. "What war crime are you hiding?" takes the pen out of their hand. Edgy is fine. Foreclosed is not. The best leading questions walk right up to that line and stop.
 
-I owe this whole thread to Deanna, who started it, and to the designers whose games taught me the shape of a good prompt — Alex Roberts' *For the Queen* most of all, along with *A Quiet Year*, *Alice is Missing*, and *Dialect*. (There's even a small study out of a behavior-analysis lab suggesting that the richer and more thematic a prompt is, the longer players take to answer it — and the more they seem to enjoy it. That matches what I see at the table.)
+I owe this whole thread to Deanna, who started it, and to the designers whose games taught me the shape of a good prompt — Alex Roberts' *For the Queen* most of all, along with *A Quiet Year*, *Alice is Missing*, and *Dialect*. (There's even a small study out of a behavior-analysis lab[^mand-study] suggesting that the richer and more thematic a prompt is, the longer players take to answer it — and the more they seem to enjoy it. That matches what I see at the table.)
 
 So let me turn it over to you: what's the best prompt you've ever been handed at a table — the one question that gave you a whole world to step into? I'd love to hear it.
 
 *The best stories are the ones we tell together.*
+
+[^mand-study]: _**The Effects of Prompt-Type on Mand Production Within a Tabletop Roleplaying Game**_ (2025). [Master's thesis, St. Cloud State University]. _Reynolds, Sara A._ Retrieved 2026-07-01 from The Repository @ St. Cloud State: <https://repository.stcloudstate.edu/cpcf_etds/122/>.
