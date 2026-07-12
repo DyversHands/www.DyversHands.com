@@ -13,6 +13,11 @@ hide_description: true
 permalink: /Games/
 redirect_from:
   - /games/
+gallery-auspice:
+  - url: /games/Auspice/TheLaunch/
+    image_path: /assets/images/posts/the-launch-cover.jpg
+    alt: "The Launch, an Auspice story game"
+    title: "The Launch"
 gallery-rules:
   - url: /games/Tableau/TableauCore
     image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
@@ -47,6 +52,16 @@ gallery-storysets:
 ---
 
 # CURRENT GAMES
+
+## ***Auspice:*** **Storytelling, One Question at a Time**
+
+***Auspice*** is a line of GM-less story games told through a deck of prompts, answered one question at a time. There is no game master and almost nothing to learn: draw a card, answer the question it asks, and a whole story builds itself at the table. The line debuts with ***The Launch***.
+
+[Read More about ***Auspice***…](/games/Auspice/){: .btn .btn--inverse}
+
+_The debut game_:
+
+{% include gallery id="gallery-auspice" %}
 
 ## ***Tableau Games:*** **Collaborative Cinematic Storytelling**
 

@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Auspice"
+    url: /games/Auspice/
   - title: "Games"
     url: /games/
   - title: "Design Notes"
