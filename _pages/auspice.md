@@ -33,6 +33,8 @@ the_launch:
 
 # Auspice
 
+_**Storytelling, One Question at a Time**_
+
 **Auspice** is a line of GM-less story games you play from a deck of prompts. There is no game master and almost nothing to learn. You draw a card, answer the question it asks, and pass the deck along. From those answers, taken one at a time, a whole story builds itself at the table.
 
 Each Auspice game gives that simple shape a world of its own: a crew leaving a home that can no longer hold them, a family and the thing it hands down, a circle of friends with a secret among them. Most run three to five players over a single evening, needing little more than the deck and the people around the table. If you have played Alex Roberts' *For the Queen*, you know the feeling already: a good question, honestly answered, becomes a story.
