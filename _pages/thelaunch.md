@@ -23,7 +23,7 @@ redirect_from:
 
 ![The Launch, an Auspice story game](/assets/images/posts/the-launch-cover.jpg){: style="float:right; padding:16px; max-width:360px"}
 
-_**The Launch** is a GM-less story game of leaving, the long dark, and taking root. An *Auspice* story game for three to five players, told in a single evening._
+_**The Launch** is a GM-less story game of leaving, the long dark, and taking root. An **Auspice** story game for three to five players, told in a single evening._
 
 Together you are a crew who built a ship to leave a home that can no longer hold you. You cross the void, and you try to make a colony live. Each player speaks for one member of the crew, in their own voice. Nothing fixes whether you are people much like us or something far stranger: the deck keeps its questions open, and the table decides what it is looking at as the story unfolds.
 
