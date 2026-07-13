@@ -7,9 +7,6 @@ Dyvers Hands Productions:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/dyvershands.bsky.social"
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/DyversHands"
 
 Christopher Allen:
   name   : "Christopher Allen"
@@ -20,6 +17,3 @@ Christopher Allen:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/dyvershands.bsky.social"
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/DyversHands"
