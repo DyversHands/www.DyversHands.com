@@ -6,7 +6,7 @@ author: DyversHands
 author_profile: false
 summary: Auspice is a line of GM-less story games told through a deck of prompts,
   answered one question at a time.
-image: /assets/images/posts/the-launch-cover.jpg
+image: /assets/images/games/auspice/the-launch-game-cover.jpg
 cover: false
 header:
   overlay_image: /assets/images/games/auspice/auspice_banner_1280_360.jpg
@@ -26,7 +26,7 @@ redirect_from:
   - /games/auspice/
 the_launch:
   - url: /games/Auspice/TheLaunch/
-    image_path: /assets/images/posts/the-launch-cover.jpg
+    image_path: /assets/images/games/auspice/the-launch-game-cover.jpg
     alt: "The Launch, an Auspice story game"
     title: "The Launch"
     btn_label: "Read More…"

@@ -15,7 +15,7 @@ redirect_from:
   - /games/
 gallery-auspice:
   - url: /games/Auspice/TheLaunch/
-    image_path: /assets/images/posts/the-launch-cover.jpg
+    image_path: /assets/images/games/auspice/the-launch-game-cover.jpg
     alt: "The Launch, an Auspice story game"
     title: "The Launch"
 gallery-rules:

@@ -32,7 +32,7 @@ At [Dyvers Hands Productions](/About), we craft collaborative storytelling exper
 
 _**Auspice**_ is our new line of GM-less story games you play from a deck of prompts, told one question at a time. The line debuts with _**The Launch**_, a story game of leaving, the long dark, and taking root.
 
-[![The Launch, an Auspice story game](/assets/images/posts/the-launch-cover.jpg)](/games/Auspice/){: .align-left}
+[![The Launch, an Auspice story game](/assets/images/games/auspice/the-launch-game-cover.jpg)](/games/Auspice/){: .align-left}
 
 [Read More about the ***Auspice*** line…](/games/Auspice/){: .btn .btn--inverse}
 

@@ -5,7 +5,7 @@ author_profile: false
 title: The Launch
 subtitle: An Auspice story game of leaving, the long dark, and taking root
 hide_description: true
-image: /assets/images/posts/the-launch-cover.jpg
+image: /assets/images/games/auspice/the-launch-game-cover.jpg
 header:
   overlay_image: /assets/images/games/auspice/the_launch_banner_1280_360.jpg
   overlay_filter: "0.1"
@@ -33,7 +33,7 @@ redirect_from:
 .page__hero .page__title{ position:absolute !important; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
 </style>
 
-![The Launch, an Auspice story game](/assets/images/posts/the-launch-cover.jpg){: style="float:right; padding:16px; max-width:360px"}
+![The Launch, an Auspice story game](/assets/images/games/auspice/the-launch-game-cover.jpg){: style="float:right; padding:16px; max-width:360px"}
 
 _**The Launch** is a GM-less story game of leaving, the long dark, and taking root. An **Auspice** story game for three to five players, told in a single evening._
 
