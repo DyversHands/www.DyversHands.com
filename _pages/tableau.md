@@ -3,6 +3,7 @@ title: Tableau
 subtitle: Collaborative Cinematic Storytelling
 hide_description: true
 author: DyversHands
+author_profile: false
 summary: Explore the dynamic world of Tableau, the collaborative storytelling
   game system that empowers you to craft memorable stories in any genre.
 image: /assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg
@@ -76,8 +77,6 @@ tableau_playsets:
     title: "Improv &#127914;"
     excerpt: "Ignite your “Yes, and…” spirit of improvisation to weave unique tales together, one scene at a time. Collaborate to create unforgettable narratives across genres, fostering unexpected bonds between characters. Hone your narrative skills with rules designed for spontaneous & unscripted storytelling. Perfect for roleplaying, improv, script workshopping and creative writing."
 ---
-
-# Tableau Games
 
 {% include tableau_news.md %}
 
