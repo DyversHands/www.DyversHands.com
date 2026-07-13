@@ -29,9 +29,11 @@ Together you are a crew who built a ship to leave a home that can no longer hold
 
 ## How It Plays
 
-There is no game master and almost nothing to set up. On your turn you draw a prompt, read it aloud, and answer it from your character's view, letting what the question takes for granted become true as you speak. Then you weigh it. Is the thing you just made true a reason this venture will **hold**, or a reason it will **break**? You place the card on the Promise, or on the Peril.
+There is no game master and almost nothing to set up. On your turn you draw a prompt and answer it in your character's voice, letting what the question takes for granted become true as you speak. Then you weigh it: is the truth you just made a reason this venture will **hold**, or a reason it will **break**? You place the card on the Promise, or on the Peril, one truth at a time, until the two stacks are the answer. You are not voting on how the story ends. You are weighing what this crew is carrying.
 
-You are not voting on how the story ends. You are weighing, one truth at a time, what this crew is carrying. The story runs in three acts, the Launch, the Crossing, and the Colony, and each closes on a single hard question everyone answers together: *Do we launch? Do we survive the landing? Does the colony live?* The two stacks are the answer. And when an act goes badly, the trouble you named carries into the next act, true and active, and every prompt afterward is answered in its shadow. Nothing here is ever simply undone.
+It runs in three acts, the Launch, the Crossing, and the Colony, each raising the stakes and closing on one hard question the whole table answers together. The first is *Do we launch?*
+
+Those truths, weighed one at a time, are the signs the crew reads for what is coming, and whether what they carry is enough. Reading the signs is the small augury the line takes its name from.
 
 ## Get The Launch
 
@@ -39,7 +41,7 @@ You are not voting on how the story ends. You are weighing, one truth at a time,
 
 [Get the GM-less Games Bundle](https://rpg-trader.com/products/6708/gm-less-games-bundle){: .btn .btn--success}
 
-It is also available on its own, free or pay what you want, on RPG Trader.
+On RPG Trader you can also get it on its own, free or pay what you want, with the full rundown: how each act resolves, a taste of the prompts, and the way a hard act carries its wreckage forward instead of ending.
 
 [The Launch on RPG Trader](https://rpg-trader.com/products/6990/the-launch){: .btn .btn--inverse}
 
@@ -51,6 +53,6 @@ It is also available on its own, free or pay what you want, on RPG Trader.
 
 Written & Designed by Christopher Allen <ChristopherA@DyversHands.com>
 
-In the lineage of Alex Roberts' *For the Queen*. Safety tools adapted from the X-Card by John Stavropoulos. Cover photograph by Todd Trapani on Unsplash.
+In the wider tradition of Alex Roberts' *For the Queen*. Safety tools adapted from the X-Card by John Stavropoulos. Cover photograph by Todd Trapani on Unsplash.
 
 ©2026 by Dyvers Hands Productions, LLC. Dyvers Hands™ is a trademark of Dyvers Hands Productions, LLC.
