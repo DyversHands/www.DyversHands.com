@@ -1,13 +1,16 @@
 ---
 cover: false
 author: Christopher Allen
+author_profile: false
 title: The Launch
 subtitle: An Auspice story game of leaving, the long dark, and taking root
 hide_description: true
 image: /assets/images/posts/the-launch-cover.jpg
 header:
+  overlay_image: /assets/images/games/auspice/the_launch_banner_1280_360.jpg
+  overlay_filter: "0.1"
   overlay_color: "#481E5F"
-  overlay_filter: "0.25"
+  show_overlay_excerpt: false
 classes:
   - wide
 permalink: /games/Auspice/TheLaunch/
@@ -20,6 +23,15 @@ redirect_from:
   - /games/Thelaunch
   - /Auspice/TheLaunch
 ---
+
+<style>
+/* The banner carries the "The Launch" wordmark and kicker, so suppress the theme's
+   hero title (kept in the DOM for SEO and screen readers) and size the hero band to
+   the full 1280x360 banner so its composition is not cover-cropped. */
+.page__hero--overlay{ padding-top:0 !important; padding-bottom:0 !important; min-height:0 !important; aspect-ratio:1280 / 360; }
+.page__hero--overlay .page__title,
+.page__hero .page__title{ position:absolute !important; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
+</style>
 
 ![The Launch, an Auspice story game](/assets/images/posts/the-launch-cover.jpg){: style="float:right; padding:16px; max-width:360px"}
 
