@@ -26,26 +26,29 @@ permalink: /index.html
 
 At [Dyvers Hands Productions](/About), we craft collaborative storytelling experiences across various media, focusing on games, shared worlds, and beyond. Our passion lies in uniting creators to build unforgettable stories that inspire.
 
-# Auspice
+# Auspice Games
 
 {% include auspice_news.md %}
 
-_**Auspice**_ is our new line of GM-less story games you play from a deck of prompts, told one question at a time. The line debuts with _**The Launch**_, a story game of leaving, the long dark, and taking root.
-
 [![The Launch, an Auspice story game](/assets/images/games/auspice/the-launch-game-cover.jpg)](/games/Auspice/){: .align-left}
 
-[Read More about the ***Auspice*** line…](/games/Auspice/){: .btn .btn--inverse}
+<p style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:0.5em; clear:both;">
+<a href="/games/Auspice/" class="btn btn--inverse">Read More about the <em><strong>Auspice</strong></em> line…</a>
+<a href="/games/Auspice/TheLaunch/" class="btn btn--inverse">Read More about <em><strong>The Launch</strong></em>…</a>
+</p>
 
 # Tableau Games
 
 {% include tableau_news.md %}
 
-[![](/assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_Small_Illustration_Table.jpg)](/Tableau){: .align-left}
+<a href="/Tableau"><img src="/assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_Small_Illustration_Table.jpg" alt="Tableau: Accelerated Core" class="align-left" style="max-width:220px;"></a>
 
 [Read More about ***Tableau Games***…](/Tableau){: .btn .btn--inverse}
 
 <!-- Future lines slot in here as sibling sections without reworking the above:
      Meeples Together (book), Lovecraft Country (comics, lovecraftcountry.com). Not built yet. -->
+
+<div style="clear:both"></div>
 
 ## Latest News about Dyvers Hands
 

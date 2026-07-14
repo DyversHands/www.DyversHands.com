@@ -11,6 +11,7 @@ header:
   overlay_filter: "0.1"
   overlay_color: "#481E5F"
   show_overlay_excerpt: false
+  og_image: /assets/images/games/auspice/the-launch-game-cover.jpg
 classes:
   - wide
 permalink: /games/Auspice/TheLaunch/
