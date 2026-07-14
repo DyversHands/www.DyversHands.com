@@ -7,6 +7,7 @@ categories:
 permalink: /design-notes/The-Power-of-the-Prompt/
 tags:
   - Design Diary
+  - Auspice
 classes:
   - wide
 author: Christopher Allen
