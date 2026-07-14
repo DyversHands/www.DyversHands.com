@@ -1,2 +1,2 @@
-**News:** _**Auspice**_ is our new line of GM-less story games, told through a deck of prompts, one question at a time. The line debuts with _**The Launch**_, a story game of leaving, the long dark, and taking root. [Meet the Auspice line](/games/Auspice/) or [read about The Launch](/games/Auspice/TheLaunch/).
+**News:** _**The Launch**_, our debut _**Auspice**_ story game, is part of the GM-less Games Bundle on RPG Trader, July 17-21.
 {: .notice--info}

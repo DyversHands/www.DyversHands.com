@@ -1,2 +1,2 @@
-**News:** We’re excited to introduce the new _**Tableau:**_ _Accelerated Core ꩜ Rules 📜_, a streamlined edition of our _Collaborative Cinematic Storytelling_ system. As part of our upcoming crowdfunding campaign, we’re also previewing our first _Accelerated StorySet 📚_, _**Lovecraft Country:**_ _Dark Expeditions 🏕️_. Both are available in a convenient _"Print-at-Home"_ format using Avery 10-up business card punch-out paper. [Download them both now](https://downloads.dyvershands.com/) for free or _**Name a Fair Price**_.
+**News:** _**Dark Expeditions**_, our _Lovecraft Country_ StorySet for _**Tableau**_, is now on RPG Trader, pay what you want. [Get it on RPG Trader](https://rpg-trader.com/products/6986/lovecraft-country-dark-expeditions).
 {: .notice--info}

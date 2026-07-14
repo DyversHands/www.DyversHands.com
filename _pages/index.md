@@ -30,20 +30,28 @@ At [Dyvers Hands Productions](/About), we craft collaborative storytelling exper
 
 {% include auspice_news.md %}
 
-[![The Launch, an Auspice story game](/assets/images/games/auspice/the-launch-game-cover.jpg)](/games/Auspice/){: .align-left}
-
-<p style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:0.5em; clear:both;">
-<a href="/games/Auspice/" class="btn btn--inverse">Read More about the <em><strong>Auspice</strong></em> line…</a>
-<a href="/games/Auspice/TheLaunch/" class="btn btn--inverse">Read More about <em><strong>The Launch</strong></em>…</a>
+<div style="max-width:480px;">
+<a href="/games/Auspice/"><img src="/assets/images/games/auspice/the-launch-game-cover.jpg" alt="The Launch, an Auspice story game" style="width:100%; display:block;"></a>
+<p style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:0.5em; margin-top:0.6em;">
+<a href="/games/Auspice/" class="btn btn--inverse">The <em><strong>Auspice</strong></em> line…</a>
+<a href="/games/Auspice/TheLaunch/" class="btn btn--inverse"><em><strong>The Launch</strong></em>…</a>
 </p>
+</div>
+
+_**Auspice**_ is our line of GM-less story games told one question at a time. Each game gives the table a deck of prompts and a shared situation, then gets out of the way: you take turns drawing, answering, and discovering together where the story goes. No game master, no preparation, one evening.
 
 # Tableau Games
 
 {% include tableau_news.md %}
 
-<a href="/Tableau"><img src="/assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_Small_Illustration_Table.jpg" alt="Tableau: Accelerated Core" class="align-left" style="max-width:220px;"></a>
+<div style="max-width:220px;">
+<a href="/Tableau"><img src="/assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_Small_Illustration_Table.jpg" alt="Tableau: Accelerated Core" style="width:100%; display:block;"></a>
+<p style="margin-top:0.6em;">
+<a href="/Tableau" class="btn btn--inverse">Read More about <em><strong>Tableau</strong></em>…</a>
+</p>
+</div>
 
-[Read More about ***Tableau Games***…](/Tableau){: .btn .btn--inverse}
+_**Tableau**_ is our system of collaborative, cinematic storytelling. A modular deck of themes, tones, settings, and characters gives a group the pieces to build scenes and follow the questions that drive a story forward, in any genre, without a game master or preparation.
 
 <!-- Future lines slot in here as sibling sections without reworking the above:
      Meeples Together (book), Lovecraft Country (comics, lovecraftcountry.com). Not built yet. -->
@@ -54,7 +62,7 @@ At [Dyvers Hands Productions](/About), we craft collaborative storytelling exper
 
 <ul>
 {% for post in site.posts limit: 7 %}
-<li><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
+<li><b>{{ post.date | date: "%b %-d, %Y" }}</b>{% if post.tags[0] %} &middot; <em>{{ post.tags[0] }}</em>{% elsif post.categories[0] %} &middot; <em>{{ post.categories[0] }}</em>{% endif %}<br/><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
