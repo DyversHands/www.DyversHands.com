@@ -43,13 +43,15 @@ the_launch:
 .page__hero .page__title{ position:absolute !important; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
 </style>
 
+{% include auspice_news.md %}
+
 **Auspice** is a line of GM-less story games you play from a deck of prompts. There is no game master and almost nothing to learn. You draw a card, answer the question it asks, and pass the deck along. From those answers, taken one at a time, a whole story builds itself at the table.
 
 Each Auspice game gives that simple shape a world of its own: a crew leaving a home that can no longer hold them, a family and the thing it hands down, a circle of friends with a secret among them. Most seat three to five players for a single evening, needing little more than the deck and the people around the table. A good question, honestly answered, becomes a story.
 
 ## The name
 
-An auspice is a sign read for what is coming. The old augurs read theirs in the flight of birds; an Auspice table reads them in the answers around it, one question at a time, until a story is divined from them. The word has a hopeful sense too: to begin _under good auspices_ is to start under a favorable sign, the way every Auspice game opens, a table gathered in good faith to make something together.
+An ‘auspice’ is a sign read for what is coming. The old augurs read theirs in the flight of birds; an Auspice table reads them in the answers around it, one question at a time, until a story is divined from them. The word has a hopeful sense too: to begin _under good auspices_ is to start under a favorable sign, the way every Auspice game opens, a table gathered in good faith to make something together.
 
 ## The Debut: The Launch
 
@@ -72,7 +74,7 @@ More Auspice games are on the way:
 <ul>
   {% for post in auspice_posts limit: 7 %}
     {% if post.url %}
-      <li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}</a></li>
+      <li><b>{{ post.date | date: "%b %-d, %Y" }}</b>{% if post.tags[0] %} &middot; <em>{{ post.tags[0] }}</em>{% elsif post.categories[0] %} &middot; <em>{{ post.categories[0] }}</em>{% endif %}<br/><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
@@ -94,4 +96,4 @@ Written & Designed by: Christopher Allen <ChristopherA@DyversHands.com>
 
 ©2026 by Dyvers Hands Productions, LLC.
 
-In the wider tradition of Alex Roberts' *For the Queen*. Dyvers Hands™ is a trademark of Dyvers Hands Productions, LLC.
+In the wider tradition of Alex Roberts' *For the Queen*. Dyvers Hands™ and Auspice™ are trademarks of Dyvers Hands Productions, LLC.

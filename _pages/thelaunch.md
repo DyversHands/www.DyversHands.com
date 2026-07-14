@@ -68,4 +68,4 @@ Written & Designed by Christopher Allen <ChristopherA@DyversHands.com>
 
 In the wider tradition of Alex Roberts' *For the Queen*. Safety tools adapted from the X-Card by John Stavropoulos. Cover photograph by Todd Trapani on Unsplash.
 
-©2026 by Dyvers Hands Productions, LLC. Dyvers Hands™ is a trademark of Dyvers Hands Productions, LLC.
+©2026 by Dyvers Hands Productions, LLC. Dyvers Hands™ and Auspice™ are trademarks of Dyvers Hands Productions, LLC.
