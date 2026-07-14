@@ -19,6 +19,7 @@ permalink: /games/Auspice/
 redirect_from:
   - /Auspice
   - /Auspice/
+  - /auspice
   - /auspice/
   - /AuspiceGames/
   - /auspiceGames/
@@ -53,7 +54,7 @@ Each Auspice game gives that simple shape a world of its own: a crew leaving a h
 
 An ‘auspice’ is a sign read for what is coming. The old augurs read theirs in the flight of birds; an Auspice table reads them in the answers around it, one question at a time, until a story is divined from them. The word has a hopeful sense too: to begin _under good auspices_ is to start under a favorable sign, the way every Auspice game opens, a table gathered in good faith to make something together.
 
-## The Debut: The Launch
+## Our Debut: The Launch
 
 {% include feature_row id="the_launch" type="left" %}
 
