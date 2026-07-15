@@ -32,7 +32,7 @@ the_launch:
     title: "The Launch"
     btn_label: "Read More…"
     btn_class: "btn--inverse"
-    excerpt: "A story game of leaving, the long dark, and taking root. A people build a ship and cross the void from a home that can no longer hold them, carrying what they hope is enough to begin again. Three to five players, one evening, no game master."
+    excerpt: "A story game of leaving, the long dark, and taking root. A people build a ship and cross the void from a home that can no longer hold them, carrying what they hope is enough to begin again. Three to five storytellers, one evening, no game master."
 ---
 
 <style>
@@ -48,7 +48,7 @@ the_launch:
 
 **Auspice** is a line of GM-less story games you play from a deck of prompts. There is no game master and almost nothing to learn. You draw a card, answer the question it asks, and pass the deck along. From those answers, taken one at a time, a whole story builds itself at the table.
 
-Each Auspice game gives that simple shape a world of its own: a crew leaving a home that can no longer hold them, a family and the thing it hands down, a circle of friends with a secret among them. Most seat three to five players for a single evening, needing little more than the deck and the people around the table. A good question, honestly answered, becomes a story.
+Each Auspice game gives that simple shape a world of its own: a crew leaving a home that can no longer hold them, a family and the thing it hands down, a circle of friends with a secret among them. Most seat three to five storytellers for a single evening, needing little more than the deck and the people around the table. A good question, honestly answered, becomes a story.
 
 ## The name
 
