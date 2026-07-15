@@ -158,7 +158,7 @@ We've found the mechanics of Tableau work well for experienced gamers as well as
 
 ### Mailing List
 
-To stay updated on the latest news, including announcements about future products and Kickstarter campaigns, sign up for our [Tableau Games Announcements Mailing List](/Subscribe). You'll be the first to know about exciting developments, promotions, and more.
+To stay updated on the latest news, including announcements about future products, Kickstarter campaigns, and opportunities to playtest, sign up for our [Tableau Games Announcements Mailing List](/Subscribe). You'll be the first to know about exciting developments, promotions, and more.
 
 ### Credits
 

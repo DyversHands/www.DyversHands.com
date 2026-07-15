@@ -24,17 +24,17 @@ permalink: /index.html
 .page__hero .page__title{ position:absolute !important; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
 </style>
 
-At [Dyvers Hands Productions](/About), we craft collaborative storytelling experiences across various media, focusing on games, shared worlds, and beyond. Our passion lies in uniting creators to build unforgettable stories that inspire.
+At [Dyvers Hands Productions](/About), we craft collaborative storytelling experiences across various media, focusing on games, shared worlds, comics, anthologies, and beyond. Our passion lies in uniting creators to build unforgettable stories that inspire.
 
 # Auspice Games
 
 {% include auspice_news.md %}
 
-<div style="width:66%; min-width:280px; max-width:480px;">
+<div style="width:50%; min-width:260px; max-width:480px;">
 <a href="/games/Auspice/"><img src="/assets/images/games/auspice/the-launch-game-cover.jpg" alt="The Launch, an Auspice story game" style="width:100%; display:block;"></a>
 <p style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:0.5em; margin-top:0.6em;">
 <a href="/games/Auspice/" class="btn btn--inverse">The <em><strong>Auspice</strong></em> line…</a>
-<a href="/games/Auspice/TheLaunch/" class="btn btn--inverse"><em><strong>The Launch</strong></em>…</a>
+<a href="/games/Auspice/TheLaunch/" class="btn btn--inverse">Debut game: <em><strong>The Launch</strong></em>…</a>
 </p>
 </div>
 
@@ -44,7 +44,7 @@ _**Auspice**_ is our line of GM-less story games told one question at a time. Ea
 
 {% include tableau_news.md %}
 
-<div style="width:66%; min-width:240px; max-width:420px;">
+<div style="width:50%; min-width:260px; max-width:480px;">
 <a href="/Tableau"><img src="/assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_Small_Illustration_Table.jpg" alt="Tableau: Accelerated Core" style="width:100%; display:block;"></a>
 <p style="margin-top:0.6em;">
 <a href="/Tableau" class="btn btn--inverse">Read More about <em><strong>Tableau</strong></em>…</a>
@@ -71,4 +71,4 @@ See the _[complete posts archive](/posts/)._
 
 ### Mailing List
 
-To stay updated on the latest news, including announcements about future products and future Kickstarter campaigns, sign up for our [Dyvers Hands Announcements Mailing List](/Subscribe). You'll be the first to know about exciting developments, promotions, and more.
+To stay updated on the latest news, including announcements about future products, future Kickstarter campaigns, and opportunities to playtest, sign up for our [Dyvers Hands Announcements Mailing List](/Subscribe). You'll be the first to know about exciting developments, promotions, and more.
