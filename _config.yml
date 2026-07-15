@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Dyvers Hands Productions"
 email: team@dyvershands.com
-description: "Website for Dyver Hands Productions"
+description: "Dyvers Hands Productions makes collaborative, game-master-free storytelling games, from the Auspice story-game line to the Tableau system."
 project: "Dyvers Hands Productions"
 minimal_mistakes_skin: dark
 search: true

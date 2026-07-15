@@ -29,7 +29,7 @@ redirect_from:
 
 > **“Dyvers Hands”** is an archaic phrase used to refer to a project that has been contributed to by many people. Divers is a word of Latin origin (diversus) that is still commonly used in modern French language; it literally means "many and varied".<br/> **~ Wikipedia**
 
-At Dyvers Hands Productions, we are passionate about creating and developing collaborative storytelling experiences across a wide range of media. Our focus includes tabletop games, online communities, graphic novels, short-story anthologies, and we hope to one day expand into TV and movies.
+At Dyvers Hands Productions, we are passionate about creating and developing collaborative storytelling experiences across a wide range of media. Our focus includes tabletop games, online communities, comics, short-story anthologies, and we hope to one day expand into TV and movies.
 
 We believe that the best stories are the ones told together, and our mission is to foster creativity, promote collaboration, and bring people together through immersive and engaging gameplay.
 

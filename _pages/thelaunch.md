@@ -4,6 +4,7 @@ author: Christopher Allen
 author_profile: false
 title: The Launch
 subtitle: An Auspice story game of leaving, the long dark, and taking root
+description: "The Launch is a GM-less story game of leaving, the long dark, and taking root. Three to five storytellers crew a ship, cross the void, and try to make a colony live."
 hide_description: true
 image: /assets/images/games/auspice/the-launch-game-cover.jpg
 header:
