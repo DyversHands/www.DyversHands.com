@@ -88,9 +88,9 @@ The system is intuitive and approachable, making it easy for players of all expe
 
 Whether you're a seasoned role-player or new to tabletop storytelling, ***Tableau*** offers an engaging and flexible framework for creating stories together.
 
-## Try Before You Back: Evaluation Demos
+## Try the System: Evaluation Demos
 
-Experience **Tableau** with our business-card-sized evaluation demos. These are designed to help you evaluate the system before backing our upcoming Kickstarter campaign for the complete tarot-sized edition.
+Experience **Tableau** with our business-card-sized evaluation demos. These are designed to help you try the system.
 
 ### _**Tableau**_ _Accelerated Core&nbsp;꩜ Rules&nbsp;📜_
 
@@ -104,9 +104,9 @@ _**Tableau**_ _Storysets 📚_ expand your storytelling experience by offering 
 
 {% include feature_row id="tableau_storysets" type="left"  %}
 
-## Coming This Fall: Dark Expeditions Complete Edition
+## Dark Expeditions: The Complete Edition
 
-Experience the full **Dark Expeditions 🏕️** PlaySet with our upcoming **Kickstarter campaign**:
+Experience the full **Dark Expeditions 🏕️** PlaySet, a planned tarot-sized edition:
 
 ### **Dark Expeditions** _(Complete Tarot-Sized PlaySet)_
 The full cosmic horror experience featuring **tarot-sized cards** for better readability and expanded content. Includes all **StorySets** such as "Ghosts of Empire," "Frozen Frequencies," "The Lost Library of Babel," and many more curated scenarios to eliminate choice paralysis and get you storytelling faster.
@@ -123,7 +123,7 @@ Additional **Tableau** PlaySets are in development:
 
 Each will feature the same tarot-sized format with curated **StorySets** for focused storytelling experiences.
 
-[Join the Campaign Here!](https://www.backerkit.com/call_to_action/af40b645-b540-448d-a94b-ff209c715f01/landing)
+[Sign up for release news](/Subscribe){: .btn .btn--inverse}
 
 ## Reviewer Quotes
 
