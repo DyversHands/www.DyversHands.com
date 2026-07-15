@@ -240,10 +240,11 @@ All the images used in our games or on this website have been either permissivel
 
 ## Website Image Credits
 
-* [Home](/) banner: [Photo](/assets/images/originals/kevin-delvecchio-7noZJ_4nhU8-unsplash.jpg) *Sunset Family* by Kevin Delvecchio on [Unsplash](https://unsplash.com/photos/7noZJ_4nhU8), free to use, no attribution or permission required under Unsplash license.
+* [Home](/) banner: [Photo](/assets/images/originals/pexels-fauxels-3184397.jpg) *Diverse Hands* by Fauxels on [Pexels](https://www.pexels.com/photo/photo-of-people-s-hand-on-top-of-wooden-table-3184397/), free to use or modify, no attribution or permission required under Pexel’s Legal Simplicity license.
 
-* [About](/About) banner: [Photo](/assets/images/originals/pexels-fauxels-3184397.jpg) *Diverse Hands* by Fauxels on [Pexels]
-(https://www.pexels.com/photo/photo-of-people-s-hand-on-top-of-wooden-table-3184397/), free to use or modify, no attribution or permission required under Pexel’s Legal Simplicity license.
+* [About](/About) banner: [Photo](/assets/images/originals/kevin-delvecchio-7noZJ_4nhU8-unsplash.jpg) *Sunset Family* by Kevin Delvecchio on [Unsplash](https://unsplash.com/photos/7noZJ_4nhU8), free to use, no attribution or permission required under Unsplash license.
+
+* [Subscribe](/Subscribe) banner: background blueprint image by ElasticComputeFarm from [Pixabay](https://pixabay.com/); letters taken from various public domain museum sources.
 
 * [Tableau](/Tableau) & [Tableau: Twilight Road](/TwilightRoad) banners: [Photo](/assets/images/originals/colorado-1308555.jpg) *Colorado Sunset Twilight Dusk* by David Mark on [Pixabay](https://pixabay.com/photos/colorado-sunset-twilight-dusk-1308555/), free to use or modify, no attribution or permission required under [Pixabay license](https://pixabay.com/service/terms/).
 
