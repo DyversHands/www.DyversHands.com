@@ -8,8 +8,8 @@ permalink: /design-notes/The-Power-of-Constraints/
 redirect_from:
   - /news/The-Power-of-Constraints/
 tags:
-  - Tableau
   - Design Diary
+  - Tableau
 classes:
   - wide
 author: Christopher Allen

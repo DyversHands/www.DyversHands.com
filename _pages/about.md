@@ -8,8 +8,6 @@ header:
 title: About Dyvers Hands
 author: Dyvers Hands Productions
 cover: false
-toc: true
-toc_label: About
 hide_description: true
 classes:
 - wide
@@ -35,8 +33,6 @@ At Dyvers Hands Productions, we are passionate about creating and developing col
 
 We believe that the best stories are the ones told together, and our mission is to foster creativity, promote collaboration, and bring people together through immersive and engaging gameplay.
 
-Our latest project, [***Tableau***](/Tableau), successfully funded on [Kickstarter](https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=7c3fvi), is a storytelling game system that emphasizes shared storytelling and character development.
+Our newest line is [**Auspice**](/games/Auspice/): GM-less story games told one question at a time, debuting with [**The Launch**](/games/Auspice/TheLaunch/). It joins [**Tableau**](/Tableau), our modular system for collaborative, cinematic storytelling in any genre.
 
-One of our core initiatives is the development of shared worlds, where creators can come together to contribute and expand on unique and diverse story settings. By inviting writers, artists, and game designers to participate in the creation of these shared worlds, we aim to cultivate a rich and vibrant community of creators who share a common vision and passion for storytelling.
-
-As we continue to grow, we remain committed to providing opportunities for diverse creators to join us in crafting unforgettable stories and experiences that unite and inspire us all. Contact us at [Team@DyversHands.com](mailto:Team@DyversHands.com) if you are interested in becoming involved as a creator in our shared worlds.
+We also build shared worlds, inviting writers, artists, and designers to expand a common setting together. If you'd like to create with us, write to [Team@DyversHands.com](mailto:Team@DyversHands.com).
