@@ -111,4 +111,13 @@ body.script-page .page__content ol ol {
   list-style-type: none !important;
   text-align: center !important;
 }
+
+/* Center content on pages with no author sidebar (author_profile: false).
+   The single layout reserves the sidebar's width on .page even when no sidebar
+   renders, pushing content off-center on wide screens; fill #main so it centers. */
+#main:not(:has(.sidebar)) .page {
+  float: none;
+  width: 100%;
+  padding-inline-end: 0;
+}
   

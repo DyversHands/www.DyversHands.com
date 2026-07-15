@@ -30,7 +30,7 @@ At [Dyvers Hands Productions](/About), we craft collaborative storytelling exper
 
 {% include auspice_news.md %}
 
-<div style="max-width:480px;">
+<div style="width:66%; min-width:280px; max-width:480px;">
 <a href="/games/Auspice/"><img src="/assets/images/games/auspice/the-launch-game-cover.jpg" alt="The Launch, an Auspice story game" style="width:100%; display:block;"></a>
 <p style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:0.5em; margin-top:0.6em;">
 <a href="/games/Auspice/" class="btn btn--inverse">The <em><strong>Auspice</strong></em> line…</a>
@@ -44,7 +44,7 @@ _**Auspice**_ is our line of GM-less story games told one question at a time. Ea
 
 {% include tableau_news.md %}
 
-<div style="max-width:220px;">
+<div style="width:66%; min-width:240px; max-width:420px;">
 <a href="/Tableau"><img src="/assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_Small_Illustration_Table.jpg" alt="Tableau: Accelerated Core" style="width:100%; display:block;"></a>
 <p style="margin-top:0.6em;">
 <a href="/Tableau" class="btn btn--inverse">Read More about <em><strong>Tableau</strong></em>…</a>
