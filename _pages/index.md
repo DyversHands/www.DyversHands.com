@@ -1,6 +1,8 @@
 ---
 cover: false
+image: /assets/images/pages/dyvershands_og_1200_630.jpg
 header:
+  og_image: /assets/images/pages/dyvershands_og_1200_630.jpg
   overlay_image: /assets/images/pages/dyvershands_banner_1280_360.jpg
   overlay_filter: "0.1"
   overlay_color: "#1a0a06"
