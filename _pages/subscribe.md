@@ -3,6 +3,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/pages/subscribe_banner_1280_360.jpg
+  og_image: /assets/images/pages/subscribe_og_1200_630.jpg
+image: /assets/images/pages/subscribe_og_1200_630.jpg
+description: "News from Dyvers Hands Productions, first to your inbox: new Auspice story games, new Tableau storysets, and whatever we make next."
 title: Subscribe to Mailing List
 cover: false
 hide_description: true
