@@ -4,7 +4,9 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/pages/about_banner_1280_360.jpg
   show_overlay_excerpt: false
-  # og_image: /images/pages/about-card.jpg
+  og_image: /assets/images/pages/about_og_1200_630.jpg
+image: /assets/images/pages/about_og_1200_630.jpg
+description: "Dyvers Hands Productions is a collaborative storytelling studio: game-master-free games, shared worlds, comics, and anthologies, made by many and varied hands."
 title: About Dyvers Hands
 author: Dyvers Hands Productions
 cover: false

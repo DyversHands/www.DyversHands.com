@@ -3,6 +3,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/pages/about_banner_1280_360.jpg
+  og_image: /assets/images/pages/about_og_1200_630.jpg
+image: /assets/images/pages/about_og_1200_630.jpg
+description: "Christopher Allen, creator, producer, and publisher of collaborative story games at Dyvers Hands Productions, and a longtime student of how collaboration works."
 title: About Christopher Allen
 author: Christopher Allen
 cover: false
