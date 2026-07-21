@@ -51,13 +51,9 @@ Those truths, weighed one at a time, are the signs the crew reads for what is co
 
 ## Get The Launch
 
-*The Launch* is debuting in the **GM-less Games Bundle** on RPG Trader: 106 GM-less games from 106 creators, pay what you want, running **July 17–21**.
+*The Launch* is on RPG Trader, free or pay what you want, with the full rundown: how each act resolves, a taste of the prompts, and the way a hard act carries its wreckage forward instead of ending.
 
-[Get the GM-less Games Bundle](https://rpg-trader.com/products/6708/gm-less-games-bundle){: .btn .btn--success}
-
-On RPG Trader you can also get it on its own, free or pay what you want, with the full rundown: how each act resolves, a taste of the prompts, and the way a hard act carries its wreckage forward instead of ending.
-
-[The Launch on RPG Trader](https://rpg-trader.com/products/6990/the-launch){: .btn .btn--inverse}
+[Get The Launch on RPG Trader](https://rpg-trader.com/products/6990/the-launch){: .btn .btn--success}
 
 ## About This Edition
 
