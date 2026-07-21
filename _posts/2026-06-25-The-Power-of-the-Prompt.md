@@ -8,6 +8,7 @@ permalink: /design-notes/The-Power-of-the-Prompt/
 tags:
   - Design Diary
   - Auspice
+  - The Launch
 classes:
   - wide
 author: Christopher Allen

@@ -7,6 +7,8 @@ permalink: /design-notes/For-the-Queen/
 tags:
   - Design Appreciation
   - For the Queen
+  - Auspice
+  - The Launch
 classes:
   - wide
 author: Christopher Allen
