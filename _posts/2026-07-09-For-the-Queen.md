@@ -1,5 +1,6 @@
 ---
-title: "For the Queen: a Design Appreciation"
+title: "For the Queen"
+subtitle: (a Design Appreciation)
 excerpt_separator: <!--more-->
 categories:
   - Design Notes
