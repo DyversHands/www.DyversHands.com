@@ -1,0 +1,26 @@
+# Centralized per-game link sets: the product page(s), design note(s), and sales
+# venue(s) for each Dyvers Hands game, defined once and rendered wherever the game
+# appears. Rendered by _includes/game_links.html:
+#
+#   {% include game_links.html game="the-launch" %}
+#
+# Each game key holds `links:`, a list of buttons in display order. Each link:
+#   label  (required) -- the button text
+#   url    (required) -- absolute for an external venue, or site-relative for an
+#                        on-site page (a design note); site-relative urls resolve
+#                        through relative_url
+#   class  (optional) -- a minimal-mistakes button modifier (btn--success,
+#                        btn--inverse, btn--info); defaults to btn--success
+#
+# Adding a sales venue or a design-note link is one entry here, and it propagates
+# to every page that includes the game's set. Extensible beyond RPG Trader.
+
+the-launch:
+  links:
+    - label: "Get The Launch on RPG Trader"
+      url: "https://rpg-trader.com/products/6990/the-launch"
+      class: "btn--success"
+    # To add the design note or another venue, append entries here, e.g.:
+    #   - label: "Read the design note"
+    #     url: "/design-notes/The-Fate-You-Make/"
+    #     class: "btn--inverse"

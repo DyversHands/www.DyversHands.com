@@ -53,7 +53,7 @@ Those truths, weighed one at a time, are the signs the crew reads for what is co
 
 *The Launch* is on RPG Trader, free or pay what you want, with the full rundown: how each act resolves, a taste of the prompts, and the way a hard act carries its wreckage forward instead of ending.
 
-[Get The Launch on RPG Trader](https://rpg-trader.com/products/6990/the-launch){: .btn .btn--success}
+{% include game_links.html game="the-launch" %}
 
 ## About This Edition
 
