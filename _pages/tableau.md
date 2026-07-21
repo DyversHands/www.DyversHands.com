@@ -6,12 +6,13 @@ author: DyversHands
 author_profile: false
 summary: Explore the dynamic world of Tableau, the collaborative storytelling
   game system that empowers you to craft memorable stories in any genre.
-image: /assets/images/games/tableau/tableau_kickstarter_q2_ 2023_post_launch.jpg
+image: /assets/images/games/tableau/tableau_og_1200_630.jpg
 cover: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/games/tableau/twilightroad/twilight_road_banner_1280_360.jpg
+  overlay_image: /assets/images/games/tableau/tableau_line_banner_1280_360.jpg
+  og_image: /assets/images/games/tableau/tableau_og_1200_630.jpg
 classes:
   - wide
 permalink: /games/Tableau/
