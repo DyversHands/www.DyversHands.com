@@ -1,10 +1,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "Auspice"
-    url: /games/Auspice/
   - title: "Games"
     url: /games/
+  - title: "Auspice"
+    url: /games/Auspice/
+  - title: "Tableau"
+    url: /games/Tableau/
   - title: "Design Notes"
     url: /design-notes/
   - title: "Posts"
