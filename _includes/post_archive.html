@@ -1,0 +1,33 @@
+{%- comment -%}
+Rich post list: renders the posts carrying a given tag as design-notes-style
+archive cards (teaser image, title, subtitle, date, truncated excerpt). The
+same card markup the /design-notes/ archive uses, made reusable and watched by
+tag so a game or line page shows exactly the posts tagged for it. Usage:
+
+  {% include post_archive.html tag="Auspice" %}
+  {% include post_archive.html tag="The Launch" empty="Design notes are on the way." %}
+
+Params:
+  tag   (required) -- the tag to watch; renders site.tags[tag], newest first
+  empty (optional) -- fallback text shown as a .notice--info when no posts carry the tag
+{%- endcomment -%}
+{%- assign posts = site.tags[include.tag] -%}
+{%- if posts and posts.size > 0 -%}
+<div class="entries-list">
+  {% for post in posts %}
+  <article class="archive__item">
+    {% if post.header.teaser %}
+    <div class="archive__item-teaser">
+      <a href="{{ post.url | relative_url }}"><img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}"></a>
+    </div>
+    {% endif %}
+    <h2 class="archive__item-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {% if post.subtitle %}<p class="archive__item-excerpt"><em>{{ post.subtitle }}</em></p>{% endif %}
+    <p class="page__meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
+    <p class="archive__item-excerpt">{{ post.excerpt | strip_html | strip_newlines | truncatewords: 50 }}</p>
+  </article>
+  {% endfor %}
+</div>
+{%- elsif include.empty -%}
+<p class="notice--info">{{ include.empty }}</p>
+{%- endif -%}

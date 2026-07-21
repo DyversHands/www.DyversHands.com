@@ -71,22 +71,10 @@ More Auspice games are on the way:
 
 ## Latest News about Auspice
 
-{% assign auspice_posts = site.tags.Auspice %}
-{% if auspice_posts.size > 0 %}
-<ul>
-  {% for post in auspice_posts limit: 7 %}
-    {% if post.url %}
-      <li><b>{{ post.date | date: "%b %-d, %Y" }}</b>{% if post.tags[0] %} &middot; <em>{{ post.tags[0] }}</em>{% elsif post.categories[0] %} &middot; <em>{{ post.categories[0] }}</em>{% endif %}<br/><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+{% include post_archive.html tag="Auspice" empty="Design notes and announcements for the Auspice line are on the way. Check back soon." %}
 
 See the _[complete posts archive](/posts/)._
 {: .text-right}
-{% else %}
-_Design notes and announcements for the Auspice line are on the way. Check back soon._
-{: .notice--info}
-{% endif %}
 
 ### Mailing List
 

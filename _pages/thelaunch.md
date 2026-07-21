@@ -59,6 +59,10 @@ Those truths, weighed one at a time, are the signs the crew reads for what is co
 
 *The Launch* is an **ashcan alpha** (v0.2, 2026-07): a rough, early edition let out before the art and the polish are anywhere near done, so tables can play it and tell me where it needs work. It is a Print-and-Play PDF, 80 cards across eight Avery ten-up sheets, text only by design, so the crew can be human or something stranger. All text is licensed CC-BY.
 
+## Design Notes
+
+{% include post_archive.html tag="The Launch" %}
+
 ## Credits
 
 Written & Designed by Christopher Allen <ChristopherA@DyversHands.com>
