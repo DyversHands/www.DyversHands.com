@@ -1,7 +1,6 @@
 ---
-title: "Posts by Year"
+title: "Posts"
 permalink: /posts/
-layout: posts
 classes:
 - wide
 header:
@@ -11,3 +10,5 @@ header:
   # og_image: /images/bcc-card.jpg
 author_profile: true
 ---
+
+{% include post_archive.html %}

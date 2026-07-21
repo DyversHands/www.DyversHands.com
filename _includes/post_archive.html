@@ -2,16 +2,18 @@
 Rich post list: renders the posts carrying a given tag as design-notes-style
 archive cards (teaser image, title, subtitle, date, truncated excerpt). The
 same card markup the /design-notes/ archive uses, made reusable and watched by
-tag so a game or line page shows exactly the posts tagged for it. Usage:
+tag so a game or line page shows exactly the posts tagged for it; with no tag
+it lists every post (the /posts/ archive). Usage:
 
   {% include post_archive.html tag="Auspice" %}
   {% include post_archive.html tag="The Launch" empty="Design notes are on the way." %}
+  {% include post_archive.html %}          (no tag: lists all posts, newest first)
 
 Params:
-  tag   (required) -- the tag to watch; renders site.tags[tag], newest first
+  tag   (optional) -- the tag to watch (site.tags[tag]); omit to list all site.posts, newest first
   empty (optional) -- fallback text shown as a .notice--info when no posts carry the tag
 {%- endcomment -%}
-{%- assign posts = site.tags[include.tag] -%}
+{%- if include.tag -%}{%- assign posts = site.tags[include.tag] -%}{%- else -%}{%- assign posts = site.posts -%}{%- endif -%}
 {%- if posts and posts.size > 0 -%}
 <div class="entries-list">
   {% for post in posts %}
