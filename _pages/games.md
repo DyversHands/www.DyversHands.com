@@ -1,10 +1,11 @@
 ---
 cover: false
+image: /assets/images/pages/games_og_1200_630.jpg
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /images/qr-background.jpg
-  # og_image: /images/games-card.jpg
+  overlay_image: /assets/images/pages/games_banner_1280_360.jpg
+  og_image: /assets/images/pages/games_og_1200_630.jpg
 title: Our Games
 author: Dyvers Hands Productions
 toc: true
