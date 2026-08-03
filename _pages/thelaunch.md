@@ -69,6 +69,6 @@ Written & Designed by Christopher Allen <ChristopherA@DyversHands.com>
 
 In the wider tradition of Alex Roberts' *For the Queen*. Safety tools adapted from the X-Card by John Stavropoulos. Cover photograph by Todd Trapani on Unsplash.
 
-Playtested at earlier tables by Charles Picard and Deanna Zibello, and Brian and Tess O'Riva; and at Go Play NW by Kate, Keith, and Zim.
+Playtested at earlier tables by Deanna Zibello, Charles Picard, Tess and Brian O'Riva; and at Go Play NW by Kate, Keith, and Zim.
 
 ©2026 by Dyvers Hands Productions, LLC. Dyvers Hands™ and Auspice™ are trademarks of Dyvers Hands Productions, LLC.
