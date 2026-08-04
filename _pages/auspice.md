@@ -33,7 +33,7 @@ the_launch:
     title: "The Launch"
     btn_label: "Read More…"
     btn_class: "btn--inverse"
-    excerpt: "A story game of leaving, the long dark, and taking root. A people build a ship and cross the void from a home that can no longer hold them, carrying what they hope is enough to begin again. Three to five storytellers, one evening, no game master."
+    excerpt: "A story game of exodus, the long dark, and taking root. A people build a ship and cross the void from a home that can no longer hold them, carrying what they hope is enough to begin again. Three to five storytellers, one evening, no game master."
 ---
 
 <style>
@@ -54,6 +54,22 @@ Each Auspice game gives that simple shape a world of its own: a crew leaving a h
 ## The name
 
 An ‘auspice’ is a sign read for what is coming. The old augurs read theirs in the flight of birds; an Auspice table reads them in the answers around it, one question at a time, until a story is divined from them. The word has a hopeful sense too: to begin _under good auspices_ is to start under a favorable sign, the way every Auspice game opens, a table gathered in good faith to make something together.
+
+## What Makes Them One Line
+
+The games are not sequels, and they share no setting. What they share is a way of working and a spirit.
+
+The way of working is the deck: leading questions, each written so that answering one feeds the world, the characters, and the story at once, with no facilitator and a single evening that builds to an ending the table has earned. Learn one Auspice game and you can sit down to any of them.
+
+The spirit is augury. Each game turns on an act of reading and weighing. A crew reads an uncertain crossing and goes anyway. A family weighs what it has been handed. A circle searches its own for a hidden truth. A watch reads the dark for what stirs. In every one, the storytellers are the augurs, and the story is the omen they read together.
+
+Auspice belongs to the family of games built on a deck of questions answered around a table, a way of playing that Alex Roberts opened up with _For the Queen_. Auspice takes that root somewhere of its own, with its own engines, its own worlds, and its own name for what happens when a good question is honestly answered.
+
+## What a Session Asks of You
+
+Not much, and all of it at the table. There is nothing to read beforehand and nothing to prepare. You sit down, and the first cards tell you how to begin. You speak for one character in your own voice, and when a card reaches you, you answer it aloud and honestly. Answering is the whole of your turn.
+
+Three to five storytellers, one evening, no game master. Every Auspice deck carries a safety card adapted from John Stavropoulos' X-Card, and any storyteller may tap it at any moment to take something off the table, naming what goes and owing no reason why. Some games ask for a little more, a die to roll or a role to hold, and each game's own page says so.
 
 ## Our Debut: The Launch
 
