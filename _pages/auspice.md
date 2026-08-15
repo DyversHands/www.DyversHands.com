@@ -23,9 +23,11 @@ redirect_from:
   - /auspice
   - /auspice/
   - /AuspiceGames/
+  - /AuspiceGames
   - /auspiceGames/
   - /auspiceGames
   - /games/auspice/
+  - /games/auspice
 the_launch:
   - url: /games/Auspice/TheLaunch/
     image_path: /assets/images/games/auspice/the-launch-game-cover.jpg

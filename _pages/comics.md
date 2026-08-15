@@ -12,7 +12,9 @@ classes:
 permalink: /comics/
 redirect_from:
   - /comics/
+  - /comics
   - /Comics/
+  - /Comics
 
 ---
 

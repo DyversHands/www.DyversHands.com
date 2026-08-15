@@ -18,12 +18,19 @@ classes:
 permalink: /games/Auspice/TheLaunch/
 redirect_from:
   - /TheLaunch
+  - /TheLaunch/
   - /thelaunch
+  - /thelaunch/
   - /Thelaunch
+  - /Thelaunch/
   - /games/thelaunch
+  - /games/thelaunch/
   - /games/TheLaunch
+  - /games/TheLaunch/
   - /games/Thelaunch
+  - /games/Thelaunch/
   - /Auspice/TheLaunch
+  - /Auspice/TheLaunch/
 ---
 
 <style>

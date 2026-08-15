@@ -13,8 +13,11 @@ hide_description: true
 permalink: /ImageCredits/
 redirect_from:
 - /imagecredits
+- /imagecredits/
 - /Imagecredits
+- /Imagecredits/
 - /imageCredits
+- /imageCredits/
 gallery_gate_watch_2019:
   - url: /assets/images/originals/Delicate_Arch_at_Night_with_Headlamp_(8708155337).jpg
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00000.jpg

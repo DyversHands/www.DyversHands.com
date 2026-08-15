@@ -15,6 +15,7 @@ hide_description: true
 permalink: /Games/
 redirect_from:
   - /games/
+  - /games
 gallery-auspice:
   - url: /games/Auspice/TheLaunch/
     image_path: /assets/images/games/auspice/the-launch-game-cover.jpg

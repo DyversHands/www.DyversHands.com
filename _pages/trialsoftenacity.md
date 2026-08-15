@@ -12,11 +12,17 @@ classes:
 permalink: /games/Tableau/TrialsOfTenacity
 redirect_from:
   - /TrialsOfTenacity
+  - /TrialsOfTenacity/
   - /trialsoftenacity
+  - /trialsoftenacity/
   - /TrialsofTenacity
+  - /TrialsofTenacity/
   - /games/trialsoftenacity
+  - /games/trialsoftenacity/
   - /games/Trialsoftenacity
+  - /games/Trialsoftenacity/
   - /games/TrialsofTenacity
+  - /games/TrialsofTenacity/
 this_storyset:
   - image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
     excerpt: "***Tableau:*** **Trials of Tenacity** &#128081; is available as a **Boolet Storyset**&nbsp;&#127869; from:"

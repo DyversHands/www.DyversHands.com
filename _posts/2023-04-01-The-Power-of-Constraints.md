@@ -7,6 +7,7 @@ categories:
 permalink: /design-notes/The-Power-of-Constraints/
 redirect_from:
   - /news/The-Power-of-Constraints/
+  - /news/The-Power-of-Constraints
 tags:
   - Design Diary
   - Tableau

@@ -12,10 +12,15 @@ classes:
 permalink: /games/Tableau/TableauCore
 redirect_from:
   - /TableauCore
+  - /TableauCore/
   - /tableaucore
+  - /tableaucore/
   - /games/TableauCore
+  - /games/TableauCore/
   - /games/tableaucore
+  - /games/tableaucore/
   - /games/Tableau/tableauCore
+  - /games/Tableau/tableauCore/
 this_storyset:
   - image_path: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_375_298.jpg
     excerpt: "***Tableau Core &#43612; Rules*** are available in our **Tableau Booklet**&nbsp;&#127869; from: "

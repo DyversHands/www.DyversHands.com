@@ -12,11 +12,17 @@ classes:
 permalink: /games/Tableau/TidalSecrets
 redirect_from:
   - /TidalSecrets
+  - /TidalSecrets/
   - /tidalsecrets
+  - /tidalsecrets/
   - /Tableau/TidalSecrets
+  - /Tableau/TidalSecrets/
   - /tableau/tidalsecrets
+  - /tableau/tidalsecrets/
   - /games/TidalSecrets
+  - /games/TidalSecrets/
   - /games/tidalsecrets
+  - /games/tidalsecrets/
 this_storyset:  
   - image_path: /assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_cover_630_500.jpg
     excerpt: "***Tableau:*** **Tidal** &#128081; **Secrets**  is available as a **Booklet Storyset** &#9875; from: "

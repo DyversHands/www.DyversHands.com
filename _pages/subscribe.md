@@ -12,6 +12,7 @@ hide_description: true
 permalink: /Subscribe
 redirect_from:
   - /subscribe/
+  - /subscribe
 ---
 
 Sign up for news from **Dyvers Hands Productions**: new **Auspice** story games like **The Launch**, new **Tableau** storysets and playsets, and whatever we make next. You'll be the first to hear about releases and what's on the way.

@@ -8,7 +8,9 @@ layout: splash
 permalink: /Comics/Scripts/The-Calls-of-Innsmouth/
 redirect_from:
   - /comics/tcoi
+  - /comics/tcoi/
   - /Comics/tcoi
+  - /Comics/tcoi/
 published: true  # Jekyll setting: true = page is rendered, false = page is hidden
 categories: [script, lovecraft-country]
 

@@ -19,11 +19,15 @@ classes:
 permalink: /games/Tableau/
 redirect_from:
   - /Tableau/
+  - /Tableau
   - /tableau/
+  - /tableau
   - /TableauGames/
+  - /TableauGames
   - /tableauGames/
   - /tableauGames
   - /games/tableau/
+  - /games/tableau
 tableau_accelerated:
   - url: https://downloads.dyvershands.com/l/TableauAccelerated
     image_path: /assets/images/games/tableau/tableaucoreaccelerated/TableauCoreAccelerated_SmallCard_00_Cover.jpg

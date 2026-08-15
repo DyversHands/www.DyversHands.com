@@ -11,7 +11,9 @@ hide_description: true
 permalink: /games/tableau-hold/
 redirect_from:
   - /Tableau-Hold/
+  - /Tableau-Hold
   - /tableau-hold/
+  - /tableau-hold
 gallery:
   - url: /TwilightRoad
     image_path: /assets/images/twilightroad/twilight_road_playset_cover_thumb_183_256.png

@@ -16,6 +16,7 @@ classes:
 permalink: /About/
 redirect_from:
   - /about/
+  - /about
 ---
 
 <style>
@@ -38,3 +39,5 @@ We believe that the best stories are the ones told together, and our mission is 
 Our newest line is [**Auspice**](/games/Auspice/): GM-less story games told one question at a time, debuting with [**The Launch**](/games/Auspice/TheLaunch/). It joins [**Tableau**](/Tableau), our modular system for collaborative, cinematic storytelling in any genre.
 
 We also build shared worlds, inviting writers, artists, and designers to expand a common setting together. If you'd like to create with us, write to [Team@DyversHands.com](mailto:Team@DyversHands.com).
+
+The photographs and artwork in our games and on this site come from open-licensed sources or from creators who gave us permission directly. They are all credited on our [Image Credits](/ImageCredits/) page.

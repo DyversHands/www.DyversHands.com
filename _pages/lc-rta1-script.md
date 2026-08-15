@@ -8,7 +8,9 @@ layout: script
 permalink: /Comics/lovecraft-country-return-to-arkham-no-1
 redirect_from:
   - /comics/rta1
+  - /comics/rta1/
   - /Comics/rta1
+  - /Comics/rta1/
 published: true  # Jekyll setting: true = page is rendered, false = page is hidden
 categories: [script, lovecraft-country]
 

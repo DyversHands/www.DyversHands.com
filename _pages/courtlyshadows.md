@@ -12,9 +12,13 @@ classes:
 permalink: /games/Tableau/CourtlyShadows
 redirect_from:
   - /CourtlyShadows
+  - /CourtlyShadows/
   - /courtlyshadows
+  - /courtlyshadows/
   - /games/CourtlyShadows
+  - /games/CourtlyShadows/
   - /games/courtlyshadows
+  - /games/courtlyshadows/
 this_storyset:
   - image_path: /assets/images/games/tableau/courtlyshadows/courtly_shadows_storyset_cover_630_500.jpg
     excerpt: "***Tableau:*** **Courtly** &#128081; **Shadows**  is available as a **Booklet Storyset** &#128214; from: "

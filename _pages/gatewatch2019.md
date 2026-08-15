@@ -12,8 +12,11 @@ classes:
 permalink: /games/gatewatch2019/
 redirect_from:
   - /gatewatch2019
+  - /gatewatch2019/
   - /GateWatch2019
+  - /GateWatch2019/
   - /Gatewatch2019
+  - /Gatewatch2019/
 
 ---
 

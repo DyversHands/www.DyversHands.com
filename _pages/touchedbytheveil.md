@@ -12,16 +12,27 @@ classes:
 permalink: /games/Tableau/TouchedByTheVeil
 redirect_from:
   - /TouchedByTheVeil
+  - /TouchedByTheVeil/
   - /touchedbytheveil
+  - /touchedbytheveil/
   - /Touchedbytheveil
+  - /Touchedbytheveil/
   - /TouchedbytheVeil
+  - /TouchedbytheVeil/
   - /games/TouchedByTheVeil
+  - /games/TouchedByTheVeil/
   - /games/touchedbytheveil
+  - /games/touchedbytheveil/
   - /games/Touchedbytheveil
+  - /games/Touchedbytheveil/
   - /games/TouchedbytheVeil
+  - /games/TouchedbytheVeil/
   - /games/Tableau/touchedbytheveil
+  - /games/Tableau/touchedbytheveil/
   - /games/Tableau/Touchedbytheveil
+  - /games/Tableau/Touchedbytheveil/
   - /games/Tableau/TouchedbytheVeil
+  - /games/Tableau/TouchedbytheVeil/
 
 this_storyset:
   - image_path: /assets/images/games/tableau/touchedbytheveil/touched_by_the_veil_storyset_cover_375_298.jpg
