@@ -30,21 +30,44 @@
             </div>
           {% endif %}
 
-          {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
-          {% endif %}
-          
-          {% if f.url2 %}
-            <a href="{{ f.url2 | relative_url2 }}" class="btn {{ f.btn_class2 | default: f.btn_class }}">{{ f.btn_label2 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
-          {% endif %}
+          {% comment %}
+            Buttons come from two sources, emitted in this order:
 
-          {% if f.url3 %}
-            <a href="{{ f.url3 | relative_url3 }}" class="btn {{ f.btn_class3 | default: f.btn_class }}">{{ f.btn_label3 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
-          {% endif %}
+              url / url2 / url3   the original keys, read through a loop rather
+                                  than spelled out one at a time, so they keep
+                                  working exactly as before
+              buttons:            a list of {url, btn_label, btn_class} maps with
+                                  no ceiling, for venue groups larger than three
 
-          {% if f.url or f.url2 or f.url3 %}
-            </p>
-          {% endif %}   
+            A `buttons` entry with no btn_class inherits the item's, the same way
+            btn_class2 and btn_class3 always have.
+          {% endcomment %}
+          {% capture feature_row_buttons %}
+            {%- assign legacy_keys = "url,url2,url3" | split: "," -%}
+            {%- for key in legacy_keys -%}
+              {%- assign href = f[key] -%}
+              {%- if href -%}
+                {%- assign suffix = key | remove_first: "url" -%}
+                {%- assign class_key = "btn_class" | append: suffix -%}
+                {%- assign label_key = "btn_label" | append: suffix -%}
+                {%- assign btn_class = f[class_key] | default: f.btn_class -%}
+                {%- assign btn_label = f[label_key] | default: site.data.ui-text[site.locale].more_label | default: "Learn More" -%}
+                <a href="{{ href | relative_url }}" class="btn {{ btn_class }}">{{ btn_label }}</a>
+              {% endif -%}
+            {%- endfor -%}
+            {%- for b in f.buttons -%}
+              {%- if b.url -%}
+                {%- assign btn_class = b.btn_class | default: f.btn_class -%}
+                {%- assign btn_label = b.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" -%}
+                <a href="{{ b.url | relative_url }}" class="btn {{ btn_class }}">{{ btn_label }}</a>
+              {% endif -%}
+            {%- endfor -%}
+          {% endcapture %}
+
+          {% assign feature_row_buttons = feature_row_buttons | strip %}
+          {% if feature_row_buttons != "" %}
+            <p>{{ feature_row_buttons }}</p>
+          {% endif %}
         </div>
       </div>
     </div>
