@@ -31,6 +31,16 @@ redirect_from:
   - /games/Thelaunch/
   - /Auspice/TheLaunch
   - /Auspice/TheLaunch/
+the_launch_editions:
+  - title: "Print and Play"
+    excerpt: "The whole deck as a PDF, ready to print at home. Free, or pay what you want."
+    btn_class: "btn--success"
+    buttons:
+      - url: "https://downloads.dyvershands.com/l/TheLaunch"
+        btn_label: "Get it on Gumroad"
+      - url: "https://rpg-trader.com/products/6990/the-launch"
+        btn_label: "Get it on RPG Trader"
+        btn_class: "btn--inverse"
 ---
 
 <style>
@@ -58,9 +68,11 @@ Those truths, weighed one at a time, are the signs the crew reads for what is co
 
 ## Get The Launch
 
-*The Launch* is on RPG Trader, free or pay what you want, with the full rundown: how each act resolves, a taste of the prompts, and the way a hard act carries its wreckage forward instead of ending.
+Both shops carry the same PDF, with the full rundown: how each act resolves, a taste of the prompts, and the way a hard act carries its wreckage forward instead of ending.
 
-{% include game_links.html game="the-launch" %}
+{% include feature_row id="the_launch_editions" %}
+
+A printed deck is coming to Kickstarter, with the cards themselves as the reward. If you want to hear when the campaign opens, [join the mailing list](/Subscribe).
 
 ## About This Edition
 
