@@ -33,7 +33,7 @@ redirect_from:
   - /Auspice/TheLaunch/
 the_launch_editions:
   - title: "Print and Play"
-    excerpt: "The whole deck as a PDF, ready to print at home. Free, or pay what you want."
+    excerpt: "The whole deck as a PDF, ready to print at home. Free, or name a fair price."
     btn_class: "btn--success"
     buttons:
       - url: "https://downloads.dyvershands.com/l/TheLaunch"

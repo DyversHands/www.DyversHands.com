@@ -75,7 +75,7 @@ We also offer a wide range of _[Booklet Storysets&nbsp;📖](https://itch.io/ph
 
 With new _[Booklet Storysets 📖](https://itch.io/physical-games/tag-storyset)_ supplements being made available every month, and _Playsets 🎞️_ like _Lovecraft Country: "A Study in Madness"_ [on the way](https://www.dyvershands.com/Subscribe), there’s always more storytelling excitement to explore. It all starts with _**Tableau’s**_ vital spark. Let _**Tableau** Core ꩜ Rules_ ignite your creativity tonight!
 
-Pay what you want to light this spark. Gather some index cards, some tokens, and optionally one dice, and you’re ready to collaboratively tell stories. Then watch the flames of imagination spread as you and your friends craft an unforgettable storytelling experience!
+Name a fair price to light this spark. Gather some index cards, some tokens, and optionally one dice, and you’re ready to collaboratively tell stories. Then watch the flames of imagination spread as you and your friends craft an unforgettable storytelling experience!
 
 ## Contents
 

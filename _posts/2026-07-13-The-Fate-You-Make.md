@@ -51,7 +51,7 @@ I should be honest about the design status of this game. This is my first design
 
 And it is not the only answer to that missing "*and then?*". The family *For the Queen* started has found a whole range of its own, some of them stranger than mine, and that is the design diary after this one.
 
-So if you want to try mine, what I would love most is for you to play it at your own table, weigh your truths honestly, and share how it went: what your crew was carrying when the deck ran down, and where the game let you down. You can find it on [Gumroad](https://downloads.dyvershands.com/l/TheLaunch) or [RPG Trader](https://rpg-trader.com/products/6990/the-launch) while the alpha lasts, pay what you want.
+So if you want to try mine, what I would love most is for you to play it at your own table, weigh your truths honestly, and share how it went: what your crew was carrying when the deck ran down, and where the game let you down. You can find it on [Gumroad](https://downloads.dyvershands.com/l/TheLaunch) or [RPG Trader](https://rpg-trader.com/products/6990/the-launch) while the alpha lasts, name a fair price.
 
 *The best stories are the ones we tell together.*
 
