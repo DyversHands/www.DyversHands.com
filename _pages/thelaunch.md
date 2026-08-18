@@ -50,6 +50,16 @@ the_launch_editions:
 .page__hero--overlay{ padding-top:0 !important; padding-bottom:0 !important; min-height:0 !important; aspect-ratio:1280 / 360; }
 .page__hero--overlay .page__title,
 .page__hero .page__title{ position:absolute !important; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
+
+/* The Get section's feature_row carries no teaser image. The theme lays an
+   untyped .feature__item out as one cell of a three-across grid (width:32.2%),
+   which is right for a row of three illustrated cards and wrong for a single
+   edition with its buttons: it squeezed the block into a third of the row and
+   wrapped the second button onto two lines. The typed variants do not help
+   either, since --left and --center both size the body for a teaser that is
+   not there. Give this one the full width instead. */
+.feature__wrapper .feature__item{ float:none; width:100%; margin-inline-start:0; }
+.feature__wrapper .feature__item .archive__item-body{ padding-inline:0; }
 </style>
 
 ![The Launch, an Auspice story game](/assets/images/games/auspice/the-launch-game-cover.jpg){: style="float:right; padding:16px; max-width:360px"}
