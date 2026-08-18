@@ -59,7 +59,7 @@ gallery-storysets:
     image_path: /assets/images/games/tableau/trialsoftenacity/trials_of_tenacity_storyset_cover_375_298.jpg
     alt: "Trials of Tenacity &#127869; Storyset Cover"
 ---
-_{% include tableau_news.md %}
+{% include tableau_news.md %}
 
 **Gate Watch 2019:** if you are looking for the older version of Gate Watch, from Kickstarter 2019 with 18 cards, there are details about that game in our [archive](/GateWatch2019).
 {: .notice--warning}
