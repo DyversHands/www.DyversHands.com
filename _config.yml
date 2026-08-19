@@ -20,6 +20,10 @@ project: "Dyvers Hands Productions"
 minimal_mistakes_skin: dark
 search: true
 github_username:  DyversHands
+# Drives the theme's twitter:site tag on link cards. No sidebar link: that
+# keys off author.twitter, which is deliberately unset.
+twitter:
+  username: DyversHands
 
 # Build settings
 markdown: kramdown
