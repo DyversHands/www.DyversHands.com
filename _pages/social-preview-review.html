@@ -1,0 +1,153 @@
+---
+title: Social Preview Review
+permalink: /social-preview-review/
+layout: single
+author_profile: false
+classes:
+  - wide
+sitemap: false
+search: false
+noindex: true
+---
+
+{%- comment -%}
+Unlisted review page. Not in the nav, not in the sitemap, not in site search,
+and noindex -- reachable only by URL.
+
+It walks the same resolution chain the theme's seo.html uses for og:image, so
+what is shown is what a link preview actually gets. Nothing is hardcoded: add a
+page or change a card and this rebuilds itself.
+
+Deliberately core Liquid only (assign / for / if / append / split / uniq / sort
+/ plus / concat), plus absolute_url. The site has no local build, so a template that can only be checked by
+pushing gets kept to constructs that can be exercised offline first.
+{%- endcomment -%}
+
+{%- assign entries = site.pages | concat: site.posts -%}
+
+{%- comment -%} Resolve every page's card, collect the distinct ones, count the pages. {%- endcomment -%}
+{%- assign imglist = "" -%}
+{%- assign counted = 0 -%}
+{%- for p in entries -%}
+  {%- if p.title and p.url != page.url -%}
+    {%- assign counted = counted | plus: 1 -%}
+    {%- assign pimg = p.header.og_image | default: p.header.overlay_image | default: p.header.image | default: p.header.teaser | default: site.og_image -%}
+    {%- if pimg -%}{%- assign imglist = imglist | append: pimg | append: "||" -%}{%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign images = imglist | split: "||" | uniq | sort -%}
+
+<style>
+  .spr-note{ border-left:3px solid #4fd6d2; padding:.4em 0 .4em 1em; margin:0 0 1.6em; font-size:.92em; }
+  .spr-h{ margin:2em 0 .8em; font-size:1.05em; letter-spacing:.06em; text-transform:uppercase; opacity:.8; }
+  .spr-card{ border:1px solid rgba(255,255,255,.14); border-radius:6px; padding:1.1em; margin:0 0 1.4em; }
+  .spr-card.is-shared{ border-color:rgba(240,192,112,.45); }
+  .spr-top{ display:flex; flex-wrap:wrap; gap:1.2em; align-items:flex-start; }
+  .spr-thumb{ flex:0 0 420px; max-width:100%; }
+  .spr-thumb img{ width:100%; height:auto; display:block; border-radius:4px; background:#222; }
+  .spr-meta{ flex:1 1 320px; min-width:260px; }
+  .spr-path{ font-family:Monaco,Menlo,monospace; font-size:.78em; word-break:break-all; opacity:.75; margin:.2em 0 .8em; }
+  .spr-dims{ font-family:Monaco,Menlo,monospace; font-size:.8em; margin:0 0 .8em; }
+  .spr-flag{ display:inline-block; padding:.1em .5em; border-radius:3px; font-size:.78em; font-weight:600; }
+  .spr-ok{ background:rgba(80,200,120,.18); color:#7fdba0; }
+  .spr-warn{ background:rgba(240,160,80,.20); color:#f0a050; }
+  .spr-err{ background:rgba(240,90,90,.20); color:#f07070; }
+  .spr-users{ list-style:none; padding:0; margin:.4em 0 0; }
+  .spr-users li{ padding:.28em 0; border-bottom:1px solid rgba(255,255,255,.07); font-size:.9em; }
+  .spr-users li:last-child{ border-bottom:0; }
+  .spr-src{ font-size:.76em; opacity:.62; font-family:Monaco,Menlo,monospace; }
+  .spr-src.spr-fallback{ color:#f0a050; opacity:.9; }
+  .spr-count{ font-size:.82em; opacity:.7; }
+  @media (max-width:700px){ .spr-thumb{ flex:1 1 100%; } }
+</style>
+
+<div class="spr-note">
+  <p>Every distinct social-preview image on the site, with the pages using it. Images shared by more than one page come first.</p>
+  <p>This walks the same chain the theme uses to choose <code>og:image</code> &mdash; <code>header.og_image</code>, then <code>header.overlay_image</code>, then <code>header.image</code>, then <code>header.teaser</code>, then the site-wide default &mdash; so what is below is what a link preview actually gets. Dimensions and the aspect flag are measured in your browser from the real file, not read from the filename. The target is 1200&times;630 (1.91:1).</p>
+  <p>A page marked <span class="spr-src spr-fallback">via overlay_image</span> has no card of its own and is falling back to its on-page banner. One marked <span class="spr-src spr-fallback">via site default</span> sets no image at all and is showing the house card.</p>
+</div>
+
+<p class="spr-count">{{ images | size }} distinct images across {{ counted }} pages and posts.</p>
+
+{%- for pass in (1..2) -%}
+  {%- if pass == 1 -%}
+    <h2 class="spr-h">Shared by more than one page</h2>
+  {%- else -%}
+    <h2 class="spr-h">Used by a single page</h2>
+  {%- endif -%}
+
+  {%- for img in images -%}
+    {%- assign count = 0 -%}
+    {%- for p in entries -%}
+      {%- if p.title and p.url != page.url -%}
+        {%- assign pimg = p.header.og_image | default: p.header.overlay_image | default: p.header.image | default: p.header.teaser | default: site.og_image -%}
+        {%- if pimg == img -%}{%- assign count = count | plus: 1 -%}{%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+
+    {%- assign show = false -%}
+    {%- if pass == 1 and count > 1 -%}{%- assign show = true -%}{%- endif -%}
+    {%- if pass == 2 and count == 1 -%}{%- assign show = true -%}{%- endif -%}
+
+    {%- if show -%}
+<div class="spr-card{% if count > 1 %} is-shared{% endif %}">
+  <div class="spr-top">
+    <div class="spr-thumb">
+      <a href="{{ img | absolute_url }}" target="_blank" rel="noopener">
+        <img src="{{ img | absolute_url }}" alt="Social preview image used by {{ count }} page{% if count > 1 %}s{% endif %}" loading="lazy" data-spr>
+      </a>
+    </div>
+    <div class="spr-meta">
+      <div class="spr-dims" data-spr-dims>measuring&hellip;</div>
+      <div class="spr-path">{{ img }}</div>
+      <div class="spr-count">Used by {{ count }} page{% if count > 1 %}s{% endif %}</div>
+      <ul class="spr-users">
+        {%- for p in entries -%}
+          {%- assign pimg = p.header.og_image | default: p.header.overlay_image | default: p.header.image | default: p.header.teaser | default: site.og_image -%}
+          {%- if p.title and p.url != page.url and pimg == img -%}
+        <li>
+          <a href="{{ p.url | absolute_url }}">{{ p.title | strip_html }}</a>
+          {%- if p.header.og_image %} <span class="spr-src">via og_image</span>
+          {%- elsif p.header.overlay_image %} <span class="spr-src spr-fallback">via overlay_image</span>
+          {%- elsif p.header.image %} <span class="spr-src spr-fallback">via header.image</span>
+          {%- elsif p.header.teaser %} <span class="spr-src spr-fallback">via teaser</span>
+          {%- else %} <span class="spr-src spr-fallback">via site default</span>
+          {%- endif -%}
+        </li>
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </div>
+  </div>
+</div>
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+<script>
+// Measure from the file the browser actually loaded, so the page reports real
+// dimensions rather than whatever the filename claims.
+(function () {
+  function label(img) {
+    var card = img.parentNode.parentNode.parentNode;
+    var box = card.querySelector('[data-spr-dims]');
+    if (!box) { return; }
+    if (!img.naturalWidth) { box.innerHTML = '<span class="spr-flag spr-err">failed to load</span>'; return; }
+    var w = img.naturalWidth, h = img.naturalHeight, r = w / h;
+    var cls = 'spr-ok', note = '1.91:1';
+    if (Math.abs(r - 1.905) > 0.06) { cls = 'spr-err'; note = 'not 1.91:1'; }
+    else if (w < 1200 || h < 630) { cls = 'spr-warn'; note = 'under 1200x630'; }
+    box.innerHTML = w + '&times;' + h + ' &nbsp;<span class="spr-flag ' + cls + '">' +
+                    r.toFixed(2) + ':1 &middot; ' + note + '</span>';
+  }
+  var imgs = document.querySelectorAll('img[data-spr]');
+  for (var i = 0; i < imgs.length; i++) {
+    var im = imgs[i];
+    if (im.complete) { label(im); }
+    else {
+      im.addEventListener('load', (function (x) { return function () { label(x); }; })(im));
+      im.addEventListener('error', (function (x) { return function () { label(x); }; })(im));
+    }
+  }
+})();
+</script>

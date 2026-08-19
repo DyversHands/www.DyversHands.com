@@ -1,0 +1,3 @@
+<!-- Overrides the theme's empty stub. Keeps unlisted utility pages out of search
+     indexes: they are reachable by URL but not meant to be found. -->
+{% if page.noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
