@@ -18,7 +18,6 @@ hide_description: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /images/sample-cover.jpg
 
 # ==============================================================================
 # COMIC METADATA

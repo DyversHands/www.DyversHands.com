@@ -3,7 +3,6 @@ cover: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /images/qr-background.jpg
   # og_image: /images/gatewatch-card.jpg
 title: Comics
 hide_description: true
@@ -11,8 +10,6 @@ classes:
   - wide
 permalink: /comics/
 redirect_from:
-  - /comics/
-  - /comics
   - /Comics/
   - /Comics
 

@@ -70,7 +70,8 @@ footer:
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/dyvershands.bsky.social"
 
-# og_image: /images/dyvershands-card.jpg
+# Fallback social card for any page that sets no header image of its own.
+og_image: /assets/images/pages/dyvershands_og_1200_630.jpg
 
 defaults:
   # _posts
