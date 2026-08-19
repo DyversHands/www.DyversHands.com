@@ -42,7 +42,7 @@ tableau_accelerated:
       Booklet&nbsp;&#128214;** format, and a 1-page PDF in **Avery 10-up Business Card&nbsp;&#128196;** format._"
 tableau_storysets:
   - url: https://downloads.dyvershands.com/l/DarkExpeditions
-    image_path: assets/images/games/tableau/darkexpeditions/TableauStorysetDarkExpeditions_SmallCard01_StorysetCover.jpg
+    image_path: /assets/images/games/tableau/darkexpeditions/TableauStorysetDarkExpeditions_SmallCard01_StorysetCover.jpg
     alt: Dark Expeditions&nbsp;&#127957 PlaySet&nbsp;&#128220; Cover
     title: Dark Expeditions&nbsp;&#127957; PlaySet&nbsp;&#128220;
     btn_label: Read More…

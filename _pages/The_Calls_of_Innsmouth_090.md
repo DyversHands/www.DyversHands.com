@@ -152,7 +152,7 @@ rights_holder: "Dyvers Hands Productions, LLC"
 <details>
 <summary>📎 REFERENCE: Period Telephone Switchboard (click to view)</summary>
 
-![1920s Telephone Switchboard](/assets/references/bell-telephone-mag-switchboard.jpg)
+![1920s Telephone Switchboard](/assets/images/references/bell-telephone-mag-switchboard.jpg)
 
 **Source:** Bell Telephone Magazine, Volume 22 (1943), page 233  
 **Original Archive:** [Internet Archive - Bell Telephone Magazine](https://archive.org/details/belltelephonemag22amerrich/page/233/mode/1up?view=theater)  
