@@ -4,7 +4,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   # overlay_image: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_630_500.jpg
-  og_image: /assets/images/games/tableau/tableaucore/tableau_core_rules_booklet_cover_630_500.jpg
+  og_image: /assets/images/games/tableau/tableaucore/tableau_core_og_1200_630.jpg
 title: Tableau Core &#43612
 hide_description: true
 classes:

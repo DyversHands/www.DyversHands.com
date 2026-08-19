@@ -4,7 +4,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/games/tableau/tidalsecrets/tidal_secrets_storyset_banner_1280_360.jpg
-  #og_image: /assets/images/improv/tableau-improv-card.jpgti
+  og_image: /assets/images/games/tableau/tidalsecrets/tidal_secrets_og_1200_630.jpg
 title: Tableau&#58; Tidal Secrets &#9875;
 hide_description: true
 classes:

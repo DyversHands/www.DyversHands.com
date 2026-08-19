@@ -4,7 +4,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/games/tableau/twilightroad/twilight_road_banner_1600_212.jpg
-  # og_image: /images/games-card.jpg
+  og_image: /assets/images/games/tableau/tableau_og_1200_630.jpg
 title: Tableau
 subtitle: Collaborative Cinematic Storytelling
 hide_description: true
